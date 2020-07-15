@@ -3,9 +3,9 @@
 <p align="center">
 	<a href="https://jlferrete.com"><img src="https://j.gifs.com/VAxnMo.gif"/></a>
 </p>
-
-[![Jose Luis Ferrete has a lot of ideas](https://j.gifs.com/VAxnMo.gif)](https://jlferrete.com)
-
+<p align="center">
+	[![Jose Luis Ferrete has a lot of ideas](https://j.gifs.com/VAxnMo.gif)](https://jlferrete.com)
+</p>
 <p align="center">
   	<a href="https://jlferrete.com"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fjlferrete.com"></a>
 	<a href="https://twitter.com/jlferrete"><img src="https://img.shields.io/twitter/follow/jlferrete?label=Twitter&style=social" alt="Twitter"></a>
