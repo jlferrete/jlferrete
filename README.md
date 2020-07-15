@@ -1,4 +1,4 @@
-![alt text for screen readers](https://train-eze.com/wp-content/uploads/2018/09/under-construction-2891888_1920-1-1600x800.jpg "Text to show on mouseover")
+![Jose Luis Ferrete has a lot of ideas.](https://train-eze.com/wp-content/uploads/2018/09/under-construction-2891888_1920-1-1600x800.jpg "We're working on our new Github profile. Stay tuned.")
 
 <!-- ### Hi there 👋 -->
 
