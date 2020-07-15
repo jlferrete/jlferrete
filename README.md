@@ -1,7 +1,6 @@
 <!-- [![Jose Luis Ferrete has a lot of ideas.](https://train-eze.com/wp-content/uploads/2018/09/under-construction-2891888_1920-1-1600x800.jpg "We're working on our new Github profile. Stay tuned.")](https://jlferrete.com) -->
 
-<!-- [![Jose Luis Ferrete has a lot of ideas](https://jlferrete.com/wp-content/uploads/2020/07/jlferrete.gif)](https://jlferrete.com) -->
-[![jlferrete.gif](https://s7.gifyu.com/images/jlferrete.gif)](https://gifyu.com/image/Qrqk)
+<a href="https://gifyu.com/image/Qrqk"><img src="https://s7.gifyu.com/images/jlferrete.gif" alt="jlferrete.gif" border="0" /></a>
 
 
 [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
