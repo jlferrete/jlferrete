@@ -1,10 +1,6 @@
 <!-- [![Jose Luis Ferrete has a lot of ideas.](https://train-eze.com/wp-content/uploads/2018/09/under-construction-2891888_1920-1-1600x800.jpg "We're working on our new Github profile. Stay tuned.")](https://jlferrete.com) -->
 
 <p align="center">
-	<a href="https://jlferrete.com"><img src="https://j.gifs.com/VAxnMo.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
-</p>
-
-<p align="center">
 	<a href="https://jlferrete.com"><img src="https://jlferrete.com/wp-content/uploads/2020/07/jlferrete-optimize.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
 </p>
 
