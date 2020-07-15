@@ -1,9 +1,9 @@
 <!-- [![Jose Luis Ferrete has a lot of ideas.](https://train-eze.com/wp-content/uploads/2018/09/under-construction-2891888_1920-1-1600x800.jpg "We're working on our new Github profile. Stay tuned.")](https://jlferrete.com) -->
 
-<a href="https://gifyu.com/image/Qrqk"><img src="https://s7.gifyu.com/images/jlferrete.gif" alt="jlferrete.gif" border="0" /></a>
+<a href="https://gifyu.com/image/Qrqk"><img src="https://j.gifs.com/VAxnMo.gif"/></a>
 
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://j.gifs.com/VAxnMo.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 <p align="center">
   	<a href="https://jlferrete.com"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fjlferrete.com"></a>
