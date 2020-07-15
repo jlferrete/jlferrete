@@ -3,7 +3,7 @@
 <a href="https://gifyu.com/image/Qrqk"><img src="https://j.gifs.com/VAxnMo.gif"/></a>
 
 
-[![Demo CountPages alpha](https://j.gifs.com/VAxnMo.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://s7.gifyu.com/images/jlferrete.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 <p align="center">
   	<a href="https://jlferrete.com"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fjlferrete.com"></a>
