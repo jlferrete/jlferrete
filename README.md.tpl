@@ -32,4 +32,5 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
 </p>
 
--latest article: %{{latest_article}}%
+-Latest article: 
+%{{latest_article}}%
