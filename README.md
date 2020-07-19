@@ -33,8 +33,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear tu red de sitios con WordPress Multisite](https://jlferrete.com/blog/como-crear-tu-red-de-sitios-con-wordpress-multisite/)
 - [Curso intermedio de desarrollo de plugins en WordPress](https://jlferrete.com/blog/curso-intermedio-de-desarrollo-de-plugins-en-wordpress/)
 - [Cómo mostrar texto emergente al pasar el cursor sobre una palabra](https://jlferrete.com/blog/como-mostrar-texto-emergente-al-pasar-el-cursor-sobre-una-palabra/)
 - [Cómo poner en marcha un punto de acceso WiFi con Raspberry Pi](https://jlferrete.com/blog/como-poner-en-marcha-un-punto-de-acceso-wifi-con-raspberry-pi/)
 - [7 plugins y Herramientas de Medios Sociales para Bloggers que debemos utilizar](https://jlferrete.com/blog/7-plugins-y-herramientas-de-medios-sociales-para-bloggers-que-debemos-utilizar/)
-- [Carlos Herrera: De Laravel a WordPress con Antonella Framework](https://jlferrete.com/blog/carlos-herrera-de-laravel-a-wordpress-con-antonella-framework-in-wp-https-t-co-cezxit4chl/)
