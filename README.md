@@ -32,7 +32,7 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
 </p>
 
--Latest article: 
+-Latest articles: 
 - [Curso intermedio de desarrollo de plugins en WordPress](https://jlferrete.com/blog/curso-intermedio-de-desarrollo-de-plugins-en-wordpress/)
 - [Cómo mostrar texto emergente al pasar el cursor sobre una palabra](https://jlferrete.com/blog/como-mostrar-texto-emergente-al-pasar-el-cursor-sobre-una-palabra/)
 - [Cómo poner en marcha un punto de acceso WiFi con Raspberry Pi](https://jlferrete.com/blog/como-poner-en-marcha-un-punto-de-acceso-wifi-con-raspberry-pi/)
