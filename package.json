@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/jlferrete/jlferrete/issues"
   },
-  "homepage": "https://github.com/jlferrete/jlferrete#readme"
+  "homepage": "https://github.com/jlferrete/jlferrete#readme",
+  "dependencies": {
+    "instagram-web-api": "2.2.0",
+    "node-fetch": "2.6.0",
+    "rss-parser": "3.8.0"
+  }
 }
