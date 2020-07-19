@@ -1,0 +1,21 @@
+{
+  "name": "jlferrete",
+  "version": "1.0.0",
+  "description": "jlferrete README Github profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlferrete/jlferrete.git"
+  },
+  "keywords": [],
+  "author": "jlferrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlferrete/jlferrete/issues"
+  },
+  "homepage": "https://github.com/jlferrete/jlferrete#readme"
+}
