@@ -33,8 +33,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Google ya tiene plugin de WordPress para crear Web Stories](https://jlferrete.com/blog/google-ya-tiene-plugin-de-wordpress-para-crear-web-stories/)
 - [Creating a Gatsby Site with WordPress Data](https://jlferrete.com/blog/creating-a-gatsby-site-with-wordpress-data/)
 - [Automatiza la creación de funciones con el plugin funcionalidad de WordPress](https://jlferrete.com/blog/automatiza-la-creacion-de-funciones-con-el-plugin-funcionalidad-de-wordpress/)
 - [FakerPress – Plugin WordPress](https://jlferrete.com/blog/fakerpress-plugin-wordpress-https-t-co-wprmdsvdh5-espanol/)
 - [No te pierdas mi último artículo: ¿Cómo generar un perfil personalizado en GitHub?](https://jlferrete.com/blog/no-te-pierdas-mi-ultimo-articulo-como-generar-un-perfil-personalizado-en-github/)
-- [Cómo crear tu red de sitios con WordPress Multisite](https://jlferrete.com/blog/como-crear-tu-red-de-sitios-con-wordpress-multisite/)
