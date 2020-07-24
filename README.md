@@ -33,8 +33,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo habilitar la compresión GZIP en WordPress](https://jlferrete.com/blog/como-habilitar-la-compresion-gzip-en-wordpress/)
 - [Cómo crear una Landing Page en WordPress paso a paso](https://jlferrete.com/blog/como-crear-una-landing-page-en-wordpress-paso-a-paso/)
 - [Cómo bloquear las cookies de Disqus en WordPress](https://jlferrete.com/blog/como-bloquear-las-cookies-de-disqus-en-wordpress/)
 - [GitDuck: una app de videollamadas gratis para desarrolladores con pair programming y soporte para tu IDE](https://jlferrete.com/blog/gitduck-una-app-de-videollamadas-gratis-para-desarrolladores-con-pair-programming-y-soporte-para-tu-ide/)
 - [Google ya tiene plugin de WordPress para crear Web Stories](https://jlferrete.com/blog/google-ya-tiene-plugin-de-wordpress-para-crear-web-stories/)
-- [Creating a Gatsby Site with WordPress Data](https://jlferrete.com/blog/creating-a-gatsby-site-with-wordpress-data/)
