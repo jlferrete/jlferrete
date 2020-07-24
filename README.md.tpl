@@ -27,8 +27,8 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java spring boot" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
 </p>
 
