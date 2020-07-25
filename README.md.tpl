@@ -22,7 +22,7 @@ Please do not hesitate to contact me if you require any futher information at th
   </a>
 </p>
 
-![Jlferrete's github stats](https://github-readme-stats.vercel.app/api?username=jlferrete&show_icons=true&theme=radical)
+![Jlferrete's github stats](https://github-readme-stats.vercel.app/api?username=jlferrete&show_icons=true&theme=dark)
 
 <p align="left">-Technologies:</p>
 <p align="left">
