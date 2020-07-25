@@ -22,6 +22,9 @@ Please do not hesitate to contact me if you require any futher information at th
   </a>
 </p>
 
+![Jlferrete's github stats](https://github-readme-stats.vercel.app/api?username=jlferrete&show_icons=true&theme=radical)
+
+<p align="left">-Technologies:</p>
 <p align="left">
   <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
