@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WooCommerce: Ventajas y Desventajas](https://jlferrete.com/blog/woocommerce-ventajas-y-desventajas/)
 - [Recopilación de ilustraciones con uso «gratuito» (hay que ver licencia por si hay que dar crédito al autor)](https://jlferrete.com/blog/recopilacion-de-ilustraciones-con-uso-gratuito-hay-que-ver-licencia-por-si-hay-que-dar-credito-al-autor/)
 - [WP-Cron – El cron de WordPress](https://jlferrete.com/blog/wp-cron-el-cron-de-wordpress/)
 - [Personalizar el formulario de registro de WooCommerce](https://jlferrete.com/blog/personalizar-el-formulario-de-registro-de-woocommerce/)
 - [Añadir campos de Advanced Custom Fields en la búsqueda de WordPress](https://jlferrete.com/blog/anadir-campos-de-advanced-custom-fields-en-la-busqueda-de-wordpress/)
-- [Building a Blog with Next.js](https://jlferrete.com/blog/building-a-blog-with-next-js/)
