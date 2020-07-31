@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [GOOGLE web stories WORDPRESS PLUGIN tutorial en ESPAÑOL](https://jlferrete.com/blog/google-web-stories-wordpress-plugin-tutorial-en-espanol/)
 - [Noelia Jiménez: Tú ya tienes marca personal, ahora toca promocionarla con estrategia](https://jlferrete.com/blog/noelia-jimenez-tu-ya-tienes-marca-personal-ahora-toca-promocionarla-con-estrategia/)
 - [Oculta la imagen destacada de tus entradas en WordPress](https://jlferrete.com/blog/oculta-la-imagen-destacada-de-tus-entradas-en-wordpress/)
 - [WooCommerce: Ventajas y Desventajas](https://jlferrete.com/blog/woocommerce-ventajas-y-desventajas/)
 - [Recopilación de ilustraciones con uso «gratuito» (hay que ver licencia por si hay que dar crédito al autor)](https://jlferrete.com/blog/recopilacion-de-ilustraciones-con-uso-gratuito-hay-que-ver-licencia-por-si-hay-que-dar-credito-al-autor/)
-- [WP-Cron – El cron de WordPress](https://jlferrete.com/blog/wp-cron-el-cron-de-wordpress/)
