@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Monetizar sitio web/Blog](https://jlferrete.com/blog/monetizar-sitio-web-blog/)
 - [WordPress 5.5 Beta 2](https://jlferrete.com/blog/wordpress-5-5-beta-2/)
 - [GOOGLE web stories WORDPRESS PLUGIN tutorial en ESPAÑOL](https://jlferrete.com/blog/google-web-stories-wordpress-plugin-tutorial-en-espanol/)
 - [Noelia Jiménez: Tú ya tienes marca personal, ahora toca promocionarla con estrategia](https://jlferrete.com/blog/noelia-jimenez-tu-ya-tienes-marca-personal-ahora-toca-promocionarla-con-estrategia/)
 - [Oculta la imagen destacada de tus entradas en WordPress](https://jlferrete.com/blog/oculta-la-imagen-destacada-de-tus-entradas-en-wordpress/)
-- [WooCommerce: Ventajas y Desventajas](https://jlferrete.com/blog/woocommerce-ventajas-y-desventajas/)
