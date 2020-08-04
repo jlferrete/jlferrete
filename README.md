@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué moneda usar en un Membership Site](https://jlferrete.com/blog/que-moneda-usar-en-un-membership-site/)
 - [The Docker Handbook](https://jlferrete.com/blog/the-docker-handbook/)
 - [Crear trabajos cron reales en SiteGround](https://jlferrete.com/blog/crear-trabajos-cron-reales-en-siteground/)
 - [Cómo Poner Stories En WordPress](https://jlferrete.com/blog/como-poner-stories-en-wordpress/)
 - [Monetizar sitio web/Blog](https://jlferrete.com/blog/monetizar-sitio-web-blog/)
-- [WordPress 5.5 Beta 2](https://jlferrete.com/blog/wordpress-5-5-beta-2/)
