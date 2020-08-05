@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Como crear un Podcast en Telegram basado en Ivoox](https://jlferrete.com/blog/como-crear-un-podcast-en-telegram-basado-en-ivoox/)
 - [Cómo arreglar un MacBook Air que no enciende](https://jlferrete.com/blog/como-arreglar-un-macbook-air-que-no-enciende/)
 - [Qué moneda usar en un Membership Site](https://jlferrete.com/blog/que-moneda-usar-en-un-membership-site/)
 - [The Docker Handbook](https://jlferrete.com/blog/the-docker-handbook/)
 - [Crear trabajos cron reales en SiteGround](https://jlferrete.com/blog/crear-trabajos-cron-reales-en-siteground/)
-- [Cómo Poner Stories En WordPress](https://jlferrete.com/blog/como-poner-stories-en-wordpress/)
