@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Oculta la imagen destacada de tus entradas en WordPress](https://jlferrete.com/blog/oculta-la-imagen-destacada-de-tus-entradas-en-wordpress-2/)
 - [Cabecera fija gratis en el tema Astra](https://jlferrete.com/blog/cabecera-fija-gratis-en-el-tema-astra/)
 - [Como crear un Podcast en Telegram basado en Ivoox](https://jlferrete.com/blog/como-crear-un-podcast-en-telegram-basado-en-ivoox/)
 - [Cómo arreglar un MacBook Air que no enciende](https://jlferrete.com/blog/como-arreglar-un-macbook-air-que-no-enciende/)
 - [Qué moneda usar en un Membership Site](https://jlferrete.com/blog/que-moneda-usar-en-un-membership-site/)
-- [The Docker Handbook](https://jlferrete.com/blog/the-docker-handbook/)
