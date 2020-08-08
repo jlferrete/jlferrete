@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [6 ways to automate Google Sheets with Zapier](https://jlferrete.com/blog/6-ways-to-automate-google-sheets-with-zapier/)
 - [▷ Instalar y Configurar BIZUM en WooCommerce | Guía Completa](https://jlferrete.com/blog/%e2%96%b7-instalar-y-configurar-bizum-en-woocommerce-guia-completa/)
 - [WordPress 5.5 beta 3](https://jlferrete.com/blog/wordpress-5-5-beta-3/)
 - [Oculta la imagen destacada de tus entradas en WordPress](https://jlferrete.com/blog/oculta-la-imagen-destacada-de-tus-entradas-en-wordpress-2/)
 - [Cabecera fija gratis en el tema Astra](https://jlferrete.com/blog/cabecera-fija-gratis-en-el-tema-astra/)
-- [Como crear un Podcast en Telegram basado en Ivoox](https://jlferrete.com/blog/como-crear-un-podcast-en-telegram-basado-en-ivoox/)
