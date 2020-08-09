@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo utilizar las imágenes de Unsplash directamente en WordPress](https://jlferrete.com/blog/como-utilizar-las-imagenes-de-unsplash-directamente-en-wordpress/)
 - [Como superar Leverage Browser Cache de Google Analytics y ganar en velocidad de carga](https://jlferrete.com/blog/como-superar-leverage-browser-cache-de-google-analytics-y-ganar-en-velocidad-de-carga/)
 - [Cómo evitar el spam en los formularios de contacto de JetPack](https://jlferrete.com/blog/como-evitar-el-spam-en-los-formularios-de-contacto-de-jetpack/)
 - [Tutorial muy completo de Mailchimp](https://jlferrete.com/blog/tutorial-muy-completo-de-mailchimp/)
 - [6 ways to automate Google Sheets with Zapier](https://jlferrete.com/blog/6-ways-to-automate-google-sheets-with-zapier/)
-- [▷ Instalar y Configurar BIZUM en WooCommerce | Guía Completa](https://jlferrete.com/blog/%e2%96%b7-instalar-y-configurar-bizum-en-woocommerce-guia-completa/)
