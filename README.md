@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Google Podcast para Web y App: Beneficios y novedades](https://jlferrete.com/blog/google-podcast-para-web-y-app-beneficios-y-novedades/)
 - [Qué es y cómo implementar un CRM en WordPress](https://jlferrete.com/blog/que-es-y-como-implementar-un-crm-en-wordpress/)
 - [Cómo utilizar las imágenes de Unsplash directamente en WordPress](https://jlferrete.com/blog/como-utilizar-las-imagenes-de-unsplash-directamente-en-wordpress/)
 - [Como superar Leverage Browser Cache de Google Analytics y ganar en velocidad de carga](https://jlferrete.com/blog/como-superar-leverage-browser-cache-de-google-analytics-y-ganar-en-velocidad-de-carga/)
 - [Cómo evitar el spam en los formularios de contacto de JetPack](https://jlferrete.com/blog/como-evitar-el-spam-en-los-formularios-de-contacto-de-jetpack/)
-- [Tutorial muy completo de Mailchimp](https://jlferrete.com/blog/tutorial-muy-completo-de-mailchimp/)
