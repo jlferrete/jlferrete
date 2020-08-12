@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Imsanity – Plugin WordPress para redimensionado de imágenes](https://jlferrete.com/blog/imsanity-plugin-wordpress-para-redimensionado-de-imagenes/)
 - [WordPress 5.5: Guía para desarrolladores](https://jlferrete.com/blog/wordpress-5-5-guia-para-desarrolladores/)
 - [GUÍA | Cómo definir el tamaño de las imágenes en todas las redes sociales](https://jlferrete.com/blog/guia-como-definir-el-tamano-de-las-imagenes-en-todas-las-redes-sociales/)
 - [Streamyard: herramienta para transmitir entrevistas online](https://jlferrete.com/blog/streamyard-herramienta-para-transmitir-entrevistas-online/)
 - [Telegram Bot con Nodejs y Javascript](https://jlferrete.com/blog/telegram-bot-con-nodejs-y-javascript/)
-- [Google Podcast para Web y App: Beneficios y novedades](https://jlferrete.com/blog/google-podcast-para-web-y-app-beneficios-y-novedades/)
