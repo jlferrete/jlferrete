@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [PDF Analytics – Mide y analiza el SEO de tus PDF desde Google Analytics](https://jlferrete.com/blog/pdf-analytics-mide-y-analiza-el-seo-de-tus-pdf-desde-google-analytics/)
 - [Conoce bien cómo puedes contribuir a la comunidad de WordPress](https://jlferrete.com/blog/conoce-bien-como-puedes-contribuir-a-la-comunidad-de-wordpress/)
 - [Cómo instalar Node y NPM en Ubuntu 20.04](https://jlferrete.com/blog/como-instalar-node-y-npm-en-ubuntu-20-04/)
 - [Cómo eliminar cualquier app preinstalada en Windows 10](https://jlferrete.com/blog/como-eliminar-cualquier-app-preinstalada-en-windows-10/)
 - [Imsanity – Plugin WordPress para redimensionado de imágenes](https://jlferrete.com/blog/imsanity-plugin-wordpress-para-redimensionado-de-imagenes/)
-- [WordPress 5.5: Guía para desarrolladores](https://jlferrete.com/blog/wordpress-5-5-guia-para-desarrolladores/)
