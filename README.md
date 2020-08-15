@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Reconocimiento facial para acceder a WordPress ¿se puede?](https://jlferrete.com/blog/reconocimiento-facial-para-acceder-a-wordpress-se-puede/)
 - [Raspberry PI: ¿El PC Gaming BARATO del Futuro?](https://jlferrete.com/blog/raspberry-pi-el-pc-gaming-barato-del-futuro/)
 - [PDF Analytics – Mide y analiza el SEO de tus PDF desde Google Analytics](https://jlferrete.com/blog/pdf-analytics-mide-y-analiza-el-seo-de-tus-pdf-desde-google-analytics/)
 - [Conoce bien cómo puedes contribuir a la comunidad de WordPress](https://jlferrete.com/blog/conoce-bien-como-puedes-contribuir-a-la-comunidad-de-wordpress/)
 - [Cómo instalar Node y NPM en Ubuntu 20.04](https://jlferrete.com/blog/como-instalar-node-y-npm-en-ubuntu-20-04/)
-- [Cómo eliminar cualquier app preinstalada en Windows 10](https://jlferrete.com/blog/como-eliminar-cualquier-app-preinstalada-en-windows-10/)
