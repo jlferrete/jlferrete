@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo instalar Let’s Encrypt en tu Membership Site](https://jlferrete.com/blog/como-instalar-lets-encrypt-en-tu-membership-site/)
 - [Cómo volver al editor clásico en https://t.co/EnrBDVCDoh](https://jlferrete.com/blog/como-volver-al-editor-clasico-en-https-t-co-enrbdvcdoh/)
 - [Ana Cirujano: Prototipar en Figma para desarrollar en WordPress](https://jlferrete.com/blog/ana-cirujano-prototipar-en-figma-para-desarrollar-en-wordpress/)
 - [Cómo incluir mapas Google en WordPress](https://jlferrete.com/blog/como-incluir-mapas-google-en-wordpress/)
 - [Este es el código con que el Apolo 11 llegó a la luna](https://jlferrete.com/blog/este-es-el-codigo-con-que-el-apolo-11-llego-a-la-luna/)
-- [How to Build a Personal Dev Server on a $5 Raspberry Pi](https://jlferrete.com/blog/how-to-build-a-personal-dev-server-on-a-5-raspberry-pi/)
