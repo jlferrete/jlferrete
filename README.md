@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Así automaticé toda mi casa con inteligencia artificial y un sistema open source](https://jlferrete.com/blog/asi-automatice-toda-mi-casa-con-inteligencia-artificial-y-un-sistema-open-source/)
 - [Pi-KVM: un proyecto de conmutador KVM en Raspberry Pi](https://jlferrete.com/blog/pi-kvm-un-proyecto-de-conmutador-kvm-en-raspberry-pi/)
 - [Cómo instalar Let’s Encrypt en tu Membership Site](https://jlferrete.com/blog/como-instalar-lets-encrypt-en-tu-membership-site/)
 - [Cómo volver al editor clásico en https://t.co/EnrBDVCDoh](https://jlferrete.com/blog/como-volver-al-editor-clasico-en-https-t-co-enrbdvcdoh/)
 - [Ana Cirujano: Prototipar en Figma para desarrollar en WordPress](https://jlferrete.com/blog/ana-cirujano-prototipar-en-figma-para-desarrollar-en-wordpress/)
-- [Cómo incluir mapas Google en WordPress](https://jlferrete.com/blog/como-incluir-mapas-google-en-wordpress/)
