@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Páginas en ancho completo en el tema Storefront](https://jlferrete.com/blog/paginas-en-ancho-completo-en-el-tema-storefront/)
 - [Curso intermedio de desarrollo de plugins en WordPress](https://jlferrete.com/blog/curso-intermedio-de-desarrollo-de-plugins-en-wordpress-2/)
 - [Cómo hacer un bloque de Gutenberg a medida](https://jlferrete.com/blog/como-hacer-un-bloque-de-gutenberg-a-medida/)
 - [Crear un tema con Underscores (_S)](https://jlferrete.com/blog/crear-un-tema-con-underscores-_s/)
 - [El ZX Spectrum vuelve casi 40 años después, y se financia en 5 minutos](https://jlferrete.com/blog/el-zx-spectrum-vuelve-casi-40-anos-despues-y-se-financia-en-5-minutos/)
-- [Aprender inglés en casa: 61 cursos gratis en Udemy](https://jlferrete.com/blog/aprender-ingles-en-casa-61-cursos-gratis-en-udemy/)
