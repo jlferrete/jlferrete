@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [5 cosas que deber saber sobre el usuario root en Ubuntu – Geeky Theory](https://jlferrete.com/blog/5-cosas-que-deber-saber-sobre-el-usuario-root-en-ubuntu-geeky-theory/)
 - [Plugins de WordPress a instalar, siempre](https://jlferrete.com/blog/plugins-de-wordpress-a-instalar-siempre/)
 - [Show off Github repos in your Gatsby site using Github GraphQL API](https://jlferrete.com/blog/show-off-github-repos-in-your-gatsby-site-using-github-graphql-api/)
 - [Como Eliminar el Spam de un Formulario de Contacto](https://jlferrete.com/blog/como-eliminar-el-spam-de-un-formulario-de-contacto/)
 - [Herramientas para medir la velocidad de tu web](https://jlferrete.com/blog/herramientas-para-medir-la-velocidad-de-tu-web/)
-- [Banco de imágenes gratis para WordPress, Unsplash](https://jlferrete.com/blog/banco-de-imagenes-gratis-para-wordpress-unsplash/)
