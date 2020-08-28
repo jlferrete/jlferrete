@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [10 single-line CSS layouts](https://jlferrete.com/blog/10-single-line-css-layouts/)
 - [Igualar altura de elementos de un grid](https://jlferrete.com/blog/igualar-altura-de-elementos-de-un-grid/)
 - [Añadir enlace personalizado en la admin bar de WordPress](https://jlferrete.com/blog/anadir-enlace-personalizado-en-la-admin-bar-de-wordpress/)
 - [5 cosas que deber saber sobre el usuario root en Ubuntu – Geeky Theory](https://jlferrete.com/blog/5-cosas-que-deber-saber-sobre-el-usuario-root-en-ubuntu-geeky-theory/)
 - [Plugins de WordPress a instalar, siempre](https://jlferrete.com/blog/plugins-de-wordpress-a-instalar-siempre/)
-- [Show off Github repos in your Gatsby site using Github GraphQL API](https://jlferrete.com/blog/show-off-github-repos-in-your-gatsby-site-using-github-graphql-api/)
