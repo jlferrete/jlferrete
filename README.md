@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [La inteligencia Artificial Capaz de Programar y crear páginas web con solo pedirlo. GPT-3 (EJEMPLOS)](https://jlferrete.com/blog/la-inteligencia-artificial-capaz-de-programar-y-crear-paginas-web-con-solo-pedirlo-gpt-3-ejemplos/)
 - [Cómo monitorear su red usando Raspberry PI](https://jlferrete.com/blog/como-monitorear-su-red-usando-raspberry-pi/)
 - [How to Add a Map to Your Website in 30 Seconds](https://jlferrete.com/blog/how-to-add-a-map-to-your-website-in-30-seconds/)
 - [10 single-line CSS layouts](https://jlferrete.com/blog/10-single-line-css-layouts/)
 - [Igualar altura de elementos de un grid](https://jlferrete.com/blog/igualar-altura-de-elementos-de-un-grid/)
-- [Añadir enlace personalizado en la admin bar de WordPress](https://jlferrete.com/blog/anadir-enlace-personalizado-en-la-admin-bar-de-wordpress/)
