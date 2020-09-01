@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Flavia Bernárdez: Controla tu WordPress con AutomatorWP](https://jlferrete.com/blog/flavia-bernardez-controla-tu-wordpress-con-automatorwp/)
 - [Cómo insertar vídeos de TikTok en WordPress](https://jlferrete.com/blog/como-insertar-videos-de-tiktok-en-wordpress/)
 - [Cómo funciona la REST API de WordPress](https://jlferrete.com/blog/como-funciona-la-rest-api-de-wordpress/)
 - [Celis Guevara Wazzan: Textos legales básicos que debe tener tu web](https://jlferrete.com/blog/celis-guevara-wazzan-textos-legales-basicos-que-debe-tener-tu-web/)
 - [Como organizar las páginas de orden jerarquico en columnas para el panel de administración de WordPress](https://jlferrete.com/blog/como-organizar-las-paginas-de-orden-jerarquico-en-columnas-para-el-panel-de-administracion-de-wordpress/)
-- [La inteligencia Artificial Capaz de Programar y crear páginas web con solo pedirlo. GPT-3 (EJEMPLOS)](https://jlferrete.com/blog/la-inteligencia-artificial-capaz-de-programar-y-crear-paginas-web-con-solo-pedirlo-gpt-3-ejemplos/)
