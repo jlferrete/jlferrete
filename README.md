@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo desactivar todos los plugins cuando no puedes entrar al backoffice de WordPress](https://jlferrete.com/blog/como-desactivar-todos-los-plugins-cuando-no-puedes-entrar-al-backoffice-de-wordpress/)
 - [Controla el desplazamiento de tu web con CSS Scroll Snap](https://jlferrete.com/blog/controla-el-desplazamiento-de-tu-web-con-css-scroll-snap/)
 - [👉 Cómo crear tu Canal de Youtube y así ayudar a tu audiencia](https://jlferrete.com/blog/%f0%9f%91%89-como-crear-tu-canal-de-youtube-y-asi-ayudar-a-tu-audiencia/)
 - [Flavia Bernárdez: Controla tu WordPress con AutomatorWP](https://jlferrete.com/blog/flavia-bernardez-controla-tu-wordpress-con-automatorwp/)
 - [Cómo insertar vídeos de TikTok en WordPress](https://jlferrete.com/blog/como-insertar-videos-de-tiktok-en-wordpress/)
-- [Cómo funciona la REST API de WordPress](https://jlferrete.com/blog/como-funciona-la-rest-api-de-wordpress/)
