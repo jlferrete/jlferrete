@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Primeros pasos con Wireshark: ¿qué está pasando en tu red?](https://jlferrete.com/blog/primeros-pasos-con-wireshark-que-esta-pasando-en-tu-red/)
 - [Cómo realizar sorteos mediante WordPress](https://jlferrete.com/blog/como-realizar-sorteos-mediante-wordpress/)
 - [Cómo desactivar todos los plugins cuando no puedes entrar al backoffice de WordPress](https://jlferrete.com/blog/como-desactivar-todos-los-plugins-cuando-no-puedes-entrar-al-backoffice-de-wordpress/)
 - [Controla el desplazamiento de tu web con CSS Scroll Snap](https://jlferrete.com/blog/controla-el-desplazamiento-de-tu-web-con-css-scroll-snap/)
 - [👉 Cómo crear tu Canal de Youtube y así ayudar a tu audiencia](https://jlferrete.com/blog/%f0%9f%91%89-como-crear-tu-canal-de-youtube-y-asi-ayudar-a-tu-audiencia/)
-- [Flavia Bernárdez: Controla tu WordPress con AutomatorWP](https://jlferrete.com/blog/flavia-bernardez-controla-tu-wordpress-con-automatorwp/)
