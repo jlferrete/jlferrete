@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [🍀 Laraberg Vue: Use WordPress Gutenberg editor in your Vue.js and Laravel application](https://jlferrete.com/blog/%f0%9f%8d%80-laraberg-vue-use-wordpress-gutenberg-editor-in-your-vue-js-and-laravel-application/)
 - [Cómo enviar un email de bienvenida personalizado a los nuevos usuarios registrados en WordPress](https://jlferrete.com/blog/como-enviar-un-email-de-bienvenida-personalizado-a-los-nuevos-usuarios-registrados-en-wordpress/)
 - [Primeros pasos con Wireshark: ¿qué está pasando en tu red?](https://jlferrete.com/blog/primeros-pasos-con-wireshark-que-esta-pasando-en-tu-red/)
 - [Cómo realizar sorteos mediante WordPress](https://jlferrete.com/blog/como-realizar-sorteos-mediante-wordpress/)
 - [Cómo desactivar todos los plugins cuando no puedes entrar al backoffice de WordPress](https://jlferrete.com/blog/como-desactivar-todos-los-plugins-cuando-no-puedes-entrar-al-backoffice-de-wordpress/)
-- [Controla el desplazamiento de tu web con CSS Scroll Snap](https://jlferrete.com/blog/controla-el-desplazamiento-de-tu-web-con-css-scroll-snap/)
