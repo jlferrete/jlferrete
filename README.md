@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Example of a dockerized Laravel App working with REST API’s](https://jlferrete.com/blog/example-of-a-dockerized-laravel-app-working-with-rest-apis/)
 - [Añadir publicidad de Google AdSense en WordPress – Webempresa](https://jlferrete.com/blog/anadir-publicidad-de-google-adsense-en-wordpress-webempresa/)
 - [Cómo convertir tus imágenes a WEBP con WordPress – WordPress Directo](https://jlferrete.com/blog/como-convertir-tus-imagenes-a-webp-con-wordpress-wordpress-directo/)
 - [Cómo encontrar y eliminar los shortcodes no utilizados en post y páginas de WordPress](https://jlferrete.com/blog/como-encontrar-y-eliminar-los-shortcodes-no-utilizados-en-post-y-paginas-de-wordpress/)
 - [Cómo mapear imágenes con WordPress](https://jlferrete.com/blog/como-mapear-imagenes-con-wordpress/)
-- [🍀 Laraberg Vue: Use WordPress Gutenberg editor in your Vue.js and Laravel application](https://jlferrete.com/blog/%f0%9f%8d%80-laraberg-vue-use-wordpress-gutenberg-editor-in-your-vue-js-and-laravel-application/)
