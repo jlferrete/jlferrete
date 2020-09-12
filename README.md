@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Qué es una dirección IP y cómo saber cual es mi IP?](https://jlferrete.com/blog/que-es-una-direccion-ip-y-como-saber-cual-es-mi-ip/)
 - [https://t.co/3ffchge1id como plataforma de aprendizaje](https://jlferrete.com/blog/https-t-co-3ffchge1id-como-plataforma-de-aprendizaje/)
 - [Crear ventana emergente en WordPress (Simple PopUp)](https://jlferrete.com/blog/crear-ventana-emergente-en-wordpress-simple-popup/)
 - [Cómo migrar WordPress manualmente de servidor](https://jlferrete.com/blog/como-migrar-wordpress-manualmente-de-servidor/)
 - [Example of a dockerized Laravel App working with REST API’s](https://jlferrete.com/blog/example-of-a-dockerized-laravel-app-working-with-rest-apis/)
-- [Añadir publicidad de Google AdSense en WordPress – Webempresa](https://jlferrete.com/blog/anadir-publicidad-de-google-adsense-en-wordpress-webempresa/)
