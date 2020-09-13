@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [ACF 5.8 – Introducing ACF Blocks for Gutenberg](https://jlferrete.com/blog/acf-5-8-introducing-acf-blocks-for-gutenberg/)
 - [Verificar propiedad de Dominio en Search Console](https://jlferrete.com/blog/verificar-propiedad-de-dominio-en-search-console/)
 - [¿Qué es una dirección IP y cómo saber cual es mi IP?](https://jlferrete.com/blog/que-es-una-direccion-ip-y-como-saber-cual-es-mi-ip/)
 - [https://t.co/3ffchge1id como plataforma de aprendizaje](https://jlferrete.com/blog/https-t-co-3ffchge1id-como-plataforma-de-aprendizaje/)
 - [Crear ventana emergente en WordPress (Simple PopUp)](https://jlferrete.com/blog/crear-ventana-emergente-en-wordpress-simple-popup/)
-- [Cómo migrar WordPress manualmente de servidor](https://jlferrete.com/blog/como-migrar-wordpress-manualmente-de-servidor/)
