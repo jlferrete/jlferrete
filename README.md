@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Heartbeat API de WordPress, aprende a configurarla](https://jlferrete.com/blog/heartbeat-api-de-wordpress-aprende-a-configurarla/)
 - [Gutenberg Blocks – ACF Blocks Suite](https://jlferrete.com/blog/gutenberg-blocks-acf-blocks-suite/)
 - [ACF 5.8 – Introducing ACF Blocks for Gutenberg](https://jlferrete.com/blog/acf-5-8-introducing-acf-blocks-for-gutenberg/)
 - [Verificar propiedad de Dominio en Search Console](https://jlferrete.com/blog/verificar-propiedad-de-dominio-en-search-console/)
 - [¿Qué es una dirección IP y cómo saber cual es mi IP?](https://jlferrete.com/blog/que-es-una-direccion-ip-y-como-saber-cual-es-mi-ip/)
-- [https://t.co/3ffchge1id como plataforma de aprendizaje](https://jlferrete.com/blog/https-t-co-3ffchge1id-como-plataforma-de-aprendizaje/)
