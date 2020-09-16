@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo pausar WooCommerce durante las vacaciones](https://jlferrete.com/blog/como-pausar-woocommerce-durante-las-vacaciones/)
 - [8 React.js Project Ideas to Help You Start Learning by Doing](https://jlferrete.com/blog/8-react-js-project-ideas-to-help-you-start-learning-by-doing/)
 - [6 Mejores Plugins WordPress para Afiliados de Amazon en 2020](https://jlferrete.com/blog/6-mejores-plugins-wordpress-para-afiliados-de-amazon-en-2020/)
 - [Heartbeat API de WordPress, aprende a configurarla](https://jlferrete.com/blog/heartbeat-api-de-wordpress-aprende-a-configurarla/)
 - [Gutenberg Blocks – ACF Blocks Suite](https://jlferrete.com/blog/gutenberg-blocks-acf-blocks-suite/)
-- [ACF 5.8 – Introducing ACF Blocks for Gutenberg](https://jlferrete.com/blog/acf-5-8-introducing-acf-blocks-for-gutenberg/)
