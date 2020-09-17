@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Andrés Arias: Pruebas de Aceptación en WordPress utilizando https://t.co/XgLtqehv4D](https://jlferrete.com/blog/andres-arias-pruebas-de-aceptacion-en-wordpress-utilizando-https-t-co-xgltqehv4d/)
 - [Curso de RGPD](https://jlferrete.com/blog/curso-de-rgpd/)
 - [Descargar archivo después de un formulario](https://jlferrete.com/blog/descargar-archivo-despues-de-un-formulario/)
 - [Cómo pausar WooCommerce durante las vacaciones](https://jlferrete.com/blog/como-pausar-woocommerce-durante-las-vacaciones/)
 - [8 React.js Project Ideas to Help You Start Learning by Doing](https://jlferrete.com/blog/8-react-js-project-ideas-to-help-you-start-learning-by-doing/)
-- [6 Mejores Plugins WordPress para Afiliados de Amazon en 2020](https://jlferrete.com/blog/6-mejores-plugins-wordpress-para-afiliados-de-amazon-en-2020/)
