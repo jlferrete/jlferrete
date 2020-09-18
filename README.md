@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Angular – Repaso  – Crear proyecto con la versión deseada sin tener en cuenta el CLI y análisis](https://jlferrete.com/blog/angular-repaso-crear-proyecto-con-la-version-deseada-sin-tener-en-cuenta-el-cli-y-analisis/)
 - [Andrés Arias: Pruebas de Aceptación en WordPress utilizando https://t.co/XgLtqehv4D](https://jlferrete.com/blog/andres-arias-pruebas-de-aceptacion-en-wordpress-utilizando-https-t-co-xgltqehv4d/)
 - [Curso de RGPD](https://jlferrete.com/blog/curso-de-rgpd/)
 - [Descargar archivo después de un formulario](https://jlferrete.com/blog/descargar-archivo-despues-de-un-formulario/)
 - [Cómo pausar WooCommerce durante las vacaciones](https://jlferrete.com/blog/como-pausar-woocommerce-durante-las-vacaciones/)
-- [8 React.js Project Ideas to Help You Start Learning by Doing](https://jlferrete.com/blog/8-react-js-project-ideas-to-help-you-start-learning-by-doing/)
