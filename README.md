@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Build and Run Node Apps with Docker and Compose](https://jlferrete.com/blog/how-to-build-and-run-node-apps-with-docker-and-compose/)
 - [Isané Duque: Iniciando con Elementor](https://jlferrete.com/blog/isane-duque-iniciando-con-elementor/)
 - [Automatic MySQL / PostgreSQL Backups with a Shell Script and Cron Job](https://jlferrete.com/blog/automatic-mysql-postgresql-backups-with-a-shell-script-and-cron-job/)
 - [Deploying WordPress to the Cloud](https://jlferrete.com/blog/deploying-wordpress-to-the-cloud/)
 - [Top 5 Courses to learn jQuery in 2020](https://jlferrete.com/blog/top-5-courses-to-learn-jquery-in-2020/)
-- [Creating Efficient Docker Images with Spring Boot 2.3](https://jlferrete.com/blog/creating-efficient-docker-images-with-spring-boot-2-3/)
