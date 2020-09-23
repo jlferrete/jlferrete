@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Case Study: Reading from a file and writing to MongoDB](https://jlferrete.com/blog/case-study-reading-from-a-file-and-writing-to-mongodb/)
 - [How To Use the Official NGINX Docker Image](https://jlferrete.com/blog/how-to-use-the-official-nginx-docker-image/)
 - [Isané Duque: Iniciando con Elementor](https://jlferrete.com/blog/isane-duque-iniciando-con-elementor-2/)
 - [How to Build and Run Node Apps with Docker and Compose](https://jlferrete.com/blog/how-to-build-and-run-node-apps-with-docker-and-compose/)
 - [Isané Duque: Iniciando con Elementor](https://jlferrete.com/blog/isane-duque-iniciando-con-elementor/)
-- [Automatic MySQL / PostgreSQL Backups with a Shell Script and Cron Job](https://jlferrete.com/blog/automatic-mysql-postgresql-backups-with-a-shell-script-and-cron-job/)
