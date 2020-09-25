@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Aplicar CI / CD desarrollando un paquete NPM](https://jlferrete.com/blog/aplicar-ci-cd-desarrollando-un-paquete-npm/)
 - [Cómo eliminar, sustituir y personalizar los mapas del sitio XML nativos de WordPress](https://jlferrete.com/blog/como-eliminar-sustituir-y-personalizar-los-mapas-del-sitio-xml-nativos-de-wordpress/)
 - [Cómo desactivar la carga diferida (lazy load) de imágenes de WordPress](https://jlferrete.com/blog/como-desactivar-la-carga-diferida-lazy-load-de-imagenes-de-wordpress/)
 - [10 ideas para reutilizar tu viejo router y darle un nuevo uso](https://jlferrete.com/blog/10-ideas-para-reutilizar-tu-viejo-router-y-darle-un-nuevo-uso/)
 - [¿Cómo desactivar completamente las actualizaciones automáticas de plugins y temas?](https://jlferrete.com/blog/como-desactivar-completamente-las-actualizaciones-automaticas-de-plugins-y-temas/)
-- [Case Study: Reading from a file and writing to MongoDB](https://jlferrete.com/blog/case-study-reading-from-a-file-and-writing-to-mongodb/)
