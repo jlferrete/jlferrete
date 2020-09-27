@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guía sobre como utilizar los plugins de WordPress](https://jlferrete.com/blog/guia-sobre-como-utilizar-los-plugins-de-wordpress/)
 - [Cambia estilos globales de módulos en el tema Divi de Elegant Themes](https://jlferrete.com/blog/cambia-estilos-globales-de-modulos-en-el-tema-divi-de-elegant-themes/)
 - [Como hacer un buscador con Autocomplete en Laravel](https://jlferrete.com/blog/como-hacer-un-buscador-con-autocomplete-en-laravel/)
 - [Aplicar CI / CD desarrollando un paquete NPM](https://jlferrete.com/blog/aplicar-ci-cd-desarrollando-un-paquete-npm/)
 - [Cómo eliminar, sustituir y personalizar los mapas del sitio XML nativos de WordPress](https://jlferrete.com/blog/como-eliminar-sustituir-y-personalizar-los-mapas-del-sitio-xml-nativos-de-wordpress/)
-- [Cómo desactivar la carga diferida (lazy load) de imágenes de WordPress](https://jlferrete.com/blog/como-desactivar-la-carga-diferida-lazy-load-de-imagenes-de-wordpress/)
