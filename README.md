@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo quitar los patrones de bloques de WordPress](https://jlferrete.com/blog/como-quitar-los-patrones-de-bloques-de-wordpress/)
 - [Curso WordPress Online Gratuito en vídeo](https://jlferrete.com/blog/curso-wordpress-online-gratuito-en-video/)
 - [Cómo ocultar los enlaces a categorías y etiquetas en GeneratePress](https://jlferrete.com/blog/como-ocultar-los-enlaces-a-categorias-y-etiquetas-en-generatepress/)
 - [Guía sobre como utilizar los plugins de WordPress](https://jlferrete.com/blog/guia-sobre-como-utilizar-los-plugins-de-wordpress/)
 - [Cambia estilos globales de módulos en el tema Divi de Elegant Themes](https://jlferrete.com/blog/cambia-estilos-globales-de-modulos-en-el-tema-divi-de-elegant-themes/)
-- [Como hacer un buscador con Autocomplete en Laravel](https://jlferrete.com/blog/como-hacer-un-buscador-con-autocomplete-en-laravel/)
