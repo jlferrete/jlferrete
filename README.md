@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Jesús Nuño: Herramientas y buenas prácticas de traducción para tu negocio online](https://jlferrete.com/blog/jesus-nuno-herramientas-y-buenas-practicas-de-traduccion-para-tu-negocio-online/)
 - [Como tener un diseño personalizado de Contact Form 7 en WordPress](https://jlferrete.com/blog/como-tener-un-diseno-personalizado-de-contact-form-7-en-wordpress/)
 - [Cómo quitar los patrones de bloques de WordPress](https://jlferrete.com/blog/como-quitar-los-patrones-de-bloques-de-wordpress-2/)
 - [Cómo quitar los patrones de bloques de WordPress](https://jlferrete.com/blog/como-quitar-los-patrones-de-bloques-de-wordpress/)
 - [Curso WordPress Online Gratuito en vídeo](https://jlferrete.com/blog/curso-wordpress-online-gratuito-en-video/)
-- [Cómo ocultar los enlaces a categorías y etiquetas en GeneratePress](https://jlferrete.com/blog/como-ocultar-los-enlaces-a-categorias-y-etiquetas-en-generatepress/)
