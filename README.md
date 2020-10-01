@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Configurar W3 Total Cache en WordPress](https://jlferrete.com/blog/configurar-w3-total-cache-en-wordpress/)
 - [Alfonso Sánchez : Cómo montar un Podcast en WordPress de forma simple](https://jlferrete.com/blog/alfonso-sanchez-como-montar-un-podcast-en-wordpress-de-forma-simple/)
 - [Jesús Nuño: Herramientas y buenas prácticas de traducción para tu negocio online](https://jlferrete.com/blog/jesus-nuno-herramientas-y-buenas-practicas-de-traduccion-para-tu-negocio-online/)
 - [Como tener un diseño personalizado de Contact Form 7 en WordPress](https://jlferrete.com/blog/como-tener-un-diseno-personalizado-de-contact-form-7-en-wordpress/)
 - [Cómo quitar los patrones de bloques de WordPress](https://jlferrete.com/blog/como-quitar-los-patrones-de-bloques-de-wordpress-2/)
-- [Cómo quitar los patrones de bloques de WordPress](https://jlferrete.com/blog/como-quitar-los-patrones-de-bloques-de-wordpress/)
