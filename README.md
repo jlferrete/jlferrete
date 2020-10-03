@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Motivos por los que la accesibilidad beneficia el SEO de tu web](https://jlferrete.com/blog/motivos-por-los-que-la-accesibilidad-beneficia-el-seo-de-tu-web/)
 - [¿Cómo crear filtros personalizados para Instagram?](https://jlferrete.com/blog/como-crear-filtros-personalizados-para-instagram/)
 - [JMeter: Consejos al presentar los resultados de la prueba de carga a un cliente](https://jlferrete.com/blog/jmeter-consejos-al-presentar-los-resultados-de-la-prueba-de-carga-a-un-cliente/)
 - [Configurar W3 Total Cache en WordPress](https://jlferrete.com/blog/configurar-w3-total-cache-en-wordpress/)
 - [Alfonso Sánchez : Cómo montar un Podcast en WordPress de forma simple](https://jlferrete.com/blog/alfonso-sanchez-como-montar-un-podcast-en-wordpress-de-forma-simple/)
-- [Jesús Nuño: Herramientas y buenas prácticas de traducción para tu negocio online](https://jlferrete.com/blog/jesus-nuno-herramientas-y-buenas-practicas-de-traduccion-para-tu-negocio-online/)
