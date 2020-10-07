@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Las tareas cron de WordPress](https://jlferrete.com/blog/las-tareas-cron-de-wordpress/)
 - [Cursos gratis para aprender mecanografía](https://jlferrete.com/blog/cursos-gratis-para-aprender-mecanografia/)
 - [Cómo corregir errores del RSS Feed de WordPress](https://jlferrete.com/blog/como-corregir-errores-del-rss-feed-de-wordpress/)
 - [Como Optimizar Imágenes en WordPress [2020]](https://jlferrete.com/blog/como-optimizar-imagenes-en-wordpress-2020/)
 - [Agregar subtítulos en WordPress](https://jlferrete.com/blog/agregar-subtitulos-en-wordpress/)
-- [Qué es un mapa de calor o heatmap y para qué sirve](https://jlferrete.com/blog/que-es-un-mapa-de-calor-o-heatmap-y-para-que-sirve/)
