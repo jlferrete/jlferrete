@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso avanzado de desarrollo de plugins en WordPress. ¿Cómo crear un plugin premium?](https://jlferrete.com/blog/curso-avanzado-de-desarrollo-de-plugins-en-wordpress-como-crear-un-plugin-premium/)
 - [Creando un blog con Gatsby en 20 minutos](https://jlferrete.com/blog/creando-un-blog-con-gatsby-en-20-minutos/)
 - [Price By Country](https://jlferrete.com/blog/price-by-country/)
 - [Las tareas cron de WordPress](https://jlferrete.com/blog/las-tareas-cron-de-wordpress/)
 - [Cursos gratis para aprender mecanografía](https://jlferrete.com/blog/cursos-gratis-para-aprender-mecanografia/)
-- [Cómo corregir errores del RSS Feed de WordPress](https://jlferrete.com/blog/como-corregir-errores-del-rss-feed-de-wordpress/)
