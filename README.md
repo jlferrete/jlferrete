@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WooCommerce: Cómo aplicar descuentos por volumen con y sin plugins](https://jlferrete.com/blog/woocommerce-como-aplicar-descuentos-por-volumen-con-y-sin-plugins/)
 - [Herramientas para tener tu tiempo planificado y ordenado](https://jlferrete.com/blog/herramientas-para-tener-tu-tiempo-planificado-y-ordenado/)
 - [Curso avanzado de desarrollo de plugins en WordPress. ¿Cómo crear un plugin premium?](https://jlferrete.com/blog/curso-avanzado-de-desarrollo-de-plugins-en-wordpress-como-crear-un-plugin-premium/)
 - [Creando un blog con Gatsby en 20 minutos](https://jlferrete.com/blog/creando-un-blog-con-gatsby-en-20-minutos/)
 - [Price By Country](https://jlferrete.com/blog/price-by-country/)
-- [Las tareas cron de WordPress](https://jlferrete.com/blog/las-tareas-cron-de-wordpress/)
