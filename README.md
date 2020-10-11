@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Set TLS Version in Apache HttpClient](https://jlferrete.com/blog/how-to-set-tls-version-in-apache-httpclient/)
 - [Find and Fix Container Image Vulnerabilities with Docker and Snyk](https://jlferrete.com/blog/find-and-fix-container-image-vulnerabilities-with-docker-and-snyk/)
 - [Menú fijo semi transparente en Divi](https://jlferrete.com/blog/menu-fijo-semi-transparente-en-divi/)
 - [Scratch, la enemiga de China que triunfa en las escuelas españolas](https://jlferrete.com/blog/scratch-la-enemiga-de-china-que-triunfa-en-las-escuelas-espanolas/)
 - [WooCommerce: Cómo aplicar descuentos por volumen con y sin plugins](https://jlferrete.com/blog/woocommerce-como-aplicar-descuentos-por-volumen-con-y-sin-plugins/)
-- [Herramientas para tener tu tiempo planificado y ordenado](https://jlferrete.com/blog/herramientas-para-tener-tu-tiempo-planificado-y-ordenado/)
