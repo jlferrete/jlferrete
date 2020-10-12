@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Pablo Herrada: SEO para e-commerce con WooCommerce](https://jlferrete.com/blog/pablo-herrada-seo-para-e-commerce-con-woocommerce/)
 - [Cómo hacer semi transparente la navegación fija](https://jlferrete.com/blog/como-hacer-semi-transparente-la-navegacion-fija/)
 - [How to Set TLS Version in Apache HttpClient](https://jlferrete.com/blog/how-to-set-tls-version-in-apache-httpclient/)
 - [Find and Fix Container Image Vulnerabilities with Docker and Snyk](https://jlferrete.com/blog/find-and-fix-container-image-vulnerabilities-with-docker-and-snyk/)
 - [Menú fijo semi transparente en Divi](https://jlferrete.com/blog/menu-fijo-semi-transparente-en-divi/)
-- [Scratch, la enemiga de China que triunfa en las escuelas españolas](https://jlferrete.com/blog/scratch-la-enemiga-de-china-que-triunfa-en-las-escuelas-espanolas/)
