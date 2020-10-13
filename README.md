@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Docker Github Actions](https://jlferrete.com/blog/docker-github-actions/)
 - [Cómo desactivar las Google Fonts en el tema Astra](https://jlferrete.com/blog/como-desactivar-las-google-fonts-en-el-tema-astra/)
 - [Pablo Herrada: SEO para e-commerce con WooCommerce](https://jlferrete.com/blog/pablo-herrada-seo-para-e-commerce-con-woocommerce/)
 - [Cómo hacer semi transparente la navegación fija](https://jlferrete.com/blog/como-hacer-semi-transparente-la-navegacion-fija/)
 - [How to Set TLS Version in Apache HttpClient](https://jlferrete.com/blog/how-to-set-tls-version-in-apache-httpclient/)
-- [Find and Fix Container Image Vulnerabilities with Docker and Snyk](https://jlferrete.com/blog/find-and-fix-container-image-vulnerabilities-with-docker-and-snyk/)
