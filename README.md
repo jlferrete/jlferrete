@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Jefferson Maldonado: Conociendo Divi a fondo, módulos, Theme Builder y más](https://jlferrete.com/blog/jefferson-maldonado-conociendo-divi-a-fondo-modulos-theme-builder-y-mas/)
 - [Sending Emails with Attachments in Java](https://jlferrete.com/blog/sending-emails-with-attachments-in-java/)
 - [Docker Github Actions](https://jlferrete.com/blog/docker-github-actions/)
 - [Cómo desactivar las Google Fonts en el tema Astra](https://jlferrete.com/blog/como-desactivar-las-google-fonts-en-el-tema-astra/)
 - [Pablo Herrada: SEO para e-commerce con WooCommerce](https://jlferrete.com/blog/pablo-herrada-seo-para-e-commerce-con-woocommerce/)
-- [Cómo hacer semi transparente la navegación fija](https://jlferrete.com/blog/como-hacer-semi-transparente-la-navegacion-fija/)
