@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guía avanzada de uso de Redirection, el mejor plugin WordPress para hacer redirecciones](https://jlferrete.com/blog/guia-avanzada-de-uso-de-redirection-el-mejor-plugin-wordpress-para-hacer-redirecciones/)
 - [Reading an HTTP Response Body as a String in Java | Baeldung](https://jlferrete.com/blog/reading-an-http-response-body-as-a-string-in-java-baeldung/)
 - [Crear y diseñar una web de WordPress eficiente en tan solo dos pasos](https://jlferrete.com/blog/crear-y-disenar-una-web-de-wordpress-eficiente-en-tan-solo-dos-pasos/)
 - [Cómo incluir el boton de Pinterest dentro de las imágenes en WordPress](https://jlferrete.com/blog/como-incluir-el-boton-de-pinterest-dentro-de-las-imagenes-en-wordpress/)
 - [Jefferson Maldonado: Conociendo Divi a fondo, módulos, Theme Builder y más](https://jlferrete.com/blog/jefferson-maldonado-conociendo-divi-a-fondo-modulos-theme-builder-y-mas/)
-- [Sending Emails with Attachments in Java](https://jlferrete.com/blog/sending-emails-with-attachments-in-java/)
