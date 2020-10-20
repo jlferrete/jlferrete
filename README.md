@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Review LearnDash: convierte tu conocimiento en un curso on line aunque no sepas nada de programación web](https://jlferrete.com/blog/review-learndash-convierte-tu-conocimiento-en-un-curso-on-line-aunque-no-sepas-nada-de-programacion-web/)
 - [Cómo convertir en hilos de Twitter las entradas de un blog WordPress](https://jlferrete.com/blog/como-convertir-en-hilos-de-twitter-las-entradas-de-un-blog-wordpress/)
 - [Cómo quitar los enlaces de las imágenes destacadas del blog en Astra](https://jlferrete.com/blog/como-quitar-los-enlaces-de-las-imagenes-destacadas-del-blog-en-astra/)
 - [Where Does H2’s Embedded Database Store The Data?](https://jlferrete.com/blog/where-does-h2s-embedded-database-store-the-data/)
 - [Ángel Cano: Tu escuela profesional en WordPress](https://jlferrete.com/blog/angel-cano-tu-escuela-profesional-en-wordpress/)
-- [Cómo extraer tablas de un PDF con Tabula para poderlas usar en Excel u otros programas](https://jlferrete.com/blog/como-extraer-tablas-de-un-pdf-con-tabula-para-poderlas-usar-en-excel-u-otros-programas/)
