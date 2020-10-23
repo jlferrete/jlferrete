@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Webs de una sola página ¿son mejores, peores?](https://jlferrete.com/blog/webs-de-una-sola-pagina-son-mejores-peores/)
 - [Beneficios del email marketing y por qué debes usarlos](https://jlferrete.com/blog/beneficios-del-email-marketing-y-por-que-debes-usarlos/)
 - [Despliega tu aplicación de Laravel con GitHub y Heroku](https://jlferrete.com/blog/despliega-tu-aplicacion-de-laravel-con-github-y-heroku/)
 - [Instalando VMware ESXi en una Raspberry Pi](https://jlferrete.com/blog/instalando-vmware-esxi-en-una-raspberry-pi/)
 - [Personalizar el Loop de WooCommerce](https://jlferrete.com/blog/personalizar-el-loop-de-woocommerce/)
-- [Review LearnDash: convierte tu conocimiento en un curso on line aunque no sepas nada de programación web](https://jlferrete.com/blog/review-learndash-convierte-tu-conocimiento-en-un-curso-on-line-aunque-no-sepas-nada-de-programacion-web/)
