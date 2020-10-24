@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn, la nueva web de Google para aprender a desarrollar aplicaciones](https://jlferrete.com/blog/learn-la-nueva-web-de-google-para-aprender-a-desarrollar-aplicaciones/)
 - [Ubisoft presenta juego móvil gratuito para que los niños aprendan a programar](https://jlferrete.com/blog/ubisoft-presenta-juego-movil-gratuito-para-que-los-ninos-aprendan-a-programar/)
 - [Adaptar Comentarios De WordPress Al RGPD](https://jlferrete.com/blog/adaptar-comentarios-de-wordpress-al-rgpd/)
 - [Webs de una sola página ¿son mejores, peores?](https://jlferrete.com/blog/webs-de-una-sola-pagina-son-mejores-peores/)
 - [Beneficios del email marketing y por qué debes usarlos](https://jlferrete.com/blog/beneficios-del-email-marketing-y-por-que-debes-usarlos/)
-- [Despliega tu aplicación de Laravel con GitHub y Heroku](https://jlferrete.com/blog/despliega-tu-aplicacion-de-laravel-con-github-y-heroku/)
