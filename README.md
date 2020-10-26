@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo buscar frases clave con Yoast SEO y SEMrush](https://jlferrete.com/blog/como-buscar-frases-clave-con-yoast-seo-y-semrush/)
 - [Investiga los problemas de tu WordPress con DebugPress](https://jlferrete.com/blog/investiga-los-problemas-de-tu-wordpress-con-debugpress/)
 - [Building a timeline like Twitter and Facebook](https://jlferrete.com/blog/building-a-timeline-like-twitter-and-facebook/)
 - [Cómo BLOQUEAR ADS y MALWARE con Raspberry Pi 👹…:](https://jlferrete.com/blog/como-bloquear-ads-y-malware-con-raspberry-pi-%f0%9f%91%b9/)
 - [Learn, la nueva web de Google para aprender a desarrollar aplicaciones](https://jlferrete.com/blog/learn-la-nueva-web-de-google-para-aprender-a-desarrollar-aplicaciones/)
-- [Ubisoft presenta juego móvil gratuito para que los niños aprendan a programar](https://jlferrete.com/blog/ubisoft-presenta-juego-movil-gratuito-para-que-los-ninos-aprendan-a-programar/)
