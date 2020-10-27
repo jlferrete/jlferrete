@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guide to Jenkins Parameterized Builds](https://jlferrete.com/blog/guide-to-jenkins-parameterized-builds/)
 - [Cómo hacer un carrusel en Instagram paso a paso](https://jlferrete.com/blog/como-hacer-un-carrusel-en-instagram-paso-a-paso/)
 - [Cómo buscar frases clave con Yoast SEO y SEMrush](https://jlferrete.com/blog/como-buscar-frases-clave-con-yoast-seo-y-semrush/)
 - [Investiga los problemas de tu WordPress con DebugPress](https://jlferrete.com/blog/investiga-los-problemas-de-tu-wordpress-con-debugpress/)
 - [Building a timeline like Twitter and Facebook](https://jlferrete.com/blog/building-a-timeline-like-twitter-and-facebook/)
-- [Cómo BLOQUEAR ADS y MALWARE con Raspberry Pi 👹…:](https://jlferrete.com/blog/como-bloquear-ads-y-malware-con-raspberry-pi-%f0%9f%91%b9/)
