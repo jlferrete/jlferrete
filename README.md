@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Query Monitor para optimizar y depurar tu sitio WordPress](https://jlferrete.com/blog/query-monitor-para-optimizar-y-depurar-tu-sitio-wordpress/)
 - [WooCommerce: Cómo asignar envío gratuito a productos concretos](https://jlferrete.com/blog/woocommerce-como-asignar-envio-gratuito-a-productos-concretos/)
 - [Detecting If a Spring Transaction Is Active](https://jlferrete.com/blog/detecting-if-a-spring-transaction-is-active/)
 - [Finding a Free Port in Java](https://jlferrete.com/blog/finding-a-free-port-in-java/)
 - [Cómo desactivar el marcado de Schema que añade el tema Astra](https://jlferrete.com/blog/como-desactivar-el-marcado-de-schema-que-anade-el-tema-astra/)
-- [Guide to Jenkins Parameterized Builds](https://jlferrete.com/blog/guide-to-jenkins-parameterized-builds/)
