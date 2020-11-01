@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear un curso online en 10 pasos](https://jlferrete.com/blog/como-crear-un-curso-online-en-10-pasos/)
 - [Cómo cambiar el tamaño del tipo de letra en WordPress](https://jlferrete.com/blog/como-cambiar-el-tamano-del-tipo-de-letra-en-wordpress/)
 - [Get Names of Classes Inside a JAR File](https://jlferrete.com/blog/get-names-of-classes-inside-a-jar-file/)
 - [Performance of removeAll() in a HashSet](https://jlferrete.com/blog/performance-of-removeall-in-a-hashset/)
 - [Query Monitor para optimizar y depurar tu sitio WordPress](https://jlferrete.com/blog/query-monitor-para-optimizar-y-depurar-tu-sitio-wordpress/)
-- [WooCommerce: Cómo asignar envío gratuito a productos concretos](https://jlferrete.com/blog/woocommerce-como-asignar-envio-gratuito-a-productos-concretos/)
