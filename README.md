@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Set JWT with Spring Boot and Swagger UI](https://jlferrete.com/blog/set-jwt-with-spring-boot-and-swagger-ui/)
 - [Introducción a Github Actions. Sintaxis básica.](https://jlferrete.com/blog/introduccion-a-github-actions-sintaxis-basica/)
 - [En esta web puedes descargar miles de gráficos vectoriales gratis para usar en proyectos personales o comerciales](https://jlferrete.com/blog/en-esta-web-puedes-descargar-miles-de-graficos-vectoriales-gratis-para-usar-en-proyectos-personales-o-comerciales/)
 - [Alex Ávalos: Instala WordPress en tu propio VPS con Hestia](https://jlferrete.com/blog/alex-avalos-instala-wordpress-en-tu-propio-vps-con-hestia/)
 - [Como convertir una app de React en una app de React Native](https://jlferrete.com/blog/como-convertir-una-app-de-react-en-una-app-de-react-native/)
-- [Cómo crear un curso online en 10 pasos](https://jlferrete.com/blog/como-crear-un-curso-online-en-10-pasos/)
