@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo depurar una aplicación Java con un IDE](https://jlferrete.com/blog/como-depurar-una-aplicacion-java-con-un-ide/)
 - [Actualizando el instalador de paquetes de Laravel](https://jlferrete.com/blog/actualizando-el-instalador-de-paquetes-de-laravel/)
 - [Checking Your Current Docker Pull Rate Limits and Status](https://jlferrete.com/blog/checking-your-current-docker-pull-rate-limits-and-status/)
 - [Casilla de privacidad en checkout de WooCommerce](https://jlferrete.com/blog/casilla-de-privacidad-en-checkout-de-woocommerce/)
 - [Set JWT with Spring Boot and Swagger UI](https://jlferrete.com/blog/set-jwt-with-spring-boot-and-swagger-ui/)
-- [Introducción a Github Actions. Sintaxis básica.](https://jlferrete.com/blog/introduccion-a-github-actions-sintaxis-basica/)
