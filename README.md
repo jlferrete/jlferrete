@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: Top 5 Courses to Learn Redhat OpenShift in 2021](https://jlferrete.com/blog/javarevisited-top-5-courses-to-learn-redhat-openshift-in-2021/)
 - [5 cursos gratuitos de Udemy, tienes 2 días para añadirlos](https://jlferrete.com/blog/5-cursos-gratuitos-de-udemy-tienes-2-dias-para-anadirlos/)
 - [Cómo crear acciones utilizando GitHub Actions](https://jlferrete.com/blog/como-crear-acciones-utilizando-github-actions/)
 - [Cómo depurar una aplicación Java con un IDE](https://jlferrete.com/blog/como-depurar-una-aplicacion-java-con-un-ide/)
 - [Actualizando el instalador de paquetes de Laravel](https://jlferrete.com/blog/actualizando-el-instalador-de-paquetes-de-laravel/)
-- [Checking Your Current Docker Pull Rate Limits and Status](https://jlferrete.com/blog/checking-your-current-docker-pull-rate-limits-and-status/)
