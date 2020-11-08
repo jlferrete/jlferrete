@@ -37,7 +37,7 @@ Please do not hesitate to contact me if you require any futher information at th
 
 -Latest articles: 
 - [Curso de Certificaciones en Google Ads](https://jlferrete.com/blog/curso-de-certificaciones-en-google-ads-2/)
-- [Curso de Certificaciones en Google Ads](https://jlferrete.com/blog/curso-de-certificaciones-en-google-ads/)
 - [Como crear una encuesta en WordPress](https://jlferrete.com/blog/como-crear-una-encuesta-en-wordpress/)
 - [Cómo mostrar tus fotos de Instagram en WordPress con estilo = Spotlight](https://jlferrete.com/blog/como-mostrar-tus-fotos-de-instagram-en-wordpress-con-estilo-spotlight/)
 - [Cómo hacer un Sistema de Ayuda Privado para clientes en WordPress](https://jlferrete.com/blog/como-hacer-un-sistema-de-ayuda-privado-para-clientes-en-wordpress/)
+- [Javarevisited: Top 5 Courses to Learn Redhat OpenShift in 2021](https://jlferrete.com/blog/javarevisited-top-5-courses-to-learn-redhat-openshift-in-2021/)
