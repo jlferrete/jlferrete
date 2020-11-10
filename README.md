@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué es un certificado SSL y cómo protege mis datos](https://jlferrete.com/blog/que-es-un-certificado-ssl-y-como-protege-mis-datos/)
 - [Aprende a usar Dashicons para WordPress](https://jlferrete.com/blog/aprende-a-usar-dashicons-para-wordpress/)
 - [Como instalar WordPress en local paso a paso](https://jlferrete.com/blog/como-instalar-wordpress-en-local-paso-a-paso/)
 - [Curso de Certificaciones en Google Ads](https://jlferrete.com/blog/curso-de-certificaciones-en-google-ads-2/)
 - [Como crear una encuesta en WordPress](https://jlferrete.com/blog/como-crear-una-encuesta-en-wordpress/)
-- [Cómo mostrar tus fotos de Instagram en WordPress con estilo = Spotlight](https://jlferrete.com/blog/como-mostrar-tus-fotos-de-instagram-en-wordpress-con-estilo-spotlight/)
