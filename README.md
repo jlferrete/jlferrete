@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [🚀 Cómo crear una Página Web con Gutenberg: Tutorial 2020](https://jlferrete.com/blog/%f0%9f%9a%80-como-crear-una-pagina-web-con-gutenberg-tutorial-2020/)
 - [Como incluir saltos de enlaces en una misma página con WordPress](https://jlferrete.com/blog/como-incluir-saltos-de-enlaces-en-una-misma-pagina-con-wordpress/)
 - [Javarevisited: How to create PDF File in Java](https://jlferrete.com/blog/javarevisited-how-to-create-pdf-file-in-java/)
 - [Curso de LinkedIn](https://jlferrete.com/blog/curso-de-linkedin/)
 - [¿Qué es React Native?](https://jlferrete.com/blog/que-es-react-native/)
-- [Herramienta muestra cómo las personas perciben los colores de un sitio web](https://jlferrete.com/blog/herramienta-muestra-como-las-personas-perciben-los-colores-de-un-sitio-web/)
