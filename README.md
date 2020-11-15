@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Automate Project Versioning and Releases with Continuous Deployment](https://jlferrete.com/blog/how-to-automate-project-versioning-and-releases-with-continuous-deployment/)
 - [Crea Textos de Colores Animados con CSS](https://jlferrete.com/blog/crea-textos-de-colores-animados-con-css/)
 - [🚀 Cómo crear una Página Web con Gutenberg: Tutorial 2020](https://jlferrete.com/blog/%f0%9f%9a%80-como-crear-una-pagina-web-con-gutenberg-tutorial-2020/)
 - [Como incluir saltos de enlaces en una misma página con WordPress](https://jlferrete.com/blog/como-incluir-saltos-de-enlaces-en-una-misma-pagina-con-wordpress/)
 - [Javarevisited: How to create PDF File in Java](https://jlferrete.com/blog/javarevisited-how-to-create-pdf-file-in-java/)
-- [Curso de LinkedIn](https://jlferrete.com/blog/curso-de-linkedin/)
