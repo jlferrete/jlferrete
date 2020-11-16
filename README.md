@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Android 11 llega a la Raspberry Pi 4](https://jlferrete.com/blog/android-11-llega-a-la-raspberry-pi-4/)
 - [Automatically Fetch Facebook Page Events With Laravel Dusk](https://jlferrete.com/blog/automatically-fetch-facebook-page-events-with-laravel-dusk/)
 - [Comparte tu desarrollo web en local con tus clientes](https://jlferrete.com/blog/comparte-tu-desarrollo-web-en-local-con-tus-clientes/)
 - [How to Automate Project Versioning and Releases with Continuous Deployment](https://jlferrete.com/blog/how-to-automate-project-versioning-and-releases-with-continuous-deployment/)
 - [Crea Textos de Colores Animados con CSS](https://jlferrete.com/blog/crea-textos-de-colores-animados-con-css/)
-- [🚀 Cómo crear una Página Web con Gutenberg: Tutorial 2020](https://jlferrete.com/blog/%f0%9f%9a%80-como-crear-una-pagina-web-con-gutenberg-tutorial-2020/)
