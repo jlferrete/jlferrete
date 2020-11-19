@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WooCommerce: Avisar al cliente si ya ha comprado antes un producto](https://jlferrete.com/blog/woocommerce-avisar-al-cliente-si-ya-ha-comprado-antes-un-producto/)
 - [Reduciendo el embudo de ventas en WordPress](https://jlferrete.com/blog/reduciendo-el-embudo-de-ventas-en-wordpress/)
 - [Cómo configurar un email corporativo en Gmail](https://jlferrete.com/blog/como-configurar-un-email-corporativo-en-gmail/)
 - [Cómo adaptar los estilos del tema Astra para cursos online con Sensei LMS](https://jlferrete.com/blog/como-adaptar-los-estilos-del-tema-astra-para-cursos-online-con-sensei-lms/)
 - [RoboLinux 11: una distro muy avanzada que deberías conocer](https://jlferrete.com/blog/robolinux-11-una-distro-muy-avanzada-que-deberias-conocer/)
-- [Construye, testea y publica tu aplicación Java con Github Actions](https://jlferrete.com/blog/construye-testea-y-publica-tu-aplicacion-java-con-github-actions/)
