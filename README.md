@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [DAFO personal](https://jlferrete.com/blog/dafo-personal/)
 - [Truco Divi: Cómo desactivar el enlace a la imagen en las galerías](https://jlferrete.com/blog/truco-divi-como-desactivar-el-enlace-a-la-imagen-en-las-galerias/)
 - [Guía de inicio para utilizar Google Analytics en WordPress](https://jlferrete.com/blog/guia-de-inicio-para-utilizar-google-analytics-en-wordpress/)
 - [WooCommerce: Avisar al cliente si ya ha comprado antes un producto](https://jlferrete.com/blog/woocommerce-avisar-al-cliente-si-ya-ha-comprado-antes-un-producto/)
 - [Reduciendo el embudo de ventas en WordPress](https://jlferrete.com/blog/reduciendo-el-embudo-de-ventas-en-wordpress/)
-- [Cómo configurar un email corporativo en Gmail](https://jlferrete.com/blog/como-configurar-un-email-corporativo-en-gmail/)
