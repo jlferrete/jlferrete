@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Empieza a recibir donaciones, propinas y contribuciones por tus proyectos profesionales y creativos](https://jlferrete.com/blog/empieza-a-recibir-donaciones-propinas-y-contribuciones-por-tus-proyectos-profesionales-y-creativos/)
 - [Las 10 mejores plantillas de Divi](https://jlferrete.com/blog/las-10-mejores-plantillas-de-divi/)
 - [Emitir trazas de las peticiones y respuestas HTTP](https://jlferrete.com/blog/emitir-trazas-de-las-peticiones-y-respuestas-http/)
 - [PHP 8 Crash Course: How to Install PHP 8](https://jlferrete.com/blog/php-8-crash-course-how-to-install-php-8/)
 - [DAFO personal](https://jlferrete.com/blog/dafo-personal/)
-- [Truco Divi: Cómo desactivar el enlace a la imagen en las galerías](https://jlferrete.com/blog/truco-divi-como-desactivar-el-enlace-a-la-imagen-en-las-galerias/)
