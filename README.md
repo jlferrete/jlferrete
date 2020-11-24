@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Nikon está ofreciendo gratis todas las clases de fotografía de su escuela online hasta que acabe el año](https://jlferrete.com/blog/nikon-esta-ofreciendo-gratis-todas-las-clases-de-fotografia-de-su-escuela-online-hasta-que-acabe-el-ano/)
 - [Cómo limpiar a fondo tu teclado mecánico](https://jlferrete.com/blog/como-limpiar-a-fondo-tu-teclado-mecanico/)
 - [Aprende JavaScript gratis](https://jlferrete.com/blog/aprende-javascript-gratis/)
 - [Cómo instalar y configurar Laravel Enlighten](https://jlferrete.com/blog/como-instalar-y-configurar-laravel-enlighten/)
 - [Empieza a recibir donaciones, propinas y contribuciones por tus proyectos profesionales y creativos](https://jlferrete.com/blog/empieza-a-recibir-donaciones-propinas-y-contribuciones-por-tus-proyectos-profesionales-y-creativos/)
-- [Las 10 mejores plantillas de Divi](https://jlferrete.com/blog/las-10-mejores-plantillas-de-divi/)
