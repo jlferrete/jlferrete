@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo cambiar el H2 de los encabezados de los widgets del tema Astra para mejorar el SEO](https://jlferrete.com/blog/como-cambiar-el-h2-de-los-encabezados-de-los-widgets-del-tema-astra-para-mejorar-el-seo/)
 - [Cómo convertir una Raspberry Pi en un servidor NAS](https://jlferrete.com/blog/como-convertir-una-raspberry-pi-en-un-servidor-nas/)
 - [React Functional Components, Props, and JSX – React.js Tutorial for Beginners](https://jlferrete.com/blog/react-functional-components-props-and-jsx-react-js-tutorial-for-beginners/)
 - [Nikon está ofreciendo gratis todas las clases de fotografía de su escuela online hasta que acabe el año](https://jlferrete.com/blog/nikon-esta-ofreciendo-gratis-todas-las-clases-de-fotografia-de-su-escuela-online-hasta-que-acabe-el-ano/)
 - [Cómo limpiar a fondo tu teclado mecánico](https://jlferrete.com/blog/como-limpiar-a-fondo-tu-teclado-mecanico/)
-- [Aprende JavaScript gratis](https://jlferrete.com/blog/aprende-javascript-gratis/)
