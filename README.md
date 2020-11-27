@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Localizing Exception Messages in Java](https://jlferrete.com/blog/localizing-exception-messages-in-java/)
 - [Manual de WordPress en vídeo y para principiantes](https://jlferrete.com/blog/manual-de-wordpress-en-video-y-para-principiantes/)
 - [Mostrar Productos de WooCommerce al Estilo Carrusel](https://jlferrete.com/blog/mostrar-productos-de-woocommerce-al-estilo-carrusel/)
 - [Cómo cambiar el H2 de los encabezados de los widgets del tema Astra para mejorar el SEO](https://jlferrete.com/blog/como-cambiar-el-h2-de-los-encabezados-de-los-widgets-del-tema-astra-para-mejorar-el-seo/)
 - [Cómo convertir una Raspberry Pi en un servidor NAS](https://jlferrete.com/blog/como-convertir-una-raspberry-pi-en-un-servidor-nas/)
-- [React Functional Components, Props, and JSX – React.js Tutorial for Beginners](https://jlferrete.com/blog/react-functional-components-props-and-jsx-react-js-tutorial-for-beginners/)
