@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Instalando y configurando una nueva aplicación con Laravel Breeze y Enlighten](https://jlferrete.com/blog/instalando-y-configurando-una-nueva-aplicacion-con-laravel-breeze-y-enlighten/)
 - [Cómo activar el modo oscuro en el tema Twenty Twenty-One](https://jlferrete.com/blog/como-activar-el-modo-oscuro-en-el-tema-twenty-twenty-one/)
 - [Cómo cambiar el punto de ruptura de tableta o móvil en el tema Astra](https://jlferrete.com/blog/como-cambiar-el-punto-de-ruptura-de-tableta-o-movil-en-el-tema-astra/)
 - [PHP 8 is Released!](https://jlferrete.com/blog/php-8-is-released/)
 - [Localizing Exception Messages in Java](https://jlferrete.com/blog/localizing-exception-messages-in-java/)
-- [Manual de WordPress en vídeo y para principiantes](https://jlferrete.com/blog/manual-de-wordpress-en-video-y-para-principiantes/)
