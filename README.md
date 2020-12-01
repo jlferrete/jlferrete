@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Top 5 Free Oracle SQL and Database courses to Learn Online](https://jlferrete.com/blog/top-5-free-oracle-sql-and-database-courses-to-learn-online/)
 - [Curso de la API de WordPress](https://jlferrete.com/blog/curso-de-la-api-de-wordpress/)
 - [Cómo instalar y comenzar el desarrollo de una aplicación con Laravel 8 en Linux, Mac o Windows](https://jlferrete.com/blog/como-instalar-y-comenzar-el-desarrollo-de-una-aplicacion-con-laravel-8-en-linux-mac-o-windows/)
 - [Curso intermedio de Stripe](https://jlferrete.com/blog/curso-intermedio-de-stripe/)
 - [Chrome Extensions You Should Install Today](https://jlferrete.com/blog/chrome-extensions-you-should-install-today/)
-- [Instalando y configurando una nueva aplicación con Laravel Breeze y Enlighten](https://jlferrete.com/blog/instalando-y-configurando-una-nueva-aplicacion-con-laravel-breeze-y-enlighten/)
