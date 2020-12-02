@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo insertar vistas panorámicas 360º de Google Maps en WordPress](https://jlferrete.com/blog/como-insertar-vistas-panoramicas-360o-de-google-maps-en-wordpress/)
 - [Top 5 Free Oracle SQL and Database courses to Learn Online](https://jlferrete.com/blog/top-5-free-oracle-sql-and-database-courses-to-learn-online/)
 - [Curso de la API de WordPress](https://jlferrete.com/blog/curso-de-la-api-de-wordpress/)
 - [Cómo instalar y comenzar el desarrollo de una aplicación con Laravel 8 en Linux, Mac o Windows](https://jlferrete.com/blog/como-instalar-y-comenzar-el-desarrollo-de-una-aplicacion-con-laravel-8-en-linux-mac-o-windows/)
 - [Curso intermedio de Stripe](https://jlferrete.com/blog/curso-intermedio-de-stripe/)
-- [Chrome Extensions You Should Install Today](https://jlferrete.com/blog/chrome-extensions-you-should-install-today/)
