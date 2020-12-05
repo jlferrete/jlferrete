@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crear web de Afiliados con WooCommerce](https://jlferrete.com/blog/crear-web-de-afiliados-con-woocommerce/)
 - [Cómo destacar un elemento del menú con CSS](https://jlferrete.com/blog/como-destacar-un-elemento-del-menu-con-css/)
 - [Experto WordPress](https://jlferrete.com/blog/experto-wordpress/)
 - [Los elementos que todo sitio web profesional debe tener](https://jlferrete.com/blog/los-elementos-que-todo-sitio-web-profesional-debe-tener/)
 - [How to deploy a Laravel App into Heroku](https://jlferrete.com/blog/how-to-deploy-a-laravel-app-into-heroku/)
-- [6 Plugins para el Diseño y Desarrollo del Framework de Genesis](https://jlferrete.com/blog/6-plugins-para-el-diseno-y-desarrollo-del-framework-de-genesis/)
