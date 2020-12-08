@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo organizar los medios de WordPress en carpetas personalizadas y por usuario](https://jlferrete.com/blog/como-organizar-los-medios-de-wordpress-en-carpetas-personalizadas-y-por-usuario/)
 - [Buenas prácticas usando WordPress](https://jlferrete.com/blog/buenas-practicas-usando-wordpress/)
 - [Clases CSS basadas en el Rol de usuario en WordPress](https://jlferrete.com/blog/clases-css-basadas-en-el-rol-de-usuario-en-wordpress/)
 - [Optimizar scripts y estilos automáticamente es un arma de doble filo](https://jlferrete.com/blog/optimizar-scripts-y-estilos-automaticamente-es-un-arma-de-doble-filo/)
 - [Creating a Generic Array in Java](https://jlferrete.com/blog/creating-a-generic-array-in-java/)
-- [Crear web de Afiliados con WooCommerce](https://jlferrete.com/blog/crear-web-de-afiliados-con-woocommerce/)
