@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Traducir tu WordPress en varios idiomas, ¿qué plugin usar?](https://jlferrete.com/blog/traducir-tu-wordpress-en-varios-idiomas-que-plugin-usar/)
 - [Larissa Murillo, Henry Ramírez: Cómo implementar tu propia plataforma de eventos virtuales en WordPress](https://jlferrete.com/blog/larissa-murillo-henry-ramirez-como-implementar-tu-propia-plataforma-de-eventos-virtuales-en-wordpress/)
 - [Lombok, una pequeña maravilla](https://jlferrete.com/blog/lombok-una-pequena-maravilla/)
 - [¿Qué es un servidor NAS y para qué puedes usarlo? | Tecnología](https://jlferrete.com/blog/que-es-un-servidor-nas-y-para-que-puedes-usarlo-tecnologia/)
 - [Cómo organizar los medios de WordPress en carpetas personalizadas y por usuario](https://jlferrete.com/blog/como-organizar-los-medios-de-wordpress-en-carpetas-personalizadas-y-por-usuario/)
-- [Buenas prácticas usando WordPress](https://jlferrete.com/blog/buenas-practicas-usando-wordpress/)
