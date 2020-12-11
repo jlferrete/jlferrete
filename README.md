@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Spring Boot 2.4.1 available now](https://jlferrete.com/blog/spring-boot-2-4-1-available-now/)
 - [Informática en estado puro: cómo tener acceso completo a Linux y herramientas de programación en un Chromebook](https://jlferrete.com/blog/informatica-en-estado-puro-como-tener-acceso-completo-a-linux-y-herramientas-de-programacion-en-un-chromebook/)
 - [Los mejores teclados diseñados para usuarios zurdos](https://jlferrete.com/blog/los-mejores-teclados-disenados-para-usuarios-zurdos/)
 - [Cómo crear un servidor Linux usando AWS](https://jlferrete.com/blog/como-crear-un-servidor-linux-usando-aws/)
 - [Traducir tu WordPress en varios idiomas, ¿qué plugin usar?](https://jlferrete.com/blog/traducir-tu-wordpress-en-varios-idiomas-que-plugin-usar/)
-- [Larissa Murillo, Henry Ramírez: Cómo implementar tu propia plataforma de eventos virtuales en WordPress](https://jlferrete.com/blog/larissa-murillo-henry-ramirez-como-implementar-tu-propia-plataforma-de-eventos-virtuales-en-wordpress/)
