@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ya está disponible PHP 8.0, con compilador JIT y numerosas novedades en su sintaxis](https://jlferrete.com/blog/ya-esta-disponible-php-8-0-con-compilador-jit-y-numerosas-novedades-en-su-sintaxis/)
 - [Headless CMS: qué son y en qué se diferencian de los CMS tradicionales](https://jlferrete.com/blog/headless-cms-que-son-y-en-que-se-diferencian-de-los-cms-tradicionales/)
 - [Spring Boot 2.4.1 available now](https://jlferrete.com/blog/spring-boot-2-4-1-available-now/)
 - [Informática en estado puro: cómo tener acceso completo a Linux y herramientas de programación en un Chromebook](https://jlferrete.com/blog/informatica-en-estado-puro-como-tener-acceso-completo-a-linux-y-herramientas-de-programacion-en-un-chromebook/)
 - [Los mejores teclados diseñados para usuarios zurdos](https://jlferrete.com/blog/los-mejores-teclados-disenados-para-usuarios-zurdos/)
-- [Cómo crear un servidor Linux usando AWS](https://jlferrete.com/blog/como-crear-un-servidor-linux-usando-aws/)
