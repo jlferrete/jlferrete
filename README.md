@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crear menú pegajoso en WordPress](https://jlferrete.com/blog/crear-menu-pegajoso-en-wordpress/)
 - [Cómo añadir cabeceras de seguridad HTTP en WordPress](https://jlferrete.com/blog/como-anadir-cabeceras-de-seguridad-http-en-wordpress/)
 - [Curso de WP CLI](https://jlferrete.com/blog/curso-de-wp-cli/)
 - [Raúl Martínez, Adrián Cobo, Esther Solà, Nahuai Badiola: Integra tu WordPress con tu sistema ¿Qué es la REST API?](https://jlferrete.com/blog/raul-martinez-adrian-cobo-esther-sola-nahuai-badiola-integra-tu-wordpress-con-tu-sistema-que-es-la-rest-api/)
 - [5 Aplicaciones para armar arboles genealógicos](https://jlferrete.com/blog/5-aplicaciones-para-armar-arboles-genealogicos/)
-- [Ya está disponible PHP 8.0, con compilador JIT y numerosas novedades en su sintaxis](https://jlferrete.com/blog/ya-esta-disponible-php-8-0-con-compilador-jit-y-numerosas-novedades-en-su-sintaxis/)
