@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ocho sistemas operativos no-Linux que puedes instalar en tu Raspberry Pi](https://jlferrete.com/blog/ocho-sistemas-operativos-no-linux-que-puedes-instalar-en-tu-raspberry-pi/)
 - [Cómo hacer obligatorios u opcionales los campos al finalizar compra en WooCommerce](https://jlferrete.com/blog/como-hacer-obligatorios-u-opcionales-los-campos-al-finalizar-compra-en-woocommerce/)
 - [Cómo crear un formulario de pago sencillo en WordPress](https://jlferrete.com/blog/como-crear-un-formulario-de-pago-sencillo-en-wordpress/)
 - [Native CSS Masonry Layout In CSS Grid](https://jlferrete.com/blog/native-css-masonry-layout-in-css-grid/)
 - [Crear menú pegajoso en WordPress](https://jlferrete.com/blog/crear-menu-pegajoso-en-wordpress/)
-- [Cómo añadir cabeceras de seguridad HTTP en WordPress](https://jlferrete.com/blog/como-anadir-cabeceras-de-seguridad-http-en-wordpress/)
