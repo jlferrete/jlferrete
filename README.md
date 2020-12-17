@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Gamer](https://jlferrete.com/blog/curso-de-gamer/)
 - [10 CONSEJOS para crear el MEJOR CURRICULUM en 2020](https://jlferrete.com/blog/10-consejos-para-crear-el-mejor-curriculum-en-2020/)
 - [Ocho sistemas operativos no-Linux que puedes instalar en tu Raspberry Pi](https://jlferrete.com/blog/ocho-sistemas-operativos-no-linux-que-puedes-instalar-en-tu-raspberry-pi/)
 - [Cómo hacer obligatorios u opcionales los campos al finalizar compra en WooCommerce](https://jlferrete.com/blog/como-hacer-obligatorios-u-opcionales-los-campos-al-finalizar-compra-en-woocommerce/)
 - [Cómo crear un formulario de pago sencillo en WordPress](https://jlferrete.com/blog/como-crear-un-formulario-de-pago-sencillo-en-wordpress/)
-- [Native CSS Masonry Layout In CSS Grid](https://jlferrete.com/blog/native-css-masonry-layout-in-css-grid/)
