@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [María G. Pérez: Cómo dar soporte y no morir en el intento – https://t.co/3ffchge1id](https://jlferrete.com/blog/maria-g-perez-como-dar-soporte-y-no-morir-en-el-intento-https-t-co-3ffchge1id/)
 - [Javarevisited: 5 Free Online Courses to Learn OpenCV and Computer Vision in 2021](https://jlferrete.com/blog/javarevisited-5-free-online-courses-to-learn-opencv-and-computer-vision-in-2021/)
 - [Curso de Gamer](https://jlferrete.com/blog/curso-de-gamer/)
 - [10 CONSEJOS para crear el MEJOR CURRICULUM en 2020](https://jlferrete.com/blog/10-consejos-para-crear-el-mejor-curriculum-en-2020/)
 - [Ocho sistemas operativos no-Linux que puedes instalar en tu Raspberry Pi](https://jlferrete.com/blog/ocho-sistemas-operativos-no-linux-que-puedes-instalar-en-tu-raspberry-pi/)
-- [Cómo hacer obligatorios u opcionales los campos al finalizar compra en WooCommerce](https://jlferrete.com/blog/como-hacer-obligatorios-u-opcionales-los-campos-al-finalizar-compra-en-woocommerce/)
