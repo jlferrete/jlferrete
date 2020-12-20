@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo trabajar con bloques de WordPress en Node.js](https://jlferrete.com/blog/como-trabajar-con-bloques-de-wordpress-en-node-js/)
 - [Angular 11: Lo nuevo y como instalarlo paso a paso – Victor Robles](https://jlferrete.com/blog/angular-11-lo-nuevo-y-como-instalarlo-paso-a-paso-victor-robles/)
 - [Creación de un theme de WordPress orientado a bloques](https://jlferrete.com/blog/creacion-de-un-theme-de-wordpress-orientado-a-bloques/)
 - [María G. Pérez: Cómo dar soporte y no morir en el intento – https://t.co/3ffchge1id](https://jlferrete.com/blog/maria-g-perez-como-dar-soporte-y-no-morir-en-el-intento-https-t-co-3ffchge1id/)
 - [Javarevisited: 5 Free Online Courses to Learn OpenCV and Computer Vision in 2021](https://jlferrete.com/blog/javarevisited-5-free-online-courses-to-learn-opencv-and-computer-vision-in-2021/)
-- [Curso de Gamer](https://jlferrete.com/blog/curso-de-gamer/)
