@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo añadir el NIF/NIE/CIF en WooCommerce](https://jlferrete.com/blog/como-anadir-el-nif-nie-cif-en-woocommerce/)
 - [How to Create a Favicon That Changes Automatically](https://jlferrete.com/blog/how-to-create-a-favicon-that-changes-automatically/)
 - [Supporting Open Source Projects at Docker](https://jlferrete.com/blog/supporting-open-source-projects-at-docker/)
 - [Guía de instalación de Fedora 33 Workstation](https://jlferrete.com/blog/guia-de-instalacion-de-fedora-33-workstation/)
 - [Cómo trabajar con bloques de WordPress en Node.js](https://jlferrete.com/blog/como-trabajar-con-bloques-de-wordpress-en-node-js/)
-- [Angular 11: Lo nuevo y como instalarlo paso a paso – Victor Robles](https://jlferrete.com/blog/angular-11-lo-nuevo-y-como-instalarlo-paso-a-paso-victor-robles/)
