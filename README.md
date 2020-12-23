@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Truco Astra: Botón de añadir al carrito sobre la imagen del producto al pasar el cursor](https://jlferrete.com/blog/truco-astra-boton-de-anadir-al-carrito-sobre-la-imagen-del-producto-al-pasar-el-cursor/)
 - [WooCommerce: Cómo mostrar productos comprados juntos habitualmente](https://jlferrete.com/blog/woocommerce-como-mostrar-productos-comprados-juntos-habitualmente/)
 - [Letra capital en párrafos en WordPress](https://jlferrete.com/blog/letra-capital-en-parrafos-en-wordpress/)
 - [Cómo añadir el NIF/NIE/CIF en WooCommerce](https://jlferrete.com/blog/como-anadir-el-nif-nie-cif-en-woocommerce/)
 - [How to Create a Favicon That Changes Automatically](https://jlferrete.com/blog/how-to-create-a-favicon-that-changes-automatically/)
-- [Supporting Open Source Projects at Docker](https://jlferrete.com/blog/supporting-open-source-projects-at-docker/)
