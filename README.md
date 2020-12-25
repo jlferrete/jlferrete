@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [React Movie App Tutorial – Build A Fun Portfolio Project with React and the OMBD API](https://jlferrete.com/blog/react-movie-app-tutorial-build-a-fun-portfolio-project-with-react-and-the-ombd-api/)
 - [Raspbian mejora el rendimiento de la Raspberry Pi en videollamadas](https://jlferrete.com/blog/raspbian-mejora-el-rendimiento-de-la-raspberry-pi-en-videollamadas/)
 - [Cuáles son los mejores gestores de contenido web](https://jlferrete.com/blog/cuales-son-los-mejores-gestores-de-contenido-web/)
 - [Truco Astra: Botón de añadir al carrito sobre la imagen del producto al pasar el cursor](https://jlferrete.com/blog/truco-astra-boton-de-anadir-al-carrito-sobre-la-imagen-del-producto-al-pasar-el-cursor/)
 - [WooCommerce: Cómo mostrar productos comprados juntos habitualmente](https://jlferrete.com/blog/woocommerce-como-mostrar-productos-comprados-juntos-habitualmente/)
-- [Letra capital en párrafos en WordPress](https://jlferrete.com/blog/letra-capital-en-parrafos-en-wordpress/)
