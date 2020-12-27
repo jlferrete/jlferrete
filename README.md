@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo ordenar los contenidos de una taxonomía en WordPress](https://jlferrete.com/blog/como-ordenar-los-contenidos-de-una-taxonomia-en-wordpress/)
 - [Convierte automáticamente tus entradas de blog en cursos online de Sensei LMS](https://jlferrete.com/blog/convierte-automaticamente-tus-entradas-de-blog-en-cursos-online-de-sensei-lms/)
 - [Acelera la carga de tu web controlando lity.css GDPR Cookie Compliance](https://jlferrete.com/blog/acelera-la-carga-de-tu-web-controlando-lity-css-gdpr-cookie-compliance/)
 - [🥇 Cómo hacer una página web en WordPress – Guía fácil](https://jlferrete.com/blog/%f0%9f%a5%87-como-hacer-una-pagina-web-en-wordpress-guia-facil/)
 - [React Movie App Tutorial – Build A Fun Portfolio Project with React and the OMBD API](https://jlferrete.com/blog/react-movie-app-tutorial-build-a-fun-portfolio-project-with-react-and-the-ombd-api/)
-- [Raspbian mejora el rendimiento de la Raspberry Pi en videollamadas](https://jlferrete.com/blog/raspbian-mejora-el-rendimiento-de-la-raspberry-pi-en-videollamadas/)
