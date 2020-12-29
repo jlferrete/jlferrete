@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Joan Ráez: Tips para mejorar tu Woocommerce](https://jlferrete.com/blog/joan-raez-tips-para-mejorar-tu-woocommerce/)
 - [Cómo crear y personalizar una tienda online y sus productos con Divi](https://jlferrete.com/blog/como-crear-y-personalizar-una-tienda-online-y-sus-productos-con-divi/)
 - [Revisa tu seguridad con WPScan](https://jlferrete.com/blog/revisa-tu-seguridad-con-wpscan/)
 - [Añadir código de Google Analytics sin plugins en WordPress](https://jlferrete.com/blog/anadir-codigo-de-google-analytics-sin-plugins-en-wordpress/)
 - [Cómo ordenar los contenidos de una taxonomía en WordPress](https://jlferrete.com/blog/como-ordenar-los-contenidos-de-una-taxonomia-en-wordpress/)
-- [Convierte automáticamente tus entradas de blog en cursos online de Sensei LMS](https://jlferrete.com/blog/convierte-automaticamente-tus-entradas-de-blog-en-cursos-online-de-sensei-lms/)
