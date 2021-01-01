@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn Python by Building 12 Projects in This 3-Hour Course](https://jlferrete.com/blog/learn-python-by-building-12-projects-in-this-3-hour-course/)
 - [Marcar lecciones como favoritas en LearnDash](https://jlferrete.com/blog/marcar-lecciones-como-favoritas-en-learndash/)
 - [Guía completa de los patrones de bloques de Gutenberg (I)](https://jlferrete.com/blog/guia-completa-de-los-patrones-de-bloques-de-gutenberg-i/)
 - [Lotería con WordPress](https://jlferrete.com/blog/loteria-con-wordpress/)
 - [Desactivar Emails De Actualizaciones Automáticas](https://jlferrete.com/blog/desactivar-emails-de-actualizaciones-automaticas/)
-- [Cómo configurar y asignar pagos a varias cuentas de Stripe en WooCommerce](https://jlferrete.com/blog/como-configurar-y-asignar-pagos-a-varias-cuentas-de-stripe-en-woocommerce/)
