@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [La guía completa sobre los patrones de bloques de Gutenberg (II)](https://jlferrete.com/blog/la-guia-completa-sobre-los-patrones-de-bloques-de-gutenberg-ii/)
 - [Learn How to Use React and GraphQL to Make a Full Stack Social Network](https://jlferrete.com/blog/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network/)
 - [10 JavaScript Hacks Every Web Developer Should Know](https://jlferrete.com/blog/10-javascript-hacks-every-web-developer-should-know/)
 - [Cómo crear y desplegar microservicios con Spring Boot, Spring Cloud Netflix y Docker](https://jlferrete.com/blog/como-crear-y-desplegar-microservicios-con-spring-boot-spring-cloud-netflix-y-docker/)
 - [Learn Python by Building 12 Projects in This 3-Hour Course](https://jlferrete.com/blog/learn-python-by-building-12-projects-in-this-3-hour-course/)
-- [Marcar lecciones como favoritas en LearnDash](https://jlferrete.com/blog/marcar-lecciones-como-favoritas-en-learndash/)
