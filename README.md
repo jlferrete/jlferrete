@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ciclo de vida de un sitio web hecho con WordPress](https://jlferrete.com/blog/ciclo-de-vida-de-un-sitio-web-hecho-con-wordpress/)
 - [Cómo leer un PDF línea por línea utilizando PDFBox](https://jlferrete.com/blog/como-leer-un-pdf-linea-por-linea-utilizando-pdfbox/)
 - [The definitive guide to JavaScript Debugging [2021 Edition]](https://jlferrete.com/blog/the-definitive-guide-to-javascript-debugging-2021-edition/)
 - [Curso de CSS Grid](https://jlferrete.com/blog/curso-de-css-grid/)
 - [How to Create a Discord Bot for Free with Python – Full Tutorial](https://jlferrete.com/blog/how-to-create-a-discord-bot-for-free-with-python-full-tutorial/)
-- [La guía completa sobre los patrones de bloques de Gutenberg (II)](https://jlferrete.com/blog/la-guia-completa-sobre-los-patrones-de-bloques-de-gutenberg-ii/)
