@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo aplicar el branding de tu cliente a su WooCommerce](https://jlferrete.com/blog/como-aplicar-el-branding-de-tu-cliente-a-su-woocommerce/)
 - [Bizum en WordPress](https://jlferrete.com/blog/bizum-en-wordpress/)
 - [Adrián Cobo: Haz bien los hooks en el checkout de WooCommerce](https://jlferrete.com/blog/adrian-cobo-haz-bien-los-hooks-en-el-checkout-de-woocommerce/)
 - [Guía completa sobre los patrones de Gutenberg (III)](https://jlferrete.com/blog/guia-completa-sobre-los-patrones-de-gutenberg-iii/)
 - [Ciclo de vida de un sitio web hecho con WordPress](https://jlferrete.com/blog/ciclo-de-vida-de-un-sitio-web-hecho-con-wordpress/)
-- [Cómo leer un PDF línea por línea utilizando PDFBox](https://jlferrete.com/blog/como-leer-un-pdf-linea-por-linea-utilizando-pdfbox/)
