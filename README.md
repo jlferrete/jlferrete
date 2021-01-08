@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [8 errores comunes al empezar con WordPress](https://jlferrete.com/blog/8-errores-comunes-al-empezar-con-wordpress/)
 - [Plugin de Programación de TV y Horario para WordPress](https://jlferrete.com/blog/plugin-de-programacion-de-tv-y-horario-para-wordpress/)
 - [Cómo aplicar el branding de tu cliente a su WooCommerce](https://jlferrete.com/blog/como-aplicar-el-branding-de-tu-cliente-a-su-woocommerce/)
 - [Bizum en WordPress](https://jlferrete.com/blog/bizum-en-wordpress/)
 - [Adrián Cobo: Haz bien los hooks en el checkout de WooCommerce](https://jlferrete.com/blog/adrian-cobo-haz-bien-los-hooks-en-el-checkout-de-woocommerce/)
-- [Guía completa sobre los patrones de Gutenberg (III)](https://jlferrete.com/blog/guia-completa-sobre-los-patrones-de-gutenberg-iii/)
