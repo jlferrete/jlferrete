@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Plugin para bloquear usuarios (listas negras o blacklist) en WooCommerce](https://jlferrete.com/blog/plugin-para-bloquear-usuarios-listas-negras-o-blacklist-en-woocommerce/)
 - [He comprado un dominio ¿qué puedo hacer con él?](https://jlferrete.com/blog/he-comprado-un-dominio-que-puedo-hacer-con-el/)
 - [8 errores comunes al empezar con WordPress](https://jlferrete.com/blog/8-errores-comunes-al-empezar-con-wordpress/)
 - [Plugin de Programación de TV y Horario para WordPress](https://jlferrete.com/blog/plugin-de-programacion-de-tv-y-horario-para-wordpress/)
 - [Cómo aplicar el branding de tu cliente a su WooCommerce](https://jlferrete.com/blog/como-aplicar-el-branding-de-tu-cliente-a-su-woocommerce/)
-- [Bizum en WordPress](https://jlferrete.com/blog/bizum-en-wordpress/)
