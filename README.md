@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WordPress, PSD2 y SCA ¿qué tengo que hacer para cumplir en mi tienda online?](https://jlferrete.com/blog/wordpress-psd2-y-sca-que-tengo-que-hacer-para-cumplir-en-mi-tienda-online/)
 - [Algunas estrategias para automatizar sus pruebas de WordPress](https://jlferrete.com/blog/algunas-estrategias-para-automatizar-sus-pruebas-de-wordpress/)
 - [WP-CLI para generar rápidamente un sitio web protegido y dar mantenimiento](https://jlferrete.com/blog/wp-cli-para-generar-rapidamente-un-sitio-web-protegido-y-dar-mantenimiento/)
 - [Jesús Amieiro Becerra: Necesito un entorno de desarrollo local, pero, ¿cuál elijo?](https://jlferrete.com/blog/jesus-amieiro-becerra-necesito-un-entorno-de-desarrollo-local-pero-cual-elijo/)
 - [WooCommerce Redsys Gateway 13.0.x](https://jlferrete.com/blog/woocommerce-redsys-gateway-13-0-x/)
-- [Plugin para bloquear usuarios (listas negras o blacklist) en WooCommerce](https://jlferrete.com/blog/plugin-para-bloquear-usuarios-listas-negras-o-blacklist-en-woocommerce/)
