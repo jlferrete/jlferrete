@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WP-CLI para generar rápidamente un sitio web protegido y dar mantenimiento](https://jlferrete.com/blog/wp-cli-para-generar-rapidamente-un-sitio-web-protegido-y-dar-mantenimiento/)
 - [Jesús Amieiro Becerra: Necesito un entorno de desarrollo local, pero, ¿cuál elijo?](https://jlferrete.com/blog/jesus-amieiro-becerra-necesito-un-entorno-de-desarrollo-local-pero-cual-elijo/)
 - [WooCommerce Redsys Gateway 13.0.x](https://jlferrete.com/blog/woocommerce-redsys-gateway-13-0-x/)
 - [Plugin para bloquear usuarios (listas negras o blacklist) en WooCommerce](https://jlferrete.com/blog/plugin-para-bloquear-usuarios-listas-negras-o-blacklist-en-woocommerce/)
 - [He comprado un dominio ¿qué puedo hacer con él?](https://jlferrete.com/blog/he-comprado-un-dominio-que-puedo-hacer-con-el/)
-- [8 errores comunes al empezar con WordPress](https://jlferrete.com/blog/8-errores-comunes-al-empezar-con-wordpress/)
