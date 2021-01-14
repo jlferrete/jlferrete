@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Publicar artículos de forma automática en WordPress](https://jlferrete.com/blog/publicar-articulos-de-forma-automatica-en-wordpress/)
 - [Mejores empresas de hosting para WooCommerce. Lee antes de contratar](https://jlferrete.com/blog/mejores-empresas-de-hosting-para-woocommerce-lee-antes-de-contratar/)
 - [Oria Wagner: Seguridad WooCommerce. Guía completa para principiantes](https://jlferrete.com/blog/oria-wagner-seguridad-woocommerce-guia-completa-para-principiantes/)
 - [Noemi Leon: Claves para la gestión de proyectos de software](https://jlferrete.com/blog/noemi-leon-claves-para-la-gestion-de-proyectos-de-software/)
 - [Cómo crear tu escuela online paso a paso](https://jlferrete.com/blog/como-crear-tu-escuela-online-paso-a-paso/)
-- [WordPress, PSD2 y SCA ¿qué tengo que hacer para cumplir en mi tienda online?](https://jlferrete.com/blog/wordpress-psd2-y-sca-que-tengo-que-hacer-para-cumplir-en-mi-tienda-online/)
