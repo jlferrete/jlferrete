@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Área de un triángulo escaleno con los lados – Línea de Código](https://jlferrete.com/blog/area-de-un-triangulo-escaleno-con-los-lados-linea-de-codigo/)
 - [Aprende Git de manera sencilla](https://jlferrete.com/blog/aprende-git-de-manera-sencilla/)
 - [GitHub Actions para desarrolladores WordPress](https://jlferrete.com/blog/github-actions-para-desarrolladores-wordpress/)
 - [Publicar artículos de forma automática en WordPress](https://jlferrete.com/blog/publicar-articulos-de-forma-automatica-en-wordpress/)
 - [Mejores empresas de hosting para WooCommerce. Lee antes de contratar](https://jlferrete.com/blog/mejores-empresas-de-hosting-para-woocommerce-lee-antes-de-contratar/)
-- [Oria Wagner: Seguridad WooCommerce. Guía completa para principiantes](https://jlferrete.com/blog/oria-wagner-seguridad-woocommerce-guia-completa-para-principiantes/)
