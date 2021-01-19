@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ejercicios con for en python](https://jlferrete.com/blog/ejercicios-con-for-en-python/)
 - [Script en Python para rastrear los precios en Amazon – Mi Diario Python](https://jlferrete.com/blog/script-en-python-para-rastrear-los-precios-en-amazon-mi-diario-python/)
 - [Espejo Inteligente Casero Con Raspberry Pi – Tutorial Completo](https://jlferrete.com/blog/espejo-inteligente-casero-con-raspberry-pi-tutorial-completo/)
 - [Editar PDF con herramientas integradas en Google Drive](https://jlferrete.com/blog/editar-pdf-con-herramientas-integradas-en-google-drive/)
 - [Curso sobre Agilidad GRATIS, en ONLINE y EN DIRECTO](https://jlferrete.com/blog/curso-sobre-agilidad-gratis-en-online-y-en-directo/)
-- [Solucionar ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://jlferrete.com/blog/solucionar-err_ssl_version_or_cipher_mismatch/)
