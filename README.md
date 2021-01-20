@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Premiere](https://jlferrete.com/blog/curso-de-premiere/)
 - [Login en Instagram con Python y Selenium (Automatización web)](https://jlferrete.com/blog/login-en-instagram-con-python-y-selenium-automatizacion-web/)
 - [Ejercicios con for en python](https://jlferrete.com/blog/ejercicios-con-for-en-python/)
 - [Script en Python para rastrear los precios en Amazon – Mi Diario Python](https://jlferrete.com/blog/script-en-python-para-rastrear-los-precios-en-amazon-mi-diario-python/)
 - [Espejo Inteligente Casero Con Raspberry Pi – Tutorial Completo](https://jlferrete.com/blog/espejo-inteligente-casero-con-raspberry-pi-tutorial-completo/)
-- [Editar PDF con herramientas integradas en Google Drive](https://jlferrete.com/blog/editar-pdf-con-herramientas-integradas-en-google-drive/)
