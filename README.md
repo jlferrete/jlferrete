@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Miguel Fuentes: Jerarquía de plantillas en WordPress](https://jlferrete.com/blog/miguel-fuentes-jerarquia-de-plantillas-en-wordpress/)
 - [Roberto Remedios: ¿Cómo revisar si mi sitio web es accesible?](https://jlferrete.com/blog/roberto-remedios-como-revisar-si-mi-sitio-web-es-accesible/)
 - [Vanessa Martínez: Influencers: ¿cómo definir e implementar una estrategia correcta?](https://jlferrete.com/blog/vanessa-martinez-influencers-como-definir-e-implementar-una-estrategia-correcta/)
 - [Curso de Premiere](https://jlferrete.com/blog/curso-de-premiere/)
 - [Login en Instagram con Python y Selenium (Automatización web)](https://jlferrete.com/blog/login-en-instagram-con-python-y-selenium-automatizacion-web/)
-- [Ejercicios con for en python](https://jlferrete.com/blog/ejercicios-con-for-en-python/)
