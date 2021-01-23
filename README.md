@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to integrate Zoom Meeting APIs with Laravel](https://jlferrete.com/blog/how-to-integrate-zoom-meeting-apis-with-laravel/)
 - [Edwin Xico: WooCommerce y sistemas in-house o ERPs](https://jlferrete.com/blog/edwin-xico-woocommerce-y-sistemas-in-house-o-erps/)
 - [Arnold Mañozca: Técnicas avanzadas de scraping para crear contenido automatizado y monetizar](https://jlferrete.com/blog/arnold-manozca-tecnicas-avanzadas-de-scraping-para-crear-contenido-automatizado-y-monetizar/)
 - [Miguel Fuentes: Jerarquía de plantillas en WordPress](https://jlferrete.com/blog/miguel-fuentes-jerarquia-de-plantillas-en-wordpress/)
 - [Roberto Remedios: ¿Cómo revisar si mi sitio web es accesible?](https://jlferrete.com/blog/roberto-remedios-como-revisar-si-mi-sitio-web-es-accesible/)
-- [Vanessa Martínez: Influencers: ¿cómo definir e implementar una estrategia correcta?](https://jlferrete.com/blog/vanessa-martinez-influencers-como-definir-e-implementar-una-estrategia-correcta/)
