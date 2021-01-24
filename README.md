@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Top 10 Tools Python Developers Should Learn in 2021](https://jlferrete.com/blog/top-10-tools-python-developers-should-learn-in-2021/)
 - [Diego Nieto: Configuraciones SEO técnicas que tu ecommerce necesita tener](https://jlferrete.com/blog/diego-nieto-configuraciones-seo-tecnicas-que-tu-ecommerce-necesita-tener/)
 - [Mejores Plugins para Añadir Tablas y Gráficas en WordPress](https://jlferrete.com/blog/mejores-plugins-para-anadir-tablas-y-graficas-en-wordpress/)
 - [How to integrate Zoom Meeting APIs with Laravel](https://jlferrete.com/blog/how-to-integrate-zoom-meeting-apis-with-laravel/)
 - [Edwin Xico: WooCommerce y sistemas in-house o ERPs](https://jlferrete.com/blog/edwin-xico-woocommerce-y-sistemas-in-house-o-erps/)
-- [Arnold Mañozca: Técnicas avanzadas de scraping para crear contenido automatizado y monetizar](https://jlferrete.com/blog/arnold-manozca-tecnicas-avanzadas-de-scraping-para-crear-contenido-automatizado-y-monetizar/)
