@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Adios a Whatsapp?](https://jlferrete.com/blog/adios-a-whatsapp/)
 - [How to Use Thread.sleep Without Blocking on the JVM](https://jlferrete.com/blog/how-to-use-thread-sleep-without-blocking-on-the-jvm/)
 - [How to Code a Scraping Bot with Selenium and Python](https://jlferrete.com/blog/how-to-code-a-scraping-bot-with-selenium-and-python/)
 - [Tutorial: How to Build and Integrate Drupal 8 Menus](https://jlferrete.com/blog/tutorial-how-to-build-and-integrate-drupal-8-menus/)
 - [Nombre de dominio web ¿Qué es y cómo elegir el tuyo?](https://jlferrete.com/blog/nombre-de-dominio-web-que-es-y-como-elegir-el-tuyo/)
-- [El gestor de paquetes NPM, usado para difundir malware entre los desarrolladores de aplicaciones NodeJS](https://jlferrete.com/blog/el-gestor-de-paquetes-npm-usado-para-difundir-malware-entre-los-desarrolladores-de-aplicaciones-nodejs/)
