@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crear un sitio One Page en WordPress](https://jlferrete.com/blog/crear-un-sitio-one-page-en-wordpress/)
 - [Plugins WordPress buscador de piezas de vehiculos en WooCommerce](https://jlferrete.com/blog/plugins-wordpress-buscador-de-piezas-de-vehiculos-en-woocommerce/)
 - [Barras de progreso en las aplicaciones Python con tqdm](https://jlferrete.com/blog/barras-de-progreso-en-las-aplicaciones-python-con-tqdm/)
 - [¿Adios a Whatsapp?](https://jlferrete.com/blog/adios-a-whatsapp/)
 - [How to Use Thread.sleep Without Blocking on the JVM](https://jlferrete.com/blog/how-to-use-thread-sleep-without-blocking-on-the-jvm/)
-- [How to Code a Scraping Bot with Selenium and Python](https://jlferrete.com/blog/how-to-code-a-scraping-bot-with-selenium-and-python/)
