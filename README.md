@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Todos los atajos de teclado de Divi](https://jlferrete.com/blog/todos-los-atajos-de-teclado-de-divi/)
 - [Laravel Artisan Cheatsheet](https://jlferrete.com/blog/laravel-artisan-cheatsheet/)
 - [25 cursos gratuitos de tecnología para empezar en febrero](https://jlferrete.com/blog/25-cursos-gratuitos-de-tecnologia-para-empezar-en-febrero/)
 - [Bootiful Application Monitoring with Azure Spring Cloud](https://jlferrete.com/blog/bootiful-application-monitoring-with-azure-spring-cloud/)
 - [Fernando Tellado: Qué tengo que hacer para poder competir con Amazon usando WordPress y WooCommerce](https://jlferrete.com/blog/fernando-tellado-que-tengo-que-hacer-para-poder-competir-con-amazon-usando-wordpress-y-woocommerce/)
-- [Create a Blog with Laravel Migrations, Model Factories and Seeding](https://jlferrete.com/blog/create-a-blog-with-laravel-migrations-model-factories-and-seeding/)
