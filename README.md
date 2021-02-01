@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Leer datos desde otra base de datos en WordPress](https://jlferrete.com/blog/leer-datos-desde-otra-base-de-datos-en-wordpress/)
 - [Todos los atajos de teclado de Divi](https://jlferrete.com/blog/todos-los-atajos-de-teclado-de-divi/)
 - [Laravel Artisan Cheatsheet](https://jlferrete.com/blog/laravel-artisan-cheatsheet/)
 - [25 cursos gratuitos de tecnología para empezar en febrero](https://jlferrete.com/blog/25-cursos-gratuitos-de-tecnologia-para-empezar-en-febrero/)
 - [Bootiful Application Monitoring with Azure Spring Cloud](https://jlferrete.com/blog/bootiful-application-monitoring-with-azure-spring-cloud/)
-- [Fernando Tellado: Qué tengo que hacer para poder competir con Amazon usando WordPress y WooCommerce](https://jlferrete.com/blog/fernando-tellado-que-tengo-que-hacer-para-poder-competir-con-amazon-usando-wordpress-y-woocommerce/)
