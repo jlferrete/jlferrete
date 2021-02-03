@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [LAMP env para Drupal 9 con Docker](https://jlferrete.com/blog/lamp-env-para-drupal-9-con-docker/)
 - [Como hacer que los mapas de Google tengan un diseño responsive](https://jlferrete.com/blog/como-hacer-que-los-mapas-de-google-tengan-un-diseno-responsive/)
 - [Cómo modificar ajustes del tema Astra de páginas y entradas por lotes en vez de una a una](https://jlferrete.com/blog/como-modificar-ajustes-del-tema-astra-de-paginas-y-entradas-por-lotes-en-vez-de-una-a-una/)
 - [Espaciar bordes de una tabla con CSS](https://jlferrete.com/blog/espaciar-bordes-de-una-tabla-con-css/)
 - [Leer datos desde otra base de datos en WordPress](https://jlferrete.com/blog/leer-datos-desde-otra-base-de-datos-en-wordpress/)
-- [Todos los atajos de teclado de Divi](https://jlferrete.com/blog/todos-los-atajos-de-teclado-de-divi/)
