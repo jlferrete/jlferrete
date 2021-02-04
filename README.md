@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Trucos y Consejos para Combinar Tipografías](https://jlferrete.com/blog/trucos-y-consejos-para-combinar-tipografias/)
 - [Cómo establecer un pedido mínimo y máximo en tu tienda online WooCommerce](https://jlferrete.com/blog/como-establecer-un-pedido-minimo-y-maximo-en-tu-tienda-online-woocommerce/)
 - [Javarevisited: 10 Examples of Essential Linux Commands for Programmers](https://jlferrete.com/blog/javarevisited-10-examples-of-essential-linux-commands-for-programmers/)
 - [LAMP env para Drupal 9 con Docker](https://jlferrete.com/blog/lamp-env-para-drupal-9-con-docker/)
 - [Como hacer que los mapas de Google tengan un diseño responsive](https://jlferrete.com/blog/como-hacer-que-los-mapas-de-google-tengan-un-diseno-responsive/)
-- [Cómo modificar ajustes del tema Astra de páginas y entradas por lotes en vez de una a una](https://jlferrete.com/blog/como-modificar-ajustes-del-tema-astra-de-paginas-y-entradas-por-lotes-en-vez-de-una-a-una/)
