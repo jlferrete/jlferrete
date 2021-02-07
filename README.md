@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Generar IPs con Java](https://jlferrete.com/blog/generar-ips-con-java/)
 - [MX Linux, nueva distro para instalar en el Raspberry Pi](https://jlferrete.com/blog/mx-linux-nueva-distro-para-instalar-en-el-raspberry-pi/)
 - [Charla abierta: SEO para WordPress](https://jlferrete.com/blog/charla-abierta-seo-para-wordpress/)
 - [AutoSubtitle, herramienta automática y gratuita para subtitular vídeos](https://jlferrete.com/blog/autosubtitle-herramienta-automatica-y-gratuita-para-subtitular-videos/)
 - [Cómo organizar reuniones con videollamadas Zoom desde una web WordPress](https://jlferrete.com/blog/como-organizar-reuniones-con-videollamadas-zoom-desde-una-web-wordpress/)
-- [Trucos y Consejos para Combinar Tipografías](https://jlferrete.com/blog/trucos-y-consejos-para-combinar-tipografias/)
