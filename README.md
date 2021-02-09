@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo eliminar todos los shortcodes de Divi al cambiar de tema](https://jlferrete.com/blog/como-eliminar-todos-los-shortcodes-de-divi-al-cambiar-de-tema/)
 - [Información de Usuario Twitter con Java](https://jlferrete.com/blog/informacion-de-usuario-twitter-con-java/)
 - [Fechas en formato local con Javascript](https://jlferrete.com/blog/fechas-en-formato-local-con-javascript/)
 - [Cómo cambiar el orden de los elementos del menú secundario de Divi](https://jlferrete.com/blog/como-cambiar-el-orden-de-los-elementos-del-menu-secundario-de-divi/)
 - [Generar IPs con Java](https://jlferrete.com/blog/generar-ips-con-java/)
-- [MX Linux, nueva distro para instalar en el Raspberry Pi](https://jlferrete.com/blog/mx-linux-nueva-distro-para-instalar-en-el-raspberry-pi/)
