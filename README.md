@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [En esto consiste la labor de un desarrollador Full Stack: un perfil laboral todoterreno](https://jlferrete.com/blog/en-esto-consiste-la-labor-de-un-desarrollador-full-stack-un-perfil-laboral-todoterreno/)
 - [Aprende Git de manera sencilla. Capítulo 3: Comandos básicos](https://jlferrete.com/blog/aprende-git-de-manera-sencilla-capitulo-3-comandos-basicos/)
 - [PHP 8 en WordPress, qué necesitas saber](https://jlferrete.com/blog/php-8-en-wordpress-que-necesitas-saber/)
 - [Evitar la carga del plugin Contact form 7 en todas las paginas](https://jlferrete.com/blog/evitar-la-carga-del-plugin-contact-form-7-en-todas-las-paginas/)
 - [Cómo eliminar todos los shortcodes de Divi al cambiar de tema](https://jlferrete.com/blog/como-eliminar-todos-los-shortcodes-de-divi-al-cambiar-de-tema/)
-- [Información de Usuario Twitter con Java](https://jlferrete.com/blog/informacion-de-usuario-twitter-con-java/)
