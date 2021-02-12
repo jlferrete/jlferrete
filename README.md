@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Es necesario tener transparencia de precios en el diseño web?](https://jlferrete.com/blog/es-necesario-tener-transparencia-de-precios-en-el-diseno-web/)
 - [WordPress 5.7 permite cambiar de HTTP a HTTPS en un clic](https://jlferrete.com/blog/wordpress-5-7-permite-cambiar-de-http-a-https-en-un-clic/)
 - [En esto consiste la labor de un desarrollador Full Stack: un perfil laboral todoterreno](https://jlferrete.com/blog/en-esto-consiste-la-labor-de-un-desarrollador-full-stack-un-perfil-laboral-todoterreno/)
 - [Aprende Git de manera sencilla. Capítulo 3: Comandos básicos](https://jlferrete.com/blog/aprende-git-de-manera-sencilla-capitulo-3-comandos-basicos/)
 - [PHP 8 en WordPress, qué necesitas saber](https://jlferrete.com/blog/php-8-en-wordpress-que-necesitas-saber/)
-- [Evitar la carga del plugin Contact form 7 en todas las paginas](https://jlferrete.com/blog/evitar-la-carga-del-plugin-contact-form-7-en-todas-las-paginas/)
