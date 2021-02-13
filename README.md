@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [203. Extensiones de Google Chrome para WordPress](https://jlferrete.com/blog/203-extensiones-de-google-chrome-para-wordpress/)
 - [Cómo enlazar automáticamente a las pestañas de producto de WooCommerce desde la descripción corta](https://jlferrete.com/blog/como-enlazar-automaticamente-a-las-pestanas-de-producto-de-woocommerce-desde-la-descripcion-corta/)
 - [¿Es necesario tener transparencia de precios en el diseño web?](https://jlferrete.com/blog/es-necesario-tener-transparencia-de-precios-en-el-diseno-web/)
 - [WordPress 5.7 permite cambiar de HTTP a HTTPS en un clic](https://jlferrete.com/blog/wordpress-5-7-permite-cambiar-de-http-a-https-en-un-clic/)
 - [En esto consiste la labor de un desarrollador Full Stack: un perfil laboral todoterreno](https://jlferrete.com/blog/en-esto-consiste-la-labor-de-un-desarrollador-full-stack-un-perfil-laboral-todoterreno/)
-- [Aprende Git de manera sencilla. Capítulo 3: Comandos básicos](https://jlferrete.com/blog/aprende-git-de-manera-sencilla-capitulo-3-comandos-basicos/)
