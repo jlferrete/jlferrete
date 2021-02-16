@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cargar imágenes por resolución con HTML5](https://jlferrete.com/blog/cargar-imagenes-por-resolucion-con-html5/)
 - [Guía de instalación de GNU/Linux para la Raspberry Pi](https://jlferrete.com/blog/guia-de-instalacion-de-gnu-linux-para-la-raspberry-pi/)
 - [20 años de Agile Manifesto. Pasado, presente y futuro](https://jlferrete.com/blog/20-anos-de-agile-manifesto-pasado-presente-y-futuro/)
 - [Aplanar arrays en Javascript](https://jlferrete.com/blog/aplanar-arrays-en-javascript/)
 - [Curso de OBS](https://jlferrete.com/blog/curso-de-obs/)
-- [Enseñar programación a un niño con Scratch desde cero: consejos, tutoriales y vídeos](https://jlferrete.com/blog/ensenar-programacion-a-un-nino-con-scratch-desde-cero-consejos-tutoriales-y-videos/)
