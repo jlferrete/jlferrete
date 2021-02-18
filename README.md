@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Maquetar en el nuevo editor de WordPress (Gutenberg)](https://jlferrete.com/blog/maquetar-en-el-nuevo-editor-de-wordpress-gutenberg/)
 - [Cómo solucionar el error crítico de WordPress](https://jlferrete.com/blog/como-solucionar-el-error-critico-de-wordpress/)
 - [Que es un Framework para WordPress y que ventajas tiene](https://jlferrete.com/blog/que-es-un-framework-para-wordpress-y-que-ventajas-tiene/)
 - [Cómo desactivar la animación por defecto de las galerías de imágenes de Divi](https://jlferrete.com/blog/como-desactivar-la-animacion-por-defecto-de-las-galerias-de-imagenes-de-divi/)
 - [Cargar imágenes por resolución con HTML5](https://jlferrete.com/blog/cargar-imagenes-por-resolucion-con-html5/)
-- [Guía de instalación de GNU/Linux para la Raspberry Pi](https://jlferrete.com/blog/guia-de-instalacion-de-gnu-linux-para-la-raspberry-pi/)
