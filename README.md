@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso práctico de patrones de bloques (para el usuario final)](https://jlferrete.com/blog/curso-practico-de-patrones-de-bloques-para-el-usuario-final/)
 - [20 años de Agilidad: Una guía GRATIS sobre Historias de Usuario](https://jlferrete.com/blog/20-anos-de-agilidad-una-guia-gratis-sobre-historias-de-usuario/)
 - [Maquetar en el nuevo editor de WordPress (Gutenberg)](https://jlferrete.com/blog/maquetar-en-el-nuevo-editor-de-wordpress-gutenberg/)
 - [Cómo solucionar el error crítico de WordPress](https://jlferrete.com/blog/como-solucionar-el-error-critico-de-wordpress/)
 - [Que es un Framework para WordPress y que ventajas tiene](https://jlferrete.com/blog/que-es-un-framework-para-wordpress-y-que-ventajas-tiene/)
-- [Cómo desactivar la animación por defecto de las galerías de imágenes de Divi](https://jlferrete.com/blog/como-desactivar-la-animacion-por-defecto-de-las-galerias-de-imagenes-de-divi/)
