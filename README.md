@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Matriz de cadenas en Java](https://jlferrete.com/blog/matriz-de-cadenas-en-java/)
 - [Java HashMap Load Factor](https://jlferrete.com/blog/java-hashmap-load-factor/)
 - [Podcast en WordPress con Anchor y Seriously Simple Podcasting](https://jlferrete.com/blog/podcast-en-wordpress-con-anchor-y-seriously-simple-podcasting/)
 - [Cómo añadir un mensaje personalizado al pagar en WooCommerce según el país seleccionado](https://jlferrete.com/blog/como-anadir-un-mensaje-personalizado-al-pagar-en-woocommerce-segun-el-pais-seleccionado/)
 - [Curso práctico de patrones de bloques (para el usuario final)](https://jlferrete.com/blog/curso-practico-de-patrones-de-bloques-para-el-usuario-final/)
-- [20 años de Agilidad: Una guía GRATIS sobre Historias de Usuario](https://jlferrete.com/blog/20-anos-de-agilidad-una-guia-gratis-sobre-historias-de-usuario/)
