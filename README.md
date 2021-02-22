@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Bucle foreach en Javascript](https://jlferrete.com/blog/bucle-foreach-en-javascript/)
 - [Número mayor y menor en una matriz](https://jlferrete.com/blog/numero-mayor-y-menor-en-una-matriz/)
 - [Rotar una matriz](https://jlferrete.com/blog/rotar-una-matriz/)
 - [Matriz de cadenas en Java](https://jlferrete.com/blog/matriz-de-cadenas-en-java/)
 - [Java HashMap Load Factor](https://jlferrete.com/blog/java-hashmap-load-factor/)
-- [Podcast en WordPress con Anchor y Seriously Simple Podcasting](https://jlferrete.com/blog/podcast-en-wordpress-con-anchor-y-seriously-simple-podcasting/)
