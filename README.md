@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Rotar matriz a la izquierda](https://jlferrete.com/blog/rotar-matriz-a-la-izquierda/)
 - [Curso de Prestashop](https://jlferrete.com/blog/curso-de-prestashop/)
 - [Tareas del Community Manager](https://jlferrete.com/blog/tareas-del-community-manager/)
 - [DeVTalles. Podcast de @Fernando_Her85. Os lo recomiendo a todos!](https://jlferrete.com/blog/devtalles-podcast-de-fernando_her85-os-lo-recomiendo-a-todos/)
 - [Bucle foreach en Javascript](https://jlferrete.com/blog/bucle-foreach-en-javascript/)
-- [Número mayor y menor en una matriz](https://jlferrete.com/blog/numero-mayor-y-menor-en-una-matriz/)
