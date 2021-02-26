@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Para crear flujos de trabajo para la creación y publicación en canales de YouTube](https://jlferrete.com/blog/para-crear-flujos-de-trabajo-para-la-creacion-y-publicacion-en-canales-de-youtube/)
 - [Cómo poner en marcha una tienda online de forma sencilla](https://jlferrete.com/blog/como-poner-en-marcha-una-tienda-online-de-forma-sencilla/)
 - [Una herramienta gratuita para crear historias interactivas desde la web](https://jlferrete.com/blog/una-herramienta-gratuita-para-crear-historias-interactivas-desde-la-web/)
 - [Rotar matriz a la izquierda](https://jlferrete.com/blog/rotar-matriz-a-la-izquierda/)
 - [Curso de Prestashop](https://jlferrete.com/blog/curso-de-prestashop/)
-- [Tareas del Community Manager](https://jlferrete.com/blog/tareas-del-community-manager/)
