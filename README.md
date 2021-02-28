@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Cómo abrir un archivo PDF en Python? https://t.co/LE7pHlBAyL](https://jlferrete.com/blog/como-abrir-un-archivo-pdf-en-python-https-t-co-le7phlbayl/)
 - [Configuring Message Retention Period in Apache Kafka](https://jlferrete.com/blog/configuring-message-retention-period-in-apache-kafka/)
 - [Personalizar página de gracias de WooCommerce](https://jlferrete.com/blog/personalizar-pagina-de-gracias-de-woocommerce/)
 - [Las 10 mejores herramientas SEO para tu WordPress](https://jlferrete.com/blog/las-10-mejores-herramientas-seo-para-tu-wordpress/)
 - [Cómo ejecutar scripts Python automáticamente todos los días en Windows](https://jlferrete.com/blog/como-ejecutar-scripts-python-automaticamente-todos-los-dias-en-windows/)
-- [Para crear flujos de trabajo para la creación y publicación en canales de YouTube](https://jlferrete.com/blog/para-crear-flujos-de-trabajo-para-la-creacion-y-publicacion-en-canales-de-youtube/)
