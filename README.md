@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Use Visual Studio Code with Java? https://t.co/dDclqzwE8v](https://jlferrete.com/blog/how-to-use-visual-studio-code-with-java-https-t-co-ddclqzwe8v/)
 - [Exportar / importar la configuración del personalizador de temas en WordPress https://t.co/5YRisRR8eq](https://jlferrete.com/blog/exportar-importar-la-configuracion-del-personalizador-de-temas-en-wordpress-https-t-co-5yrisrr8eq/)
 - [¿Cómo abrir un archivo PDF en Python? https://t.co/LE7pHlBAyL](https://jlferrete.com/blog/como-abrir-un-archivo-pdf-en-python-https-t-co-le7phlbayl/)
 - [Configuring Message Retention Period in Apache Kafka](https://jlferrete.com/blog/configuring-message-retention-period-in-apache-kafka/)
 - [Personalizar página de gracias de WooCommerce](https://jlferrete.com/blog/personalizar-pagina-de-gracias-de-woocommerce/)
-- [Las 10 mejores herramientas SEO para tu WordPress](https://jlferrete.com/blog/las-10-mejores-herramientas-seo-para-tu-wordpress/)
