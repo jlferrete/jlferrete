@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de desarrollo de add-ons para Google Workspace](https://jlferrete.com/blog/curso-de-desarrollo-de-add-ons-para-google-workspace/)
 - [Qué es el error 400 y cómo solucionar https://t.co/czU4FaWpPo](https://jlferrete.com/blog/que-es-el-error-400-y-como-solucionar-https-t-co-czu4fawppo/)
 - [Free for dev: una lista de software y productos para desarrolladores que tienen versiones gratis https://t.co/YTsD3T6SXO](https://jlferrete.com/blog/free-for-dev-una-lista-de-software-y-productos-para-desarrolladores-que-tienen-versiones-gratis-https-t-co-ytsd3t6sxo/)
 - [Seguridad: formularios, acceso y contraseña https://t.co/EKQmibl9DO](https://jlferrete.com/blog/seguridad-formularios-acceso-y-contrasena-https-t-co-ekqmibl9do/)
 - [Cómo cambiar el texto «Seleccionar página» del menú móvil de Divi https://t.co/BfPcFgk0lI](https://jlferrete.com/blog/como-cambiar-el-texto-seleccionar-pagina-del-menu-movil-de-divi-https-t-co-bfpcfgk0li/)
-- [How to Use Visual Studio Code with Java? https://t.co/dDclqzwE8v](https://jlferrete.com/blog/how-to-use-visual-studio-code-with-java-https-t-co-ddclqzwe8v/)
