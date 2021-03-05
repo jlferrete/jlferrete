@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [REST API: JAX-RS vs Spring](https://jlferrete.com/blog/rest-api-jax-rs-vs-spring/)
 - [Rotar polígonos en HTML5](https://jlferrete.com/blog/rotar-poligonos-en-html5/)
 - [Curso de desarrollo de add-ons para Google Workspace](https://jlferrete.com/blog/curso-de-desarrollo-de-add-ons-para-google-workspace/)
 - [Qué es el error 400 y cómo solucionar https://t.co/czU4FaWpPo](https://jlferrete.com/blog/que-es-el-error-400-y-como-solucionar-https-t-co-czu4fawppo/)
 - [Free for dev: una lista de software y productos para desarrolladores que tienen versiones gratis https://t.co/YTsD3T6SXO](https://jlferrete.com/blog/free-for-dev-una-lista-de-software-y-productos-para-desarrolladores-que-tienen-versiones-gratis-https-t-co-ytsd3t6sxo/)
-- [Seguridad: formularios, acceso y contraseña https://t.co/EKQmibl9DO](https://jlferrete.com/blog/seguridad-formularios-acceso-y-contrasena-https-t-co-ekqmibl9do/)
