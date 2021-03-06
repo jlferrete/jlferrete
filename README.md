@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de desarrollo de add-ons para Google Workspace](https://jlferrete.com/blog/curso-de-desarrollo-de-add-ons-para-google-workspace-2/)
 - [Juanka Díaz: Campos personalizados en WordPress con ACF y todo lo que podemos hacer](https://jlferrete.com/blog/juanka-diaz-campos-personalizados-en-wordpress-con-acf-y-todo-lo-que-podemos-hacer/)
 - [Los 12 mejores editores de vídeo gratis + cursos gratis para usarlos](https://jlferrete.com/blog/los-12-mejores-editores-de-video-gratis-cursos-gratis-para-usarlos/)
 - [REST API: JAX-RS vs Spring](https://jlferrete.com/blog/rest-api-jax-rs-vs-spring/)
 - [Rotar polígonos en HTML5](https://jlferrete.com/blog/rotar-poligonos-en-html5/)
-- [Curso de desarrollo de add-ons para Google Workspace](https://jlferrete.com/blog/curso-de-desarrollo-de-add-ons-para-google-workspace/)
