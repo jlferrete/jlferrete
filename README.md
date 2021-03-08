@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Better Click to Tweet: Guía de uso básico y avanzado ¡Tuitea esto!](https://jlferrete.com/blog/better-click-to-tweet-guia-de-uso-basico-y-avanzado-tuitea-esto/)
 - [Rotar listas con slicing en Python](https://jlferrete.com/blog/rotar-listas-con-slicing-en-python/)
 - [Curso de acústica para podcasting](https://jlferrete.com/blog/curso-de-acustica-para-podcasting/)
 - [Curso de desarrollo de add-ons para Google Workspace](https://jlferrete.com/blog/curso-de-desarrollo-de-add-ons-para-google-workspace-2/)
 - [Juanka Díaz: Campos personalizados en WordPress con ACF y todo lo que podemos hacer](https://jlferrete.com/blog/juanka-diaz-campos-personalizados-en-wordpress-con-acf-y-todo-lo-que-podemos-hacer/)
-- [Los 12 mejores editores de vídeo gratis + cursos gratis para usarlos](https://jlferrete.com/blog/los-12-mejores-editores-de-video-gratis-cursos-gratis-para-usarlos/)
