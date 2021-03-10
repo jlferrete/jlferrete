@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Apps para resumir textos de forma automática](https://jlferrete.com/blog/apps-para-resumir-textos-de-forma-automatica/)
 - [José Ángel: Exportación e importación de productos en WooCommerce](https://jlferrete.com/blog/jose-angel-exportacion-e-importacion-de-productos-en-woocommerce/)
 - [Aprende Git de manera sencilla: Trabajando con Ramas](https://jlferrete.com/blog/aprende-git-de-manera-sencilla-trabajando-con-ramas/)
 - [Better Click to Tweet: Guía de uso básico y avanzado ¡Tuitea esto!](https://jlferrete.com/blog/better-click-to-tweet-guia-de-uso-basico-y-avanzado-tuitea-esto/)
 - [Rotar listas con slicing en Python](https://jlferrete.com/blog/rotar-listas-con-slicing-en-python/)
-- [Curso de acústica para podcasting](https://jlferrete.com/blog/curso-de-acustica-para-podcasting/)
