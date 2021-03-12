@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso gratis de Community Manager con certificado oficial de Facebook, en español](https://jlferrete.com/blog/curso-gratis-de-community-manager-con-certificado-oficial-de-facebook-en-espanol/)
 - [A Guide to SAML with Spring Security](https://jlferrete.com/blog/a-guide-to-saml-with-spring-security/)
 - [Curso de Accesibilidad](https://jlferrete.com/blog/curso-de-accesibilidad/)
 - [How To Configure Java Heap Size Inside a Docker Container](https://jlferrete.com/blog/how-to-configure-java-heap-size-inside-a-docker-container/)
 - [Apps para resumir textos de forma automática](https://jlferrete.com/blog/apps-para-resumir-textos-de-forma-automatica/)
-- [José Ángel: Exportación e importación de productos en WooCommerce](https://jlferrete.com/blog/jose-angel-exportacion-e-importacion-de-productos-en-woocommerce/)
