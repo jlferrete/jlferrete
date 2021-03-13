@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Aumenta la Velocidad de WordPress con estos 15 consejos](https://jlferrete.com/blog/aumenta-la-velocidad-de-wordpress-con-estos-15-consejos/)
 - [Cómo crear un perfil LinkedIn atractivo](https://jlferrete.com/blog/como-crear-un-perfil-linkedin-atractivo/)
 - [Curso gratis de Community Manager con certificado oficial de Facebook, en español](https://jlferrete.com/blog/curso-gratis-de-community-manager-con-certificado-oficial-de-facebook-en-espanol/)
 - [A Guide to SAML with Spring Security](https://jlferrete.com/blog/a-guide-to-saml-with-spring-security/)
 - [Curso de Accesibilidad](https://jlferrete.com/blog/curso-de-accesibilidad/)
-- [How To Configure Java Heap Size Inside a Docker Container](https://jlferrete.com/blog/how-to-configure-java-heap-size-inside-a-docker-container/)
