@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Google y Coursera lanzan nuevos programas educativos con certificados](https://jlferrete.com/blog/google-y-coursera-lanzan-nuevos-programas-educativos-con-certificados/)
 - [Spring Security OAuth Authorization Server](https://jlferrete.com/blog/spring-security-oauth-authorization-server/)
 - [Métricas de TikTok que todo creador debe analizar (+Plantilla)](https://jlferrete.com/blog/metricas-de-tiktok-que-todo-creador-debe-analizar-plantilla/)
 - [Alternativas a Github Auto Alojadas o Auto Administradas (self hosted, self managed)](https://jlferrete.com/blog/alternativas-a-github-auto-alojadas-o-auto-administradas-self-hosted-self-managed/)
 - [Control remoto para dispositivos Raspberry Pi con https://t.co/jqApCPjdaV](https://jlferrete.com/blog/control-remoto-para-dispositivos-raspberry-pi-con-https-t-co-jqapcpjdav/)
-- [Sólo ver y editar pedidos en WooCommerce](https://jlferrete.com/blog/solo-ver-y-editar-pedidos-en-woocommerce/)
