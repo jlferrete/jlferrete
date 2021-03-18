@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Tengo una idea y quiero patentarla: cómo lo hago y qué recomiendan los expertos](https://jlferrete.com/blog/tengo-una-idea-y-quiero-patentarla-como-lo-hago-y-que-recomiendan-los-expertos/)
 - [Cómo crear ciudades 3D aleatorias](https://jlferrete.com/blog/como-crear-ciudades-3d-aleatorias/)
 - [Block Editor – Tutorial Básico](https://jlferrete.com/blog/block-editor-tutorial-basico/)
 - [Google y Coursera lanzan nuevos programas educativos con certificados](https://jlferrete.com/blog/google-y-coursera-lanzan-nuevos-programas-educativos-con-certificados/)
 - [Spring Security OAuth Authorization Server](https://jlferrete.com/blog/spring-security-oauth-authorization-server/)
-- [Métricas de TikTok que todo creador debe analizar (+Plantilla)](https://jlferrete.com/blog/metricas-de-tiktok-que-todo-creador-debe-analizar-plantilla/)
