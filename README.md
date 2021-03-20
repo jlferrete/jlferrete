@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Bitwarden Send, lo nuevo de esta alternativa a LastPass para compartir datos confidenciales](https://jlferrete.com/blog/bitwarden-send-lo-nuevo-de-esta-alternativa-a-lastpass-para-compartir-datos-confidenciales/)
 - [Las mejores herramientas para consultar los atajos de teclado de tu sistema operativo y de tus programas favoritos](https://jlferrete.com/blog/las-mejores-herramientas-para-consultar-los-atajos-de-teclado-de-tu-sistema-operativo-y-de-tus-programas-favoritos/)
 - [Qué es exactamente Roblox, la plataforma de metajuegos valorada en 30.000 millones de dólares](https://jlferrete.com/blog/que-es-exactamente-roblox-la-plataforma-de-metajuegos-valorada-en-30-000-millones-de-dolares/)
 - [Las mejores alternativas a Office gratis para instalar en tu PC o Mac](https://jlferrete.com/blog/las-mejores-alternativas-a-office-gratis-para-instalar-en-tu-pc-o-mac/)
 - [Tengo una idea y quiero patentarla: cómo lo hago y qué recomiendan los expertos](https://jlferrete.com/blog/tengo-una-idea-y-quiero-patentarla-como-lo-hago-y-que-recomiendan-los-expertos/)
-- [Cómo crear ciudades 3D aleatorias](https://jlferrete.com/blog/como-crear-ciudades-3d-aleatorias/)
