@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Clearing the Maven Cache](https://jlferrete.com/blog/clearing-the-maven-cache/)
 - [Decode a JWT Token in Java](https://jlferrete.com/blog/decode-a-jwt-token-in-java/)
 - [Eliminar el slug de la URL de un Custom Post Type](https://jlferrete.com/blog/eliminar-el-slug-de-la-url-de-un-custom-post-type/)
 - [Cómo configurar la caché en WooCommerce](https://jlferrete.com/blog/como-configurar-la-cache-en-woocommerce/)
 - [Recreación de la página de inicio del sitio web Entre Sneakers y Tacones con el editor de bloques](https://jlferrete.com/blog/recreacion-de-la-pagina-de-inicio-del-sitio-web-entre-sneakers-y-tacones-con-el-editor-de-bloques/)
-- [Wombo, para crear deepfakes sincronizando labios de las fotos de personas con canciones](https://jlferrete.com/blog/wombo-para-crear-deepfakes-sincronizando-labios-de-las-fotos-de-personas-con-canciones/)
