@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Plugin para crear un nuevo plugin de forma facil en WordPress](https://jlferrete.com/blog/plugin-para-crear-un-nuevo-plugin-de-forma-facil-en-wordpress/)
 - [Consigue 100/100 en PageSpeed en solo 1 segundo – El secreto que Google no quiere que sepas](https://jlferrete.com/blog/consigue-100-100-en-pagespeed-en-solo-1-segundo-el-secreto-que-google-no-quiere-que-sepas/)
 - [Curso de Community Manager](https://jlferrete.com/blog/curso-de-community-manager/)
 - [207. Redireccionando WordPress](https://jlferrete.com/blog/207-redireccionando-wordpress/)
 - [Pasar de HTTP a HTTPS (nuevo en WordPress 5.7) | https://t.co/WpRMdsVDH5 Español](https://jlferrete.com/blog/pasar-de-http-a-https-nuevo-en-wordpress-5-7-https-t-co-wprmdsvdh5-espanol/)
-- [Curso sobre como trabajar con hojas de cálculo (Excel, Calc) usando openpyxl en Python (III) – Pybonacci](https://jlferrete.com/blog/curso-sobre-como-trabajar-con-hojas-de-calculo-excel-calc-usando-openpyxl-en-python-iii-pybonacci/)
