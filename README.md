@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: 5 Example of GROUP BY Queries in SQL [Count, Sum, Avg, Max, and Min]](https://jlferrete.com/blog/javarevisited-5-example-of-group-by-queries-in-sql-count-sum-avg-max-and-min/)
 - [Cómo crear un blog de éxito: ¿Cuál es el secreto?](https://jlferrete.com/blog/como-crear-un-blog-de-exito-cual-es-el-secreto/)
 - [WordPress en 1 minuto  – WordPress 5 7 y gestión del HTTPS](https://jlferrete.com/blog/wordpress-en-1-minuto-wordpress-5-7-y-gestion-del-https/)
 - [Change a Git Commit in the Past with Amend and Rebase Interactive](https://jlferrete.com/blog/change-a-git-commit-in-the-past-with-amend-and-rebase-interactive/)
 - [Docker Compose: From Local to Amazon ECS](https://jlferrete.com/blog/docker-compose-from-local-to-amazon-ecs/)
-- [Página de producto de WooCommerce sin pestañas, como en Amazon](https://jlferrete.com/blog/pagina-de-producto-de-woocommerce-sin-pestanas-como-en-amazon/)
