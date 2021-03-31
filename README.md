@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de monetizar en YouTube](https://jlferrete.com/blog/curso-de-monetizar-en-youtube/)
 - [Cómo mejorar la página de carrito vacía de Divi](https://jlferrete.com/blog/como-mejorar-la-pagina-de-carrito-vacia-de-divi/)
 - [Cómo configurar correctamente el plugin de cookies para cumplir la ley](https://jlferrete.com/blog/como-configurar-correctamente-el-plugin-de-cookies-para-cumplir-la-ley/)
 - [Javarevisited: 5 Example of GROUP BY Queries in SQL [Count, Sum, Avg, Max, and Min]](https://jlferrete.com/blog/javarevisited-5-example-of-group-by-queries-in-sql-count-sum-avg-max-and-min/)
 - [Cómo crear un blog de éxito: ¿Cuál es el secreto?](https://jlferrete.com/blog/como-crear-un-blog-de-exito-cual-es-el-secreto/)
-- [WordPress en 1 minuto  – WordPress 5 7 y gestión del HTTPS](https://jlferrete.com/blog/wordpress-en-1-minuto-wordpress-5-7-y-gestion-del-https/)
