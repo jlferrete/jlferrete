@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Marketing para restaurantes: Guía con técnicas, estrategias y ejemplos](https://jlferrete.com/blog/marketing-para-restaurantes-guia-con-tecnicas-estrategias-y-ejemplos/)
 - [Plantilla sobre factores que debes analizar al investigar a tu competencia](https://jlferrete.com/blog/plantilla-sobre-factores-que-debes-analizar-al-investigar-a-tu-competencia/)
 - [Qué es la PowerShell Gallery, una herramienta fundamental para el administrador de sistemas Windows](https://jlferrete.com/blog/que-es-la-powershell-gallery-una-herramienta-fundamental-para-el-administrador-de-sistemas-windows/)
 - [Cómo instalar y configurar Django en Ubuntu 20.04](https://jlferrete.com/blog/como-instalar-y-configurar-django-en-ubuntu-20-04/)
 - [La nueva versión de Raspberry Pi Imager ofrece más sistemas operativos y mayor control a la hora de instalarlos en la tarjeta SD](https://jlferrete.com/blog/la-nueva-version-de-raspberry-pi-imager-ofrece-mas-sistemas-operativos-y-mayor-control-a-la-hora-de-instalarlos-en-la-tarjeta-sd/)
-- [Curso de monetizar en YouTube](https://jlferrete.com/blog/curso-de-monetizar-en-youtube/)
