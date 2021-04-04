@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿WordPress es malo para el SEO?](https://jlferrete.com/blog/wordpress-es-malo-para-el-seo/)
 - [Importa Imágenes de Dropbox a WordPress Gratis – Webempresa](https://jlferrete.com/blog/importa-imagenes-de-dropbox-a-wordpress-gratis-webempresa/)
 - [Cómo quitar todo lo que le sobra (o no) a WooCommerce](https://jlferrete.com/blog/como-quitar-todo-lo-que-le-sobra-o-no-a-woocommerce/)
 - [Marketing para restaurantes: Guía con técnicas, estrategias y ejemplos](https://jlferrete.com/blog/marketing-para-restaurantes-guia-con-tecnicas-estrategias-y-ejemplos/)
 - [Plantilla sobre factores que debes analizar al investigar a tu competencia](https://jlferrete.com/blog/plantilla-sobre-factores-que-debes-analizar-al-investigar-a-tu-competencia/)
-- [Qué es la PowerShell Gallery, una herramienta fundamental para el administrador de sistemas Windows](https://jlferrete.com/blog/que-es-la-powershell-gallery-una-herramienta-fundamental-para-el-administrador-de-sistemas-windows/)
