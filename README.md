@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué es y cómo funciona DISM de Windows 10 para reparar el sistema sin reinstalar](https://jlferrete.com/blog/que-es-y-como-funciona-dism-de-windows-10-para-reparar-el-sistema-sin-reinstalar/)
 - [11 fórmulas básicas de Excel para no perderte si empiezas a usar la hoja de cálculos de Microsoft](https://jlferrete.com/blog/11-formulas-basicas-de-excel-para-no-perderte-si-empiezas-a-usar-la-hoja-de-calculos-de-microsoft/)
 - [¿WordPress es malo para el SEO?](https://jlferrete.com/blog/wordpress-es-malo-para-el-seo/)
 - [Importa Imágenes de Dropbox a WordPress Gratis – Webempresa](https://jlferrete.com/blog/importa-imagenes-de-dropbox-a-wordpress-gratis-webempresa/)
 - [Cómo quitar todo lo que le sobra (o no) a WooCommerce](https://jlferrete.com/blog/como-quitar-todo-lo-que-le-sobra-o-no-a-woocommerce/)
-- [Marketing para restaurantes: Guía con técnicas, estrategias y ejemplos](https://jlferrete.com/blog/marketing-para-restaurantes-guia-con-tecnicas-estrategias-y-ejemplos/)
