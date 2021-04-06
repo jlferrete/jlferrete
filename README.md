@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guía visual de Hooks para StoreFront y WooCommerce](https://jlferrete.com/blog/guia-visual-de-hooks-para-storefront-y-woocommerce/)
 - [Cómo desactivar las páginas de adjuntos de WordPress](https://jlferrete.com/blog/como-desactivar-las-paginas-de-adjuntos-de-wordpress/)
 - [9 funciones poco conocidas de Windows 10 que pueden resultarte extremadamente útiles](https://jlferrete.com/blog/9-funciones-poco-conocidas-de-windows-10-que-pueden-resultarte-extremadamente-utiles/)
 - [Qué es y cómo funciona DISM de Windows 10 para reparar el sistema sin reinstalar](https://jlferrete.com/blog/que-es-y-como-funciona-dism-de-windows-10-para-reparar-el-sistema-sin-reinstalar/)
 - [11 fórmulas básicas de Excel para no perderte si empiezas a usar la hoja de cálculos de Microsoft](https://jlferrete.com/blog/11-formulas-basicas-de-excel-para-no-perderte-si-empiezas-a-usar-la-hoja-de-calculos-de-microsoft/)
-- [¿WordPress es malo para el SEO?](https://jlferrete.com/blog/wordpress-es-malo-para-el-seo/)
