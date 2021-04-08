@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Buenas prácticas para crear una Pull Request](https://jlferrete.com/blog/buenas-practicas-para-crear-una-pull-request/)
 - [Cómo conseguir más tráfico en tu sitio web utilizando infografías con estadísticas](https://jlferrete.com/blog/como-conseguir-mas-trafico-en-tu-sitio-web-utilizando-infografias-con-estadisticas/)
 - [7 Plugins de WordPress para evitar que copien contenidos](https://jlferrete.com/blog/7-plugins-de-wordpress-para-evitar-que-copien-contenidos/)
 - [Guía visual de Hooks para StoreFront y WooCommerce](https://jlferrete.com/blog/guia-visual-de-hooks-para-storefront-y-woocommerce/)
 - [Cómo desactivar las páginas de adjuntos de WordPress](https://jlferrete.com/blog/como-desactivar-las-paginas-de-adjuntos-de-wordpress/)
-- [9 funciones poco conocidas de Windows 10 que pueden resultarte extremadamente útiles](https://jlferrete.com/blog/9-funciones-poco-conocidas-de-windows-10-que-pueden-resultarte-extremadamente-utiles/)
