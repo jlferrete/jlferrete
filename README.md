@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear una cuenta automáticamente a los clientes de tu tienda online WooCommerce](https://jlferrete.com/blog/como-crear-una-cuenta-automaticamente-a-los-clientes-de-tu-tienda-online-woocommerce/)
 - [Buenas prácticas para crear una Pull Request](https://jlferrete.com/blog/buenas-practicas-para-crear-una-pull-request/)
 - [Cómo conseguir más tráfico en tu sitio web utilizando infografías con estadísticas](https://jlferrete.com/blog/como-conseguir-mas-trafico-en-tu-sitio-web-utilizando-infografias-con-estadisticas/)
 - [7 Plugins de WordPress para evitar que copien contenidos](https://jlferrete.com/blog/7-plugins-de-wordpress-para-evitar-que-copien-contenidos/)
 - [Guía visual de Hooks para StoreFront y WooCommerce](https://jlferrete.com/blog/guia-visual-de-hooks-para-storefront-y-woocommerce/)
-- [Cómo desactivar las páginas de adjuntos de WordPress](https://jlferrete.com/blog/como-desactivar-las-paginas-de-adjuntos-de-wordpress/)
