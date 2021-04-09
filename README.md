@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Para enviar archivos de gran tamaño de forma segura y rápida](https://jlferrete.com/blog/para-enviar-archivos-de-gran-tamano-de-forma-segura-y-rapida/)
 - [12 cursos de programación gratis que puedes completar en solo dos días](https://jlferrete.com/blog/12-cursos-de-programacion-gratis-que-puedes-completar-en-solo-dos-dias/)
 - [Cómo crear una cuenta automáticamente a los clientes de tu tienda online WooCommerce](https://jlferrete.com/blog/como-crear-una-cuenta-automaticamente-a-los-clientes-de-tu-tienda-online-woocommerce/)
 - [Buenas prácticas para crear una Pull Request](https://jlferrete.com/blog/buenas-practicas-para-crear-una-pull-request/)
 - [Cómo conseguir más tráfico en tu sitio web utilizando infografías con estadísticas](https://jlferrete.com/blog/como-conseguir-mas-trafico-en-tu-sitio-web-utilizando-infografias-con-estadisticas/)
-- [7 Plugins de WordPress para evitar que copien contenidos](https://jlferrete.com/blog/7-plugins-de-wordpress-para-evitar-que-copien-contenidos/)
