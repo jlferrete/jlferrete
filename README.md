@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo llamar la atención y mantener el interés del público](https://jlferrete.com/blog/como-llamar-la-atencion-y-mantener-el-interes-del-publico/)
 - [Los conceptos de encapsulación, herencia, polimorfismo y composición de la programación orientada a objetos](https://jlferrete.com/blog/los-conceptos-de-encapsulacion-herencia-polimorfismo-y-composicion-de-la-programacion-orientada-a-objetos/)
 - [Beneficios de traducir tu web con la ayuda de un profesional](https://jlferrete.com/blog/beneficios-de-traducir-tu-web-con-la-ayuda-de-un-profesional/)
 - [Para enviar archivos de gran tamaño de forma segura y rápida](https://jlferrete.com/blog/para-enviar-archivos-de-gran-tamano-de-forma-segura-y-rapida/)
 - [12 cursos de programación gratis que puedes completar en solo dos días](https://jlferrete.com/blog/12-cursos-de-programacion-gratis-que-puedes-completar-en-solo-dos-dias/)
-- [Cómo crear una cuenta automáticamente a los clientes de tu tienda online WooCommerce](https://jlferrete.com/blog/como-crear-una-cuenta-automaticamente-a-los-clientes-de-tu-tienda-online-woocommerce/)
