@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo usar Instagram para empresas](https://jlferrete.com/blog/como-usar-instagram-para-empresas/)
 - [Curso de PWA para WordPress](https://jlferrete.com/blog/curso-de-pwa-para-wordpress/)
 - [Cómo llamar la atención y mantener el interés del público](https://jlferrete.com/blog/como-llamar-la-atencion-y-mantener-el-interes-del-publico/)
 - [Los conceptos de encapsulación, herencia, polimorfismo y composición de la programación orientada a objetos](https://jlferrete.com/blog/los-conceptos-de-encapsulacion-herencia-polimorfismo-y-composicion-de-la-programacion-orientada-a-objetos/)
 - [Beneficios de traducir tu web con la ayuda de un profesional](https://jlferrete.com/blog/beneficios-de-traducir-tu-web-con-la-ayuda-de-un-profesional/)
-- [Para enviar archivos de gran tamaño de forma segura y rápida](https://jlferrete.com/blog/para-enviar-archivos-de-gran-tamano-de-forma-segura-y-rapida/)
