@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso sobre como trabajar con hojas de cálculo (Excel, Calc) usando openpyxl en Python (VI)](https://jlferrete.com/blog/curso-sobre-como-trabajar-con-hojas-de-calculo-excel-calc-usando-openpyxl-en-python-vi/)
 - [Me he comprado un NAS para dejar de depender de Google Photos y Dropbox: configuración paso a paso](https://jlferrete.com/blog/me-he-comprado-un-nas-para-dejar-de-depender-de-google-photos-y-dropbox-configuracion-paso-a-paso/)
 - [Cómo mostrar vídeos en tus productos de WooCommerce](https://jlferrete.com/blog/como-mostrar-videos-en-tus-productos-de-woocommerce/)
 - [Cómo usar Instagram para empresas](https://jlferrete.com/blog/como-usar-instagram-para-empresas/)
 - [Curso de PWA para WordPress](https://jlferrete.com/blog/curso-de-pwa-para-wordpress/)
-- [Cómo llamar la atención y mantener el interés del público](https://jlferrete.com/blog/como-llamar-la-atencion-y-mantener-el-interes-del-publico/)
