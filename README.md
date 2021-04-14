@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [31 cursos online gratis para formarte en abril 2021](https://jlferrete.com/blog/31-cursos-online-gratis-para-formarte-en-abril-2021/)
 - [The Docker Handbook – 2021 Edition](https://jlferrete.com/blog/the-docker-handbook-2021-edition/)
 - [Curso sobre como trabajar con hojas de cálculo (Excel, Calc) usando openpyxl en Python (VI)](https://jlferrete.com/blog/curso-sobre-como-trabajar-con-hojas-de-calculo-excel-calc-usando-openpyxl-en-python-vi/)
 - [Me he comprado un NAS para dejar de depender de Google Photos y Dropbox: configuración paso a paso](https://jlferrete.com/blog/me-he-comprado-un-nas-para-dejar-de-depender-de-google-photos-y-dropbox-configuracion-paso-a-paso/)
 - [Cómo mostrar vídeos en tus productos de WooCommerce](https://jlferrete.com/blog/como-mostrar-videos-en-tus-productos-de-woocommerce/)
-- [Cómo usar Instagram para empresas](https://jlferrete.com/blog/como-usar-instagram-para-empresas/)
