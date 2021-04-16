@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo poner un contador de visitas en WordPress](https://jlferrete.com/blog/como-poner-un-contador-de-visitas-en-wordpress/)
 - [Corrige la ruta upload path en WordPress](https://jlferrete.com/blog/corrige-la-ruta-upload-path-en-wordpress/)
 - [Plugin para editar el archivo .htaccess en WordPress](https://jlferrete.com/blog/plugin-para-editar-el-archivo-htaccess-en-wordpress/)
 - [31 cursos online gratis para formarte en abril 2021](https://jlferrete.com/blog/31-cursos-online-gratis-para-formarte-en-abril-2021/)
 - [The Docker Handbook – 2021 Edition](https://jlferrete.com/blog/the-docker-handbook-2021-edition/)
-- [Curso sobre como trabajar con hojas de cálculo (Excel, Calc) usando openpyxl en Python (VI)](https://jlferrete.com/blog/curso-sobre-como-trabajar-con-hojas-de-calculo-excel-calc-usando-openpyxl-en-python-vi/)
