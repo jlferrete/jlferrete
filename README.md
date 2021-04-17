@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Usar imágenes Webp en WordPress](https://jlferrete.com/blog/usar-imagenes-webp-en-wordpress/)
 - [Cómo comprobar la edad en WordPress y WooCommerce (actualizado)](https://jlferrete.com/blog/como-comprobar-la-edad-en-wordpress-y-woocommerce-actualizado/)
 - [Cómo poner un contador de visitas en WordPress](https://jlferrete.com/blog/como-poner-un-contador-de-visitas-en-wordpress/)
 - [Corrige la ruta upload path en WordPress](https://jlferrete.com/blog/corrige-la-ruta-upload-path-en-wordpress/)
 - [Plugin para editar el archivo .htaccess en WordPress](https://jlferrete.com/blog/plugin-para-editar-el-archivo-htaccess-en-wordpress/)
-- [31 cursos online gratis para formarte en abril 2021](https://jlferrete.com/blog/31-cursos-online-gratis-para-formarte-en-abril-2021/)
