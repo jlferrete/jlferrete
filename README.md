@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Discord](https://jlferrete.com/blog/curso-de-discord/)
 - [Cómo hacer una infografía](https://jlferrete.com/blog/como-hacer-una-infografia/)
 - [Cómo instalar Chrome OS en tu viejo portátil para convertirlo en Chromebook sustituyendo a Windows](https://jlferrete.com/blog/como-instalar-chrome-os-en-tu-viejo-portatil-para-convertirlo-en-chromebook-sustituyendo-a-windows/)
 - [Usar imágenes Webp en WordPress](https://jlferrete.com/blog/usar-imagenes-webp-en-wordpress/)
 - [Cómo comprobar la edad en WordPress y WooCommerce (actualizado)](https://jlferrete.com/blog/como-comprobar-la-edad-en-wordpress-y-woocommerce-actualizado/)
-- [Cómo poner un contador de visitas en WordPress](https://jlferrete.com/blog/como-poner-un-contador-de-visitas-en-wordpress/)
