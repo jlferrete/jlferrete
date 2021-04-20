@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [100+ Ways to Solve a Specific Programming Problem in 50+ Languages](https://jlferrete.com/blog/100-ways-to-solve-a-specific-programming-problem-in-50-languages/)
 - [Cómo configurar el WiFi de casa para tener la máxima y mejor velocidad](https://jlferrete.com/blog/como-configurar-el-wifi-de-casa-para-tener-la-maxima-y-mejor-velocidad/)
 - [The Best File Structure for Your React Components](https://jlferrete.com/blog/the-best-file-structure-for-your-react-components/)
 - [Curso de Discord](https://jlferrete.com/blog/curso-de-discord/)
 - [Cómo hacer una infografía](https://jlferrete.com/blog/como-hacer-una-infografia/)
-- [Cómo instalar Chrome OS en tu viejo portátil para convertirlo en Chromebook sustituyendo a Windows](https://jlferrete.com/blog/como-instalar-chrome-os-en-tu-viejo-portatil-para-convertirlo-en-chromebook-sustituyendo-a-windows/)
