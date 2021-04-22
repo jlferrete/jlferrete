@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [La Universidad de Minnesota ha sido baneada del desarrollo de Linux por introducir vulnerabilidades a propósito](https://jlferrete.com/blog/la-universidad-de-minnesota-ha-sido-baneada-del-desarrollo-de-linux-por-introducir-vulnerabilidades-a-proposito/)
 - [Free Python Books: la lista definitiva de libros gratis para desarrolladores que quieren aprender Python](https://jlferrete.com/blog/free-python-books-la-lista-definitiva-de-libros-gratis-para-desarrolladores-que-quieren-aprender-python/)
 - [Las tablas de la base de datos de WooCommerce ¿cuáles son? ¿para qué sirve cada una?](https://jlferrete.com/blog/las-tablas-de-la-base-de-datos-de-woocommerce-cuales-son-para-que-sirve-cada-una/)
 - [Formulario de login mejorado sin plugins en WordPress](https://jlferrete.com/blog/formulario-de-login-mejorado-sin-plugins-en-wordpress/)
 - [Copias de seguridad (backup) en WordPress](https://jlferrete.com/blog/copias-de-seguridad-backup-en-wordpress/)
-- [100+ Ways to Solve a Specific Programming Problem in 50+ Languages](https://jlferrete.com/blog/100-ways-to-solve-a-specific-programming-problem-in-50-languages/)
