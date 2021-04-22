@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Las tablas de la base de datos de WooCommerce ¿cuáles son? ¿para qué sirve cada una?](https://jlferrete.com/blog/las-tablas-de-la-base-de-datos-de-woocommerce-cuales-son-para-que-sirve-cada-una/)
 - [Formulario de login mejorado sin plugins en WordPress](https://jlferrete.com/blog/formulario-de-login-mejorado-sin-plugins-en-wordpress/)
 - [Copias de seguridad (backup) en WordPress](https://jlferrete.com/blog/copias-de-seguridad-backup-en-wordpress/)
 - [100+ Ways to Solve a Specific Programming Problem in 50+ Languages](https://jlferrete.com/blog/100-ways-to-solve-a-specific-programming-problem-in-50-languages/)
 - [Cómo configurar el WiFi de casa para tener la máxima y mejor velocidad](https://jlferrete.com/blog/como-configurar-el-wifi-de-casa-para-tener-la-maxima-y-mejor-velocidad/)
-- [The Best File Structure for Your React Components](https://jlferrete.com/blog/the-best-file-structure-for-your-react-components/)
