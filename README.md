@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear e imprimir una ciudad medieval aleatoria en pocos minutos](https://jlferrete.com/blog/como-crear-e-imprimir-una-ciudad-medieval-aleatoria-en-pocos-minutos/)
 - [Cómo desactivar el CSS de Jetpack](https://jlferrete.com/blog/como-desactivar-el-css-de-jetpack/)
 - [Cómo crear un spinner loader con CSS](https://jlferrete.com/blog/como-crear-un-spinner-loader-con-css/)
 - [Cómo crear un botón de llamada a la acción (CTA) en los menús de Divi](https://jlferrete.com/blog/como-crear-un-boton-de-llamada-a-la-accion-cta-en-los-menus-de-divi/)
 - [Esto es lo que motiva a los programadores (y traductores, diseñadores…) a colaborar en proyectos de código abierto](https://jlferrete.com/blog/esto-es-lo-que-motiva-a-los-programadores-y-traductores-disenadores-a-colaborar-en-proyectos-de-codigo-abierto/)
-- [La Universidad de Minnesota ha sido baneada del desarrollo de Linux por introducir vulnerabilidades a propósito](https://jlferrete.com/blog/la-universidad-de-minnesota-ha-sido-baneada-del-desarrollo-de-linux-por-introducir-vulnerabilidades-a-proposito/)
