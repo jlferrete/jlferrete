@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Python](https://jlferrete.com/blog/curso-de-python/)
 - [Zorin OS 16 quiere reemplazar a Windows 10 de tu PC](https://jlferrete.com/blog/zorin-os-16-quiere-reemplazar-a-windows-10-de-tu-pc/)
 - [Cómo crear e imprimir una ciudad medieval aleatoria en pocos minutos](https://jlferrete.com/blog/como-crear-e-imprimir-una-ciudad-medieval-aleatoria-en-pocos-minutos/)
 - [Cómo desactivar el CSS de Jetpack](https://jlferrete.com/blog/como-desactivar-el-css-de-jetpack/)
 - [Cómo crear un spinner loader con CSS](https://jlferrete.com/blog/como-crear-un-spinner-loader-con-css/)
-- [Cómo crear un botón de llamada a la acción (CTA) en los menús de Divi](https://jlferrete.com/blog/como-crear-un-boton-de-llamada-a-la-accion-cta-en-los-menus-de-divi/)
