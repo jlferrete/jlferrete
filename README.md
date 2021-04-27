@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [El almacenamiento ilimitado gratuito de Google Fotos dirá adiós muy pronto: esto es lo que estoy haciendo para prepararme](https://jlferrete.com/blog/el-almacenamiento-ilimitado-gratuito-de-google-fotos-dira-adios-muy-pronto-esto-es-lo-que-estoy-haciendo-para-prepararme/)
 - [Yayagram, o como usar una Raspberry Pi para ayudar a los mayores a comunicarse con sus nietos vía Telegram](https://jlferrete.com/blog/yayagram-o-como-usar-una-raspberry-pi-para-ayudar-a-los-mayores-a-comunicarse-con-sus-nietos-via-telegram/)
 - [Curso de Python](https://jlferrete.com/blog/curso-de-python/)
 - [Zorin OS 16 quiere reemplazar a Windows 10 de tu PC](https://jlferrete.com/blog/zorin-os-16-quiere-reemplazar-a-windows-10-de-tu-pc/)
 - [Cómo crear e imprimir una ciudad medieval aleatoria en pocos minutos](https://jlferrete.com/blog/como-crear-e-imprimir-una-ciudad-medieval-aleatoria-en-pocos-minutos/)
-- [Cómo desactivar el CSS de Jetpack](https://jlferrete.com/blog/como-desactivar-el-css-de-jetpack/)
