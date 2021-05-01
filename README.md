@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Mario Rocha: Asegurando tu sitio web en 6 pasos](https://jlferrete.com/blog/mario-rocha-asegurando-tu-sitio-web-en-6-pasos/)
 - [Fernando Martínez Lira: Project Management y SEO: Aplicando técnicas de gestión a tus proyectos](https://jlferrete.com/blog/fernando-martinez-lira-project-management-y-seo-aplicando-tecnicas-de-gestion-a-tus-proyectos/)
 - [25 cursos gratuitos de tecnología para comenzar en mayo](https://jlferrete.com/blog/25-cursos-gratuitos-de-tecnologia-para-comenzar-en-mayo/)
 - [Rita Robles Loaiza: Conozcamos la magia de Advanced Custom Fields](https://jlferrete.com/blog/rita-robles-loaiza-conozcamos-la-magia-de-advanced-custom-fields/)
 - [Plugin para varias direcciones de clientes con WooCommerce](https://jlferrete.com/blog/plugin-para-varias-direcciones-de-clientes-con-woocommerce/)
-- [Cómo quitar los contadores sociales de Jetpack](https://jlferrete.com/blog/como-quitar-los-contadores-sociales-de-jetpack/)
