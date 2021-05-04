@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Tecnología PbP en monitores: qué es y para qué se utiliza](https://jlferrete.com/blog/tecnologia-pbp-en-monitores-que-es-y-para-que-se-utiliza/)
 - [Cómo calcular el gasto total acumulado de un cliente en tu tienda online WooCommerce … para premiarle o algo](https://jlferrete.com/blog/como-calcular-el-gasto-total-acumulado-de-un-cliente-en-tu-tienda-online-woocommerce-para-premiarle-o-algo/)
 - [CSS en WordPress ¿Cómo, cuándo y dónde?](https://jlferrete.com/blog/css-en-wordpress-como-cuando-y-donde/)
 - [Beneficios del Atomic Design](https://jlferrete.com/blog/beneficios-del-atomic-design/)
 - [Mario Rocha: Asegurando tu sitio web en 6 pasos](https://jlferrete.com/blog/mario-rocha-asegurando-tu-sitio-web-en-6-pasos/)
-- [Fernando Martínez Lira: Project Management y SEO: Aplicando técnicas de gestión a tus proyectos](https://jlferrete.com/blog/fernando-martinez-lira-project-management-y-seo-aplicando-tecnicas-de-gestion-a-tus-proyectos/)
