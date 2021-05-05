@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guardar datos de formulario de contacto sin plugins](https://jlferrete.com/blog/guardar-datos-de-formulario-de-contacto-sin-plugins/)
 - [Cómo añadir símbolos de instrucciones de lavado, secado y cuidados a productos WooCommerce](https://jlferrete.com/blog/como-anadir-simbolos-de-instrucciones-de-lavado-secado-y-cuidados-a-productos-woocommerce/)
 - [Facebook ahora permite exportar contenido directamente a Google Docs y WordPress](https://jlferrete.com/blog/facebook-ahora-permite-exportar-contenido-directamente-a-google-docs-y-wordpress/)
 - [Tecnología PbP en monitores: qué es y para qué se utiliza](https://jlferrete.com/blog/tecnologia-pbp-en-monitores-que-es-y-para-que-se-utiliza/)
 - [Cómo calcular el gasto total acumulado de un cliente en tu tienda online WooCommerce … para premiarle o algo](https://jlferrete.com/blog/como-calcular-el-gasto-total-acumulado-de-un-cliente-en-tu-tienda-online-woocommerce-para-premiarle-o-algo/)
-- [CSS en WordPress ¿Cómo, cuándo y dónde?](https://jlferrete.com/blog/css-en-wordpress-como-cuando-y-donde/)
