@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Alexa Torres: ¿Cómo crear contenidos digitales accesibles?](https://jlferrete.com/blog/alexa-torres-como-crear-contenidos-digitales-accesibles/)
 - [Fernando Tellado: ¿Por qué debería tener blog si soy una empresa… diferente?](https://jlferrete.com/blog/fernando-tellado-por-que-deberia-tener-blog-si-soy-una-empresa-diferente/)
 - [Cómo desactivar o cambiar el nivel del medidor de fortaleza de las contraseñas de WooCommerce](https://jlferrete.com/blog/como-desactivar-o-cambiar-el-nivel-del-medidor-de-fortaleza-de-las-contrasenas-de-woocommerce/)
 - [Guardar datos de formulario de contacto sin plugins](https://jlferrete.com/blog/guardar-datos-de-formulario-de-contacto-sin-plugins/)
 - [Cómo añadir símbolos de instrucciones de lavado, secado y cuidados a productos WooCommerce](https://jlferrete.com/blog/como-anadir-simbolos-de-instrucciones-de-lavado-secado-y-cuidados-a-productos-woocommerce/)
-- [Facebook ahora permite exportar contenido directamente a Google Docs y WordPress](https://jlferrete.com/blog/facebook-ahora-permite-exportar-contenido-directamente-a-google-docs-y-wordpress/)
