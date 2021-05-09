@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Los Mejores Plugins para WordPress en 2021](https://jlferrete.com/blog/los-mejores-plugins-para-wordpress-en-2021/)
 - [Las distintas cachés en WordPress – Lo que siempre quisiste saber y nadie te había contado](https://jlferrete.com/blog/las-distintas-caches-en-wordpress-lo-que-siempre-quisiste-saber-y-nadie-te-habia-contado/)
 - [How to Handle InterruptedException in Java](https://jlferrete.com/blog/how-to-handle-interruptedexception-in-java/)
 - [Leticia Wood: Cómo personalizar tu admin en WordPress](https://jlferrete.com/blog/leticia-wood-como-personalizar-tu-admin-en-wordpress/)
 - [Alexa Torres: ¿Cómo crear contenidos digitales accesibles?](https://jlferrete.com/blog/alexa-torres-como-crear-contenidos-digitales-accesibles/)
-- [Fernando Tellado: ¿Por qué debería tener blog si soy una empresa… diferente?](https://jlferrete.com/blog/fernando-tellado-por-que-deberia-tener-blog-si-soy-una-empresa-diferente/)
