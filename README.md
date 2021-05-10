@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Create a Discord Bot for Free with JavaScript](https://jlferrete.com/blog/how-to-create-a-discord-bot-for-free-with-javascript/)
 - [The Docker Handbook – 2021 Edition](https://jlferrete.com/blog/the-docker-handbook-2021-edition-2/)
 - [Los Mejores Plugins para WordPress en 2021](https://jlferrete.com/blog/los-mejores-plugins-para-wordpress-en-2021/)
 - [Las distintas cachés en WordPress – Lo que siempre quisiste saber y nadie te había contado](https://jlferrete.com/blog/las-distintas-caches-en-wordpress-lo-que-siempre-quisiste-saber-y-nadie-te-habia-contado/)
 - [How to Handle InterruptedException in Java](https://jlferrete.com/blog/how-to-handle-interruptedexception-in-java/)
-- [Leticia Wood: Cómo personalizar tu admin en WordPress](https://jlferrete.com/blog/leticia-wood-como-personalizar-tu-admin-en-wordpress/)
