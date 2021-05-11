@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear un sitio web de WordPress en GreenGeeks](https://jlferrete.com/blog/como-crear-un-sitio-web-de-wordpress-en-greengeeks/)
 - [Curso de Twitch](https://jlferrete.com/blog/curso-de-twitch/)
 - [Learn Django 3 and Start Creating Websites With Python](https://jlferrete.com/blog/learn-django-3-and-start-creating-websites-with-python/)
 - [How to Create a Discord Bot for Free with JavaScript](https://jlferrete.com/blog/how-to-create-a-discord-bot-for-free-with-javascript/)
 - [The Docker Handbook – 2021 Edition](https://jlferrete.com/blog/the-docker-handbook-2021-edition-2/)
-- [Los Mejores Plugins para WordPress en 2021](https://jlferrete.com/blog/los-mejores-plugins-para-wordpress-en-2021/)
