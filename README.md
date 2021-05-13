@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Quieres saber qué bloques hay en tu WordPress y dónde se están utilizando?](https://jlferrete.com/blog/quieres-saber-que-bloques-hay-en-tu-wordpress-y-donde-se-estan-utilizando/)
 - [Convert an Array of Primitives to an Array of Objects](https://jlferrete.com/blog/convert-an-array-of-primitives-to-an-array-of-objects/)
 - [Learn Python by Building 12 Projects in This 3-Hour Course](https://jlferrete.com/blog/learn-python-by-building-12-projects-in-this-3-hour-course-2/)
 - [Cómo crear un sitio web de WordPress en GreenGeeks](https://jlferrete.com/blog/como-crear-un-sitio-web-de-wordpress-en-greengeeks/)
 - [Curso de Twitch](https://jlferrete.com/blog/curso-de-twitch/)
-- [Learn Django 3 and Start Creating Websites With Python](https://jlferrete.com/blog/learn-django-3-and-start-creating-websites-with-python/)
