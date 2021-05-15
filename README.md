@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Usar imágenes WebP en WordPress](https://jlferrete.com/blog/usar-imagenes-webp-en-wordpress-2/)
 - [Convirtiendo un Jupyter notebook a una hoja de cálculos de excel](https://jlferrete.com/blog/convirtiendo-un-jupyter-notebook-a-una-hoja-de-calculos-de-excel/)
 - [CRUD Application With React and Spring Boot](https://jlferrete.com/blog/crud-application-with-react-and-spring-boot/)
 - [Creando esquemas y paletas de colores con HSL](https://jlferrete.com/blog/creando-esquemas-y-paletas-de-colores-con-hsl/)
 - [¿Quieres saber qué bloques hay en tu WordPress y dónde se están utilizando?](https://jlferrete.com/blog/quieres-saber-que-bloques-hay-en-tu-wordpress-y-donde-se-estan-utilizando/)
-- [Convert an Array of Primitives to an Array of Objects](https://jlferrete.com/blog/convert-an-array-of-primitives-to-an-array-of-objects/)
