@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [▷ Ecommerce inteligente ✅ Controla stock y fideliza clientes en automático](https://jlferrete.com/blog/%e2%96%b7-ecommerce-inteligente-%e2%9c%85-controla-stock-y-fideliza-clientes-en-automatico/)
 - [Concatenate Two Arrays in Java](https://jlferrete.com/blog/concatenate-two-arrays-in-java/)
 - [How to Deal With Databases in Docker?](https://jlferrete.com/blog/how-to-deal-with-databases-in-docker/)
 - [Buenas practicas de UX en Formularios](https://jlferrete.com/blog/buenas-practicas-de-ux-en-formularios/)
 - [Cómo mostrar los productos de tienda WooCommerce en un orden personalizado](https://jlferrete.com/blog/como-mostrar-los-productos-de-tienda-woocommerce-en-un-orden-personalizado/)
-- [Qué significan los colores de los avisos de administración de WordPress, cómo ocultarlos y cómo crearlos](https://jlferrete.com/blog/que-significan-los-colores-de-los-avisos-de-administracion-de-wordpress-como-ocultarlos-y-como-crearlos/)
