@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram/)
 - [10 trucos para utilizar en el buscador de Google](https://jlferrete.com/blog/10-trucos-para-utilizar-en-el-buscador-de-google/)
 - [Conectar dos PC directamente por RJ-45 con un cable, ¿para qué sirve?](https://jlferrete.com/blog/conectar-dos-pc-directamente-por-rj-45-con-un-cable-para-que-sirve/)
 - [Google y FLoC, su alternativa a las cookies, no acaban de convencer a las autoridades europeas: estos son los argumentos en contra](https://jlferrete.com/blog/google-y-floc-su-alternativa-a-las-cookies-no-acaban-de-convencer-a-las-autoridades-europeas-estos-son-los-argumentos-en-contra/)
 - [▷ Ecommerce inteligente ✅ Controla stock y fideliza clientes en automático](https://jlferrete.com/blog/%e2%96%b7-ecommerce-inteligente-%e2%9c%85-controla-stock-y-fideliza-clientes-en-automatico/)
-- [Concatenate Two Arrays in Java](https://jlferrete.com/blog/concatenate-two-arrays-in-java/)
