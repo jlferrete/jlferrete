@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Silabación de palabras con python y como servicio web](https://jlferrete.com/blog/silabacion-de-palabras-con-python-y-como-servicio-web/)
 - [Devbook: un motor de búsqueda para desarrolladores accesible desde un editor de texto, muy rápido y que controlas con el teclado](https://jlferrete.com/blog/devbook-un-motor-de-busqueda-para-desarrolladores-accesible-desde-un-editor-de-texto-muy-rapido-y-que-controlas-con-el-teclado/)
 - [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram/)
 - [10 trucos para utilizar en el buscador de Google](https://jlferrete.com/blog/10-trucos-para-utilizar-en-el-buscador-de-google/)
 - [Conectar dos PC directamente por RJ-45 con un cable, ¿para qué sirve?](https://jlferrete.com/blog/conectar-dos-pc-directamente-por-rj-45-con-un-cable-para-que-sirve/)
-- [Google y FLoC, su alternativa a las cookies, no acaban de convencer a las autoridades europeas: estos son los argumentos en contra](https://jlferrete.com/blog/google-y-floc-su-alternativa-a-las-cookies-no-acaban-de-convencer-a-las-autoridades-europeas-estos-son-los-argumentos-en-contra/)
