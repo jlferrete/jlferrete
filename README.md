@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram-2/)
 - [1824. Mailmeteor](https://jlferrete.com/blog/1824-mailmeteor/)
 - [Plugin de chat en WordPress](https://jlferrete.com/blog/plugin-de-chat-en-wordpress/)
 - [Más de 100 mil recursos gratuitos para ilustrar tus proyectos](https://jlferrete.com/blog/mas-de-100-mil-recursos-gratuitos-para-ilustrar-tus-proyectos/)
 - [Guía: Todo lo que necesitas saber para crecer y posicionarte en YouTube con contenidos](https://jlferrete.com/blog/guia-todo-lo-que-necesitas-saber-para-crecer-y-posicionarte-en-youtube-con-contenidos/)
-- [Silabación de palabras con python y como servicio web](https://jlferrete.com/blog/silabacion-de-palabras-con-python-y-como-servicio-web/)
