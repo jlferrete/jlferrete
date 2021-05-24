@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo quitar el cartel de oferta en los artículos rebajados de WooCommerce](https://jlferrete.com/blog/como-quitar-el-cartel-de-oferta-en-los-articulos-rebajados-de-woocommerce/)
 - [Javarevisited: 10 Advanced Spring Framework Courses for Experienced Java Developers](https://jlferrete.com/blog/javarevisited-10-advanced-spring-framework-courses-for-experienced-java-developers/)
 - [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram-2/)
 - [1824. Mailmeteor](https://jlferrete.com/blog/1824-mailmeteor/)
 - [Plugin de chat en WordPress](https://jlferrete.com/blog/plugin-de-chat-en-wordpress/)
-- [Más de 100 mil recursos gratuitos para ilustrar tus proyectos](https://jlferrete.com/blog/mas-de-100-mil-recursos-gratuitos-para-ilustrar-tus-proyectos/)
