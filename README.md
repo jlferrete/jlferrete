@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: 5 Ways to Find length of String in Java without built-in length() method](https://jlferrete.com/blog/javarevisited-5-ways-to-find-length-of-string-in-java-without-built-in-length-method/)
 - [Cómo quitar el cartel de oferta en los artículos rebajados de WooCommerce](https://jlferrete.com/blog/como-quitar-el-cartel-de-oferta-en-los-articulos-rebajados-de-woocommerce/)
 - [Javarevisited: 10 Advanced Spring Framework Courses for Experienced Java Developers](https://jlferrete.com/blog/javarevisited-10-advanced-spring-framework-courses-for-experienced-java-developers/)
 - [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram-2/)
 - [1824. Mailmeteor](https://jlferrete.com/blog/1824-mailmeteor/)
-- [Plugin de chat en WordPress](https://jlferrete.com/blog/plugin-de-chat-en-wordpress/)
