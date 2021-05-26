@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo configurar recordatorios para volver a revisar un sitio web que visitaste](https://jlferrete.com/blog/como-configurar-recordatorios-para-volver-a-revisar-un-sitio-web-que-visitaste/)
 - [Curso gratuito online de WooCommerce con SiteGround](https://jlferrete.com/blog/curso-gratuito-online-de-woocommerce-con-siteground/)
 - [Javarevisited: 5 Ways to Find length of String in Java without built-in length() method](https://jlferrete.com/blog/javarevisited-5-ways-to-find-length-of-string-in-java-without-built-in-length-method/)
 - [Cómo quitar el cartel de oferta en los artículos rebajados de WooCommerce](https://jlferrete.com/blog/como-quitar-el-cartel-de-oferta-en-los-articulos-rebajados-de-woocommerce/)
 - [Javarevisited: 10 Advanced Spring Framework Courses for Experienced Java Developers](https://jlferrete.com/blog/javarevisited-10-advanced-spring-framework-courses-for-experienced-java-developers/)
-- [Curso de Telegram](https://jlferrete.com/blog/curso-de-telegram-2/)
