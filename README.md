@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Víctor Sáenz y Pedro Crespo: Desarrolla tu primer plugin desde 0 Like a Boss](https://jlferrete.com/blog/victor-saenz-y-pedro-crespo-desarrolla-tu-primer-plugin-desde-0-like-a-boss/)
 - [Javarevisited: How to recursively list all files in a directory and sub-directory in Java](https://jlferrete.com/blog/javarevisited-how-to-recursively-list-all-files-in-a-directory-and-sub-directory-in-java/)
 - [Un interruptor para elegir si arrancas entre Linux o Windows es el proyecto maker más simpático de las últimas semanas](https://jlferrete.com/blog/un-interruptor-para-elegir-si-arrancas-entre-linux-o-windows-es-el-proyecto-maker-mas-simpatico-de-las-ultimas-semanas/)
 - [Cómo configurar recordatorios para volver a revisar un sitio web que visitaste](https://jlferrete.com/blog/como-configurar-recordatorios-para-volver-a-revisar-un-sitio-web-que-visitaste/)
 - [Curso gratuito online de WooCommerce con SiteGround](https://jlferrete.com/blog/curso-gratuito-online-de-woocommerce-con-siteground/)
-- [Javarevisited: 5 Ways to Find length of String in Java without built-in length() method](https://jlferrete.com/blog/javarevisited-5-ways-to-find-length-of-string-in-java-without-built-in-length-method/)
