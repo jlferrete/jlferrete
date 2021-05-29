@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ydania Molina Landaeta: Los contratos a distancia](https://jlferrete.com/blog/ydania-molina-landaeta-los-contratos-a-distancia/)
 - [Descarga más de 150 GB en efectos de sonido gratis y de uso libre para tus proyectos personales o comerciales](https://jlferrete.com/blog/descarga-mas-de-150-gb-en-efectos-de-sonido-gratis-y-de-uso-libre-para-tus-proyectos-personales-o-comerciales/)
 - [Curso de mindfulness para emprendedores](https://jlferrete.com/blog/curso-de-mindfulness-para-emprendedores/)
 - [Django + Vue Course – Build an e-Commerce Website](https://jlferrete.com/blog/django-vue-course-build-an-e-commerce-website/)
 - [Víctor Sáenz y Pedro Crespo: Desarrolla tu primer plugin desde 0 Like a Boss](https://jlferrete.com/blog/victor-saenz-y-pedro-crespo-desarrolla-tu-primer-plugin-desde-0-like-a-boss/)
-- [Javarevisited: How to recursively list all files in a directory and sub-directory in Java](https://jlferrete.com/blog/javarevisited-how-to-recursively-list-all-files-in-a-directory-and-sub-directory-in-java/)
