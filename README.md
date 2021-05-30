@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Elena Margarita Zárate: WordPress y Educación](https://jlferrete.com/blog/elena-margarita-zarate-wordpress-y-educacion/)
 - [Manuel García Solipa: Entornos de desarrollo y CI/CD para equipos medianos](https://jlferrete.com/blog/manuel-garcia-solipa-entornos-de-desarrollo-y-ci-cd-para-equipos-medianos/)
 - [Ydania Molina Landaeta: Los contratos a distancia](https://jlferrete.com/blog/ydania-molina-landaeta-los-contratos-a-distancia/)
 - [Descarga más de 150 GB en efectos de sonido gratis y de uso libre para tus proyectos personales o comerciales](https://jlferrete.com/blog/descarga-mas-de-150-gb-en-efectos-de-sonido-gratis-y-de-uso-libre-para-tus-proyectos-personales-o-comerciales/)
 - [Curso de mindfulness para emprendedores](https://jlferrete.com/blog/curso-de-mindfulness-para-emprendedores/)
-- [Django + Vue Course – Build an e-Commerce Website](https://jlferrete.com/blog/django-vue-course-build-an-e-commerce-website/)
