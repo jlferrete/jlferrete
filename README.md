@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Roberto Miralles: Pon en marcha tu negocio internacional con WordPress](https://jlferrete.com/blog/roberto-miralles-pon-en-marcha-tu-negocio-internacional-con-wordpress/)
 - [Learn About Python Microservices by Building an App Using Django, Flask, and React](https://jlferrete.com/blog/learn-about-python-microservices-by-building-an-app-using-django-flask-and-react/)
 - [Crea tu propio Google Fotos casero alojado en una Raspberry Pi: PhotoPrism, una alternativa libre y autoinstalable](https://jlferrete.com/blog/crea-tu-propio-google-fotos-casero-alojado-en-una-raspberry-pi-photoprism-una-alternativa-libre-y-autoinstalable/)
 - [Elena Margarita Zárate: WordPress y Educación](https://jlferrete.com/blog/elena-margarita-zarate-wordpress-y-educacion/)
 - [Manuel García Solipa: Entornos de desarrollo y CI/CD para equipos medianos](https://jlferrete.com/blog/manuel-garcia-solipa-entornos-de-desarrollo-y-ci-cd-para-equipos-medianos/)
-- [Ydania Molina Landaeta: Los contratos a distancia](https://jlferrete.com/blog/ydania-molina-landaeta-los-contratos-a-distancia/)
