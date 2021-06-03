@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Create a Discord Bot for Free with Python](https://jlferrete.com/blog/how-to-create-a-discord-bot-for-free-with-python/)
 - [Mejores Plantillas WordPress para Landing Pages](https://jlferrete.com/blog/mejores-plantillas-wordpress-para-landing-pages/)
 - [Así puedes crear un juego de ‘Elige tu propia aventura’ basado en HTML usando el editor Twine 2](https://jlferrete.com/blog/asi-puedes-crear-un-juego-de-elige-tu-propia-aventura-basado-en-html-usando-el-editor-twine-2/)
 - [Pyston 2.2 es un Python que promete ser un 30% más rápido: sus creadores quieren que sustituya al lenguaje de programación](https://jlferrete.com/blog/pyston-2-2-es-un-python-que-promete-ser-un-30-mas-rapido-sus-creadores-quieren-que-sustituya-al-lenguaje-de-programacion/)
 - [Mauricio Gelves: Bloques de Gutenberg y campos personalizados y su relación con la base de datos](https://jlferrete.com/blog/mauricio-gelves-bloques-de-gutenberg-y-campos-personalizados-y-su-relacion-con-la-base-de-datos/)
-- [Juan Camilo Álvarez: Aprende a crear un multisitio en WordPress fácil y rápido](https://jlferrete.com/blog/juan-camilo-alvarez-aprende-a-crear-un-multisitio-en-wordpress-facil-y-rapido/)
