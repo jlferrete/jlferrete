@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [La Fundación Linux ha lanzado un curso gratis para iniciarte en el desarrollo del kernel de Linux](https://jlferrete.com/blog/la-fundacion-linux-ha-lanzado-un-curso-gratis-para-iniciarte-en-el-desarrollo-del-kernel-de-linux/)
 - [Learn How to Use the Chrome DevTools to Troubleshoot Websites](https://jlferrete.com/blog/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
 - [How to Build a Fully Functional Serverless App in Under Two Hours](https://jlferrete.com/blog/how-to-build-a-fully-functional-serverless-app-in-under-two-hours/)
 - [How to Create a Discord Bot for Free with Python](https://jlferrete.com/blog/how-to-create-a-discord-bot-for-free-with-python/)
 - [Mejores Plantillas WordPress para Landing Pages](https://jlferrete.com/blog/mejores-plantillas-wordpress-para-landing-pages/)
-- [Así puedes crear un juego de ‘Elige tu propia aventura’ basado en HTML usando el editor Twine 2](https://jlferrete.com/blog/asi-puedes-crear-un-juego-de-elige-tu-propia-aventura-basado-en-html-usando-el-editor-twine-2/)
