@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Interceptar correos enviados en WordPress](https://jlferrete.com/blog/interceptar-correos-enviados-en-wordpress/)
 - [Cómo quitar JavaScript y CSS sin uso en toda o parte de tu web WordPress](https://jlferrete.com/blog/como-quitar-javascript-y-css-sin-uso-en-toda-o-parte-de-tu-web-wordpress/)
 - [15 herramientas digitales para emprendedores en Internet](https://jlferrete.com/blog/15-herramientas-digitales-para-emprendedores-en-internet/)
 - [La Fundación Linux ha lanzado un curso gratis para iniciarte en el desarrollo del kernel de Linux](https://jlferrete.com/blog/la-fundacion-linux-ha-lanzado-un-curso-gratis-para-iniciarte-en-el-desarrollo-del-kernel-de-linux/)
 - [Learn How to Use the Chrome DevTools to Troubleshoot Websites](https://jlferrete.com/blog/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
-- [How to Build a Fully Functional Serverless App in Under Two Hours](https://jlferrete.com/blog/how-to-build-a-fully-functional-serverless-app-in-under-two-hours/)
