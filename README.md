@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [31 cursos online gratuitos que puedes comenzar en mayo para aprender una nueva habilidad sin tener que pagar nada](https://jlferrete.com/blog/31-cursos-online-gratuitos-que-puedes-comenzar-en-mayo-para-aprender-una-nueva-habilidad-sin-tener-que-pagar-nada/)
 - [Todos los ajustes adicionales de Contact Form 7 y sus increíbles utilidades](https://jlferrete.com/blog/todos-los-ajustes-adicionales-de-contact-form-7-y-sus-increibles-utilidades/)
 - [Interceptar correos enviados en WordPress](https://jlferrete.com/blog/interceptar-correos-enviados-en-wordpress/)
 - [Cómo quitar JavaScript y CSS sin uso en toda o parte de tu web WordPress](https://jlferrete.com/blog/como-quitar-javascript-y-css-sin-uso-en-toda-o-parte-de-tu-web-wordpress/)
 - [15 herramientas digitales para emprendedores en Internet](https://jlferrete.com/blog/15-herramientas-digitales-para-emprendedores-en-internet/)
-- [La Fundación Linux ha lanzado un curso gratis para iniciarte en el desarrollo del kernel de Linux](https://jlferrete.com/blog/la-fundacion-linux-ha-lanzado-un-curso-gratis-para-iniciarte-en-el-desarrollo-del-kernel-de-linux/)
