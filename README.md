@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [No pedir dirección en el checkout para productos virtuales](https://jlferrete.com/blog/no-pedir-direccion-en-el-checkout-para-productos-virtuales/)
 - [Curso gratis oficial de Linux](https://jlferrete.com/blog/curso-gratis-oficial-de-linux/)
 - [Curso de Site Tools](https://jlferrete.com/blog/curso-de-site-tools/)
 - [Docker Guide](https://jlferrete.com/blog/docker-guide/)
 - [El patrón de diseño Factory, ventajas sobre new y diferencias con Builder](https://jlferrete.com/blog/el-patron-de-diseno-factory-ventajas-sobre-new-y-diferencias-con-builder/)
-- [Cómo cambiar el orden por defecto de los productos en WooCommerce](https://jlferrete.com/blog/como-cambiar-el-orden-por-defecto-de-los-productos-en-woocommerce/)
