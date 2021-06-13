@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn JavaScript – A Free 7-hour Interactive Tutorial](https://jlferrete.com/blog/learn-javascript-a-free-7-hour-interactive-tutorial/)
 - [Build and Secure a Laravel API with JWTs](https://jlferrete.com/blog/build-and-secure-a-laravel-api-with-jwts/)
 - [Cómo usar imágenes en formato AVIF en WordPress](https://jlferrete.com/blog/como-usar-imagenes-en-formato-avif-en-wordpress/)
 - [Cómo volver a los widgets clásicos después de WordPress 5.8](https://jlferrete.com/blog/como-volver-a-los-widgets-clasicos-despues-de-wordpress-5-8/)
 - [No pedir dirección en el checkout para productos virtuales](https://jlferrete.com/blog/no-pedir-direccion-en-el-checkout-para-productos-virtuales/)
-- [Curso gratis oficial de Linux](https://jlferrete.com/blog/curso-gratis-oficial-de-linux/)
