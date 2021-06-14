@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Display a Message in Maven](https://jlferrete.com/blog/how-to-display-a-message-in-maven/)
 - [Multipart Request Handling in Spring](https://jlferrete.com/blog/multipart-request-handling-in-spring/)
 - [Learn JavaScript – A Free 7-hour Interactive Tutorial](https://jlferrete.com/blog/learn-javascript-a-free-7-hour-interactive-tutorial/)
 - [Build and Secure a Laravel API with JWTs](https://jlferrete.com/blog/build-and-secure-a-laravel-api-with-jwts/)
 - [Cómo usar imágenes en formato AVIF en WordPress](https://jlferrete.com/blog/como-usar-imagenes-en-formato-avif-en-wordpress/)
-- [Cómo volver a los widgets clásicos después de WordPress 5.8](https://jlferrete.com/blog/como-volver-a-los-widgets-clasicos-despues-de-wordpress-5-8/)
