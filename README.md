@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo quitar el separador de la cabecera de Divi](https://jlferrete.com/blog/como-quitar-el-separador-de-la-cabecera-de-divi/)
 - [¿Cómo crear bloques reutilizables y para qué sirven?](https://jlferrete.com/blog/como-crear-bloques-reutilizables-y-para-que-sirven/)
 - [Cómo instalar Google Analytics en WordPress](https://jlferrete.com/blog/como-instalar-google-analytics-en-wordpress/)
 - [Compra recurrente de productos en WooCommerce](https://jlferrete.com/blog/compra-recurrente-de-productos-en-woocommerce/)
 - [How to Display a Message in Maven](https://jlferrete.com/blog/how-to-display-a-message-in-maven/)
-- [Multipart Request Handling in Spring](https://jlferrete.com/blog/multipart-request-handling-in-spring/)
