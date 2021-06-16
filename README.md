@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: 5 Projects You can do to learn React Native in 2021](https://jlferrete.com/blog/javarevisited-5-projects-you-can-do-to-learn-react-native-in-2021/)
 - [Cómo quitar el separador de la cabecera de Divi](https://jlferrete.com/blog/como-quitar-el-separador-de-la-cabecera-de-divi/)
 - [¿Cómo crear bloques reutilizables y para qué sirven?](https://jlferrete.com/blog/como-crear-bloques-reutilizables-y-para-que-sirven/)
 - [Cómo instalar Google Analytics en WordPress](https://jlferrete.com/blog/como-instalar-google-analytics-en-wordpress/)
 - [Compra recurrente de productos en WooCommerce](https://jlferrete.com/blog/compra-recurrente-de-productos-en-woocommerce/)
-- [How to Display a Message in Maven](https://jlferrete.com/blog/how-to-display-a-message-in-maven/)
