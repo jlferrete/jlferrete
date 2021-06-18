@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Angular 11 Tutorial: Code a Project from Scratch](https://jlferrete.com/blog/angular-11-tutorial-code-a-project-from-scratch/)
 - [Así podrás importar los datos de una tabla en PDF directo desde Excel](https://jlferrete.com/blog/asi-podras-importar-los-datos-de-una-tabla-en-pdf-directo-desde-excel/)
 - [Cómo diseñar una zona para el teletrabajo que no «destroce» tus ojos: los consejos de los expertos sobre la iluminación](https://jlferrete.com/blog/como-disenar-una-zona-para-el-teletrabajo-que-no-destroce-tus-ojos-los-consejos-de-los-expertos-sobre-la-iluminacion/)
 - [Javarevisited: 5 Projects You can do to learn React Native in 2021](https://jlferrete.com/blog/javarevisited-5-projects-you-can-do-to-learn-react-native-in-2021/)
 - [Cómo quitar el separador de la cabecera de Divi](https://jlferrete.com/blog/como-quitar-el-separador-de-la-cabecera-de-divi/)
-- [¿Cómo crear bloques reutilizables y para qué sirven?](https://jlferrete.com/blog/como-crear-bloques-reutilizables-y-para-que-sirven/)
