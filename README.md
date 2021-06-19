@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [The Python Handbook](https://jlferrete.com/blog/the-python-handbook/)
 - [Curso de webinars](https://jlferrete.com/blog/curso-de-webinars/)
 - [Javarevisited: Fibonacci Series with Memoization in Java 8 using ConcurrentHashMap as Cache [Example]](https://jlferrete.com/blog/javarevisited-fibonacci-series-with-memoization-in-java-8-using-concurrenthashmap-as-cache-example/)
 - [Angular 11 Tutorial: Code a Project from Scratch](https://jlferrete.com/blog/angular-11-tutorial-code-a-project-from-scratch/)
 - [Así podrás importar los datos de una tabla en PDF directo desde Excel](https://jlferrete.com/blog/asi-podras-importar-los-datos-de-una-tabla-en-pdf-directo-desde-excel/)
-- [Cómo diseñar una zona para el teletrabajo que no «destroce» tus ojos: los consejos de los expertos sobre la iluminación](https://jlferrete.com/blog/como-disenar-una-zona-para-el-teletrabajo-que-no-destroce-tus-ojos-los-consejos-de-los-expertos-sobre-la-iluminacion/)
