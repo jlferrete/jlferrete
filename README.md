@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Python SQL – How to use the SQLite, MySQL, and PostgreSQL Databases with Python](https://jlferrete.com/blog/python-sql-how-to-use-the-sqlite-mysql-and-postgresql-databases-with-python/)
 - [How to Make a Landing Page using HTML, SCSS, and JavaScript](https://jlferrete.com/blog/how-to-make-a-landing-page-using-html-scss-and-javascript/)
 - [Top 35 Python Interview Questions and Answers for Beginners [ 1 to 2 Years Experienced]](https://jlferrete.com/blog/top-35-python-interview-questions-and-answers-for-beginners-1-to-2-years-experienced/)
 - [The Python Handbook](https://jlferrete.com/blog/the-python-handbook/)
 - [Curso de webinars](https://jlferrete.com/blog/curso-de-webinars/)
-- [Javarevisited: Fibonacci Series with Memoization in Java 8 using ConcurrentHashMap as Cache [Example]](https://jlferrete.com/blog/javarevisited-fibonacci-series-with-memoization-in-java-8-using-concurrenthashmap-as-cache-example/)
