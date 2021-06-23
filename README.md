@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo desactivar las vistas previas de webs en los comentarios](https://jlferrete.com/blog/como-desactivar-las-vistas-previas-de-webs-en-los-comentarios/)
 - [Deserialization Vulnerabilities in Java](https://jlferrete.com/blog/deserialization-vulnerabilities-in-java/)
 - [JVM Parameters InitialRAMPercentage, MinRAMPercentage, and MaxRAMPercentage | Baeldung](https://jlferrete.com/blog/jvm-parameters-initialrampercentage-minrampercentage-and-maxrampercentage-baeldung/)
 - [Learn How to Use React and GraphQL to Make a Full Stack Social Network](https://jlferrete.com/blog/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network-2/)
 - [Python SQL – How to use the SQLite, MySQL, and PostgreSQL Databases with Python](https://jlferrete.com/blog/python-sql-how-to-use-the-sqlite-mysql-and-postgresql-databases-with-python/)
-- [How to Make a Landing Page using HTML, SCSS, and JavaScript](https://jlferrete.com/blog/how-to-make-a-landing-page-using-html-scss-and-javascript/)
