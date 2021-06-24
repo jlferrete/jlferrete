@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cambiar desplegable por botones en las variaciones de productos de WooCommerce](https://jlferrete.com/blog/cambiar-desplegable-por-botones-en-las-variaciones-de-productos-de-woocommerce/)
 - [Spring Conditional Annotations](https://jlferrete.com/blog/spring-conditional-annotations/)
 - [Aprende Git de manera sencilla. Capítulo 11: Git Flow](https://jlferrete.com/blog/aprende-git-de-manera-sencilla-capitulo-11-git-flow/)
 - [Cómo desactivar las vistas previas de webs en los comentarios](https://jlferrete.com/blog/como-desactivar-las-vistas-previas-de-webs-en-los-comentarios/)
 - [Deserialization Vulnerabilities in Java](https://jlferrete.com/blog/deserialization-vulnerabilities-in-java/)
-- [JVM Parameters InitialRAMPercentage, MinRAMPercentage, and MaxRAMPercentage | Baeldung](https://jlferrete.com/blog/jvm-parameters-initialrampercentage-minrampercentage-and-maxrampercentage-baeldung/)
