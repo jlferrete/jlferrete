@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo añadir campos al formulario de registro de WooCommerce](https://jlferrete.com/blog/como-anadir-campos-al-formulario-de-registro-de-woocommerce/)
 - [IllegalAccessError in Java](https://jlferrete.com/blog/illegalaccesserror-in-java/)
 - [Build a Dashboard Using Cassandra, Astra, and Stargate](https://jlferrete.com/blog/build-a-dashboard-using-cassandra-astra-and-stargate/)
 - [Elimina archivos CSS sin usar en WordPress para mejorar puntuaciones en Core Web Vitals](https://jlferrete.com/blog/elimina-archivos-css-sin-usar-en-wordpress-para-mejorar-puntuaciones-en-core-web-vitals/)
 - [Cambiar desplegable por botones en las variaciones de productos de WooCommerce](https://jlferrete.com/blog/cambiar-desplegable-por-botones-en-las-variaciones-de-productos-de-woocommerce/)
-- [Spring Conditional Annotations](https://jlferrete.com/blog/spring-conditional-annotations/)
