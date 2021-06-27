@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Running Selenium Scripts with JMeter](https://jlferrete.com/blog/running-selenium-scripts-with-jmeter/)
 - [Dynamic Favicons for WordPress](https://jlferrete.com/blog/dynamic-favicons-for-wordpress/)
 - [Difference Between Super, Simplest, and Effective POM](https://jlferrete.com/blog/difference-between-super-simplest-and-effective-pom/)
 - [Cómo añadir campos al formulario de registro de WooCommerce](https://jlferrete.com/blog/como-anadir-campos-al-formulario-de-registro-de-woocommerce/)
 - [IllegalAccessError in Java](https://jlferrete.com/blog/illegalaccesserror-in-java/)
-- [Build a Dashboard Using Cassandra, Astra, and Stargate](https://jlferrete.com/blog/build-a-dashboard-using-cassandra-astra-and-stargate/)
