@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Secret Key and String Conversion in Java](https://jlferrete.com/blog/secret-key-and-string-conversion-in-java/)
 - [Curso de After Effects](https://jlferrete.com/blog/curso-de-after-effects/)
 - [CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️](https://jlferrete.com/blog/css-flexbox-tutorial-with-flexbox-properties-cheat-sheet-%f0%9f%8e%96%ef%b8%8f/)
 - [Running Selenium Scripts with JMeter](https://jlferrete.com/blog/running-selenium-scripts-with-jmeter/)
 - [Dynamic Favicons for WordPress](https://jlferrete.com/blog/dynamic-favicons-for-wordpress/)
-- [Difference Between Super, Simplest, and Effective POM](https://jlferrete.com/blog/difference-between-super-simplest-and-effective-pom/)
