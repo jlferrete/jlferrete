@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Finding All Classes in a Java Package](https://jlferrete.com/blog/finding-all-classes-in-a-java-package/)
 - [Cómo usar Twitter – Guía principiantes y trucos avanzados](https://jlferrete.com/blog/como-usar-twitter-guia-principiantes-y-trucos-avanzados/)
 - [Using Cucumber with Gradle](https://jlferrete.com/blog/using-cucumber-with-gradle/)
 - [Secret Key and String Conversion in Java](https://jlferrete.com/blog/secret-key-and-string-conversion-in-java/)
 - [Curso de After Effects](https://jlferrete.com/blog/curso-de-after-effects/)
-- [CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️](https://jlferrete.com/blog/css-flexbox-tutorial-with-flexbox-properties-cheat-sheet-%f0%9f%8e%96%ef%b8%8f/)
