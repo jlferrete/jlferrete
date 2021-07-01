@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Return Multiple Entities In JPA Query](https://jlferrete.com/blog/how-to-return-multiple-entities-in-jpa-query/)
 - [Generating Alphanumeric UUID String in Java](https://jlferrete.com/blog/generating-alphanumeric-uuid-string-in-java/)
 - [Finding All Classes in a Java Package](https://jlferrete.com/blog/finding-all-classes-in-a-java-package/)
 - [Cómo usar Twitter – Guía principiantes y trucos avanzados](https://jlferrete.com/blog/como-usar-twitter-guia-principiantes-y-trucos-avanzados/)
 - [Using Cucumber with Gradle](https://jlferrete.com/blog/using-cucumber-with-gradle/)
-- [Secret Key and String Conversion in Java](https://jlferrete.com/blog/secret-key-and-string-conversion-in-java/)
