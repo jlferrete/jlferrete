@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Eliminar las reservas en carrito de WooCommerce Bookings](https://jlferrete.com/blog/eliminar-las-reservas-en-carrito-de-woocommerce-bookings/)
 - [Guide to creating a Drupal 9 theme in simple steps](https://jlferrete.com/blog/guide-to-creating-a-drupal-9-theme-in-simple-steps/)
 - [How to Return Multiple Entities In JPA Query](https://jlferrete.com/blog/how-to-return-multiple-entities-in-jpa-query/)
 - [Generating Alphanumeric UUID String in Java](https://jlferrete.com/blog/generating-alphanumeric-uuid-string-in-java/)
 - [Finding All Classes in a Java Package](https://jlferrete.com/blog/finding-all-classes-in-a-java-package/)
-- [Cómo usar Twitter – Guía principiantes y trucos avanzados](https://jlferrete.com/blog/como-usar-twitter-guia-principiantes-y-trucos-avanzados/)
