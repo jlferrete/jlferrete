@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn Node.js and Express with This Free 8-hour Back End Development Course](https://jlferrete.com/blog/learn-node-js-and-express-with-this-free-8-hour-back-end-development-course/)
 - [Cómo añadir animaciones a cualquier bloque del editor de WordPress](https://jlferrete.com/blog/como-anadir-animaciones-a-cualquier-bloque-del-editor-de-wordpress/)
 - [Cómo desactivar lazy load (carga diferida) selectivamente](https://jlferrete.com/blog/como-desactivar-lazy-load-carga-diferida-selectivamente/)
 - [Eliminar las reservas en carrito de WooCommerce Bookings](https://jlferrete.com/blog/eliminar-las-reservas-en-carrito-de-woocommerce-bookings/)
 - [Guide to creating a Drupal 9 theme in simple steps](https://jlferrete.com/blog/guide-to-creating-a-drupal-9-theme-in-simple-steps/)
-- [How to Return Multiple Entities In JPA Query](https://jlferrete.com/blog/how-to-return-multiple-entities-in-jpa-query/)
