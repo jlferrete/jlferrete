@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Advanced Computer Vision with Python](https://jlferrete.com/blog/advanced-computer-vision-with-python/)
 - [Spring Validation in the Service Layer](https://jlferrete.com/blog/spring-validation-in-the-service-layer/)
 - [Guide To CompletableFuture](https://jlferrete.com/blog/guide-to-completablefuture/)
 - [Mejorar la seguridad de WordPress con SG Security](https://jlferrete.com/blog/mejorar-la-seguridad-de-wordpress-con-sg-security/)
 - [Curso de automatización de WordPress](https://jlferrete.com/blog/curso-de-automatizacion-de-wordpress/)
-- [Learn Docker by Building a Node / Express App](https://jlferrete.com/blog/learn-docker-by-building-a-node-express-app/)
