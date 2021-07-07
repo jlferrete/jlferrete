@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [The Python Handbook](https://jlferrete.com/blog/the-python-handbook-2/)
 - [What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib & Seaborn Tutorial](https://jlferrete.com/blog/what-is-data-analysis-how-to-visualize-data-with-python-numpy-pandas-matplotlib-seaborn-tutorial/)
 - [Advanced Computer Vision with Python](https://jlferrete.com/blog/advanced-computer-vision-with-python/)
 - [Spring Validation in the Service Layer](https://jlferrete.com/blog/spring-validation-in-the-service-layer/)
 - [Guide To CompletableFuture](https://jlferrete.com/blog/guide-to-completablefuture/)
-- [Mejorar la seguridad de WordPress con SG Security](https://jlferrete.com/blog/mejorar-la-seguridad-de-wordpress-con-sg-security/)
