@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn Data Visualization in This Free 17-Hour Course](https://jlferrete.com/blog/learn-data-visualization-in-this-free-17-hour-course/)
 - [Learn Bootstrap 5 and SASS by Building a Portfolio Website](https://jlferrete.com/blog/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/)
 - [Como hacer un bot para Mastodon](https://jlferrete.com/blog/como-hacer-un-bot-para-mastodon/)
 - [The Python Handbook](https://jlferrete.com/blog/the-python-handbook-2/)
 - [What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib & Seaborn Tutorial](https://jlferrete.com/blog/what-is-data-analysis-how-to-visualize-data-with-python-numpy-pandas-matplotlib-seaborn-tutorial/)
-- [Advanced Computer Vision with Python](https://jlferrete.com/blog/advanced-computer-vision-with-python/)
