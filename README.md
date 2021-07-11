@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Con una Raspberry Pi, una cámara y actuadores, este usuario ha construido un robot que carga su Tesla de forma autónoma](https://jlferrete.com/blog/con-una-raspberry-pi-una-camara-y-actuadores-este-usuario-ha-construido-un-robot-que-carga-su-tesla-de-forma-autonoma/)
 - [Cómo exportar – BIEN – la base de datos de WordPress •](https://jlferrete.com/blog/como-exportar-bien-la-base-de-datos-de-wordpress/)
 - [Cómo desactivar correctamente AMP en WordPress sin errores 404 ni arruinar tu SEO](https://jlferrete.com/blog/como-desactivar-correctamente-amp-en-wordpress-sin-errores-404-ni-arruinar-tu-seo/)
 - [The Linux Command Handbook](https://jlferrete.com/blog/the-linux-command-handbook/)
 - [Learn Data Visualization in This Free 17-Hour Course](https://jlferrete.com/blog/learn-data-visualization-in-this-free-17-hour-course/)
-- [Learn Bootstrap 5 and SASS by Building a Portfolio Website](https://jlferrete.com/blog/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/)
