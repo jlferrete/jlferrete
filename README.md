@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Que no te «secuestren» la información de tu NAS: así puedes protegerlo de ataques ransomware](https://jlferrete.com/blog/que-no-te-secuestren-la-informacion-de-tu-nas-asi-puedes-protegerlo-de-ataques-ransomware/)
 - [Javarevisited: Difference between Method Overloading and Overriding in Java](https://jlferrete.com/blog/javarevisited-difference-between-method-overloading-and-overriding-in-java/)
 - [The NGINX Handbook](https://jlferrete.com/blog/the-nginx-handbook/)
 - [Automatizar LinkedIn con BOT de Forma Gratuita](https://jlferrete.com/blog/automatizar-linkedin-con-bot-de-forma-gratuita/)
 - [Con una Raspberry Pi, una cámara y actuadores, este usuario ha construido un robot que carga su Tesla de forma autónoma](https://jlferrete.com/blog/con-una-raspberry-pi-una-camara-y-actuadores-este-usuario-ha-construido-un-robot-que-carga-su-tesla-de-forma-autonoma/)
-- [Cómo exportar – BIEN – la base de datos de WordPress •](https://jlferrete.com/blog/como-exportar-bien-la-base-de-datos-de-wordpress/)
