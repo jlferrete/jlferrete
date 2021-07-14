@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Lidia Arroyo: 10 consejos para mantener mi WordPress Seguro](https://jlferrete.com/blog/lidia-arroyo-10-consejos-para-mantener-mi-wordpress-seguro/)
 - [Cambiar comillas («») en WordPress](https://jlferrete.com/blog/cambiar-comillas-en-wordpress/)
 - [Qué son y cómo funcionan los mates alpha en After Effects – Parte 1 –](https://jlferrete.com/blog/que-son-y-como-funcionan-los-mates-alpha-en-after-effects-parte-1/)
 - [Cómo mostrar en la biblioteca de medios de WordPress archivos subidos en carpetas](https://jlferrete.com/blog/como-mostrar-en-la-biblioteca-de-medios-de-wordpress-archivos-subidos-en-carpetas/)
 - [JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream](https://jlferrete.com/blog/javascript-async-await-tutorial-learn-callbacks-promises-and-async-await-in-js-by-making-ice-cream/)
-- [Que no te «secuestren» la información de tu NAS: así puedes protegerlo de ataques ransomware](https://jlferrete.com/blog/que-no-te-secuestren-la-informacion-de-tu-nas-asi-puedes-protegerlo-de-ataques-ransomware/)
