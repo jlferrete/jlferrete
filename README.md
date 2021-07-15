@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Create PDF using sing of html/php/blade: laravel](https://jlferrete.com/blog/create-pdf-using-sing-of-html-php-blade-laravel/)
 - [Cómo añadir un botón en tu menú de cabecera en cualquier tema y sin plugins](https://jlferrete.com/blog/como-anadir-un-boton-en-tu-menu-de-cabecera-en-cualquier-tema-y-sin-plugins/)
 - [Interface With Default Methods vs Abstract Class](https://jlferrete.com/blog/interface-with-default-methods-vs-abstract-class/)
 - [Lidia Arroyo: 10 consejos para mantener mi WordPress Seguro](https://jlferrete.com/blog/lidia-arroyo-10-consejos-para-mantener-mi-wordpress-seguro/)
 - [Cambiar comillas («») en WordPress](https://jlferrete.com/blog/cambiar-comillas-en-wordpress/)
-- [Qué son y cómo funcionan los mates alpha en After Effects – Parte 1 –](https://jlferrete.com/blog/que-son-y-como-funcionan-los-mates-alpha-en-after-effects-parte-1/)
