@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Advanced Computer Vision with Python](https://jlferrete.com/blog/advanced-computer-vision-with-python-2/)
 - [How to Build a Portfolio Website with React](https://jlferrete.com/blog/how-to-build-a-portfolio-website-with-react/)
 - [A Comparison Between JPA and JDBC](https://jlferrete.com/blog/a-comparison-between-jpa-and-jdbc/)
 - [Download a Binary File Using OkHttp](https://jlferrete.com/blog/download-a-binary-file-using-okhttp/)
 - [Command Line Arguments as Maven Properties](https://jlferrete.com/blog/command-line-arguments-as-maven-properties/)
-- [Guide to the ModelAssert Library for JSON](https://jlferrete.com/blog/guide-to-the-modelassert-library-for-json/)
