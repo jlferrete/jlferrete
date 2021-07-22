@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo cambiar el H2 del encabezado de las entradas relacionadas del tema Astra](https://jlferrete.com/blog/como-cambiar-el-h2-del-encabezado-de-las-entradas-relacionadas-del-tema-astra/)
 - [7 Acciones eficaces de búsqueda de empleo con LinkedIn](https://jlferrete.com/blog/7-acciones-eficaces-de-busqueda-de-empleo-con-linkedin/)
 - [Los cuatro sistemas operativos para dispositivos NAS más utilizados, por si estás pensando en hacerte con uno](https://jlferrete.com/blog/los-cuatro-sistemas-operativos-para-dispositivos-nas-mas-utilizados-por-si-estas-pensando-en-hacerte-con-uno/)
 - [Curso de creación de podcasts premium](https://jlferrete.com/blog/curso-de-creacion-de-podcasts-premium/)
 - [Cómo convertir un Formulario de Google en un Chatbot](https://jlferrete.com/blog/como-convertir-un-formulario-de-google-en-un-chatbot/)
-- [Cómo construir una comunidad en Instagram desde 0 y mantenerla](https://jlferrete.com/blog/como-construir-una-comunidad-en-instagram-desde-0-y-mantenerla/)
