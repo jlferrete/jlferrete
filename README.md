@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo cambiar y ocultar la URL de acceso a WordPress](https://jlferrete.com/blog/como-cambiar-y-ocultar-la-url-de-acceso-a-wordpress/)
 - [Enabling Logging for Apache HttpClient](https://jlferrete.com/blog/enabling-logging-for-apache-httpclient/)
 - [Lists in Python – A Comprehensive Guide](https://jlferrete.com/blog/lists-in-python-a-comprehensive-guide/)
 - [Create Your Own Electronics With Arduino](https://jlferrete.com/blog/create-your-own-electronics-with-arduino/)
 - [Cómo cambiar el H2 del encabezado de las entradas relacionadas del tema Astra](https://jlferrete.com/blog/como-cambiar-el-h2-del-encabezado-de-las-entradas-relacionadas-del-tema-astra/)
-- [7 Acciones eficaces de búsqueda de empleo con LinkedIn](https://jlferrete.com/blog/7-acciones-eficaces-de-busqueda-de-empleo-con-linkedin/)
