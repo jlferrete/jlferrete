@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de Camtasia](https://jlferrete.com/blog/curso-de-camtasia/)
 - [Backend Web Development with Python](https://jlferrete.com/blog/backend-web-development-with-python/)
 - [Swagger @Api Description Is Deprecated](https://jlferrete.com/blog/swagger-api-description-is-deprecated/)
 - [Full JavaScript Course for Beginners](https://jlferrete.com/blog/full-javascript-course-for-beginners/)
 - [Introduction to Spring Native](https://jlferrete.com/blog/introduction-to-spring-native/)
-- [Cómo crear una membresía gratuita con MemberPress](https://jlferrete.com/blog/como-crear-una-membresia-gratuita-con-memberpress/)
