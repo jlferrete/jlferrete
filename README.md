@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Atajos de teclado de Visual Studio Code para programar como profesional](https://jlferrete.com/blog/atajos-de-teclado-de-visual-studio-code-para-programar-como-profesional/)
 - [Curso de Camtasia](https://jlferrete.com/blog/curso-de-camtasia/)
 - [Backend Web Development with Python](https://jlferrete.com/blog/backend-web-development-with-python/)
 - [Swagger @Api Description Is Deprecated](https://jlferrete.com/blog/swagger-api-description-is-deprecated/)
 - [Full JavaScript Course for Beginners](https://jlferrete.com/blog/full-javascript-course-for-beginners/)
-- [Introduction to Spring Native](https://jlferrete.com/blog/introduction-to-spring-native/)
