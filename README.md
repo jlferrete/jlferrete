@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Local by Flywheel – Creando un servidor local con WordPress](https://jlferrete.com/blog/local-by-flywheel-creando-un-servidor-local-con-wordpress/)
+- [Fijar Widget lateral en WordPress sin plugins](https://jlferrete.com/blog/fijar-widget-lateral-en-wordpress-sin-plugins/)
 - [Atajos de teclado de Visual Studio Code para programar como profesional](https://jlferrete.com/blog/atajos-de-teclado-de-visual-studio-code-para-programar-como-profesional/)
 - [Curso de Camtasia](https://jlferrete.com/blog/curso-de-camtasia/)
 - [Backend Web Development with Python](https://jlferrete.com/blog/backend-web-development-with-python/)
-- [Swagger @Api Description Is Deprecated](https://jlferrete.com/blog/swagger-api-description-is-deprecated/)
-- [Full JavaScript Course for Beginners](https://jlferrete.com/blog/full-javascript-course-for-beginners/)
