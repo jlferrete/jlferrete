@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Static Classes Versus the Singleton Pattern in Java](https://jlferrete.com/blog/static-classes-versus-the-singleton-pattern-in-java/)
 - [Cómo mostrar los iconos sociales de la cabecera de Divi también en móviles](https://jlferrete.com/blog/como-mostrar-los-iconos-sociales-de-la-cabecera-de-divi-tambien-en-moviles/)
 - [Raspberry, ordenadores baratos para educación desde Reino Unido](https://jlferrete.com/blog/raspberry-ordenadores-baratos-para-educacion-desde-reino-unido/)
 - [Local by Flywheel – Creando un servidor local con WordPress](https://jlferrete.com/blog/local-by-flywheel-creando-un-servidor-local-con-wordpress/)
 - [Fijar Widget lateral en WordPress sin plugins](https://jlferrete.com/blog/fijar-widget-lateral-en-wordpress-sin-plugins/)
-- [Atajos de teclado de Visual Studio Code para programar como profesional](https://jlferrete.com/blog/atajos-de-teclado-de-visual-studio-code-para-programar-como-profesional/)
