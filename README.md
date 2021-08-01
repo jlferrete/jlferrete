@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Force Repository Update with Maven](https://jlferrete.com/blog/force-repository-update-with-maven/)
 - [JDBC Batch INSERT and UPDATE example in Java with PreparedStatement](https://jlferrete.com/blog/jdbc-batch-insert-and-update-example-in-java-with-preparedstatement/)
 - [Visual Studio: descargar gratis e instalar el IDE para programar](https://jlferrete.com/blog/visual-studio-descargar-gratis-e-instalar-el-ide-para-programar/)
 - [Cómo usar un vídeo de Vimeo de fondo en Divi](https://jlferrete.com/blog/como-usar-un-video-de-vimeo-de-fondo-en-divi/)
 - [Static Classes Versus the Singleton Pattern in Java](https://jlferrete.com/blog/static-classes-versus-the-singleton-pattern-in-java/)
-- [Cómo mostrar los iconos sociales de la cabecera de Divi también en móviles](https://jlferrete.com/blog/como-mostrar-los-iconos-sociales-de-la-cabecera-de-divi-tambien-en-moviles/)
