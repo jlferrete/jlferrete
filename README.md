@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman](https://jlferrete.com/blog/how-to-build-a-graphql-server-with-laravel-graphql-and-test-it-with-postman/)
 - [Force Repository Update with Maven](https://jlferrete.com/blog/force-repository-update-with-maven/)
 - [JDBC Batch INSERT and UPDATE example in Java with PreparedStatement](https://jlferrete.com/blog/jdbc-batch-insert-and-update-example-in-java-with-preparedstatement/)
 - [Visual Studio: descargar gratis e instalar el IDE para programar](https://jlferrete.com/blog/visual-studio-descargar-gratis-e-instalar-el-ide-para-programar/)
 - [Cómo usar un vídeo de Vimeo de fondo en Divi](https://jlferrete.com/blog/como-usar-un-video-de-vimeo-de-fondo-en-divi/)
-- [Static Classes Versus the Singleton Pattern in Java](https://jlferrete.com/blog/static-classes-versus-the-singleton-pattern-in-java/)
