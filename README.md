@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Automattic da el salto al mundo de los podcasts](https://jlferrete.com/blog/automattic-da-el-salto-al-mundo-de-los-podcasts/)
 - [Así puedes usar ‘Mathematica’ gratis y legalmente en tu PC… con la ayuda de una Raspberry Pi](https://jlferrete.com/blog/asi-puedes-usar-mathematica-gratis-y-legalmente-en-tu-pc-con-la-ayuda-de-una-raspberry-pi/)
 - [Mega artículo: ¿Mi curso está listo? + Plantilla con checklist definitivo](https://jlferrete.com/blog/mega-articulo-mi-curso-esta-listo-plantilla-con-checklist-definitivo/)
 - [31 cursos gratis para aprender a programar desde cero](https://jlferrete.com/blog/31-cursos-gratis-para-aprender-a-programar-desde-cero/)
 - [How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman](https://jlferrete.com/blog/how-to-build-a-graphql-server-with-laravel-graphql-and-test-it-with-postman/)
-- [Force Repository Update with Maven](https://jlferrete.com/blog/force-repository-update-with-maven/)
