@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [TPM 2.0 ha caído, ¿Windows 11 en cualquier PC sin bloqueo de hardware?](https://jlferrete.com/blog/tpm-2-0-ha-caido-windows-11-en-cualquier-pc-sin-bloqueo-de-hardware/)
 - [Javarevisited: Difference between Singleton Pattern vs Static Class in Java?](https://jlferrete.com/blog/javarevisited-difference-between-singleton-pattern-vs-static-class-in-java/)
 - [Learn Python by Building 12 Projects in This 3-Hour Course](https://jlferrete.com/blog/learn-python-by-building-12-projects-in-this-3-hour-course-3/)
 - [Formas de generar un número aleatorio en un rango con Java](https://jlferrete.com/blog/formas-de-generar-un-numero-aleatorio-en-un-rango-con-java/)
 - [Automattic da el salto al mundo de los podcasts](https://jlferrete.com/blog/automattic-da-el-salto-al-mundo-de-los-podcasts/)
-- [Así puedes usar ‘Mathematica’ gratis y legalmente en tu PC… con la ayuda de una Raspberry Pi](https://jlferrete.com/blog/asi-puedes-usar-mathematica-gratis-y-legalmente-en-tu-pc-con-la-ayuda-de-una-raspberry-pi/)
