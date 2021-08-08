@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: How to Setup Java Remote Debugging in Eclipse – Step by Step Guide](https://jlferrete.com/blog/javarevisited-how-to-setup-java-remote-debugging-in-eclipse-step-by-step-guide/)
 - [Para qué sirve la programación en Python](https://jlferrete.com/blog/para-que-sirve-la-programacion-en-python/)
 - [Los números de tarjeta de los desarrolladores de Python, amenazados por paquetes de malware subidos al repositorio PyPI](https://jlferrete.com/blog/los-numeros-de-tarjeta-de-los-desarrolladores-de-python-amenazados-por-paquetes-de-malware-subidos-al-repositorio-pypi/)
 - [40 JavaScript Projects for Beginners. Easy Ideas to Get Started Coding JS](https://jlferrete.com/blog/40-javascript-projects-for-beginners-easy-ideas-to-get-started-coding-js/)
 - [13 proyectos locos que los makers han creado usando Raspberry Pi](https://jlferrete.com/blog/13-proyectos-locos-que-los-makers-han-creado-usando-raspberry-pi/)
-- [TPM 2.0 ha caído, ¿Windows 11 en cualquier PC sin bloqueo de hardware?](https://jlferrete.com/blog/tpm-2-0-ha-caido-windows-11-en-cualquier-pc-sin-bloqueo-de-hardware/)
