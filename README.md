@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: How to Create JUnit Tests in Eclipse and NetBeans IDE? Java Example](https://jlferrete.com/blog/javarevisited-how-to-create-junit-tests-in-eclipse-and-netbeans-ide-java-example/)
 - [Javarevisited: How to Implement Thread in Java with Example](https://jlferrete.com/blog/javarevisited-how-to-implement-thread-in-java-with-example/)
 - [Cómo quitar bloques del editor según el tipo de contenido o perfil de usuario](https://jlferrete.com/blog/como-quitar-bloques-del-editor-segun-el-tipo-de-contenido-o-perfil-de-usuario/)
 - [Javarevisited: How to Setup Java Remote Debugging in Eclipse – Step by Step Guide](https://jlferrete.com/blog/javarevisited-how-to-setup-java-remote-debugging-in-eclipse-step-by-step-guide/)
 - [Para qué sirve la programación en Python](https://jlferrete.com/blog/para-que-sirve-la-programacion-en-python/)
-- [Los números de tarjeta de los desarrolladores de Python, amenazados por paquetes de malware subidos al repositorio PyPI](https://jlferrete.com/blog/los-numeros-de-tarjeta-de-los-desarrolladores-de-python-amenazados-por-paquetes-de-malware-subidos-al-repositorio-pypi/)
