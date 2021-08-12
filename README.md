@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [GamiPress – Unlock achievements and ranks by expending points](https://jlferrete.com/blog/gamipress-unlock-achievements-and-ranks-by-expending-points/)
 - [Mega Guía: ¿Cómo se determina el valor real de un producto?](https://jlferrete.com/blog/mega-guia-como-se-determina-el-valor-real-de-un-producto/)
 - [Cómo crear tu propio pictograma animado estilo Tokio 2020 con una webcam y código libre (Inteligencia artificial)](https://jlferrete.com/blog/como-crear-tu-propio-pictograma-animado-estilo-tokio-2020-con-una-webcam-y-codigo-libre-inteligencia-artificial/)
 - [Java Program to find factorial of number in Java – Example Tutorial](https://jlferrete.com/blog/java-program-to-find-factorial-of-number-in-java-example-tutorial/)
 - [Calling a SOAP Web Service from the Command Line](https://jlferrete.com/blog/calling-a-soap-web-service-from-the-command-line/)
-- [Javarevisited: How to Create JUnit Tests in Eclipse and NetBeans IDE? Java Example](https://jlferrete.com/blog/javarevisited-how-to-create-junit-tests-in-eclipse-and-netbeans-ide-java-example/)
