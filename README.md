@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Optimizar WordPress para que tu Web cargue más rápido](https://jlferrete.com/blog/optimizar-wordpress-para-que-tu-web-cargue-mas-rapido/)
 - [Migrar WordPress con Duplicator, Tutorial](https://jlferrete.com/blog/migrar-wordpress-con-duplicator-tutorial/)
 - [GamiPress – Unlock achievements and ranks by expending points](https://jlferrete.com/blog/gamipress-unlock-achievements-and-ranks-by-expending-points/)
 - [Mega Guía: ¿Cómo se determina el valor real de un producto?](https://jlferrete.com/blog/mega-guia-como-se-determina-el-valor-real-de-un-producto/)
 - [Cómo crear tu propio pictograma animado estilo Tokio 2020 con una webcam y código libre (Inteligencia artificial)](https://jlferrete.com/blog/como-crear-tu-propio-pictograma-animado-estilo-tokio-2020-con-una-webcam-y-codigo-libre-inteligencia-artificial/)
-- [Java Program to find factorial of number in Java – Example Tutorial](https://jlferrete.com/blog/java-program-to-find-factorial-of-number-in-java-example-tutorial/)
