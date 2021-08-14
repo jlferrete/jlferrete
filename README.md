@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Estos son los siete consejos para programadores open source publicados por el creador de SumatraPDF en el 15º aniversario de su app](https://jlferrete.com/blog/estos-son-los-siete-consejos-para-programadores-open-source-publicados-por-el-creador-de-sumatrapdf-en-el-15o-aniversario-de-su-app/)
 - [Optimizar WordPress para que tu Web cargue más rápido](https://jlferrete.com/blog/optimizar-wordpress-para-que-tu-web-cargue-mas-rapido/)
 - [Migrar WordPress con Duplicator, Tutorial](https://jlferrete.com/blog/migrar-wordpress-con-duplicator-tutorial/)
 - [GamiPress – Unlock achievements and ranks by expending points](https://jlferrete.com/blog/gamipress-unlock-achievements-and-ranks-by-expending-points/)
 - [Mega Guía: ¿Cómo se determina el valor real de un producto?](https://jlferrete.com/blog/mega-guia-como-se-determina-el-valor-real-de-un-producto/)
-- [Cómo crear tu propio pictograma animado estilo Tokio 2020 con una webcam y código libre (Inteligencia artificial)](https://jlferrete.com/blog/como-crear-tu-propio-pictograma-animado-estilo-tokio-2020-con-una-webcam-y-codigo-libre-inteligencia-artificial/)
