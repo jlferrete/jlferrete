@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa-2/)
+- [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa/)
 - [Cómo optimizar el tiempo en tu trabajo y estudio con estas apps gratuitas](https://jlferrete.com/blog/como-optimizar-el-tiempo-en-tu-trabajo-y-estudio-con-estas-apps-gratuitas/)
 - [DevOps Engineering Course for Beginners](https://jlferrete.com/blog/devops-engineering-course-for-beginners/)
 - [Graph Algorithms for Technical Interviews](https://jlferrete.com/blog/graph-algorithms-for-technical-interviews/)
-- [Java vs JavaScript: diferencias entre los lenguajes de programación](https://jlferrete.com/blog/java-vs-javascript-diferencias-entre-los-lenguajes-de-programacion/)
-- [12 Free Coding Games to Learn Programming for Beginners](https://jlferrete.com/blog/12-free-coding-games-to-learn-programming-for-beginners/)
