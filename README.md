@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Parse or Read XML File in Java >> XML Tutorial Example](https://jlferrete.com/blog/how-to-parse-or-read-xml-file-in-java-xml-tutorial-example/)
 - [How to Create and Modify Properties File Form Java Program in Text and XML Format – Example](https://jlferrete.com/blog/how-to-create-and-modify-properties-file-form-java-program-in-text-and-xml-format-example/)
 - [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa-2/)
 - [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa/)
 - [Cómo optimizar el tiempo en tu trabajo y estudio con estas apps gratuitas](https://jlferrete.com/blog/como-optimizar-el-tiempo-en-tu-trabajo-y-estudio-con-estas-apps-gratuitas/)
-- [DevOps Engineering Course for Beginners](https://jlferrete.com/blog/devops-engineering-course-for-beginners/)
