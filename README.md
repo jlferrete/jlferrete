@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Microsoft Excel: 21 funciones, trucos y consejos para exprimir al máximo la app de hojas de cálculo](https://jlferrete.com/blog/microsoft-excel-21-funciones-trucos-y-consejos-para-exprimir-al-maximo-la-app-de-hojas-de-calculo/)
+- [How to Create and Evaluate XPath Expression in Java – Tutorial and Example](https://jlferrete.com/blog/how-to-create-and-evaluate-xpath-expression-in-java-tutorial-and-example/)
 - [How to replace escape XML special characters in Java String – Example](https://jlferrete.com/blog/how-to-replace-escape-xml-special-characters-in-java-string-example/)
 - [How to Parse or Read XML File in Java >> XML Tutorial Example](https://jlferrete.com/blog/how-to-parse-or-read-xml-file-in-java-xml-tutorial-example/)
 - [How to Create and Modify Properties File Form Java Program in Text and XML Format – Example](https://jlferrete.com/blog/how-to-create-and-modify-properties-file-form-java-program-in-text-and-xml-format-example/)
-- [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa-2/)
-- [Mejores plugins para integrar Instagram en WordPress – Webempresa](https://jlferrete.com/blog/mejores-plugins-para-integrar-instagram-en-wordpress-webempresa/)
