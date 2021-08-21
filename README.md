@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Mega artículo: crea la mejor estrategia para vídeos y podcast (+Plantilla para guiones)](https://jlferrete.com/blog/mega-articulo-crea-la-mejor-estrategia-para-videos-y-podcast-plantilla-para-guiones/)
 - [Curso de Genesis](https://jlferrete.com/blog/curso-de-genesis/)
 - [SMTP en WordPress, configuración para envío de correos](https://jlferrete.com/blog/smtp-en-wordpress-configuracion-para-envio-de-correos/)
 - [Cómo trabajar con los crons de WordPress y no morir en el intento](https://jlferrete.com/blog/como-trabajar-con-los-crons-de-wordpress-y-no-morir-en-el-intento/)
 - [Microsoft Excel: 21 funciones, trucos y consejos para exprimir al máximo la app de hojas de cálculo](https://jlferrete.com/blog/microsoft-excel-21-funciones-trucos-y-consejos-para-exprimir-al-maximo-la-app-de-hojas-de-calculo/)
-- [How to Create and Evaluate XPath Expression in Java – Tutorial and Example](https://jlferrete.com/blog/how-to-create-and-evaluate-xpath-expression-in-java-tutorial-and-example/)
