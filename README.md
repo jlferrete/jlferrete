@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Create File and Directory in Java Example](https://jlferrete.com/blog/how-to-create-file-and-directory-in-java-example/)
 - [Difference between final, finally and finalize method in Java](https://jlferrete.com/blog/difference-between-final-finally-and-finalize-method-in-java/)
 - [Difference between TreeSet, LinkedHashSet and HashSet in Java with Example](https://jlferrete.com/blog/difference-between-treeset-linkedhashset-and-hashset-in-java-with-example/)
 - [20+ puntos a revisar antes de publicar una entrada en tu blog](https://jlferrete.com/blog/20-puntos-a-revisar-antes-de-publicar-una-entrada-en-tu-blog/)
 - [Top 25 Java Collection Framework Interview Questions Answers for Freshers and Experienced Programmers](https://jlferrete.com/blog/top-25-java-collection-framework-interview-questions-answers-for-freshers-and-experienced-programmers/)
-- [Mega artículo: crea la mejor estrategia para vídeos y podcast (+Plantilla para guiones)](https://jlferrete.com/blog/mega-articulo-crea-la-mejor-estrategia-para-videos-y-podcast-plantilla-para-guiones/)
