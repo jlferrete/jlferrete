@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué es HTTPS: la guía definitiva sobre cómo funciona HTTPS](https://jlferrete.com/blog/que-es-https-la-guia-definitiva-sobre-como-funciona-https/)
 - [¿Cómo crear una Galería Masonry en Divi?](https://jlferrete.com/blog/como-crear-una-galeria-masonry-en-divi/)
 - [How to Create File and Directory in Java Example](https://jlferrete.com/blog/how-to-create-file-and-directory-in-java-example/)
 - [Difference between final, finally and finalize method in Java](https://jlferrete.com/blog/difference-between-final-finally-and-finalize-method-in-java/)
 - [Difference between TreeSet, LinkedHashSet and HashSet in Java with Example](https://jlferrete.com/blog/difference-between-treeset-linkedhashset-and-hashset-in-java-with-example/)
-- [20+ puntos a revisar antes de publicar una entrada en tu blog](https://jlferrete.com/blog/20-puntos-a-revisar-antes-de-publicar-una-entrada-en-tu-blog/)
