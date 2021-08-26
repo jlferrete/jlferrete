@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to read and write in text file in Java – Example Tutorial](https://jlferrete.com/blog/how-to-read-and-write-in-text-file-in-java-example-tutorial/)
 - [Top 10 JDBC Interview questions answers for Java programmer](https://jlferrete.com/blog/top-10-jdbc-interview-questions-answers-for-java-programmer/)
 - [Qué es HTTPS: la guía definitiva sobre cómo funciona HTTPS](https://jlferrete.com/blog/que-es-https-la-guia-definitiva-sobre-como-funciona-https/)
 - [¿Cómo crear una Galería Masonry en Divi?](https://jlferrete.com/blog/como-crear-una-galeria-masonry-en-divi/)
 - [How to Create File and Directory in Java Example](https://jlferrete.com/blog/how-to-create-file-and-directory-in-java-example/)
-- [Difference between final, finally and finalize method in Java](https://jlferrete.com/blog/difference-between-final-finally-and-finalize-method-in-java/)
