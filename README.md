@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué es una newsletter y cómo crear una](https://jlferrete.com/blog/que-es-una-newsletter-y-como-crear-una/)
 - [La nueva sintaxis de las Media Queries en CSS](https://jlferrete.com/blog/la-nueva-sintaxis-de-las-media-queries-en-css/)
 - [Shortcode para mostrar la fecha en WordPress](https://jlferrete.com/blog/shortcode-para-mostrar-la-fecha-en-wordpress/)
 - [Curso avanzado de OBS](https://jlferrete.com/blog/curso-avanzado-de-obs/)
 - [How to read and write in text file in Java – Example Tutorial](https://jlferrete.com/blog/how-to-read-and-write-in-text-file-in-java-example-tutorial/)
-- [Top 10 JDBC Interview questions answers for Java programmer](https://jlferrete.com/blog/top-10-jdbc-interview-questions-answers-for-java-programmer/)
