@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Integrate Google APIs with Python Django](https://jlferrete.com/blog/how-to-integrate-google-apis-with-python-django/)
 - [Low-Code Tutorial – Build 3 Financial Apps](https://jlferrete.com/blog/low-code-tutorial-build-3-financial-apps/)
 - [Cómo recuperar los Widgets clásicos](https://jlferrete.com/blog/como-recuperar-los-widgets-clasicos/)
 - [Qué es una newsletter y cómo crear una](https://jlferrete.com/blog/que-es-una-newsletter-y-como-crear-una/)
 - [La nueva sintaxis de las Media Queries en CSS](https://jlferrete.com/blog/la-nueva-sintaxis-de-las-media-queries-en-css/)
-- [Shortcode para mostrar la fecha en WordPress](https://jlferrete.com/blog/shortcode-para-mostrar-la-fecha-en-wordpress/)
