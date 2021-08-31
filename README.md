@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Actualidad para profesionales de WordPress (Edición 211)](https://jlferrete.com/blog/actualidad-para-profesionales-de-wordpress-edicion-211/)
 - [Aprende Python este nuevo curso con estos recursos gratuitos](https://jlferrete.com/blog/aprende-python-este-nuevo-curso-con-estos-recursos-gratuitos/)
 - [Learn JavaScript in Spanish – Full Course for Beginners](https://jlferrete.com/blog/learn-javascript-in-spanish-full-course-for-beginners/)
 - [How to Integrate Google APIs with Python Django](https://jlferrete.com/blog/how-to-integrate-google-apis-with-python-django/)
 - [Low-Code Tutorial – Build 3 Financial Apps](https://jlferrete.com/blog/low-code-tutorial-build-3-financial-apps/)
-- [Cómo recuperar los Widgets clásicos](https://jlferrete.com/blog/como-recuperar-los-widgets-clasicos/)
