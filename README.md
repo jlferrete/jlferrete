@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: How to create thread safe Singleton in Java – Java Singleton Example](https://jlferrete.com/blog/javarevisited-how-to-create-thread-safe-singleton-in-java-java-singleton-example/)
 - [GitHub Copilot generó código inseguro en un 40% de los casos durante un experimento de la Universidad de Nueva York](https://jlferrete.com/blog/github-copilot-genero-codigo-inseguro-en-un-40-de-los-casos-durante-un-experimento-de-la-universidad-de-nueva-york/)
 - [Proyectos más interesantes de Raspberry Pi para niños](https://jlferrete.com/blog/proyectos-mas-interesantes-de-raspberry-pi-para-ninos/)
 - [Actualidad para profesionales de WordPress (Edición 211)](https://jlferrete.com/blog/actualidad-para-profesionales-de-wordpress-edicion-211/)
 - [Aprende Python este nuevo curso con estos recursos gratuitos](https://jlferrete.com/blog/aprende-python-este-nuevo-curso-con-estos-recursos-gratuitos/)
-- [Learn JavaScript in Spanish – Full Course for Beginners](https://jlferrete.com/blog/learn-javascript-in-spanish-full-course-for-beginners/)
