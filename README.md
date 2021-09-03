@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo configurar Yoast SEO para mejorar el SEO on page de tu web](https://jlferrete.com/blog/como-configurar-yoast-seo-para-mejorar-el-seo-on-page-de-tu-web/)
 - [Miguel Angel Terrón: Diferentes vías de monetización de un proyecto de podcasting con WordPress](https://jlferrete.com/blog/miguel-angel-terron-diferentes-vias-de-monetizacion-de-un-proyecto-de-podcasting-con-wordpress/)
 - [Lo que necesitas saber sobre el Directorio de Patrones de WordPress](https://jlferrete.com/blog/lo-que-necesitas-saber-sobre-el-directorio-de-patrones-de-wordpress/)
 - [Javarevisited: How to Convert a Map to a List in Java – Example Tutorial](https://jlferrete.com/blog/javarevisited-how-to-convert-a-map-to-a-list-in-java-example-tutorial/)
 - [Importancia de tener un protocolo de atención al cliente [+Plantilla]](https://jlferrete.com/blog/importancia-de-tener-un-protocolo-de-atencion-al-cliente-plantilla/)
-- [Javarevisited: How to create thread safe Singleton in Java – Java Singleton Example](https://jlferrete.com/blog/javarevisited-how-to-create-thread-safe-singleton-in-java-java-singleton-example/)
