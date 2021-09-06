@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [5 apps recomendadas por Google para que los niños aprendan programación](https://jlferrete.com/blog/5-apps-recomendadas-por-google-para-que-los-ninos-aprendan-programacion/)
+- [Microsoft permitirá instalar Windows 11 en PCs que no cumplan los requisitos mínimos… bajo tu propio riesgo: así funcionará](https://jlferrete.com/blog/microsoft-permitira-instalar-windows-11-en-pcs-que-no-cumplan-los-requisitos-minimos-bajo-tu-propio-riesgo-asi-funcionara/)
 - [Campos condicionales en el formulario de checkout de Woocommerce](https://jlferrete.com/blog/campos-condicionales-en-el-formulario-de-checkout-de-woocommerce/)
 - [Javarevisited: Coursera Review – Full Stack Web Development with Angular Specialization Is it worth it?](https://jlferrete.com/blog/javarevisited-coursera-review-full-stack-web-development-with-angular-specialization-is-it-worth-it/)
 - [¿Cómo configurar un servidor virtual en Amazon?](https://jlferrete.com/blog/como-configurar-un-servidor-virtual-en-amazon/)
-- [Laravel Admin Dashboard Tutorial – Create a new page and list the users from the database using Livewire](https://jlferrete.com/blog/laravel-admin-dashboard-tutorial-create-a-new-page-and-list-the-users-from-the-database-using-livewire/)
-- [Cómo configurar Yoast SEO para mejorar el SEO on page de tu web](https://jlferrete.com/blog/como-configurar-yoast-seo-para-mejorar-el-seo-on-page-de-tu-web/)
