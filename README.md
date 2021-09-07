@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Inventos caseros para principiantes que cualquiera puede hacer utilizando una Raspberry Pi](https://jlferrete.com/blog/inventos-caseros-para-principiantes-que-cualquiera-puede-hacer-utilizando-una-raspberry-pi/)
 - [Microsoft Edge suma una nueva función para editar documentos PDF](https://jlferrete.com/blog/microsoft-edge-suma-una-nueva-funcion-para-editar-documentos-pdf/)
 - [5 apps recomendadas por Google para que los niños aprendan programación](https://jlferrete.com/blog/5-apps-recomendadas-por-google-para-que-los-ninos-aprendan-programacion/)
 - [Microsoft permitirá instalar Windows 11 en PCs que no cumplan los requisitos mínimos… bajo tu propio riesgo: así funcionará](https://jlferrete.com/blog/microsoft-permitira-instalar-windows-11-en-pcs-que-no-cumplan-los-requisitos-minimos-bajo-tu-propio-riesgo-asi-funcionara/)
 - [Campos condicionales en el formulario de checkout de Woocommerce](https://jlferrete.com/blog/campos-condicionales-en-el-formulario-de-checkout-de-woocommerce/)
-- [Javarevisited: Coursera Review – Full Stack Web Development with Angular Specialization Is it worth it?](https://jlferrete.com/blog/javarevisited-coursera-review-full-stack-web-development-with-angular-specialization-is-it-worth-it/)
