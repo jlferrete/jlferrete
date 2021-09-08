@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Los plugins y temas GPL para WordPress: Qué son y cuál es su confiabilidad](https://jlferrete.com/blog/los-plugins-y-temas-gpl-para-wordpress-que-son-y-cual-es-su-confiabilidad/)
 - [Mejores Plantillas WordPress para Servicios de Consultoría y Coaching](https://jlferrete.com/blog/mejores-plantillas-wordpress-para-servicios-de-consultoria-y-coaching/)
 - [Inventos caseros para principiantes que cualquiera puede hacer utilizando una Raspberry Pi](https://jlferrete.com/blog/inventos-caseros-para-principiantes-que-cualquiera-puede-hacer-utilizando-una-raspberry-pi/)
 - [Microsoft Edge suma una nueva función para editar documentos PDF](https://jlferrete.com/blog/microsoft-edge-suma-una-nueva-funcion-para-editar-documentos-pdf/)
 - [5 apps recomendadas por Google para que los niños aprendan programación](https://jlferrete.com/blog/5-apps-recomendadas-por-google-para-que-los-ninos-aprendan-programacion/)
-- [Microsoft permitirá instalar Windows 11 en PCs que no cumplan los requisitos mínimos… bajo tu propio riesgo: así funcionará](https://jlferrete.com/blog/microsoft-permitira-instalar-windows-11-en-pcs-que-no-cumplan-los-requisitos-minimos-bajo-tu-propio-riesgo-asi-funcionara/)
