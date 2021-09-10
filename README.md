@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Los 21 mejores bots de Discord](https://jlferrete.com/blog/los-21-mejores-bots-de-discord/)
 - [Curso intermedio de vender en Amazon](https://jlferrete.com/blog/curso-intermedio-de-vender-en-amazon/)
 - [pdf a jpg: Cómo convertir un archivo usando python](https://jlferrete.com/blog/pdf-a-jpg-como-convertir-un-archivo-usando-python/)
 - [Cómo crear tu propio mapa en Roblox: conceptos básicos y primeros pasos para crear tu propio juego](https://jlferrete.com/blog/como-crear-tu-propio-mapa-en-roblox-conceptos-basicos-y-primeros-pasos-para-crear-tu-propio-juego/)
 - [Los plugins y temas GPL para WordPress: Qué son y cuál es su confiabilidad](https://jlferrete.com/blog/los-plugins-y-temas-gpl-para-wordpress-que-son-y-cual-es-su-confiabilidad/)
-- [Mejores Plantillas WordPress para Servicios de Consultoría y Coaching](https://jlferrete.com/blog/mejores-plantillas-wordpress-para-servicios-de-consultoria-y-coaching/)
