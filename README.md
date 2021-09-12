@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crea un proyecto en Firebase programáticamente](https://jlferrete.com/blog/crea-un-proyecto-en-firebase-programaticamente/)
 - [Guía de compra para iluminar tu zona de trabajo: consejos, recomendaciones y lámparas y bombillas para trabajar con buena luz](https://jlferrete.com/blog/guia-de-compra-para-iluminar-tu-zona-de-trabajo-consejos-recomendaciones-y-lamparas-y-bombillas-para-trabajar-con-buena-luz/)
 - [Los 21 mejores bots de Discord](https://jlferrete.com/blog/los-21-mejores-bots-de-discord/)
 - [Curso intermedio de vender en Amazon](https://jlferrete.com/blog/curso-intermedio-de-vender-en-amazon/)
 - [pdf a jpg: Cómo convertir un archivo usando python](https://jlferrete.com/blog/pdf-a-jpg-como-convertir-un-archivo-usando-python/)
-- [Cómo crear tu propio mapa en Roblox: conceptos básicos y primeros pasos para crear tu propio juego](https://jlferrete.com/blog/como-crear-tu-propio-mapa-en-roblox-conceptos-basicos-y-primeros-pasos-para-crear-tu-propio-juego/)
