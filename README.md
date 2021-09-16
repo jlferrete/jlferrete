@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn How to Deploy 12 Apps to AWS, Azure, & Google Cloud](https://jlferrete.com/blog/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/)
 - [50 Drupal modules every Drupal professional should know about](https://jlferrete.com/blog/50-drupal-modules-every-drupal-professional-should-know-about/)
 - [Connect Google Sheets to WP Job Manager](https://jlferrete.com/blog/connect-google-sheets-to-wp-job-manager/)
 - [Desarrollo de bloques de Gutenberg a mano y tocando código](https://jlferrete.com/blog/desarrollo-de-bloques-de-gutenberg-a-mano-y-tocando-codigo/)
 - [Mauricio Gelves: Desarrollo de bloques de Gutenberg para programadores con poco tiempo](https://jlferrete.com/blog/mauricio-gelves-desarrollo-de-bloques-de-gutenberg-para-programadores-con-poco-tiempo/)
-- [Cómo crear tu página GRATIS con GITHUB PAGES](https://jlferrete.com/blog/como-crear-tu-pagina-gratis-con-github-pages/)
