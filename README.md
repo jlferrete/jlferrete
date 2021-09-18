@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Top 7 Free and Best DataCamp Courses to learn Python, SQL and Data Science](https://jlferrete.com/blog/top-7-free-and-best-datacamp-courses-to-learn-python-sql-and-data-science/)
 - [Ejecutar WordPress + MySQL en Kubernetes paso a paso](https://jlferrete.com/blog/ejecutar-wordpress-mysql-en-kubernetes-paso-a-paso/)
 - [Free 10-Hour Machine Learning Course](https://jlferrete.com/blog/free-10-hour-machine-learning-course/)
 - [Learn How to Deploy 12 Apps to AWS, Azure, & Google Cloud](https://jlferrete.com/blog/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/)
 - [50 Drupal modules every Drupal professional should know about](https://jlferrete.com/blog/50-drupal-modules-every-drupal-professional-should-know-about/)
-- [Connect Google Sheets to WP Job Manager](https://jlferrete.com/blog/connect-google-sheets-to-wp-job-manager/)
