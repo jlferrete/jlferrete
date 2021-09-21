@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Telegram modo experto: 27 trucos para dominar la app de mensajería](https://jlferrete.com/blog/telegram-modo-experto-27-trucos-para-dominar-la-app-de-mensajeria/)
 - [¿Cuánto se tarda en hacer una web con WordPress?](https://jlferrete.com/blog/cuanto-se-tarda-en-hacer-una-web-con-wordpress/)
 - [How to Use Google Colab with VS Code](https://jlferrete.com/blog/how-to-use-google-colab-with-vs-code/)
 - [Cómo evitar que me lleguen correos publicitarios en Gmail](https://jlferrete.com/blog/como-evitar-que-me-lleguen-correos-publicitarios-en-gmail/)
 - [Cómo usar el modo de Recuperación en WordPress](https://jlferrete.com/blog/como-usar-el-modo-de-recuperacion-en-wordpress/)
-- [Refuerza la seguridad online de tu hogar (Tips de seguridad 2021)](https://jlferrete.com/blog/refuerza-la-seguridad-online-de-tu-hogar-tips-de-seguridad-2021/)
