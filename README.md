@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [The Magic Behind the Scenes of Docker Desktop](https://jlferrete.com/blog/the-magic-behind-the-scenes-of-docker-desktop/)
 - [Python Cómo Iterar Sobre una Secuencia Ordenada sin Modificarla](https://jlferrete.com/blog/python-como-iterar-sobre-una-secuencia-ordenada-sin-modificarla/)
 - [Backend Web Development with Python – Full Course](https://jlferrete.com/blog/backend-web-development-with-python-full-course/)
 - [prueba post](https://jlferrete.com/blog/3148/)
 - [Telegram modo experto: 27 trucos para dominar la app de mensajería](https://jlferrete.com/blog/telegram-modo-experto-27-trucos-para-dominar-la-app-de-mensajeria/)
-- [¿Cuánto se tarda en hacer una web con WordPress?](https://jlferrete.com/blog/cuanto-se-tarda-en-hacer-una-web-con-wordpress/)
