@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Las búsquedas de Google ahora cuentan con un modo oscuro en computadoras de escritorio](https://jlferrete.com/blog/las-busquedas-de-google-ahora-cuentan-con-un-modo-oscuro-en-computadoras-de-escritorio/)
 - [The Magic Behind the Scenes of Docker Desktop](https://jlferrete.com/blog/the-magic-behind-the-scenes-of-docker-desktop/)
 - [Python Cómo Iterar Sobre una Secuencia Ordenada sin Modificarla](https://jlferrete.com/blog/python-como-iterar-sobre-una-secuencia-ordenada-sin-modificarla/)
 - [Backend Web Development with Python – Full Course](https://jlferrete.com/blog/backend-web-development-with-python-full-course/)
 - [prueba post](https://jlferrete.com/blog/3148/)
-- [Telegram modo experto: 27 trucos para dominar la app de mensajería](https://jlferrete.com/blog/telegram-modo-experto-27-trucos-para-dominar-la-app-de-mensajeria/)
