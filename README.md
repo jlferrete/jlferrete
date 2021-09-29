@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Build a Discord AI Chatbot that Talks Like Your Favorite Character](https://jlferrete.com/blog/how-to-build-a-discord-ai-chatbot-that-talks-like-your-favorite-character/)
 - [Temas de PHP – Subir archivos a dropbox con PHP – Consumir API de DropBox](https://jlferrete.com/blog/temas-de-php-subir-archivos-a-dropbox-con-php-consumir-api-de-dropbox/)
 - [Temas de PHP – Librería PHP en GitHub con autenticación SSH](https://jlferrete.com/blog/temas-de-php-libreria-php-en-github-con-autenticacion-ssh/)
 - [Cursos de Java – Aprendizaje Groovy](https://jlferrete.com/blog/cursos-de-java-aprendizaje-groovy/)
 - [Instalando virtualenvwrapper en ubuntu 18.04 LTS o superiores](https://jlferrete.com/blog/instalando-virtualenvwrapper-en-ubuntu-18-04-lts-o-superiores/)
-- [Learn Vue 3, a Front-End JavaScript Framework](https://jlferrete.com/blog/learn-vue-3-a-front-end-javascript-framework/)
