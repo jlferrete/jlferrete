@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [REST API Best Practices – REST Endpoint Design Examples](https://jlferrete.com/blog/rest-api-best-practices-rest-endpoint-design-examples/)
 - [How HashMap works in Java](https://jlferrete.com/blog/how-hashmap-works-in-java/)
 - [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://jlferrete.com/blog/25-python-projects-for-beginners-easy-ideas-to-get-started-coding-python/)
 - [Docker Desktop ya no es gratis? – Usando Vagrant para correr Docker](https://jlferrete.com/blog/docker-desktop-ya-no-es-gratis-usando-vagrant-para-correr-docker/)
 - [Añadir un mapa cartográfico con JavaScript, Leaflet y OpenStreetMap a una página web](https://jlferrete.com/blog/anadir-un-mapa-cartografico-con-javascript-leaflet-y-openstreetmap-a-una-pagina-web/)
-- [How to Build a Discord AI Chatbot that Talks Like Your Favorite Character](https://jlferrete.com/blog/how-to-build-a-discord-ai-chatbot-that-talks-like-your-favorite-character/)
