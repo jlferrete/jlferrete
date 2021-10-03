@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Collecting Stream Elements into a List in Java](https://jlferrete.com/blog/collecting-stream-elements-into-a-list-in-java/)
 - [HTML to PDF Using OpenPDF](https://jlferrete.com/blog/html-to-pdf-using-openpdf/)
 - [Instalar una versión personalizada de NVM y Node.js](https://jlferrete.com/blog/instalar-una-version-personalizada-de-nvm-y-node-js/)
 - [Factorización con números primos](https://jlferrete.com/blog/factorizacion-con-numeros-primos/)
 - [REST API Best Practices – REST Endpoint Design Examples](https://jlferrete.com/blog/rest-api-best-practices-rest-endpoint-design-examples/)
-- [How HashMap works in Java](https://jlferrete.com/blog/how-hashmap-works-in-java/)
