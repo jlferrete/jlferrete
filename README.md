@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WordPress y el problema con wp_options](https://jlferrete.com/blog/wordpress-y-el-problema-con-wp_options/)
 - [Leer archivo de Excel con PHP y PHPSpreadSheet](https://jlferrete.com/blog/leer-archivo-de-excel-con-php-y-phpspreadsheet/)
 - [Realizar y gestionar reembolsos en WooCommerce](https://jlferrete.com/blog/realizar-y-gestionar-reembolsos-en-woocommerce/)
 - [How to Automate Things Using Python](https://jlferrete.com/blog/how-to-automate-things-using-python/)
 - [Collecting Stream Elements into a List in Java](https://jlferrete.com/blog/collecting-stream-elements-into-a-list-in-java/)
-- [HTML to PDF Using OpenPDF](https://jlferrete.com/blog/html-to-pdf-using-openpdf/)
