@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Top 10 Microservices Design Patterns and Principles – Examples](https://jlferrete.com/blog/top-10-microservices-design-patterns-and-principles-examples/)
 - [Variables locales en Javascript](https://jlferrete.com/blog/variables-locales-en-javascript/)
 - [Linux, install PHP,Composer and Create Laravel Project](https://jlferrete.com/blog/linux-install-phpcomposer-and-create-laravel-project/)
 - [Java 8 – Stream FlatMap Example – List of Lists to List](https://jlferrete.com/blog/java-8-stream-flatmap-example-list-of-lists-to-list/)
 - [WordPress y el problema con wp_options](https://jlferrete.com/blog/wordpress-y-el-problema-con-wp_options/)
-- [Leer archivo de Excel con PHP y PHPSpreadSheet](https://jlferrete.com/blog/leer-archivo-de-excel-con-php-y-phpspreadsheet/)
