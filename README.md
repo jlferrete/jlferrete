@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Creating the Perfect Commit in Git |](https://jlferrete.com/blog/creating-the-perfect-commit-in-git/)
 - [How to Integrate Google APIs with Python Django](https://jlferrete.com/blog/how-to-integrate-google-apis-with-python-django-2/)
 - [Consistency Levels in Cassandra](https://jlferrete.com/blog/consistency-levels-in-cassandra/)
 - [Top 10 Microservices Design Patterns and Principles – Examples](https://jlferrete.com/blog/top-10-microservices-design-patterns-and-principles-examples/)
 - [Variables locales en Javascript](https://jlferrete.com/blog/variables-locales-en-javascript/)
-- [Linux, install PHP,Composer and Create Laravel Project](https://jlferrete.com/blog/linux-install-phpcomposer-and-create-laravel-project/)
