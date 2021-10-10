@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo instalar Ubuntu Server con cifrado de disco y configuración](https://jlferrete.com/blog/como-instalar-ubuntu-server-con-cifrado-de-disco-y-configuracion/)
 - [Javarevisited: 7 Free DataCamp Courses for Beginners to Learn Data Skills in 2021](https://jlferrete.com/blog/javarevisited-7-free-datacamp-courses-for-beginners-to-learn-data-skills-in-2021/)
 - [Creating the Perfect Commit in Git |](https://jlferrete.com/blog/creating-the-perfect-commit-in-git/)
 - [How to Integrate Google APIs with Python Django](https://jlferrete.com/blog/how-to-integrate-google-apis-with-python-django-2/)
 - [Consistency Levels in Cassandra](https://jlferrete.com/blog/consistency-levels-in-cassandra/)
-- [Top 10 Microservices Design Patterns and Principles – Examples](https://jlferrete.com/blog/top-10-microservices-design-patterns-and-principles-examples/)
