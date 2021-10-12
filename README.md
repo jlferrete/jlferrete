@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Reemplazar por posición con Javascript](https://jlferrete.com/blog/reemplazar-por-posicion-con-javascript/)
 - [Mostrar tablas por consola en Javascript](https://jlferrete.com/blog/mostrar-tablas-por-consola-en-javascript/)
 - [Curso de Analytics 4](https://jlferrete.com/blog/curso-de-analytics-4/)
 - [Windows 11 ya está aquí: requisitos mínimos, qué pasa si no los cumples, cómo instalar y qué hacer antes de ello](https://jlferrete.com/blog/windows-11-ya-esta-aqui-requisitos-minimos-que-pasa-si-no-los-cumples-como-instalar-y-que-hacer-antes-de-ello/)
 - [Cómo instalar Ubuntu Server con cifrado de disco y configuración](https://jlferrete.com/blog/como-instalar-ubuntu-server-con-cifrado-de-disco-y-configuracion/)
-- [Javarevisited: 7 Free DataCamp Courses for Beginners to Learn Data Skills in 2021](https://jlferrete.com/blog/javarevisited-7-free-datacamp-courses-for-beginners-to-learn-data-skills-in-2021/)
