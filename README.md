@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Jaime Garmar: Montar un pódcast con WordPress más rápido que hacer filloas](https://jlferrete.com/blog/jaime-garmar-montar-un-podcast-con-wordpress-mas-rapido-que-hacer-filloas/)
 - [How to use NamedQuery in Spring Framework? Example Tutorial](https://jlferrete.com/blog/how-to-use-namedquery-in-spring-framework-example-tutorial/)
 - [Dani Serrano: Cómo crear un curso online](https://jlferrete.com/blog/dani-serrano-como-crear-un-curso-online/)
 - [Reemplazar por posición con Javascript](https://jlferrete.com/blog/reemplazar-por-posicion-con-javascript/)
 - [Mostrar tablas por consola en Javascript](https://jlferrete.com/blog/mostrar-tablas-por-consola-en-javascript/)
-- [Curso de Analytics 4](https://jlferrete.com/blog/curso-de-analytics-4/)
