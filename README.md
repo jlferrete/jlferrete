@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crear una base de datos en Java](https://jlferrete.com/blog/crear-una-base-de-datos-en-java/)
 - [Debuguear WordPress](https://jlferrete.com/blog/debuguear-wordpress/)
 - [Para qué sirven la constante WP_ENVIRONMENT_TYPE y la función wp_get_environment_type](https://jlferrete.com/blog/para-que-sirven-la-constante-wp_environment_type-y-la-funcion-wp_get_environment_type/)
 - [Virginia Romera: Las 4 fases del texto «Sobre mí» que incrementó un 35% las visitas web](https://jlferrete.com/blog/virginia-romera-las-4-fases-del-texto-sobre-mi-que-incremento-un-35-las-visitas-web/)
 - [Cómo crear una Progressive Web App (PWA) de tu sitio WordPress](https://jlferrete.com/blog/como-crear-una-progressive-web-app-pwa-de-tu-sitio-wordpress/)
-- [Jaime Garmar: Montar un pódcast con WordPress más rápido que hacer filloas](https://jlferrete.com/blog/jaime-garmar-montar-un-podcast-con-wordpress-mas-rapido-que-hacer-filloas/)
