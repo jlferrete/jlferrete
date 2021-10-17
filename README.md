@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Get the Last Word of a String](https://jlferrete.com/blog/get-the-last-word-of-a-string/)
 - [Backups automáticos de tus bases de datos Mysql](https://jlferrete.com/blog/backups-automaticos-de-tus-bases-de-datos-mysql/)
 - [Integrando el API de Twitter con PHP](https://jlferrete.com/blog/integrando-el-api-de-twitter-con-php/)
 - [Crear una base de datos en Java](https://jlferrete.com/blog/crear-una-base-de-datos-en-java/)
 - [Debuguear WordPress](https://jlferrete.com/blog/debuguear-wordpress/)
-- [Para qué sirven la constante WP_ENVIRONMENT_TYPE y la función wp_get_environment_type](https://jlferrete.com/blog/para-que-sirven-la-constante-wp_environment_type-y-la-funcion-wp_get_environment_type/)
