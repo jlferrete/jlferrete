@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn React JS in This Free 7-Hour Course](https://jlferrete.com/blog/learn-react-js-in-this-free-7-hour-course/)
 - [Extraer texto e imágenes de PDF con PHP](https://jlferrete.com/blog/extraer-texto-e-imagenes-de-pdf-con-php/)
 - [Convert Long to String in Java](https://jlferrete.com/blog/convert-long-to-string-in-java/)
 - [Cómo crear una paleta de colores personalizadas para Gutenberg en WordPress](https://jlferrete.com/blog/como-crear-una-paleta-de-colores-personalizadas-para-gutenberg-en-wordpress/)
 - [Get the Last Word of a String](https://jlferrete.com/blog/get-the-last-word-of-a-string/)
-- [Backups automáticos de tus bases de datos Mysql](https://jlferrete.com/blog/backups-automaticos-de-tus-bases-de-datos-mysql/)
