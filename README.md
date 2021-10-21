@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Conectar a MariaDB con Java](https://jlferrete.com/blog/conectar-a-mariadb-con-java/)
 - [Rellenar una matriz con una cadena en Java](https://jlferrete.com/blog/rellenar-una-matriz-con-una-cadena-en-java/)
 - [Conditional Border Radius In CSS](https://jlferrete.com/blog/conditional-border-radius-in-css/)
 - [Scroll Shadows With JavaScript](https://jlferrete.com/blog/scroll-shadows-with-javascript/)
 - [Learn React JS in This Free 7-Hour Course](https://jlferrete.com/blog/learn-react-js-in-this-free-7-hour-course/)
-- [Extraer texto e imágenes de PDF con PHP](https://jlferrete.com/blog/extraer-texto-e-imagenes-de-pdf-con-php/)
