@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Top 20 Angular interview questions and Answers for 1 to 2 Years Experienced](https://jlferrete.com/blog/top-20-angular-interview-questions-and-answers-for-1-to-2-years-experienced/)
 - [Forzar UTF-8 en JSP](https://jlferrete.com/blog/forzar-utf-8-en-jsp/)
 - [Qué es el error 521 de CloudFlare y cómo solucionarlo](https://jlferrete.com/blog/que-es-el-error-521-de-cloudflare-y-como-solucionarlo/)
 - [Conectar a MariaDB con Java](https://jlferrete.com/blog/conectar-a-mariadb-con-java/)
 - [Rellenar una matriz con una cadena en Java](https://jlferrete.com/blog/rellenar-una-matriz-con-una-cadena-en-java/)
-- [Conditional Border Radius In CSS](https://jlferrete.com/blog/conditional-border-radius-in-css/)
