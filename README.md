@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo personalizar la pantalla de acceso de WordPress sin plugins](https://jlferrete.com/blog/como-personalizar-la-pantalla-de-acceso-de-wordpress-sin-plugins/)
 - [Generate a WAR File in Maven](https://jlferrete.com/blog/generate-a-war-file-in-maven/)
 - [Top 20 Angular interview questions and Answers for 1 to 2 Years Experienced](https://jlferrete.com/blog/top-20-angular-interview-questions-and-answers-for-1-to-2-years-experienced/)
 - [Forzar UTF-8 en JSP](https://jlferrete.com/blog/forzar-utf-8-en-jsp/)
 - [Qué es el error 521 de CloudFlare y cómo solucionarlo](https://jlferrete.com/blog/que-es-el-error-521-de-cloudflare-y-como-solucionarlo/)
-- [Conectar a MariaDB con Java](https://jlferrete.com/blog/conectar-a-mariadb-con-java/)
