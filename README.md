@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [6 filtros de Gmail que debes tener sí o sí para mantener en orden tu correo](https://jlferrete.com/blog/6-filtros-de-gmail-que-debes-tener-si-o-si-para-mantener-en-orden-tu-correo/)
 - [Curso de Gutenberg: Cómo crear un sitio web pre-FSE](https://jlferrete.com/blog/curso-de-gutenberg-como-crear-un-sitio-web-pre-fse/)
 - [Modo oscuro (Dark mode) en WordPress](https://jlferrete.com/blog/modo-oscuro-dark-mode-en-wordpress/)
 - [Mejor buscador en WordPress y sus opciones](https://jlferrete.com/blog/mejor-buscador-en-wordpress-y-sus-opciones/)
 - [Cómo personalizar la pantalla de acceso de WordPress sin plugins](https://jlferrete.com/blog/como-personalizar-la-pantalla-de-acceso-de-wordpress-sin-plugins/)
-- [Generate a WAR File in Maven](https://jlferrete.com/blog/generate-a-war-file-in-maven/)
