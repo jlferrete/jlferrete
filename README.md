@@ -36,8 +36,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://jlferrete.com/blog/25-python-projects-for-beginners-easy-ideas-to-get-started-coding-python-2/)
 - [Curso de WordPress Local](https://jlferrete.com/blog/curso-de-wordpress-local/)
 - [6 filtros de Gmail que debes tener sí o sí para mantener en orden tu correo](https://jlferrete.com/blog/6-filtros-de-gmail-que-debes-tener-si-o-si-para-mantener-en-orden-tu-correo/)
 - [Curso de Gutenberg: Cómo crear un sitio web pre-FSE](https://jlferrete.com/blog/curso-de-gutenberg-como-crear-un-sitio-web-pre-fse/)
 - [Modo oscuro (Dark mode) en WordPress](https://jlferrete.com/blog/modo-oscuro-dark-mode-en-wordpress/)
-- [Mejor buscador en WordPress y sus opciones](https://jlferrete.com/blog/mejor-buscador-en-wordpress-y-sus-opciones/)
