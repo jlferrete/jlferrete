@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi, my name is Jose Luis 👋 💻 </h2>
 
-I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot and Angular. I work at [SDOS](https://www.sdos.es/en) as a WordPress Developer. What's more, I have a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
+I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot, Python and Angular. I work at [Alten Spain](https://www.alten.es/) as a Full Stack Developer. What's more, I ve a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
 
 Please do not hesitate to contact me if you require any futher information at the following links:
 
@@ -30,6 +30,7 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
