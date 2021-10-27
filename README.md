@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi, my name is Jose Luis 👋 💻 </h2>
 
-I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot, Python and Angular. I work at [Alten Spain](https://www.alten.es/) as a Full Stack Developer. What's more, I ve a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
+I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot, Python and Angular. I work at [Alten Spain](https://www.alten.es/) as a Full Stack Developer. What's more, I have a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
 
 Please do not hesitate to contact me if you require any futher information at the following links:
 
@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to update an entity using Spring Data JPA ? Example Tutorial](https://jlferrete.com/blog/how-to-update-an-entity-using-spring-data-jpa-example-tutorial/)
 - [Curso de Reaper](https://jlferrete.com/blog/curso-de-reaper/)
 - [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://jlferrete.com/blog/25-python-projects-for-beginners-easy-ideas-to-get-started-coding-python-2/)
 - [Curso de WordPress Local](https://jlferrete.com/blog/curso-de-wordpress-local/)
 - [6 filtros de Gmail que debes tener sí o sí para mantener en orden tu correo](https://jlferrete.com/blog/6-filtros-de-gmail-que-debes-tener-si-o-si-para-mantener-en-orden-tu-correo/)
-- [Curso de Gutenberg: Cómo crear un sitio web pre-FSE](https://jlferrete.com/blog/curso-de-gutenberg-como-crear-un-sitio-web-pre-fse/)
