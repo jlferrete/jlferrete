@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi, my name is Jose Luis 👋 💻 </h2>
 
-I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot, Python and Angular. I work at [Alten Spain](https://www.alten.es/) as a Full Stack Developer. What's more, I ve a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
+I'm a web developer who is passionate about creating technology to elevate people, learning new tips every day and building community. Some technologies I enjoy working with include PHP, Spring Boot, Python and Angular. I work at [Alten Spain](https://www.alten.es/) as a Full Stack Developer. What's more, I have a large work experience as a salesman. For this reason, I know how shop works. I am able to create awesome shopping web pages.
 
 Please do not hesitate to contact me if you require any futher information at the following links:
 
