@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Tutorial de TensorFlow: aprendizaje profundo para principiantes](https://jlferrete.com/blog/tutorial-de-tensorflow-aprendizaje-profundo-para-principiantes/)
 - [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects/)
 - [Cómo crear una Intranet en WordPress](https://jlferrete.com/blog/como-crear-una-intranet-en-wordpress/)
 - [How to update an entity using Spring Data JPA ? Example Tutorial](https://jlferrete.com/blog/how-to-update-an-entity-using-spring-data-jpa-example-tutorial/)
 - [Curso de Reaper](https://jlferrete.com/blog/curso-de-reaper/)
-- [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://jlferrete.com/blog/25-python-projects-for-beginners-easy-ideas-to-get-started-coding-python-2/)
