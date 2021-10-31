@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Dockerfile Strategies for Git](https://jlferrete.com/blog/dockerfile-strategies-for-git/)
 - [How to Build a Discord AI Chatbot that Talks Like Your Favorite Character](https://jlferrete.com/blog/how-to-build-a-discord-ai-chatbot-that-talks-like-your-favorite-character-2/)
 - [How to Automate Work Using Python](https://jlferrete.com/blog/how-to-automate-work-using-python/)
 - [Como instalar virtualenv y Django paso a paso](https://jlferrete.com/blog/como-instalar-virtualenv-y-django-paso-a-paso/)
 - [Tutorial de TensorFlow: aprendizaje profundo para principiantes](https://jlferrete.com/blog/tutorial-de-tensorflow-aprendizaje-profundo-para-principiantes/)
-- [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects/)
