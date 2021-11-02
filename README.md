@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Django Project – Create a Digital Résumé Using Django and Python](https://jlferrete.com/blog/django-project-create-a-digital-resume-using-django-and-python/)
 - [Cómo cambiar el nombre y logo de WooCommerce en la administración de WordPress](https://jlferrete.com/blog/como-cambiar-el-nombre-y-logo-de-woocommerce-en-la-administracion-de-wordpress/)
 - [How to Analyze Data with Python, Pandas & Numpy – 10 Hour Course](https://jlferrete.com/blog/how-to-analyze-data-with-python-pandas-numpy-10-hour-course/)
 - [Autenticación con JWT en la API de WordPress](https://jlferrete.com/blog/autenticacion-con-jwt-en-la-api-de-wordpress/)
 - [Dockerfile Strategies for Git](https://jlferrete.com/blog/dockerfile-strategies-for-git/)
-- [How to Build a Discord AI Chatbot that Talks Like Your Favorite Character](https://jlferrete.com/blog/how-to-build-a-discord-ai-chatbot-that-talks-like-your-favorite-character-2/)
