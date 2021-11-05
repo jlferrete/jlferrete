@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Instalación de PHP, Composer, Laravel Valet y el instalador de Laravel en macOS](https://jlferrete.com/blog/instalacion-de-php-composer-laravel-valet-y-el-instalador-de-laravel-en-macos/)
+- [Branching Strategies in Git](https://jlferrete.com/blog/branching-strategies-in-git/)
 - [How to Build a Nearly Headless WordPress Website](https://jlferrete.com/blog/how-to-build-a-nearly-headless-wordpress-website/)
 - [The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)](https://jlferrete.com/blog/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/)
 - [Amazon Virtual Private Cloud Course](https://jlferrete.com/blog/amazon-virtual-private-cloud-course/)
-- [Android App Development for Beginners](https://jlferrete.com/blog/android-app-development-for-beginners/)
-- [Django Project – Create a Digital Résumé Using Django and Python](https://jlferrete.com/blog/django-project-create-a-digital-resume-using-django-and-python/)
