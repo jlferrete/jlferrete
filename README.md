@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Iteradores, iterables y la función next()](https://jlferrete.com/blog/iteradores-iterables-y-la-funcion-next/)
 - [Extraer una sublista en Java](https://jlferrete.com/blog/extraer-una-sublista-en-java/)
 - [Mantener elementos en una lista](https://jlferrete.com/blog/mantener-elementos-en-una-lista/)
 - [Best way to customize user verification in laravel](https://jlferrete.com/blog/best-way-to-customize-user-verification-in-laravel/)
 - [Instalación de PHP, Composer, Laravel Valet y el instalador de Laravel en macOS](https://jlferrete.com/blog/instalacion-de-php-composer-laravel-valet-y-el-instalador-de-laravel-en-macos/)
-- [Branching Strategies in Git](https://jlferrete.com/blog/branching-strategies-in-git/)
