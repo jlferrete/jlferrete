@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guía: Crea tu propio manual de marca](https://jlferrete.com/blog/guia-crea-tu-propio-manual-de-marca/)
 - [Mega Guía: Todo lo que debes saber antes de crear tu blog](https://jlferrete.com/blog/mega-guia-todo-lo-que-debes-saber-antes-de-crear-tu-blog/)
 - [Iteradores, iterables y la función next()](https://jlferrete.com/blog/iteradores-iterables-y-la-funcion-next/)
 - [Extraer una sublista en Java](https://jlferrete.com/blog/extraer-una-sublista-en-java/)
 - [Mantener elementos en una lista](https://jlferrete.com/blog/mantener-elementos-en-una-lista/)
-- [Best way to customize user verification in laravel](https://jlferrete.com/blog/best-way-to-customize-user-verification-in-laravel/)
