@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Crear una REST API con autenticación usando Laravel](https://jlferrete.com/blog/crear-una-rest-api-con-autenticacion-usando-laravel/)
 - [Learn Data Visualization in This Free 17-Hour Course](https://jlferrete.com/blog/learn-data-visualization-in-this-free-17-hour-course-2/)
 - [CSRF for Laravel API](https://jlferrete.com/blog/csrf-for-laravel-api/)
 - [Cómo cambiar el diseño de las listas en el tema Astra](https://jlferrete.com/blog/como-cambiar-el-diseno-de-las-listas-en-el-tema-astra/)
 - [Microsoft certifica un malware como driver legítimo por segunda vez en cuatro meses](https://jlferrete.com/blog/microsoft-certifica-un-malware-como-driver-legitimo-por-segunda-vez-en-cuatro-meses/)
-- [How to Count Negative Numbers in a Sorted Matrix? [Solved] – Amazon Interview Question](https://jlferrete.com/blog/how-to-count-negative-numbers-in-a-sorted-matrix-solved-amazon-interview-question/)
