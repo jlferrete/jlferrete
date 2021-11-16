@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Remove Beginning and Ending Double Quotes from a String](https://jlferrete.com/blog/remove-beginning-and-ending-double-quotes-from-a-string/)
 - [Overriding Spring Boot Managed Dependency Versions](https://jlferrete.com/blog/overriding-spring-boot-managed-dependency-versions/)
 - [Splitting a Java String by Multiple Delimiters](https://jlferrete.com/blog/splitting-a-java-string-by-multiple-delimiters/)
 - [Crear una REST API con autenticación usando Laravel](https://jlferrete.com/blog/crear-una-rest-api-con-autenticacion-usando-laravel/)
 - [Learn Data Visualization in This Free 17-Hour Course](https://jlferrete.com/blog/learn-data-visualization-in-this-free-17-hour-course-2/)
-- [CSRF for Laravel API](https://jlferrete.com/blog/csrf-for-laravel-api/)
