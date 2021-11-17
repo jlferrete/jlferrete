@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Google presenta ‘Pathways’, la inteligencia artificial de nueva generación](https://jlferrete.com/blog/google-presenta-pathways-la-inteligencia-artificial-de-nueva-generacion/)
 - [LDAP Authentication Using Pure Java](https://jlferrete.com/blog/ldap-authentication-using-pure-java/)
 - [Remove Beginning and Ending Double Quotes from a String](https://jlferrete.com/blog/remove-beginning-and-ending-double-quotes-from-a-string/)
 - [Overriding Spring Boot Managed Dependency Versions](https://jlferrete.com/blog/overriding-spring-boot-managed-dependency-versions/)
 - [Splitting a Java String by Multiple Delimiters](https://jlferrete.com/blog/splitting-a-java-string-by-multiple-delimiters/)
-- [Crear una REST API con autenticación usando Laravel](https://jlferrete.com/blog/crear-una-rest-api-con-autenticacion-usando-laravel/)
