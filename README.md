@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso intermedio de Premiere](https://jlferrete.com/blog/curso-intermedio-de-premiere/)
 - [Build Six Quick Python Projects](https://jlferrete.com/blog/build-six-quick-python-projects/)
 - [Building an Angular Data Grid With Filtering](https://jlferrete.com/blog/building-an-angular-data-grid-with-filtering/)
 - [Google presenta ‘Pathways’, la inteligencia artificial de nueva generación](https://jlferrete.com/blog/google-presenta-pathways-la-inteligencia-artificial-de-nueva-generacion/)
 - [LDAP Authentication Using Pure Java](https://jlferrete.com/blog/ldap-authentication-using-pure-java/)
-- [Remove Beginning and Ending Double Quotes from a String](https://jlferrete.com/blog/remove-beginning-and-ending-double-quotes-from-a-string/)
