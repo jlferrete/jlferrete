@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn React by Building an eCommerce Site](https://jlferrete.com/blog/learn-react-by-building-an-ecommerce-site/)
 - [Security Tip: Validating User Input – by Stephen Rees-Carter – Laravel Security In Depth](https://jlferrete.com/blog/security-tip-validating-user-input-by-stephen-rees-carter-laravel-security-in-depth/)
 - [Curso intermedio de Premiere](https://jlferrete.com/blog/curso-intermedio-de-premiere/)
 - [Build Six Quick Python Projects](https://jlferrete.com/blog/build-six-quick-python-projects/)
 - [Building an Angular Data Grid With Filtering](https://jlferrete.com/blog/building-an-angular-data-grid-with-filtering/)
-- [Google presenta ‘Pathways’, la inteligencia artificial de nueva generación](https://jlferrete.com/blog/google-presenta-pathways-la-inteligencia-artificial-de-nueva-generacion/)
