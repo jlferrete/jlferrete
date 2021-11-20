@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Instalar Windows 11 en VirtualBox](https://jlferrete.com/blog/instalar-windows-11-en-virtualbox/)
 - [Amazon Virtual Private Cloud Course](https://jlferrete.com/blog/amazon-virtual-private-cloud-course-2/)
 - [WP-CLI: Gestiona tu WordPress por línea de comandos](https://jlferrete.com/blog/wp-cli-gestiona-tu-wordpress-por-linea-de-comandos/)
 - [Learn React by Building an eCommerce Site](https://jlferrete.com/blog/learn-react-by-building-an-ecommerce-site/)
 - [Security Tip: Validating User Input – by Stephen Rees-Carter – Laravel Security In Depth](https://jlferrete.com/blog/security-tip-validating-user-input-by-stephen-rees-carter-laravel-security-in-depth/)
-- [Curso intermedio de Premiere](https://jlferrete.com/blog/curso-intermedio-de-premiere/)
