@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to implement Skip List in Java? Example Tutorial](https://jlferrete.com/blog/how-to-implement-skip-list-in-java-example-tutorial/)
 - [Ventanas secundarias en Tcl/Tk (tkinter)](https://jlferrete.com/blog/ventanas-secundarias-en-tcl-tk-tkinter/)
 - [Creating APIs with Python – Free 19-Hour Course](https://jlferrete.com/blog/creating-apis-with-python-free-19-hour-course/)
 - [Learn the 50 Most-Used Linux & Terminal Commands](https://jlferrete.com/blog/learn-the-50-most-used-linux-terminal-commands/)
 - [REST API Best Practices – REST Endpoint Design Examples](https://jlferrete.com/blog/rest-api-best-practices-rest-endpoint-design-examples-2/)
-- [Instalar Windows 11 en VirtualBox](https://jlferrete.com/blog/instalar-windows-11-en-virtualbox/)
