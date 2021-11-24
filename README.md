@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Paulo Carvajal: Extender, modificar y usar la REST API. Una aproximación OOP](https://jlferrete.com/blog/paulo-carvajal-extender-modificar-y-usar-la-rest-api-una-aproximacion-oop/)
 - [How to Get Docker-Compose to Always Use the Latest Image](https://jlferrete.com/blog/how-to-get-docker-compose-to-always-use-the-latest-image/)
 - [Detectan en PyPi paquetes maliciosos para Python… que imitan el tráfico de este repositorio para filtrar datos](https://jlferrete.com/blog/detectan-en-pypi-paquetes-maliciosos-para-python-que-imitan-el-trafico-de-este-repositorio-para-filtrar-datos/)
 - [How to implement Skip List in Java? Example Tutorial](https://jlferrete.com/blog/how-to-implement-skip-list-in-java-example-tutorial/)
 - [Ventanas secundarias en Tcl/Tk (tkinter)](https://jlferrete.com/blog/ventanas-secundarias-en-tcl-tk-tkinter/)
-- [Creating APIs with Python – Free 19-Hour Course](https://jlferrete.com/blog/creating-apis-with-python-free-19-hour-course/)
