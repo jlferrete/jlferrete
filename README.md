@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [David Pérez: Publica tu Plugin desde GitHub directamente](https://jlferrete.com/blog/david-perez-publica-tu-plugin-desde-github-directamente/)
 - [Celia Rozalén: ¿Es WordPress una herramienta No Code](https://jlferrete.com/blog/celia-rozalen-es-wordpress-una-herramienta-no-code/)
 - [Catalina Zapata: El HOSTING VERDE: la piedra angular de la sostenibilidad en internet](https://jlferrete.com/blog/catalina-zapata-el-hosting-verde-la-piedra-angular-de-la-sostenibilidad-en-internet/)
 - [Paulo Carvajal: Extender, modificar y usar la REST API. Una aproximación OOP](https://jlferrete.com/blog/paulo-carvajal-extender-modificar-y-usar-la-rest-api-una-aproximacion-oop/)
 - [How to Get Docker-Compose to Always Use the Latest Image](https://jlferrete.com/blog/how-to-get-docker-compose-to-always-use-the-latest-image/)
-- [Detectan en PyPi paquetes maliciosos para Python… que imitan el tráfico de este repositorio para filtrar datos](https://jlferrete.com/blog/detectan-en-pypi-paquetes-maliciosos-para-python-que-imitan-el-trafico-de-este-repositorio-para-filtrar-datos/)
