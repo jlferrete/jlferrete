@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Aleix Martí: Trucos de CSS que deberías conocer](https://jlferrete.com/blog/aleix-marti-trucos-de-css-que-deberias-conocer/)
 - [Gisela Bravo: Automatiza sin escribir una línea de código en tu WordPress](https://jlferrete.com/blog/gisela-bravo-automatiza-sin-escribir-una-linea-de-codigo-en-tu-wordpress/)
 - [Itziar San Vicente: 10 claves heurísticas para diseñar con WordPress](https://jlferrete.com/blog/itziar-san-vicente-10-claves-heuristicas-para-disenar-con-wordpress/)
 - [Marta Torre: Antes de picar piedra (o código) ¿Qué necesito?](https://jlferrete.com/blog/marta-torre-antes-de-picar-piedra-o-codigo-que-necesito/)
 - [Mercedes Romero: Reciclar código no tiene nada de malo](https://jlferrete.com/blog/mercedes-romero-reciclar-codigo-no-tiene-nada-de-malo/)
-- [Lidia Arroyo: 7 consejos importantes para sacarle provecho a tus formularios con Contact Form 7](https://jlferrete.com/blog/lidia-arroyo-7-consejos-importantes-para-sacarle-provecho-a-tus-formularios-con-contact-form-7/)
