@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Mantenimiento WordPress: qué es, por qué y cómo](https://jlferrete.com/blog/mantenimiento-wordpress-que-es-por-que-y-como/)
+- [Git for Professionals – Free Version Control Course](https://jlferrete.com/blog/git-for-professionals-free-version-control-course/)
 - [Postman API Tutorial – How to Use Postman to Test an API [Full Course]](https://jlferrete.com/blog/postman-api-tutorial-how-to-use-postman-to-test-an-api-full-course/)
 - [Git and GitHub Tutorial – Version Control for Beginners](https://jlferrete.com/blog/git-and-github-tutorial-version-control-for-beginners/)
 - [Ventanas secundarias en Tcl/Tk (tkinter)](https://jlferrete.com/blog/ventanas-secundarias-en-tcl-tk-tkinter/)
-- [Creating APIs with Python – Free 19-Hour Course](https://jlferrete.com/blog/creating-apis-with-python-free-19-hour-course/)
-- [Learn the 50 Most-Used Linux & Terminal Commands](https://jlferrete.com/blog/learn-the-50-most-used-linux-terminal-commands/)
