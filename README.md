@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
-- [Arantxa Serantes: Humanidades digitales y plugins libres: Análisis y sugerencias](https://jlferrete.com/blog/arantxa-serantes-humanidades-digitales-y-plugins-libres-analisis-y-sugerencias/)
-- [Aleix Martí: Trucos de CSS que deberías conocer](https://jlferrete.com/blog/aleix-marti-trucos-de-css-que-deberias-conocer/)
-- [Gisela Bravo: Automatiza sin escribir una línea de código en tu WordPress](https://jlferrete.com/blog/gisela-bravo-automatiza-sin-escribir-una-linea-de-codigo-en-tu-wordpress/)
-- [Itziar San Vicente: 10 claves heurísticas para diseñar con WordPress](https://jlferrete.com/blog/itziar-san-vicente-10-claves-heuristicas-para-disenar-con-wordpress/)
-- [Marta Torre: Antes de picar piedra (o código) ¿Qué necesito?](https://jlferrete.com/blog/marta-torre-antes-de-picar-piedra-o-codigo-que-necesito/)
+- [Postman API Tutorial – How to Use Postman to Test an API [Full Course]](https://jlferrete.com/blog/postman-api-tutorial-how-to-use-postman-to-test-an-api-full-course/)
+- [Git and GitHub Tutorial – Version Control for Beginners](https://jlferrete.com/blog/git-and-github-tutorial-version-control-for-beginners/)
+- [Ventanas secundarias en Tcl/Tk (tkinter)](https://jlferrete.com/blog/ventanas-secundarias-en-tcl-tk-tkinter/)
+- [Creating APIs with Python – Free 19-Hour Course](https://jlferrete.com/blog/creating-apis-with-python-free-19-hour-course/)
+- [Learn the 50 Most-Used Linux & Terminal Commands](https://jlferrete.com/blog/learn-the-50-most-used-linux-terminal-commands/)
