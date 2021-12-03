@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Diferencias entre git pull y git fetch](https://jlferrete.com/blog/diferencias-entre-git-pull-y-git-fetch/)
 - [Learn TypeScript With This Crash Course](https://jlferrete.com/blog/learn-typescript-with-this-crash-course/)
 - [Watch a Cornell University Database Course for Free](https://jlferrete.com/blog/watch-a-cornell-university-database-course-for-free/)
 - [Mantenimiento WordPress: qué es, por qué y cómo](https://jlferrete.com/blog/mantenimiento-wordpress-que-es-por-que-y-como/)
 - [Git for Professionals – Free Version Control Course](https://jlferrete.com/blog/git-for-professionals-free-version-control-course/)
-- [Postman API Tutorial – How to Use Postman to Test an API [Full Course]](https://jlferrete.com/blog/postman-api-tutorial-how-to-use-postman-to-test-an-api-full-course/)
