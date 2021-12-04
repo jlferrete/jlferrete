@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Xavi Velasco: Logística: aporta valor sin esfuerzo a la tienda de tu cliente](https://jlferrete.com/blog/xavi-velasco-logistica-aporta-valor-sin-esfuerzo-a-la-tienda-de-tu-cliente/)
 - [Carlos Longarela: Por qué deves escrivir bien tu codigo para WordPress](https://jlferrete.com/blog/carlos-longarela-por-que-deves-escrivir-bien-tu-codigo-para-wordpress/)
 - [How to Integrate Google APIs with Python Django](https://jlferrete.com/blog/how-to-integrate-google-apis-with-python-django-3/)
 - [Diferencias entre git pull y git fetch](https://jlferrete.com/blog/diferencias-entre-git-pull-y-git-fetch/)
 - [Learn TypeScript With This Crash Course](https://jlferrete.com/blog/learn-typescript-with-this-crash-course/)
-- [Watch a Cornell University Database Course for Free](https://jlferrete.com/blog/watch-a-cornell-university-database-course-for-free/)
