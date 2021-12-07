@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Laravel: Asynchronous and concurrent HTTP requests | Laravel HTTP Client](https://jlferrete.com/blog/laravel-asynchronous-and-concurrent-http-requests-laravel-http-client/)
 - [Campo de confirmación de correo electrónico en WooCommerce](https://jlferrete.com/blog/campo-de-confirmacion-de-correo-electronico-en-woocommerce/)
 - [Javier Arce: Diseñar para WordPress](https://jlferrete.com/blog/javier-arce-disenar-para-wordpress/)
 - [Diego Nieto: Sincroniza tu tienda física y online en WooCommerce](https://jlferrete.com/blog/diego-nieto-sincroniza-tu-tienda-fisica-y-online-en-woocommerce/)
 - [Nuria Pico y Miriam Abuin: Diseño web y creación de contenido corporativo para tiendas online](https://jlferrete.com/blog/nuria-pico-y-miriam-abuin-diseno-web-y-creacion-de-contenido-corporativo-para-tiendas-online/)
-- [Jaime Gármar: La comunidad que me ayudó a crecer como empresario y como persona](https://jlferrete.com/blog/jaime-garmar-la-comunidad-que-me-ayudo-a-crecer-como-empresario-y-como-persona/)
