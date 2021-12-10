@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Editores Markdown: qué son y mejores programas](https://jlferrete.com/blog/editores-markdown-que-son-y-mejores-programas/)
 - [Ladumor Laravel Swagger help to setup swagger in your application easily](https://jlferrete.com/blog/ladumor-laravel-swagger-help-to-setup-swagger-in-your-application-easily/)
 - [How to Dockerize a Flask Application](https://jlferrete.com/blog/how-to-dockerize-a-flask-application/)
 - [Temas de PHP – Paypal PHP integración con ejemplo completo 2021](https://jlferrete.com/blog/temas-de-php-paypal-php-integracion-con-ejemplo-completo-2021/)
 - [Cursos de Arduino – Guía básica de Arduino. Una guía práctica sobre el mundo de Arduino](https://jlferrete.com/blog/cursos-de-arduino-guia-basica-de-arduino-una-guia-practica-sobre-el-mundo-de-arduino/)
-- [Laravel: Asynchronous and concurrent HTTP requests | Laravel HTTP Client](https://jlferrete.com/blog/laravel-asynchronous-and-concurrent-http-requests-laravel-http-client/)
