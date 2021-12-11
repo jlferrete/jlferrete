@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Comprueba de forma sencilla tu WordPress para dispositivos móviles](https://jlferrete.com/blog/comprueba-de-forma-sencilla-tu-wordpress-para-dispositivos-moviles/)
 - [¿Cómo ordenar la etiqueta head para mejorar el rendimiento de tu web?](https://jlferrete.com/blog/como-ordenar-la-etiqueta-head-para-mejorar-el-rendimiento-de-tu-web/)
 - [Editores Markdown: qué son y mejores programas](https://jlferrete.com/blog/editores-markdown-que-son-y-mejores-programas/)
 - [Ladumor Laravel Swagger help to setup swagger in your application easily](https://jlferrete.com/blog/ladumor-laravel-swagger-help-to-setup-swagger-in-your-application-easily/)
 - [How to Dockerize a Flask Application](https://jlferrete.com/blog/how-to-dockerize-a-flask-application/)
-- [Temas de PHP – Paypal PHP integración con ejemplo completo 2021](https://jlferrete.com/blog/temas-de-php-paypal-php-integracion-con-ejemplo-completo-2021/)
