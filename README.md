@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Victor Sáenz y Pedro Crespo: Fullsite editing gracias al editor de plantillas de Gutenberg](https://jlferrete.com/blog/victor-saenz-y-pedro-crespo-fullsite-editing-gracias-al-editor-de-plantillas-de-gutenberg/)
 - [Gamificando WordPress](https://jlferrete.com/blog/gamificando-wordpress/)
 - [Cómo elegir las herramientas para hacer una academia con WordPress](https://jlferrete.com/blog/como-elegir-las-herramientas-para-hacer-una-academia-con-wordpress/)
 - [Comprueba de forma sencilla tu WordPress para dispositivos móviles](https://jlferrete.com/blog/comprueba-de-forma-sencilla-tu-wordpress-para-dispositivos-moviles/)
 - [¿Cómo ordenar la etiqueta head para mejorar el rendimiento de tu web?](https://jlferrete.com/blog/como-ordenar-la-etiqueta-head-para-mejorar-el-rendimiento-de-tu-web/)
-- [Editores Markdown: qué son y mejores programas](https://jlferrete.com/blog/editores-markdown-que-son-y-mejores-programas/)
