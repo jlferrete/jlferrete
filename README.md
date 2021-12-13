@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [PHP básico y sencillo que todo usuario de WordPress debería conocer](https://jlferrete.com/blog/php-basico-y-sencillo-que-todo-usuario-de-wordpress-deberia-conocer/)
 - [Agregar breadcrumbs de Yoast SEO a tu tema](https://jlferrete.com/blog/agregar-breadcrumbs-de-yoast-seo-a-tu-tema/)
 - [Victor Sáenz y Pedro Crespo: Fullsite editing gracias al editor de plantillas de Gutenberg](https://jlferrete.com/blog/victor-saenz-y-pedro-crespo-fullsite-editing-gracias-al-editor-de-plantillas-de-gutenberg/)
 - [Gamificando WordPress](https://jlferrete.com/blog/gamificando-wordpress/)
 - [Cómo elegir las herramientas para hacer una academia con WordPress](https://jlferrete.com/blog/como-elegir-las-herramientas-para-hacer-una-academia-con-wordpress/)
-- [Comprueba de forma sencilla tu WordPress para dispositivos móviles](https://jlferrete.com/blog/comprueba-de-forma-sencilla-tu-wordpress-para-dispositivos-moviles/)
