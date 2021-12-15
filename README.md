@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Remove HTML Tags Using Java](https://jlferrete.com/blog/remove-html-tags-using-java/)
 - [Yannick García: Cómo hacer desarrollos más rentables y «todoterreno»](https://jlferrete.com/blog/yannick-garcia-como-hacer-desarrollos-mas-rentables-y-todoterreno/)
 - [Andros Fenollosa: Bash, el mejor no-plugin de Backups y Snapshots](https://jlferrete.com/blog/andros-fenollosa-bash-el-mejor-no-plugin-de-backups-y-snapshots/)
 - [PHP básico y sencillo que todo usuario de WordPress debería conocer](https://jlferrete.com/blog/php-basico-y-sencillo-que-todo-usuario-de-wordpress-deberia-conocer/)
 - [Agregar breadcrumbs de Yoast SEO a tu tema](https://jlferrete.com/blog/agregar-breadcrumbs-de-yoast-seo-a-tu-tema/)
-- [Victor Sáenz y Pedro Crespo: Fullsite editing gracias al editor de plantillas de Gutenberg](https://jlferrete.com/blog/victor-saenz-y-pedro-crespo-fullsite-editing-gracias-al-editor-de-plantillas-de-gutenberg/)
