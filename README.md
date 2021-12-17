@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Aprender programación: ocho alternativas gratis para ti](https://jlferrete.com/blog/aprender-programacion-ocho-alternativas-gratis-para-ti/)
 - [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects-2/)
 - [Cómo ejecutar contenedores de Docker con Maven exec-maven-plugin](https://jlferrete.com/blog/como-ejecutar-contenedores-de-docker-con-maven-exec-maven-plugin/)
 - [CSRF With Stateless REST API | Baeldung](https://jlferrete.com/blog/csrf-with-stateless-rest-api-baeldung/)
 - [Remove HTML Tags Using Java](https://jlferrete.com/blog/remove-html-tags-using-java/)
-- [Yannick García: Cómo hacer desarrollos más rentables y «todoterreno»](https://jlferrete.com/blog/yannick-garcia-como-hacer-desarrollos-mas-rentables-y-todoterreno/)
