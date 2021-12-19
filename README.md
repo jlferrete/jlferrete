@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Improve and Automate Your Web Development Workflow](https://jlferrete.com/blog/how-to-improve-and-automate-your-web-development-workflow/)
 - [Tu propio punto de acceso seguro con Tor y Raspberry Pi](https://jlferrete.com/blog/tu-propio-punto-de-acceso-seguro-con-tor-y-raspberry-pi/)
 - [Free 10-Hour Machine Learning Course](https://jlferrete.com/blog/free-10-hour-machine-learning-course-2/)
 - [Learn all about Micro-Frontends](https://jlferrete.com/blog/learn-all-about-micro-frontends/)
 - [Aprender programación: ocho alternativas gratis para ti](https://jlferrete.com/blog/aprender-programacion-ocho-alternativas-gratis-para-ti/)
-- [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects-2/)
