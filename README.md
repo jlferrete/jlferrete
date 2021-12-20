@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Instalar y activar Java en Linux](https://jlferrete.com/blog/instalar-y-activar-java-en-linux/)
 - [REST API Best Practices – REST Endpoint Design Examples](https://jlferrete.com/blog/rest-api-best-practices-rest-endpoint-design-examples-3/)
 - [How to Improve and Automate Your Web Development Workflow](https://jlferrete.com/blog/how-to-improve-and-automate-your-web-development-workflow/)
 - [Tu propio punto de acceso seguro con Tor y Raspberry Pi](https://jlferrete.com/blog/tu-propio-punto-de-acceso-seguro-con-tor-y-raspberry-pi/)
 - [Free 10-Hour Machine Learning Course](https://jlferrete.com/blog/free-10-hour-machine-learning-course-2/)
-- [Learn all about Micro-Frontends](https://jlferrete.com/blog/learn-all-about-micro-frontends/)
