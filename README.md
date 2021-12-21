@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Por qué WooCommerce muestra un precio diferente al que yo introduzco en los productos](https://jlferrete.com/blog/por-que-woocommerce-muestra-un-precio-diferente-al-que-yo-introduzco-en-los-productos/)
 - [Django Project – Create a Digital Résumé Using Django and Python](https://jlferrete.com/blog/django-project-create-a-digital-resume-using-django-and-python-2/)
 - [How to Analyze Data with Python, Pandas & Numpy – 10 Hour Course](https://jlferrete.com/blog/how-to-analyze-data-with-python-pandas-numpy-10-hour-course-2/)
 - [Instalar y activar Java en Linux](https://jlferrete.com/blog/instalar-y-activar-java-en-linux/)
 - [REST API Best Practices – REST Endpoint Design Examples](https://jlferrete.com/blog/rest-api-best-practices-rest-endpoint-design-examples-3/)
-- [How to Improve and Automate Your Web Development Workflow](https://jlferrete.com/blog/how-to-improve-and-automate-your-web-development-workflow/)
