@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Live Coding an Update to My Build a SAAS App with Flask Course](https://jlferrete.com/blog/live-coding-an-update-to-my-build-a-saas-app-with-flask-course/)
 - [How to Automate Tasks with cron Jobs in Linux](https://jlferrete.com/blog/how-to-automate-tasks-with-cron-jobs-in-linux/)
 - [¿Por qué WooCommerce muestra un precio diferente al que yo introduzco en los productos](https://jlferrete.com/blog/por-que-woocommerce-muestra-un-precio-diferente-al-que-yo-introduzco-en-los-productos/)
 - [Django Project – Create a Digital Résumé Using Django and Python](https://jlferrete.com/blog/django-project-create-a-digital-resume-using-django-and-python-2/)
 - [How to Analyze Data with Python, Pandas & Numpy – 10 Hour Course](https://jlferrete.com/blog/how-to-analyze-data-with-python-pandas-numpy-10-hour-course-2/)
-- [Instalar y activar Java en Linux](https://jlferrete.com/blog/instalar-y-activar-java-en-linux/)
