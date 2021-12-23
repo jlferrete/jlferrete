@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Más de 800.000 páginas de WordPress tienen un grave problema de seguridad por usar una versión antigua de uno de los plugins más populares](https://jlferrete.com/blog/mas-de-800-000-paginas-de-wordpress-tienen-un-grave-problema-de-seguridad-por-usar-una-version-antigua-de-uno-de-los-plugins-mas-populares/)
 - [Importing Maven Project into Eclipse](https://jlferrete.com/blog/importing-maven-project-into-eclipse/)
 - [Qué es el boilerplate y cómo usarlo en WordPress](https://jlferrete.com/blog/que-es-el-boilerplate-y-como-usarlo-en-wordpress/)
 - [Live Coding an Update to My Build a SAAS App with Flask Course](https://jlferrete.com/blog/live-coding-an-update-to-my-build-a-saas-app-with-flask-course/)
 - [How to Automate Tasks with cron Jobs in Linux](https://jlferrete.com/blog/how-to-automate-tasks-with-cron-jobs-in-linux/)
-- [¿Por qué WooCommerce muestra un precio diferente al que yo introduzco en los productos](https://jlferrete.com/blog/por-que-woocommerce-muestra-un-precio-diferente-al-que-yo-introduzco-en-los-productos/)
