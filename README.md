@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Jorge Casals: Cómo crear contenido en video automatizado y sincronizado con WooCommerce – https://t.co/3ffchfWpTD](https://jlferrete.com/blog/jorge-casals-como-crear-contenido-en-video-automatizado-y-sincronizado-con-woocommerce-https-t-co-3ffchfwptd/)
 - [Validar documentos JSON con JSON Schema](https://jlferrete.com/blog/validar-documentos-json-con-json-schema/)
 - [GitHub – dietercoopman/laravel-showsql: A Laravel package to output a specific sql to your favourite debugging tool.](https://jlferrete.com/blog/github-dietercoopman-laravel-showsql-a-laravel-package-to-output-a-specific-sql-to-your-favourite-debugging-tool/)
 - [Django for Everybody – Learn the Popular Python Framework from Dr. Chuck](https://jlferrete.com/blog/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/)
 - [Data Analysis with Python for Excel Users – Full Course](https://jlferrete.com/blog/data-analysis-with-python-for-excel-users-full-course/)
-- [El mapa del sitio (sitemap) XML del plugin SEO tiene errores, no sale o sale en blanco ¿qué pasa? ¿cómo lo arreglo](https://jlferrete.com/blog/el-mapa-del-sitio-sitemap-xml-del-plugin-seo-tiene-errores-no-sale-o-sale-en-blanco-que-pasa-como-lo-arreglo/)
