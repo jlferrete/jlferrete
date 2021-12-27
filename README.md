@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Best Python Libraries for Every Become Python Developer](https://jlferrete.com/blog/best-python-libraries-for-every-become-python-developer/)
 - [Postman API Tutorial – How to Use Postman to Test an API [Full Course]](https://jlferrete.com/blog/postman-api-tutorial-how-to-use-postman-to-test-an-api-full-course-2/)
 - [Jorge Casals: Cómo crear contenido en video automatizado y sincronizado con WooCommerce – https://t.co/3ffchfWpTD](https://jlferrete.com/blog/jorge-casals-como-crear-contenido-en-video-automatizado-y-sincronizado-con-woocommerce-https-t-co-3ffchfwptd/)
 - [Validar documentos JSON con JSON Schema](https://jlferrete.com/blog/validar-documentos-json-con-json-schema/)
 - [GitHub – dietercoopman/laravel-showsql: A Laravel package to output a specific sql to your favourite debugging tool.](https://jlferrete.com/blog/github-dietercoopman-laravel-showsql-a-laravel-package-to-output-a-specific-sql-to-your-favourite-debugging-tool/)
-- [Django for Everybody – Learn the Popular Python Framework from Dr. Chuck](https://jlferrete.com/blog/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/)
