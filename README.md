@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso de CRM](https://jlferrete.com/blog/curso-de-crm/)
 - [Project Management Full Course | Learn Project Management In 8 Hours](https://jlferrete.com/blog/project-management-full-course-learn-project-management-in-8-hours/)
 - [Python Code Examples – Sample Script Coding Tutorial for Beginners](https://jlferrete.com/blog/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [Best Python Libraries for Every Become Python Developer](https://jlferrete.com/blog/best-python-libraries-for-every-become-python-developer/)
 - [Postman API Tutorial – How to Use Postman to Test an API [Full Course]](https://jlferrete.com/blog/postman-api-tutorial-how-to-use-postman-to-test-an-api-full-course-2/)
-- [Jorge Casals: Cómo crear contenido en video automatizado y sincronizado con WooCommerce – https://t.co/3ffchfWpTD](https://jlferrete.com/blog/jorge-casals-como-crear-contenido-en-video-automatizado-y-sincronizado-con-woocommerce-https-t-co-3ffchfwptd/)
