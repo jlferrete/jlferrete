@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [13 trucos y consejos de Facebook que debes conocer sí o sí](https://jlferrete.com/blog/13-trucos-y-consejos-de-facebook-que-debes-conocer-si-o-si/)
 - [Temas de Linux – Cómo conseguir un sistema operativo seguro, privado y portable con Tails](https://jlferrete.com/blog/temas-de-linux-como-conseguir-un-sistema-operativo-seguro-privado-y-portable-con-tails/)
 - [Curso de CRM](https://jlferrete.com/blog/curso-de-crm/)
 - [Project Management Full Course | Learn Project Management In 8 Hours](https://jlferrete.com/blog/project-management-full-course-learn-project-management-in-8-hours/)
 - [Python Code Examples – Sample Script Coding Tutorial for Beginners](https://jlferrete.com/blog/python-code-examples-sample-script-coding-tutorial-for-beginners/)
-- [Best Python Libraries for Every Become Python Developer](https://jlferrete.com/blog/best-python-libraries-for-every-become-python-developer/)
