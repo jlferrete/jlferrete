@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [What’s New In PHP 8.1 – Deprecations & Backward Incompatible Changes – Full PHP 8 Tutorial»](https://jlferrete.com/blog/whats-new-in-php-8-1-deprecations-backward-incompatible-changes-full-php-8-tutorial/)
 - [Manual Gratis de Raspberry Pi: Manos a la Obra](https://jlferrete.com/blog/manual-gratis-de-raspberry-pi-manos-a-la-obra/)
 - [Cómo hacer mejores tests en Python usando Mock](https://jlferrete.com/blog/como-hacer-mejores-tests-en-python-usando-mock/)
 - [13 trucos y consejos de Facebook que debes conocer sí o sí](https://jlferrete.com/blog/13-trucos-y-consejos-de-facebook-que-debes-conocer-si-o-si/)
 - [Temas de Linux – Cómo conseguir un sistema operativo seguro, privado y portable con Tails](https://jlferrete.com/blog/temas-de-linux-como-conseguir-un-sistema-operativo-seguro-privado-y-portable-con-tails/)
-- [Curso de CRM](https://jlferrete.com/blog/curso-de-crm/)
