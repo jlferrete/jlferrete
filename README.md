@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Elementos básicos que debes tener en cuenta para tu funnel](https://jlferrete.com/blog/elementos-basicos-que-debes-tener-en-cuenta-para-tu-funnel/)
 - [Cómo instalar Android TV en una Raspberry Pi con LineageOS](https://jlferrete.com/blog/como-instalar-android-tv-en-una-raspberry-pi-con-lineageos/)
 - [AI And Machine Learning Full Course](https://jlferrete.com/blog/ai-and-machine-learning-full-course/)
 - [8 Mistakes Every Amateur Programmers Make](https://jlferrete.com/blog/8-mistakes-every-amateur-programmers-make/)
 - [Python + JavaScript = 🔥🔥🔥](https://jlferrete.com/blog/python-javascript-%f0%9f%94%a5%f0%9f%94%a5%f0%9f%94%a5/)
-- [What’s New In PHP 8.1 – Deprecations & Backward Incompatible Changes – Full PHP 8 Tutorial»](https://jlferrete.com/blog/whats-new-in-php-8-1-deprecations-backward-incompatible-changes-full-php-8-tutorial/)
