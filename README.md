@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Create a MERN Stack App with a Serverless Backend](https://jlferrete.com/blog/create-a-mern-stack-app-with-a-serverless-backend/)
 - [Elementos básicos que debes tener en cuenta para tu funnel](https://jlferrete.com/blog/elementos-basicos-que-debes-tener-en-cuenta-para-tu-funnel/)
 - [Cómo instalar Android TV en una Raspberry Pi con LineageOS](https://jlferrete.com/blog/como-instalar-android-tv-en-una-raspberry-pi-con-lineageos/)
 - [AI And Machine Learning Full Course](https://jlferrete.com/blog/ai-and-machine-learning-full-course/)
 - [8 Mistakes Every Amateur Programmers Make](https://jlferrete.com/blog/8-mistakes-every-amateur-programmers-make/)
-- [Python + JavaScript = 🔥🔥🔥](https://jlferrete.com/blog/python-javascript-%f0%9f%94%a5%f0%9f%94%a5%f0%9f%94%a5/)
