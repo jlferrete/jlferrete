@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Learn Algorithms and Data Structures in Python](https://jlferrete.com/blog/learn-algorithms-and-data-structures-in-python/)
 - [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects-3/)
 - [Con esta guía serás capaz de pasar cualquier entrevista de programación en empresas de software como Amazon o Google](https://jlferrete.com/blog/con-esta-guia-seras-capaz-de-pasar-cualquier-entrevista-de-programacion-en-empresas-de-software-como-amazon-o-google/)
 - [Formato PDF/A: qué es, características y ventajas con respecto al PDF](https://jlferrete.com/blog/formato-pdf-a-que-es-caracteristicas-y-ventajas-con-respecto-al-pdf/)
 - [Tutorial: Medir la velocidad de internet con Python](https://jlferrete.com/blog/tutorial-medir-la-velocidad-de-internet-con-python/)
-- [Cómo utilizar la pantalla de un portátil viejo como segundo monitor](https://jlferrete.com/blog/como-utilizar-la-pantalla-de-un-portatil-viejo-como-segundo-monitor/)
