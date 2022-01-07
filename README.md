@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo programar Arduino con Visual Studio Code y PlaftormIO](https://jlferrete.com/blog/como-programar-arduino-con-visual-studio-code-y-plaftormio/)
 - [Manual de Gutenberg para dummies](https://jlferrete.com/blog/manual-de-gutenberg-para-dummies/)
 - [26 Useful Python Snippets](https://jlferrete.com/blog/26-useful-python-snippets/)
 - [Learn Algorithms and Data Structures in Python](https://jlferrete.com/blog/learn-algorithms-and-data-structures-in-python/)
 - [Build Four Node.js and Express.js Projects](https://jlferrete.com/blog/build-four-node-js-and-express-js-projects-3/)
-- [Con esta guía serás capaz de pasar cualquier entrevista de programación en empresas de software como Amazon o Google](https://jlferrete.com/blog/con-esta-guia-seras-capaz-de-pasar-cualquier-entrevista-de-programacion-en-empresas-de-software-como-amazon-o-google/)
