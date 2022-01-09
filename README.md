@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Libro Gratis Introducción al Lenguaje de Programación Python (3º Edición)](https://jlferrete.com/blog/libro-gratis-introduccion-al-lenguaje-de-programacion-python-3o-edicion/)
 - [Progressive Web App: qué es y cómo funciona](https://jlferrete.com/blog/progressive-web-app-que-es-y-como-funciona/)
 - [Django + Vue Course – Build an e-Commerce Website](https://jlferrete.com/blog/django-vue-course-build-an-e-commerce-website-2/)
 - [Cómo programar Arduino con Visual Studio Code y PlaftormIO](https://jlferrete.com/blog/como-programar-arduino-con-visual-studio-code-y-plaftormio/)
 - [Manual de Gutenberg para dummies](https://jlferrete.com/blog/manual-de-gutenberg-para-dummies/)
-- [26 Useful Python Snippets](https://jlferrete.com/blog/26-useful-python-snippets/)
