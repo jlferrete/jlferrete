@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Creando relaciones de aspecto en CSS con la propiedad aspect-ratio](https://jlferrete.com/blog/creando-relaciones-de-aspecto-en-css-con-la-propiedad-aspect-ratio/)
 - [Mostrar fecha de la última actualización y no la de publicación en el tema Astra](https://jlferrete.com/blog/mostrar-fecha-de-la-ultima-actualizacion-y-no-la-de-publicacion-en-el-tema-astra/)
 - [6 webs con las que compartir archivos, sin registro, ni email, ni app](https://jlferrete.com/blog/6-webs-con-las-que-compartir-archivos-sin-registro-ni-email-ni-app/)
 - [Libro Gratis Introducción al Lenguaje de Programación Python (3º Edición)](https://jlferrete.com/blog/libro-gratis-introduccion-al-lenguaje-de-programacion-python-3o-edicion/)
 - [Progressive Web App: qué es y cómo funciona](https://jlferrete.com/blog/progressive-web-app-que-es-y-como-funciona/)
-- [Django + Vue Course – Build an e-Commerce Website](https://jlferrete.com/blog/django-vue-course-build-an-e-commerce-website-2/)
