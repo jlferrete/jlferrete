@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo cambiar o restablecer los enlaces permanentes desde la base de datos](https://jlferrete.com/blog/como-cambiar-o-restablecer-los-enlaces-permanentes-desde-la-base-de-datos/)
 - [Cómo crear en WordPress una web en varios idiomas](https://jlferrete.com/blog/como-crear-en-wordpress-una-web-en-varios-idiomas/)
 - [Un desarrollador sabotea sus exitosos proyectos open source en GitHub para fastidiar a grandes empresas que usan gratis su trabajo](https://jlferrete.com/blog/un-desarrollador-sabotea-sus-exitosos-proyectos-open-source-en-github-para-fastidiar-a-grandes-empresas-que-usan-gratis-su-trabajo/)
 - [Creando relaciones de aspecto en CSS con la propiedad aspect-ratio](https://jlferrete.com/blog/creando-relaciones-de-aspecto-en-css-con-la-propiedad-aspect-ratio/)
 - [Mostrar fecha de la última actualización y no la de publicación en el tema Astra](https://jlferrete.com/blog/mostrar-fecha-de-la-ultima-actualizacion-y-no-la-de-publicacion-en-el-tema-astra/)
-- [6 webs con las que compartir archivos, sin registro, ni email, ni app](https://jlferrete.com/blog/6-webs-con-las-que-compartir-archivos-sin-registro-ni-email-ni-app/)
