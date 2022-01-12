@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo crear un medio de publicación digital en WordPress](https://jlferrete.com/blog/como-crear-un-medio-de-publicacion-digital-en-wordpress/)
 - [Qué es el lazy loading y cómo implementarlo en WordPress](https://jlferrete.com/blog/que-es-el-lazy-loading-y-como-implementarlo-en-wordpress/)
 - [Cómo cambiar o restablecer los enlaces permanentes desde la base de datos](https://jlferrete.com/blog/como-cambiar-o-restablecer-los-enlaces-permanentes-desde-la-base-de-datos/)
 - [Cómo crear en WordPress una web en varios idiomas](https://jlferrete.com/blog/como-crear-en-wordpress-una-web-en-varios-idiomas/)
 - [Un desarrollador sabotea sus exitosos proyectos open source en GitHub para fastidiar a grandes empresas que usan gratis su trabajo](https://jlferrete.com/blog/un-desarrollador-sabotea-sus-exitosos-proyectos-open-source-en-github-para-fastidiar-a-grandes-empresas-que-usan-gratis-su-trabajo/)
-- [Creando relaciones de aspecto en CSS con la propiedad aspect-ratio](https://jlferrete.com/blog/creando-relaciones-de-aspecto-en-css-con-la-propiedad-aspect-ratio/)
