@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo permitir a los clientes cancelar sus pedidos en WooCommerce](https://jlferrete.com/blog/como-permitir-a-los-clientes-cancelar-sus-pedidos-en-woocommerce/)
 - [Creating APIs with Python – Free 19-Hour Course](https://jlferrete.com/blog/creating-apis-with-python-free-19-hour-course-2/)
 - [Temas de WordPress: cómo personalizar el front-end de un sitio web](https://jlferrete.com/blog/temas-de-wordpress-como-personalizar-el-front-end-de-un-sitio-web/)
 - [Cómo añadir en WordPress un Favicon a tu web](https://jlferrete.com/blog/como-anadir-en-wordpress-un-favicon-a-tu-web/)
 - [Subir archivos en WordPress a través de código](https://jlferrete.com/blog/subir-archivos-en-wordpress-a-traves-de-codigo/)
-- [Cómo crear un medio de publicación digital en WordPress](https://jlferrete.com/blog/como-crear-un-medio-de-publicacion-digital-en-wordpress/)
