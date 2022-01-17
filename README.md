@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Instalar WordPress localmente con MAMP](https://jlferrete.com/blog/instalar-wordpress-localmente-con-mamp/)
 - [¿Afecta la vulnerabilidad Log4j a WordPress?](https://jlferrete.com/blog/afecta-la-vulnerabilidad-log4j-a-wordpress/)
 - [Qué es Joomla y qué tipos de web puede ayudarte a crear](https://jlferrete.com/blog/que-es-joomla-y-que-tipos-de-web-puede-ayudarte-a-crear/)
 - [Build a CRM with Google Sheets + PostgreSQL + Stripe API Tutorial (Ecommerce Course)](https://jlferrete.com/blog/build-a-crm-with-google-sheets-postgresql-stripe-api-tutorial-ecommerce-course/)
 - [¡Tu Código NO te Pertenece! DRAMA GITHUB](https://jlferrete.com/blog/tu-codigo-no-te-pertenece-drama-github/)
-- [Cómo permitir a los clientes cancelar sus pedidos en WooCommerce](https://jlferrete.com/blog/como-permitir-a-los-clientes-cancelar-sus-pedidos-en-woocommerce/)
