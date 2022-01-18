@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Herramientas para medir velocidad de carga de una web](https://jlferrete.com/blog/herramientas-para-medir-velocidad-de-carga-de-una-web/)
+- [Qué es WebP y por qué es mejor que PNG, JPG y GIF](https://jlferrete.com/blog/que-es-webp-y-por-que-es-mejor-que-png-jpg-y-gif/)
 - [Cómo hacer una aplicación con WordPress Headless](https://jlferrete.com/blog/como-hacer-una-aplicacion-con-wordpress-headless/)
 - [Instalar WordPress localmente con MAMP](https://jlferrete.com/blog/instalar-wordpress-localmente-con-mamp/)
 - [¿Afecta la vulnerabilidad Log4j a WordPress?](https://jlferrete.com/blog/afecta-la-vulnerabilidad-log4j-a-wordpress/)
-- [Qué es Joomla y qué tipos de web puede ayudarte a crear](https://jlferrete.com/blog/que-es-joomla-y-que-tipos-de-web-puede-ayudarte-a-crear/)
-- [Build a CRM with Google Sheets + PostgreSQL + Stripe API Tutorial (Ecommerce Course)](https://jlferrete.com/blog/build-a-crm-with-google-sheets-postgresql-stripe-api-tutorial-ecommerce-course/)
