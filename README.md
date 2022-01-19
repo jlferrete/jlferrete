@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Borrar o limpiar la caché en WordPress](https://jlferrete.com/blog/borrar-o-limpiar-la-cache-en-wordpress/)
 - [Cómo cambiar la URL de WordPress en las páginas de categorías y etiquetas](https://jlferrete.com/blog/como-cambiar-la-url-de-wordpress-en-las-paginas-de-categorias-y-etiquetas/)
 - [Herramientas para medir velocidad de carga de una web](https://jlferrete.com/blog/herramientas-para-medir-velocidad-de-carga-de-una-web/)
 - [Qué es WebP y por qué es mejor que PNG, JPG y GIF](https://jlferrete.com/blog/que-es-webp-y-por-que-es-mejor-que-png-jpg-y-gif/)
 - [Cómo hacer una aplicación con WordPress Headless](https://jlferrete.com/blog/como-hacer-una-aplicacion-con-wordpress-headless/)
-- [Instalar WordPress localmente con MAMP](https://jlferrete.com/blog/instalar-wordpress-localmente-con-mamp/)
