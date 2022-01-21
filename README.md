@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Trucos para un .htaccess optimizado en WordPress](https://jlferrete.com/blog/trucos-para-un-htaccess-optimizado-en-wordpress/)
 - [Guardar las búsquedas internas en WordPress](https://jlferrete.com/blog/guardar-las-busquedas-internas-en-wordpress/)
 - [Roles de usuario y permisos en WordPress](https://jlferrete.com/blog/roles-de-usuario-y-permisos-en-wordpress/)
 - [Borrar o limpiar la caché en WordPress](https://jlferrete.com/blog/borrar-o-limpiar-la-cache-en-wordpress/)
 - [Cómo cambiar la URL de WordPress en las páginas de categorías y etiquetas](https://jlferrete.com/blog/como-cambiar-la-url-de-wordpress-en-las-paginas-de-categorias-y-etiquetas/)
-- [Herramientas para medir velocidad de carga de una web](https://jlferrete.com/blog/herramientas-para-medir-velocidad-de-carga-de-una-web/)
