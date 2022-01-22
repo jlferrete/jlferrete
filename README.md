@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Micronaut vs. Spring Boot | Baeldung](https://jlferrete.com/blog/micronaut-vs-spring-boot-baeldung/)
 - [9 razones por las qué NUNCA deberías alojar vídeos en tu propia web](https://jlferrete.com/blog/9-razones-por-las-que-nunca-deberias-alojar-videos-en-tu-propia-web/)
 - [Trucos para un .htaccess optimizado en WordPress](https://jlferrete.com/blog/trucos-para-un-htaccess-optimizado-en-wordpress/)
 - [Guardar las búsquedas internas en WordPress](https://jlferrete.com/blog/guardar-las-busquedas-internas-en-wordpress/)
 - [Roles de usuario y permisos en WordPress](https://jlferrete.com/blog/roles-de-usuario-y-permisos-en-wordpress/)
-- [Borrar o limpiar la caché en WordPress](https://jlferrete.com/blog/borrar-o-limpiar-la-cache-en-wordpress/)
