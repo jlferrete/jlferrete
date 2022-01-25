@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Snippets en Visual Studio. Crear y añadir snippets de código](https://jlferrete.com/blog/snippets-en-visual-studio-crear-y-anadir-snippets-de-codigo/)
 - [Configuración de una aplicación con Spring Boot y configuración centralizada con Spring Cloud Config](https://jlferrete.com/blog/configuracion-de-una-aplicacion-con-spring-boot-y-configuracion-centralizada-con-spring-cloud-config/)
 - [Acrónimos y tecnicismos del desarrollo web que deberías conocer](https://jlferrete.com/blog/acronimos-y-tecnicismos-del-desarrollo-web-que-deberias-conocer/)
 - [Dockerize your own Game of Thrones’s API](https://jlferrete.com/blog/dockerize-your-own-game-of-throness-api/)
 - [Cursos de Arduino – Curso gratuito de Arduino](https://jlferrete.com/blog/cursos-de-arduino-curso-gratuito-de-arduino/)
-- [Cursos de Linux – Bash scripting](https://jlferrete.com/blog/cursos-de-linux-bash-scripting/)
