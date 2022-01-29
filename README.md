@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Python Tutorial – How to Create a URL Shortener using Flask](https://jlferrete.com/blog/python-tutorial-how-to-create-a-url-shortener-using-flask/)
 - [How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js](https://jlferrete.com/blog/how-to-build-super-mario-bros-zelda-and-space-invaders-with-kaboom-js/)
 - [How to Automate Work Using Python](https://jlferrete.com/blog/how-to-automate-work-using-python-2/)
 - [Use Dot “.” as the Decimal Separator in Java](https://jlferrete.com/blog/use-dot-as-the-decimal-separator-in-java/)
 - [Alex Cuadra: Trabajar remoto sin morir en el intento: Cuando, como y donde?](https://jlferrete.com/blog/alex-cuadra-trabajar-remoto-sin-morir-en-el-intento-cuando-como-y-donde/)
-- [5 Free Courses to learn Apache Kafka for Beginners in 2022 – Best of Lot](https://jlferrete.com/blog/5-free-courses-to-learn-apache-kafka-for-beginners-in-2022-best-of-lot/)
