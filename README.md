@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Javarevisited: Spring Boot + Angular Example Tutorial for Java Developers](https://jlferrete.com/blog/javarevisited-spring-boot-angular-example-tutorial-for-java-developers/)
 - [Curso de creación de videojuegos](https://jlferrete.com/blog/curso-de-creacion-de-videojuegos/)
 - [Cómo crear un keylogger y registrar las contraseñas en Windows](https://jlferrete.com/blog/como-crear-un-keylogger-y-registrar-las-contrasenas-en-windows/)
 - [How to Code a 2D Game Engine using Java](https://jlferrete.com/blog/how-to-code-a-2d-game-engine-using-java/)
 - [Python Tutorial – How to Create a URL Shortener using Flask](https://jlferrete.com/blog/python-tutorial-how-to-create-a-url-shortener-using-flask/)
-- [How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js](https://jlferrete.com/blog/how-to-build-super-mario-bros-zelda-and-space-invaders-with-kaboom-js/)
