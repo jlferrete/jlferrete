@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Qué es el registro SPF y cómo funciona? Evita la suplantación de identidad](https://jlferrete.com/blog/que-es-el-registro-spf-y-como-funciona-evita-la-suplantacion-de-identidad/)
 - [Esta web tiene tantas herramientas útiles y gratis para convertir archivos que casi parece que debería ser ilegal](https://jlferrete.com/blog/esta-web-tiene-tantas-herramientas-utiles-y-gratis-para-convertir-archivos-que-casi-parece-que-deberia-ser-ilegal/)
 - [Javarevisited: Spring Boot + Angular Example Tutorial for Java Developers](https://jlferrete.com/blog/javarevisited-spring-boot-angular-example-tutorial-for-java-developers/)
 - [Curso de creación de videojuegos](https://jlferrete.com/blog/curso-de-creacion-de-videojuegos/)
 - [Cómo crear un keylogger y registrar las contraseñas en Windows](https://jlferrete.com/blog/como-crear-un-keylogger-y-registrar-las-contrasenas-en-windows/)
-- [How to Code a 2D Game Engine using Java](https://jlferrete.com/blog/how-to-code-a-2d-game-engine-using-java/)
