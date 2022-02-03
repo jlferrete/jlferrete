@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Qué es Amazon Web Services: En qué consiste, servicios y cómo usarlo](https://jlferrete.com/blog/que-es-amazon-web-services-en-que-consiste-servicios-y-como-usarlo/)
 - [Javarevisited: Fullstack Spring Boot + React.js Tutorial Example for Java Developers](https://jlferrete.com/blog/javarevisited-fullstack-spring-boot-react-js-tutorial-example-for-java-developers/)
 - [Crear saltos de enlaces en una misma página en WordPress](https://jlferrete.com/blog/crear-saltos-de-enlaces-en-una-misma-pagina-en-wordpress/)
 - [50 cursos gratuitos de tecnología para empezar en febrero](https://jlferrete.com/blog/50-cursos-gratuitos-de-tecnologia-para-empezar-en-febrero/)
 - [Nilo Velez y Miguel Angel Terron: Nuestra historia de amor con WordPress](https://jlferrete.com/blog/nilo-velez-y-miguel-angel-terron-nuestra-historia-de-amor-con-wordpress/)
-- [¿Qué es el registro SPF y cómo funciona? Evita la suplantación de identidad](https://jlferrete.com/blog/que-es-el-registro-spf-y-como-funciona-evita-la-suplantacion-de-identidad/)
