@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Use PySpark for Data Processing and Machine Learning](https://jlferrete.com/blog/how-to-use-pyspark-for-data-processing-and-machine-learning/)
 - [Don’t Fight the Cascade, Control It! | CSS-Tricks](https://jlferrete.com/blog/dont-fight-the-cascade-control-it-css-tricks/)
 - [Regalos por compra en WooCommerce](https://jlferrete.com/blog/regalos-por-compra-en-woocommerce/)
 - [Cómo actualizar un plugin de WP desde un repositorio privado de GitHub](https://jlferrete.com/blog/como-actualizar-un-plugin-de-wp-desde-un-repositorio-privado-de-github/)
 - [Identificación de 2 factores (2FA) en WordPress – Qué es y cómo configurarla](https://jlferrete.com/blog/identificacion-de-2-factores-2fa-en-wordpress-que-es-y-como-configurarla/)
-- [Avisar al cliente cuando un producto baje de precio](https://jlferrete.com/blog/avisar-al-cliente-cuando-un-producto-baje-de-precio/)
