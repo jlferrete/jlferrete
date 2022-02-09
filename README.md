@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [10 Best Machine Learning Courses to Take in 2022](https://jlferrete.com/blog/10-best-machine-learning-courses-to-take-in-2022/)
 - [«Los piropos y los aplausos no son suficientes»: otro desarrollador Open Source se harta de trabajar por amor al arte y destapa una realidad injusta](https://jlferrete.com/blog/los-piropos-y-los-aplausos-no-son-suficientes-otro-desarrollador-open-source-se-harta-de-trabajar-por-amor-al-arte-y-destapa-una-realidad-injusta/)
 - [Make Your Python CLI Tools Pop With Rich](https://jlferrete.com/blog/make-your-python-cli-tools-pop-with-rich/)
 - [Configure a Systemd Service to Restart Periodically](https://jlferrete.com/blog/configure-a-systemd-service-to-restart-periodically/)
 - [How to Use PySpark for Data Processing and Machine Learning](https://jlferrete.com/blog/how-to-use-pyspark-for-data-processing-and-machine-learning/)
-- [Don’t Fight the Cascade, Control It! | CSS-Tricks](https://jlferrete.com/blog/dont-fight-the-cascade-control-it-css-tricks/)
