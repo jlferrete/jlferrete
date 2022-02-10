@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Deploy your PHP Codebase with Ansible and GitHub Actions](https://jlferrete.com/blog/deploy-your-php-codebase-with-ansible-and-github-actions/)
 - [Cómo hospedar gratis tu página web en Dropbox, OneDrive o Google Drive](https://jlferrete.com/blog/como-hospedar-gratis-tu-pagina-web-en-dropbox-onedrive-o-google-drive/)
 - [10 Best Machine Learning Courses to Take in 2022](https://jlferrete.com/blog/10-best-machine-learning-courses-to-take-in-2022/)
 - [«Los piropos y los aplausos no son suficientes»: otro desarrollador Open Source se harta de trabajar por amor al arte y destapa una realidad injusta](https://jlferrete.com/blog/los-piropos-y-los-aplausos-no-son-suficientes-otro-desarrollador-open-source-se-harta-de-trabajar-por-amor-al-arte-y-destapa-una-realidad-injusta/)
 - [Make Your Python CLI Tools Pop With Rich](https://jlferrete.com/blog/make-your-python-cli-tools-pop-with-rich/)
-- [Configure a Systemd Service to Restart Periodically](https://jlferrete.com/blog/configure-a-systemd-service-to-restart-periodically/)
