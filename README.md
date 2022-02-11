@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cassandra Query Cheat Sheet](https://jlferrete.com/blog/cassandra-query-cheat-sheet/)
 - [La Fundación Linux lanza tres cursos online gratis para los programadores que buscan empezar a desarrollar software libre](https://jlferrete.com/blog/la-fundacion-linux-lanza-tres-cursos-online-gratis-para-los-programadores-que-buscan-empezar-a-desarrollar-software-libre/)
 - [Dockerize your own Game of Thrones’ API](https://jlferrete.com/blog/dockerize-your-own-game-of-thrones-api/)
 - [Deploy your PHP Codebase with Ansible and GitHub Actions](https://jlferrete.com/blog/deploy-your-php-codebase-with-ansible-and-github-actions/)
 - [Cómo hospedar gratis tu página web en Dropbox, OneDrive o Google Drive](https://jlferrete.com/blog/como-hospedar-gratis-tu-pagina-web-en-dropbox-onedrive-o-google-drive/)
-- [10 Best Machine Learning Courses to Take in 2022](https://jlferrete.com/blog/10-best-machine-learning-courses-to-take-in-2022/)
