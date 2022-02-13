@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Laravel eloquent relationships explained](https://jlferrete.com/blog/laravel-eloquent-relationships-explained/)
 - [Build, Ship, & Maintain Design Systems with Backlight](https://jlferrete.com/blog/build-ship-maintain-design-systems-with-backlight/)
 - [Switching Unstaged Changes to a New Branch](https://jlferrete.com/blog/switching-unstaged-changes-to-a-new-branch/)
 - [How to Make a Scroll-Triggered Animation With Basic JavaScript](https://jlferrete.com/blog/how-to-make-a-scroll-triggered-animation-with-basic-javascript/)
 - [Cassandra Query Cheat Sheet](https://jlferrete.com/blog/cassandra-query-cheat-sheet/)
-- [La Fundación Linux lanza tres cursos online gratis para los programadores que buscan empezar a desarrollar software libre](https://jlferrete.com/blog/la-fundacion-linux-lanza-tres-cursos-online-gratis-para-los-programadores-que-buscan-empezar-a-desarrollar-software-libre/)
