@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Ejecutar aplicación de Python al iniciar Windows](https://jlferrete.com/blog/ejecutar-aplicacion-de-python-al-iniciar-windows/)
 - [Laravel eloquent relationships explained](https://jlferrete.com/blog/laravel-eloquent-relationships-explained/)
 - [Build, Ship, & Maintain Design Systems with Backlight](https://jlferrete.com/blog/build-ship-maintain-design-systems-with-backlight/)
 - [Switching Unstaged Changes to a New Branch](https://jlferrete.com/blog/switching-unstaged-changes-to-a-new-branch/)
 - [How to Make a Scroll-Triggered Animation With Basic JavaScript](https://jlferrete.com/blog/how-to-make-a-scroll-triggered-animation-with-basic-javascript/)
-- [Cassandra Query Cheat Sheet](https://jlferrete.com/blog/cassandra-query-cheat-sheet/)
