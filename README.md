@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso avanzado de CRM](https://jlferrete.com/blog/curso-avanzado-de-crm/)
 - [Easily Log HTTP Requests in Laravel](https://jlferrete.com/blog/easily-log-http-requests-in-laravel/)
 - [Ejecutar aplicación de Python al iniciar Windows](https://jlferrete.com/blog/ejecutar-aplicacion-de-python-al-iniciar-windows/)
 - [Laravel eloquent relationships explained](https://jlferrete.com/blog/laravel-eloquent-relationships-explained/)
 - [Build, Ship, & Maintain Design Systems with Backlight](https://jlferrete.com/blog/build-ship-maintain-design-systems-with-backlight/)
-- [Switching Unstaged Changes to a New Branch](https://jlferrete.com/blog/switching-unstaged-changes-to-a-new-branch/)
