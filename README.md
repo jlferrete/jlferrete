@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo extraer datos de cualquier sitio web con la Inteligencia Artificial](https://jlferrete.com/blog/como-extraer-datos-de-cualquier-sitio-web-con-la-inteligencia-artificial/)
 - [Cambiar a un monitor ultrawide curvo: un camino solo de ida (para jugar y trabajar)](https://jlferrete.com/blog/cambiar-a-un-monitor-ultrawide-curvo-un-camino-solo-de-ida-para-jugar-y-trabajar/)
 - [Cómo calibrar tu pantalla o monitor: guía a fondo](https://jlferrete.com/blog/como-calibrar-tu-pantalla-o-monitor-guia-a-fondo/)
 - [Curso avanzado de CRM](https://jlferrete.com/blog/curso-avanzado-de-crm/)
 - [Easily Log HTTP Requests in Laravel](https://jlferrete.com/blog/easily-log-http-requests-in-laravel/)
-- [Ejecutar aplicación de Python al iniciar Windows](https://jlferrete.com/blog/ejecutar-aplicacion-de-python-al-iniciar-windows/)
