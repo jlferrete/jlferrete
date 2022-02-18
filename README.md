@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Actualizar WordPress con WordPress tool Kit de luxe|](https://jlferrete.com/blog/actualizar-wordpress-con-wordpress-tool-kit-de-luxe/)
 - [KLYGO, una app para adoptar gatos y perros](https://jlferrete.com/blog/klygo-una-app-para-adoptar-gatos-y-perros/)
 - [Cuando los discos duros no son suficientes: si necesitas teras y teras de datos, atento a las cintas LTO](https://jlferrete.com/blog/cuando-los-discos-duros-no-son-suficientes-si-necesitas-teras-y-teras-de-datos-atento-a-las-cintas-lto/)
 - [Cómo extraer datos de cualquier sitio web con la Inteligencia Artificial](https://jlferrete.com/blog/como-extraer-datos-de-cualquier-sitio-web-con-la-inteligencia-artificial/)
 - [Cambiar a un monitor ultrawide curvo: un camino solo de ida (para jugar y trabajar)](https://jlferrete.com/blog/cambiar-a-un-monitor-ultrawide-curvo-un-camino-solo-de-ida-para-jugar-y-trabajar/)
-- [Cómo calibrar tu pantalla o monitor: guía a fondo](https://jlferrete.com/blog/como-calibrar-tu-pantalla-o-monitor-guia-a-fondo/)
