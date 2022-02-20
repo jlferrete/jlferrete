@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Is it possible to send an email where the view blade is in the database?](https://jlferrete.com/blog/is-it-possible-to-send-an-email-where-the-view-blade-is-in-the-database/)
 - [COOLMOD o PcComponentes ¿cuál es mejor para comprar hardware?](https://jlferrete.com/blog/coolmod-o-pccomponentes-cual-es-mejor-para-comprar-hardware/)
 - [Escalar WordPress, distribuidos en varios hostings](https://jlferrete.com/blog/escalar-wordpress-distribuidos-en-varios-hostings/)
 - [¿Qué es un Widget y para qué sirve?](https://jlferrete.com/blog/que-es-un-widget-y-para-que-sirve/)
 - [Actualizar WordPress con WordPress tool Kit de luxe|](https://jlferrete.com/blog/actualizar-wordpress-con-wordpress-tool-kit-de-luxe/)
-- [KLYGO, una app para adoptar gatos y perros](https://jlferrete.com/blog/klygo-una-app-para-adoptar-gatos-y-perros/)
