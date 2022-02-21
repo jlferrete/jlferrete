@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Nombre de la categoría como título de las entradas relacionadas de Astra](https://jlferrete.com/blog/nombre-de-la-categoria-como-titulo-de-las-entradas-relacionadas-de-astra/)
 - [Cómo aplicar diferentes precios según el país del comprador en WooCommerce](https://jlferrete.com/blog/como-aplicar-diferentes-precios-segun-el-pais-del-comprador-en-woocommerce/)
 - [Is it possible to send an email where the view blade is in the database?](https://jlferrete.com/blog/is-it-possible-to-send-an-email-where-the-view-blade-is-in-the-database/)
 - [COOLMOD o PcComponentes ¿cuál es mejor para comprar hardware?](https://jlferrete.com/blog/coolmod-o-pccomponentes-cual-es-mejor-para-comprar-hardware/)
 - [Escalar WordPress, distribuidos en varios hostings](https://jlferrete.com/blog/escalar-wordpress-distribuidos-en-varios-hostings/)
-- [¿Qué es un Widget y para qué sirve?](https://jlferrete.com/blog/que-es-un-widget-y-para-que-sirve/)
