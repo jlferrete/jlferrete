@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Gmail tendrá un nuevo diseño que facilitará tu trabajo](https://jlferrete.com/blog/gmail-tendra-un-nuevo-diseno-que-facilitara-tu-trabajo/)
 - [Trabajando con fechas en PHP y WordPress](https://jlferrete.com/blog/trabajando-con-fechas-en-php-y-wordpress/)
 - [Descargar e instalar WhatsApp Web 2021 gratis en un PC con Windows](https://jlferrete.com/blog/descargar-e-instalar-whatsapp-web-2021-gratis-en-un-pc-con-windows/)
 - [Nombre de la categoría como título de las entradas relacionadas de Astra](https://jlferrete.com/blog/nombre-de-la-categoria-como-titulo-de-las-entradas-relacionadas-de-astra/)
 - [Cómo aplicar diferentes precios según el país del comprador en WooCommerce](https://jlferrete.com/blog/como-aplicar-diferentes-precios-segun-el-pais-del-comprador-en-woocommerce/)
-- [Is it possible to send an email where the view blade is in the database?](https://jlferrete.com/blog/is-it-possible-to-send-an-email-where-the-view-blade-is-in-the-database/)
