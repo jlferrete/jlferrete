@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [What is the best place to put custom SQL queries?](https://jlferrete.com/blog/what-is-the-best-place-to-put-custom-sql-queries/)
 - [Laravel Paypal integration tutorial](https://jlferrete.com/blog/laravel-paypal-integration-tutorial/)
 - [WebP images in Drupal 9 for website speed optimization | ImageX](https://jlferrete.com/blog/webp-images-in-drupal-9-for-website-speed-optimization-imagex/)
 - [Cómo probar Chrome OS Flex en un PC o Mac: descargar e instalar el nuevo sistema operativo de Google](https://jlferrete.com/blog/como-probar-chrome-os-flex-en-un-pc-o-mac-descargar-e-instalar-el-nuevo-sistema-operativo-de-google/)
 - [Como conectar Django a una base de datos en PostgreSQL](https://jlferrete.com/blog/como-conectar-django-a-una-base-de-datos-en-postgresql/)
-- [Gmail tendrá un nuevo diseño que facilitará tu trabajo](https://jlferrete.com/blog/gmail-tendra-un-nuevo-diseno-que-facilitara-tu-trabajo/)
