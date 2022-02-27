@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Agregar el slug blog en las urls de las entradas de WordPress](https://jlferrete.com/blog/agregar-el-slug-blog-en-las-urls-de-las-entradas-de-wordpress/)
 - [Así puedes crear música única de forma gratuita](https://jlferrete.com/blog/asi-puedes-crear-musica-unica-de-forma-gratuita/)
 - [Javarevisited: Top 5 Courses to learn Apache Cassandra in 2022 – Best of Lot](https://jlferrete.com/blog/javarevisited-top-5-courses-to-learn-apache-cassandra-in-2022-best-of-lot/)
 - [Selecciona correctamente tu segmentación para Facebook Ads + Plantilla para atraer tráfico](https://jlferrete.com/blog/selecciona-correctamente-tu-segmentacion-para-facebook-ads-plantilla-para-atraer-trafico/)
 - [What is the best place to put custom SQL queries?](https://jlferrete.com/blog/what-is-the-best-place-to-put-custom-sql-queries/)
-- [Laravel Paypal integration tutorial](https://jlferrete.com/blog/laravel-paypal-integration-tutorial/)
