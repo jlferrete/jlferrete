@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [¿Puedo usar Photoshop en Ubuntu y otros Linux?](https://jlferrete.com/blog/puedo-usar-photoshop-en-ubuntu-y-otros-linux/)
 - [El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza… 6 años después | Tecnología](https://jlferrete.com/blog/el-sistema-operativo-gratuito-que-llevan-todos-los-ordenadores-gamer-se-actualiza-6-anos-despues-tecnologia/)
 - [Estos son 10 cursos en línea que incluyen certificaciones GRATIS](https://jlferrete.com/blog/estos-son-10-cursos-en-linea-que-incluyen-certificaciones-gratis/)
 - [Tipos de temas de WordPress y cómo añadir funciones de la edición completa del sitio a los temas clásicos](https://jlferrete.com/blog/tipos-de-temas-de-wordpress-y-como-anadir-funciones-de-la-edicion-completa-del-sitio-a-los-temas-clasicos/)
 - [Agregar el slug blog en las urls de las entradas de WordPress](https://jlferrete.com/blog/agregar-el-slug-blog-en-las-urls-de-las-entradas-de-wordpress/)
-- [Así puedes crear música única de forma gratuita](https://jlferrete.com/blog/asi-puedes-crear-musica-unica-de-forma-gratuita/)
