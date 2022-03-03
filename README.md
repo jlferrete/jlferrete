@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Drupal 7 «End of life» delayed to November 2023](https://jlferrete.com/blog/drupal-7-end-of-life-delayed-to-november-2023/)
 - [How to Setup a CI/CD Pipeline with GitHub Actions and AWS](https://jlferrete.com/blog/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/)
 - [¿Puedo usar Photoshop en Ubuntu y otros Linux?](https://jlferrete.com/blog/puedo-usar-photoshop-en-ubuntu-y-otros-linux/)
 - [El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza… 6 años después | Tecnología](https://jlferrete.com/blog/el-sistema-operativo-gratuito-que-llevan-todos-los-ordenadores-gamer-se-actualiza-6-anos-despues-tecnologia/)
 - [Estos son 10 cursos en línea que incluyen certificaciones GRATIS](https://jlferrete.com/blog/estos-son-10-cursos-en-linea-que-incluyen-certificaciones-gratis/)
-- [Tipos de temas de WordPress y cómo añadir funciones de la edición completa del sitio a los temas clásicos](https://jlferrete.com/blog/tipos-de-temas-de-wordpress-y-como-anadir-funciones-de-la-edicion-completa-del-sitio-a-los-temas-clasicos/)
