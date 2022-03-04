@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Que todas las ofertas de trabajo muestren el salario: así es la nueva normativa que desarrolla Europa](https://jlferrete.com/blog/que-todas-las-ofertas-de-trabajo-muestren-el-salario-asi-es-la-nueva-normativa-que-desarrolla-europa/)
 - [Cómo firmar un documento PDF desde el teléfono móvil](https://jlferrete.com/blog/como-firmar-un-documento-pdf-desde-el-telefono-movil/)
 - [Drupal 7 «End of life» delayed to November 2023](https://jlferrete.com/blog/drupal-7-end-of-life-delayed-to-november-2023/)
 - [How to Setup a CI/CD Pipeline with GitHub Actions and AWS](https://jlferrete.com/blog/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/)
 - [¿Puedo usar Photoshop en Ubuntu y otros Linux?](https://jlferrete.com/blog/puedo-usar-photoshop-en-ubuntu-y-otros-linux/)
-- [El sistema operativo gratuito que llevan todos los ordenadores gamer se actualiza… 6 años después | Tecnología](https://jlferrete.com/blog/el-sistema-operativo-gratuito-que-llevan-todos-los-ordenadores-gamer-se-actualiza-6-anos-despues-tecnologia/)
