@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo hago los cursos de https://t.co/IJCyaDoPc2](https://jlferrete.com/blog/como-hago-los-cursos-de-https-t-co-ijcyadopc2/)
 - [Curso de Distribución digital musical](https://jlferrete.com/blog/curso-de-distribucion-digital-musical/)
 - [Comandos de Vim para movimientos entre líneas del fichero](https://jlferrete.com/blog/comandos-de-vim-para-movimientos-entre-lineas-del-fichero/)
 - [Los 4 precios](https://jlferrete.com/blog/los-4-precios/)
 - [Cómo hacer un Bizum desde WhatsApp](https://jlferrete.com/blog/como-hacer-un-bizum-desde-whatsapp/)
-- [Disponible Ubuntu 20.04.4 LTS con Linux 5.13 y más novedades](https://jlferrete.com/blog/disponible-ubuntu-20-04-4-lts-con-linux-5-13-y-mas-novedades/)
