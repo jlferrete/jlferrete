@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Comandos de Vim para movimientos entre líneas del fichero](https://jlferrete.com/blog/comandos-de-vim-para-movimientos-entre-lineas-del-fichero/)
 - [Los 4 precios](https://jlferrete.com/blog/los-4-precios/)
 - [Cómo hacer un Bizum desde WhatsApp](https://jlferrete.com/blog/como-hacer-un-bizum-desde-whatsapp/)
 - [Disponible Ubuntu 20.04.4 LTS con Linux 5.13 y más novedades](https://jlferrete.com/blog/disponible-ubuntu-20-04-4-lts-con-linux-5-13-y-mas-novedades/)
 - [Android | Qué es, para qué sirve “Nearby” y cuál es la utilidad de la función de tu celular Android](https://jlferrete.com/blog/android-que-es-para-que-sirve-nearby-y-cual-es-la-utilidad-de-la-funcion-de-tu-celular-android/)
-- [Cloud Application Hosting for Developers](https://jlferrete.com/blog/cloud-application-hosting-for-developers/)
