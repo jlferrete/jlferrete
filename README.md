@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Make a “Raise the Curtains” Effect in CSS](https://jlferrete.com/blog/how-to-make-a-raise-the-curtains-effect-in-css/)
 - [Cómo llevar una ventana de Windows al monitor principal sin tener que encender la segunda pantalla](https://jlferrete.com/blog/como-llevar-una-ventana-de-windows-al-monitor-principal-sin-tener-que-encender-la-segunda-pantalla/)
 - [Cómo hago los cursos de https://t.co/IJCyaDoPc2](https://jlferrete.com/blog/como-hago-los-cursos-de-https-t-co-ijcyadopc2/)
 - [Curso de Distribución digital musical](https://jlferrete.com/blog/curso-de-distribucion-digital-musical/)
 - [Comandos de Vim para movimientos entre líneas del fichero](https://jlferrete.com/blog/comandos-de-vim-para-movimientos-entre-lineas-del-fichero/)
-- [Los 4 precios](https://jlferrete.com/blog/los-4-precios/)
