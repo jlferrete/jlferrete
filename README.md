@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo utilizar goto – Recursos Python](https://jlferrete.com/blog/como-utilizar-goto-recursos-python/)
 - [La web de referencia de Mozilla para desarrolladores web se rediseña y anuncia un ‘MDN Plus’ de suscripción con servicios extra](https://jlferrete.com/blog/la-web-de-referencia-de-mozilla-para-desarrolladores-web-se-redisena-y-anuncia-un-mdn-plus-de-suscripcion-con-servicios-extra/)
 - [Starting With Linear Regression in Python](https://jlferrete.com/blog/starting-with-linear-regression-in-python/)
 - [CSS Custom Highlight API: A First Look](https://jlferrete.com/blog/css-custom-highlight-api-a-first-look/)
 - [How to Make a “Raise the Curtains” Effect in CSS](https://jlferrete.com/blog/how-to-make-a-raise-the-curtains-effect-in-css/)
-- [Cómo llevar una ventana de Windows al monitor principal sin tener que encender la segunda pantalla](https://jlferrete.com/blog/como-llevar-una-ventana-de-windows-al-monitor-principal-sin-tener-que-encender-la-segunda-pantalla/)
