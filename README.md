@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Astra Theme](https://jlferrete.com/blog/astra-theme/)
 - [Grave vulnerabilidad en todos los plugins y temas que usan Freemius Framework](https://jlferrete.com/blog/grave-vulnerabilidad-en-todos-los-plugins-y-temas-que-usan-freemius-framework/)
 - [Javarevisited: What is Phaser in Java? When and How to use Phaser](https://jlferrete.com/blog/javarevisited-what-is-phaser-in-java-when-and-how-to-use-phaser/)
 - [Cómo utilizar goto – Recursos Python](https://jlferrete.com/blog/como-utilizar-goto-recursos-python/)
 - [La web de referencia de Mozilla para desarrolladores web se rediseña y anuncia un ‘MDN Plus’ de suscripción con servicios extra](https://jlferrete.com/blog/la-web-de-referencia-de-mozilla-para-desarrolladores-web-se-redisena-y-anuncia-un-mdn-plus-de-suscripcion-con-servicios-extra/)
-- [Starting With Linear Regression in Python](https://jlferrete.com/blog/starting-with-linear-regression-in-python/)
