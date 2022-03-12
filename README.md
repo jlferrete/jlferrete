@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Create a Simple “Rock-Paper-Scissors” Game in Java](https://jlferrete.com/blog/create-a-simple-rock-paper-scissors-game-in-java/)
 - [Listado de plugins interesantes para Vim y Neovim](https://jlferrete.com/blog/listado-de-plugins-interesantes-para-vim-y-neovim/)
 - [Astra Theme](https://jlferrete.com/blog/astra-theme/)
 - [Grave vulnerabilidad en todos los plugins y temas que usan Freemius Framework](https://jlferrete.com/blog/grave-vulnerabilidad-en-todos-los-plugins-y-temas-que-usan-freemius-framework/)
 - [Javarevisited: What is Phaser in Java? When and How to use Phaser](https://jlferrete.com/blog/javarevisited-what-is-phaser-in-java-when-and-how-to-use-phaser/)
-- [Cómo utilizar goto – Recursos Python](https://jlferrete.com/blog/como-utilizar-goto-recursos-python/)
