@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Python’s urllib.request for HTTP Requests](https://jlferrete.com/blog/pythons-urllib-request-for-http-requests/)
 - [Exploring the Fibonacci Sequence With Python](https://jlferrete.com/blog/exploring-the-fibonacci-sequence-with-python/)
 - [Manage Your To-Do Lists Using Python and Django](https://jlferrete.com/blog/manage-your-to-do-lists-using-python-and-django/)
 - [How do I go live on Flywheel with a Multisite?](https://jlferrete.com/blog/how-do-i-go-live-on-flywheel-with-a-multisite/)
 - [Creating easy-to-deploy environments for each developer with a simple Slack command](https://jlferrete.com/blog/creating-easy-to-deploy-environments-for-each-developer-with-a-simple-slack-command/)
-- [Desarrollo en WordPress teniendo en cuenta diferentes entornos](https://jlferrete.com/blog/desarrollo-en-wordpress-teniendo-en-cuenta-diferentes-entornos/)
