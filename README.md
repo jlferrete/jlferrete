@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Providing Multiple Constructors in Your Python Classes](https://jlferrete.com/blog/providing-multiple-constructors-in-your-python-classes/)
 - [Socket Programming in Python (Guide)](https://jlferrete.com/blog/socket-programming-in-python-guide/)
 - [Python’s assert: Debug and Test Your Code Like a Pro](https://jlferrete.com/blog/pythons-assert-debug-and-test-your-code-like-a-pro/)
 - [Python’s urllib.request for HTTP Requests](https://jlferrete.com/blog/pythons-urllib-request-for-http-requests/)
 - [Exploring the Fibonacci Sequence With Python](https://jlferrete.com/blog/exploring-the-fibonacci-sequence-with-python/)
-- [Manage Your To-Do Lists Using Python and Django](https://jlferrete.com/blog/manage-your-to-do-lists-using-python-and-django/)
