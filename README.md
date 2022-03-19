@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [El código de Linux necesita modernizarse y Linus Torvalds está listo](https://jlferrete.com/blog/el-codigo-de-linux-necesita-modernizarse-y-linus-torvalds-esta-listo/)
 - [[🐍PyTricks]: Different ways to test multiple flags at once in Python](https://jlferrete.com/blog/%f0%9f%90%8dpytricks-different-ways-to-test-multiple-flags-at-once-in-python/)
 - [Python’s zipfile: Manipulate Your ZIP Files Efficiently](https://jlferrete.com/blog/pythons-zipfile-manipulate-your-zip-files-efficiently/)
 - [Python any(): Powered Up Boolean Function](https://jlferrete.com/blog/python-any-powered-up-boolean-function/)
 - [Providing Multiple Constructors in Your Python Classes](https://jlferrete.com/blog/providing-multiple-constructors-in-your-python-classes/)
-- [Socket Programming in Python (Guide)](https://jlferrete.com/blog/socket-programming-in-python-guide/)
