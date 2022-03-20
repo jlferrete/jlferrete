@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [DahliaOS: qué es este sistema operativo y en qué destaca](https://jlferrete.com/blog/dahliaos-que-es-este-sistema-operativo-y-en-que-destaca/)
 - [Alpine Linux, una distribución Linux que no es ‘GNU’… y tan minimalista que puede llegar a ocupar sólo 8 MB](https://jlferrete.com/blog/alpine-linux-una-distribucion-linux-que-no-es-gnu-y-tan-minimalista-que-puede-llegar-a-ocupar-solo-8-mb/)
 - [El código de Linux necesita modernizarse y Linus Torvalds está listo](https://jlferrete.com/blog/el-codigo-de-linux-necesita-modernizarse-y-linus-torvalds-esta-listo/)
 - [[🐍PyTricks]: Different ways to test multiple flags at once in Python](https://jlferrete.com/blog/%f0%9f%90%8dpytricks-different-ways-to-test-multiple-flags-at-once-in-python/)
 - [Python’s zipfile: Manipulate Your ZIP Files Efficiently](https://jlferrete.com/blog/pythons-zipfile-manipulate-your-zip-files-efficiently/)
-- [Python any(): Powered Up Boolean Function](https://jlferrete.com/blog/python-any-powered-up-boolean-function/)
