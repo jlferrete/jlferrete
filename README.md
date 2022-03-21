@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How to Build a Traffic Counter with Python and OpenCV | Computer Vision Project](https://jlferrete.com/blog/how-to-build-a-traffic-counter-with-python-and-opencv-computer-vision-project/)
 - [Use Docker with Django and React simplest explanation](https://jlferrete.com/blog/use-docker-with-django-and-react-simplest-explanation/)
 - [FastAPI Scalable Project Structure with Docker compose](https://jlferrete.com/blog/fastapi-scalable-project-structure-with-docker-compose/)
 - [DahliaOS: qué es este sistema operativo y en qué destaca](https://jlferrete.com/blog/dahliaos-que-es-este-sistema-operativo-y-en-que-destaca/)
 - [Alpine Linux, una distribución Linux que no es ‘GNU’… y tan minimalista que puede llegar a ocupar sólo 8 MB](https://jlferrete.com/blog/alpine-linux-una-distribucion-linux-que-no-es-gnu-y-tan-minimalista-que-puede-llegar-a-ocupar-solo-8-mb/)
-- [El código de Linux necesita modernizarse y Linus Torvalds está listo](https://jlferrete.com/blog/el-codigo-de-linux-necesita-modernizarse-y-linus-torvalds-esta-listo/)
