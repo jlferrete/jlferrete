@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Guía completa para crear una comunidad en Telegram + Plantilla](https://jlferrete.com/blog/guia-completa-para-crear-una-comunidad-en-telegram-plantilla/)
 - [Optimizing SVG Patterns to Their Smallest Size](https://jlferrete.com/blog/optimizing-svg-patterns-to-their-smallest-size/)
 - [How to Remove All Docker Images – A Docker Cleanup Guide](https://jlferrete.com/blog/how-to-remove-all-docker-images-a-docker-cleanup-guide/)
 - [How to Create Your Own Google Chrome Extension](https://jlferrete.com/blog/how-to-create-your-own-google-chrome-extension/)
 - [How to Build a Traffic Counter with Python and OpenCV | Computer Vision Project](https://jlferrete.com/blog/how-to-build-a-traffic-counter-with-python-and-opencv-computer-vision-project/)
-- [Use Docker with Django and React simplest explanation](https://jlferrete.com/blog/use-docker-with-django-and-react-simplest-explanation/)
