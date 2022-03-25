@@ -43,4 +43,3 @@ Please do not hesitate to contact me if you require any futher information at th
 - [Guía completa para crear una comunidad en Telegram + Plantilla](https://jlferrete.com/blog/guia-completa-para-crear-una-comunidad-en-telegram-plantilla/)
 - [Optimizing SVG Patterns to Their Smallest Size](https://jlferrete.com/blog/optimizing-svg-patterns-to-their-smallest-size/)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@jlferrete" frameborder="0"></iframe>
