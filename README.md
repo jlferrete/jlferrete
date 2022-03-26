@@ -42,5 +42,3 @@ Please do not hesitate to contact me if you require any futher information at th
 - [Javarevisited: How to Prepare for System Design Interviews? Concepts, Practice, and Resources](https://jlferrete.com/blog/javarevisited-how-to-prepare-for-system-design-interviews-concepts-practice-and-resources/)
 - [Guía completa para crear una comunidad en Telegram + Plantilla](https://jlferrete.com/blog/guia-completa-para-crear-una-comunidad-en-telegram-plantilla/)
 - [Optimizing SVG Patterns to Their Smallest Size](https://jlferrete.com/blog/optimizing-svg-patterns-to-their-smallest-size/)
-
-
