@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Así puedes ahorrar combustible mediante las rutas que te muestre esta función de Google Maps](https://jlferrete.com/blog/asi-puedes-ahorrar-combustible-mediante-las-rutas-que-te-muestre-esta-funcion-de-google-maps/)
 - [Cómo hacemos Microsiervos, el blog, explicado en una entrevista en Faq-Mac](https://jlferrete.com/blog/como-hacemos-microsiervos-el-blog-explicado-en-una-entrevista-en-faq-mac/)
 - [Cómo borrar aplicaciones de tu ordenador con Windows 11](https://jlferrete.com/blog/como-borrar-aplicaciones-de-tu-ordenador-con-windows-11/)
 - [Javarevisited: How to Prepare for System Design Interviews? Concepts, Practice, and Resources](https://jlferrete.com/blog/javarevisited-how-to-prepare-for-system-design-interviews-concepts-practice-and-resources/)
 - [Guía completa para crear una comunidad en Telegram + Plantilla](https://jlferrete.com/blog/guia-completa-para-crear-una-comunidad-en-telegram-plantilla/)
-- [Optimizing SVG Patterns to Their Smallest Size](https://jlferrete.com/blog/optimizing-svg-patterns-to-their-smallest-size/)
