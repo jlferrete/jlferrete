@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Temas de PHP – Ejemplo de cómo agregar reCAPTCHA v3 de Google a un formulario PHP](https://jlferrete.com/blog/temas-de-php-ejemplo-de-como-agregar-recaptcha-v3-de-google-a-un-formulario-php/)
 - [Temas de Excel – Macro con varios cronometro en una hoja](https://jlferrete.com/blog/temas-de-excel-macro-con-varios-cronometro-en-una-hoja/)
 - [Barra de menú en Tcl/Tk (tkinter) – Recursos Python](https://jlferrete.com/blog/barra-de-menu-en-tcl-tk-tkinter-recursos-python/)
 - [Así puedes ahorrar combustible mediante las rutas que te muestre esta función de Google Maps](https://jlferrete.com/blog/asi-puedes-ahorrar-combustible-mediante-las-rutas-que-te-muestre-esta-funcion-de-google-maps/)
 - [Cómo hacemos Microsiervos, el blog, explicado en una entrevista en Faq-Mac](https://jlferrete.com/blog/como-hacemos-microsiervos-el-blog-explicado-en-una-entrevista-en-faq-mac/)
-- [Cómo borrar aplicaciones de tu ordenador con Windows 11](https://jlferrete.com/blog/como-borrar-aplicaciones-de-tu-ordenador-con-windows-11/)
