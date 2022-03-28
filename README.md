@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [WordPress multisitio con dominios diferentes en solo 3 pasos](https://jlferrete.com/blog/wordpress-multisitio-con-dominios-diferentes-en-solo-3-pasos/)
 - [¿El contenido ya no es lo más importante en la educación online?](https://jlferrete.com/blog/el-contenido-ya-no-es-lo-mas-importante-en-la-educacion-online/)
 - [Ni Linkedin ni EuroPass: hacía falta ya un formato universal y libre para nuestros CVs y esta startup española tiene una propuesta](https://jlferrete.com/blog/ni-linkedin-ni-europass-hacia-falta-ya-un-formato-universal-y-libre-para-nuestros-cvs-y-esta-startup-espanola-tiene-una-propuesta/)
 - [Temas de PHP – Ejemplo de cómo agregar reCAPTCHA v3 de Google a un formulario PHP](https://jlferrete.com/blog/temas-de-php-ejemplo-de-como-agregar-recaptcha-v3-de-google-a-un-formulario-php/)
 - [Temas de Excel – Macro con varios cronometro en una hoja](https://jlferrete.com/blog/temas-de-excel-macro-con-varios-cronometro-en-una-hoja/)
-- [Barra de menú en Tcl/Tk (tkinter) – Recursos Python](https://jlferrete.com/blog/barra-de-menu-en-tcl-tk-tkinter-recursos-python/)
