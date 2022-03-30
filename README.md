@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Toggle Boolean Vim Settings with Inv or an Exclamation Point](https://jlferrete.com/blog/toggle-boolean-vim-settings-with-inv-or-an-exclamation-point/)
 - [Speed boost achievement unlocked on Docker Desktop 4.6 for Mac – Docker](https://jlferrete.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac-docker/)
 - [Cómo crear fácilmente formularios de contacto en WordPress](https://jlferrete.com/blog/como-crear-facilmente-formularios-de-contacto-en-wordpress/)
 - [WordPress multisitio con dominios diferentes en solo 3 pasos](https://jlferrete.com/blog/wordpress-multisitio-con-dominios-diferentes-en-solo-3-pasos/)
 - [¿El contenido ya no es lo más importante en la educación online?](https://jlferrete.com/blog/el-contenido-ya-no-es-lo-mas-importante-en-la-educacion-online/)
-- [Ni Linkedin ni EuroPass: hacía falta ya un formato universal y libre para nuestros CVs y esta startup española tiene una propuesta](https://jlferrete.com/blog/ni-linkedin-ni-europass-hacia-falta-ya-un-formato-universal-y-libre-para-nuestros-cvs-y-esta-startup-espanola-tiene-una-propuesta/)
