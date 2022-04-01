@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [PDF Progress Report – Building SaaS with Python and Django](https://jlferrete.com/blog/pdf-progress-report-building-saas-with-python-and-django/)
 - [Docker Tip](https://jlferrete.com/blog/docker-tip/)
 - [How Kubernetes works under the hood with Docker Desktop](https://jlferrete.com/blog/how-kubernetes-works-under-the-hood-with-docker-desktop/)
 - [Docker: Nine Years YOUNG](https://jlferrete.com/blog/docker-nine-years-young/)
 - [Toggle Boolean Vim Settings with Inv or an Exclamation Point](https://jlferrete.com/blog/toggle-boolean-vim-settings-with-inv-or-an-exclamation-point/)
-- [Speed boost achievement unlocked on Docker Desktop 4.6 for Mac – Docker](https://jlferrete.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac-docker/)
