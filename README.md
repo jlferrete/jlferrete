@@ -37,8 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Sorting Data in Python With Pandas](https://jlferrete.com/blog/sorting-data-in-python-with-pandas/)
 - [Image Processing With the Python Pillow Library](https://jlferrete.com/blog/image-processing-with-the-python-pillow-library/)
 - [Build a Hash Table in Python With TDD](https://jlferrete.com/blog/build-a-hash-table-in-python-with-tdd/)
 - [How to run uWSGI](https://jlferrete.com/blog/how-to-run-uwsgi/)
 - [PDF Progress Report – Building SaaS with Python and Django](https://jlferrete.com/blog/pdf-progress-report-building-saas-with-python-and-django/)
-- [Docker Tip](https://jlferrete.com/blog/docker-tip/)
