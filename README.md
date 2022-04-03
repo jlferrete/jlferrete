@@ -20,6 +20,9 @@ Please do not hesitate to contact me if you require any futher information at th
   <a href="https://twitter.com/jlferrete" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
   </a>
+  <a href="https://jlferrete.github.io/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="24px" width="24px" />
+  </a>
 </p>
 
 ![Jlferrete's github stats](https://github-readme-stats.vercel.app/api?username=jlferrete&show_icons=true&theme=dark)
@@ -29,16 +32,19 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24px" height="24px"/>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
+  <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="24px" height="24px"/>
 </p>
 
 -Latest articles: 
+- [Curso de edición con DaVinci Resolve](https://jlferrete.com/blog/curso-de-edicion-con-davinci-resolve/)
 - [Python Class Constructors: Control Your Object Instantiation](https://jlferrete.com/blog/python-class-constructors-control-your-object-instantiation/)
 - [Sorting Data in Python With Pandas](https://jlferrete.com/blog/sorting-data-in-python-with-pandas/)
 - [Image Processing With the Python Pillow Library](https://jlferrete.com/blog/image-processing-with-the-python-pillow-library/)
 - [Build a Hash Table in Python With TDD](https://jlferrete.com/blog/build-a-hash-table-in-python-with-tdd/)
-- [How to run uWSGI](https://jlferrete.com/blog/how-to-run-uwsgi/)
