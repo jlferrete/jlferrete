@@ -20,6 +20,9 @@ Please do not hesitate to contact me if you require any futher information at th
   <a href="https://twitter.com/jlferrete" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
+  <a href="https://jlferrete.github.io/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+  </a>
 </p>
 
 ![Jlferrete's github stats](https://github-readme-stats.vercel.app/api?username=jlferrete&show_icons=true&theme=dark)
@@ -34,6 +37,8 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
 </p>
 
 -Latest articles: 
