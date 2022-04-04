@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Python’s assert: Debug and Test Your Code Like a Pro](https://jlferrete.com/blog/pythons-assert-debug-and-test-your-code-like-a-pro-2/)
 - [Counting With Python’s Counter](https://jlferrete.com/blog/counting-with-pythons-counter/)
 - [Curso de edición con DaVinci Resolve](https://jlferrete.com/blog/curso-de-edicion-con-davinci-resolve/)
 - [Python Class Constructors: Control Your Object Instantiation](https://jlferrete.com/blog/python-class-constructors-control-your-object-instantiation/)
 - [Sorting Data in Python With Pandas](https://jlferrete.com/blog/sorting-data-in-python-with-pandas/)
-- [Image Processing With the Python Pillow Library](https://jlferrete.com/blog/image-processing-with-the-python-pillow-library/)
