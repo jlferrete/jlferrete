@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Counting With Python’s Counter](https://jlferrete.com/blog/counting-with-pythons-counter/)
 - [Curso de edición con DaVinci Resolve](https://jlferrete.com/blog/curso-de-edicion-con-davinci-resolve/)
 - [Python Class Constructors: Control Your Object Instantiation](https://jlferrete.com/blog/python-class-constructors-control-your-object-instantiation/)
 - [Sorting Data in Python With Pandas](https://jlferrete.com/blog/sorting-data-in-python-with-pandas/)
 - [Image Processing With the Python Pillow Library](https://jlferrete.com/blog/image-processing-with-the-python-pillow-library/)
-- [Build a Hash Table in Python With TDD](https://jlferrete.com/blog/build-a-hash-table-in-python-with-tdd/)
