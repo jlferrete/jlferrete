@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Looping With Python enumerate()](https://jlferrete.com/blog/looping-with-python-enumerate/)
 - [Python’s all(): Check Your Iterables for Truthiness](https://jlferrete.com/blog/pythons-all-check-your-iterables-for-truthiness/)
 - [Python’s assert: Debug and Test Your Code Like a Pro](https://jlferrete.com/blog/pythons-assert-debug-and-test-your-code-like-a-pro-2/)
 - [Counting With Python’s Counter](https://jlferrete.com/blog/counting-with-pythons-counter/)
 - [Curso de edición con DaVinci Resolve](https://jlferrete.com/blog/curso-de-edicion-con-davinci-resolve/)
-- [Python Class Constructors: Control Your Object Instantiation](https://jlferrete.com/blog/python-class-constructors-control-your-object-instantiation/)
