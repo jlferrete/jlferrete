@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Python’s property(): Add Managed Attributes to Your Classes](https://jlferrete.com/blog/pythons-property-add-managed-attributes-to-your-classes/)
 - [Python Assignment Expressions and Using the Walrus Operator](https://jlferrete.com/blog/python-assignment-expressions-and-using-the-walrus-operator/)
 - [Writing Idiomatic Python](https://jlferrete.com/blog/writing-idiomatic-python/)
 - [Dependency Management With Python Poetry](https://jlferrete.com/blog/dependency-management-with-python-poetry/)
 - [Looping With Python enumerate()](https://jlferrete.com/blog/looping-with-python-enumerate/)
-- [Python’s all(): Check Your Iterables for Truthiness](https://jlferrete.com/blog/pythons-all-check-your-iterables-for-truthiness/)
