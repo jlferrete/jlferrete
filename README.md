@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Using the Python return Statement Effectively](https://jlferrete.com/blog/using-the-python-return-statement-effectively/)
 - [Using the «and» Boolean Operator in Python](https://jlferrete.com/blog/using-the-and-boolean-operator-in-python/)
 - [Pass by Reference in Python: Best Practices](https://jlferrete.com/blog/pass-by-reference-in-python-best-practices/)
 - [Reverse Strings in Python: reversed(), Slicing, and More](https://jlferrete.com/blog/reverse-strings-in-python-reversed-slicing-and-more/)
 - [Python’s property(): Add Managed Attributes to Your Classes](https://jlferrete.com/blog/pythons-property-add-managed-attributes-to-your-classes/)
-- [Python Assignment Expressions and Using the Walrus Operator](https://jlferrete.com/blog/python-assignment-expressions-and-using-the-walrus-operator/)
