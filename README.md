@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Cómo empezar a programar con Solidity, el lenguaje preferido para crear los cada vez más demandados ‘smart contracts’](https://jlferrete.com/blog/como-empezar-a-programar-con-solidity-el-lenguaje-preferido-para-crear-los-cada-vez-mas-demandados-smart-contracts/)
 - [Europa parecía estar en contra del reconocimiento facial, pero está preparando un sistema sin precedentes con millones de rostros](https://jlferrete.com/blog/europa-parecia-estar-en-contra-del-reconocimiento-facial-pero-esta-preparando-un-sistema-sin-precedentes-con-millones-de-rostros/)
 - [Using the Python return Statement Effectively](https://jlferrete.com/blog/using-the-python-return-statement-effectively/)
 - [Using the «and» Boolean Operator in Python](https://jlferrete.com/blog/using-the-and-boolean-operator-in-python/)
 - [Pass by Reference in Python: Best Practices](https://jlferrete.com/blog/pass-by-reference-in-python-best-practices/)
-- [Reverse Strings in Python: reversed(), Slicing, and More](https://jlferrete.com/blog/reverse-strings-in-python-reversed-slicing-and-more/)
