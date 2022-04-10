@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [How can I learn the basics of Python?](https://jlferrete.com/blog/how-can-i-learn-the-basics-of-python/)
 - [Python Timer Functions: Three Ways to Monitor Your Code](https://jlferrete.com/blog/python-timer-functions-three-ways-to-monitor-your-code/)
 - [Cómo empezar a programar con Solidity, el lenguaje preferido para crear los cada vez más demandados ‘smart contracts’](https://jlferrete.com/blog/como-empezar-a-programar-con-solidity-el-lenguaje-preferido-para-crear-los-cada-vez-mas-demandados-smart-contracts/)
 - [Europa parecía estar en contra del reconocimiento facial, pero está preparando un sistema sin precedentes con millones de rostros](https://jlferrete.com/blog/europa-parecia-estar-en-contra-del-reconocimiento-facial-pero-esta-preparando-un-sistema-sin-precedentes-con-millones-de-rostros/)
 - [Using the Python return Statement Effectively](https://jlferrete.com/blog/using-the-python-return-statement-effectively/)
-- [Using the «and» Boolean Operator in Python](https://jlferrete.com/blog/using-the-and-boolean-operator-in-python/)
