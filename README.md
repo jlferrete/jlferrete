@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Automate the Boring Stuff with Python](https://jlferrete.com/blog/automate-the-boring-stuff-with-python/)
 - [Pagination for a User-Friendly Django App](https://jlferrete.com/blog/pagination-for-a-user-friendly-django-app/)
 - [Python Basics: Code Your First Python Program](https://jlferrete.com/blog/python-basics-code-your-first-python-program/)
 - [How can I learn the basics of Python?](https://jlferrete.com/blog/how-can-i-learn-the-basics-of-python/)
 - [Python Timer Functions: Three Ways to Monitor Your Code](https://jlferrete.com/blog/python-timer-functions-three-ways-to-monitor-your-code/)
-- [Cómo empezar a programar con Solidity, el lenguaje preferido para crear los cada vez más demandados ‘smart contracts’](https://jlferrete.com/blog/como-empezar-a-programar-con-solidity-el-lenguaje-preferido-para-crear-los-cada-vez-mas-demandados-smart-contracts/)
