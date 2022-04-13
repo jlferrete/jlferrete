@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [23 Amazing Deep Learning Project Ideas [Source Code Included]](https://jlferrete.com/blog/23-amazing-deep-learning-project-ideas-source-code-included/)
 - [Método de Phishing «Browser in the Browser»](https://jlferrete.com/blog/metodo-de-phishing-browser-in-the-browser/)
 - [Automate the Boring Stuff with Python](https://jlferrete.com/blog/automate-the-boring-stuff-with-python/)
 - [Pagination for a User-Friendly Django App](https://jlferrete.com/blog/pagination-for-a-user-friendly-django-app/)
 - [Python Basics: Code Your First Python Program](https://jlferrete.com/blog/python-basics-code-your-first-python-program/)
-- [How can I learn the basics of Python?](https://jlferrete.com/blog/how-can-i-learn-the-basics-of-python/)
