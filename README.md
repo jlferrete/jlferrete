@@ -43,8 +43,8 @@ Please do not hesitate to contact me if you require any futher information at th
 </p>
 
 -Latest articles: 
+- [Curso intermedio de After Effects](https://jlferrete.com/blog/curso-intermedio-de-after-effects/)
 - [How to Make a Twitter Bot in Python With Tweepy](https://jlferrete.com/blog/how-to-make-a-twitter-bot-in-python-with-tweepy/)
 - [Windows vs MacOS vs Linux – Operating System Handbook](https://jlferrete.com/blog/windows-vs-macos-vs-linux-operating-system-handbook/)
 - [23 Amazing Deep Learning Project Ideas [Source Code Included]](https://jlferrete.com/blog/23-amazing-deep-learning-project-ideas-source-code-included/)
 - [Método de Phishing «Browser in the Browser»](https://jlferrete.com/blog/metodo-de-phishing-browser-in-the-browser/)
-- [Automate the Boring Stuff with Python](https://jlferrete.com/blog/automate-the-boring-stuff-with-python/)
