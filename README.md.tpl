@@ -12,16 +12,16 @@ Please do not hesitate to contact me if you require any futher information at th
 
 <p align="center">
   <a href="https://jlferrete.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/Wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
   <a href="https://www.linkedin.com/in/jlferrete/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
   <a href="https://twitter.com/jlferrete" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
   <a href="https://jlferrete.github.io/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
 </p>
 
@@ -42,5 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
 </p>
 
+![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
+
 -Latest articles: 
 %{{latest_article}}%
+
+<p align="center">
+	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+</p>
