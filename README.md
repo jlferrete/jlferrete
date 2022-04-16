@@ -12,16 +12,16 @@ Please do not hesitate to contact me if you require any futher information at th
 
 <p align="center">
   <a href="https://jlferrete.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
+    <img align="center" src="https://img.shields.io/badge/Wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" height="28px" />
   </a>
   <a href="https://www.linkedin.com/in/jlferrete/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28px" />
   </a>
   <a href="https://twitter.com/jlferrete" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="28px" />
   </a>
   <a href="https://jlferrete.github.io/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="24px" width="24px" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="28px" />
   </a>
 </p>
 
@@ -42,9 +42,15 @@ Please do not hesitate to contact me if you require any futher information at th
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="24px" height="24px"/>
 </p>
 
+![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
+
 -Latest articles: 
+- [Exploring Keywords in Python](https://jlferrete.com/blog/exploring-keywords-in-python/)
 - [Add a Composer Script to Your Module or Theme](https://jlferrete.com/blog/add-a-composer-script-to-your-module-or-theme/)
 - [El archivo Theme.json, cómo generarlo amigablemente y cómo exportarlo](https://jlferrete.com/blog/el-archivo-theme-json-como-generarlo-amigablemente-y-como-exportarlo/)
 - [Meta y Facebook están apoyando fuertemente a Python: estas son las razones](https://jlferrete.com/blog/meta-y-facebook-estan-apoyando-fuertemente-a-python-estas-son-las-razones/)
 - [Curso intermedio de After Effects](https://jlferrete.com/blog/curso-intermedio-de-after-effects/)
-- [How to Make a Twitter Bot in Python With Tweepy](https://jlferrete.com/blog/how-to-make-a-twitter-bot-in-python-with-tweepy/)
+
+<p align="center">
+	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
+</p>
