@@ -12,16 +12,16 @@ Please do not hesitate to contact me if you require any futher information at th
 
 <p align="center">
   <a href="https://jlferrete.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/Wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" height="28px" />
   </a>
   <a href="https://www.linkedin.com/in/jlferrete/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28px" />
   </a>
   <a href="https://twitter.com/jlferrete" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="28px" />
   </a>
   <a href="https://jlferrete.github.io/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="jlferrete" height="%{{icon_size}}%" width="%{{icon_size}}%" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="28px" />
   </a>
 </p>
 
@@ -48,5 +48,5 @@ Please do not hesitate to contact me if you require any futher information at th
 %{{latest_article}}%
 
 <p align="center">
-	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" width="%{{icon_size}}%" height="%{{icon_size}}%"/>
+	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
 </p>
