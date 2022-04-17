@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Jupyter Notebooks in VS Code](https://jlferrete.com/blog/jupyter-notebooks-in-vs-code/)
 - [Exploring Keywords in Python](https://jlferrete.com/blog/exploring-keywords-in-python/)
 - [Add a Composer Script to Your Module or Theme](https://jlferrete.com/blog/add-a-composer-script-to-your-module-or-theme/)
 - [El archivo Theme.json, cómo generarlo amigablemente y cómo exportarlo](https://jlferrete.com/blog/el-archivo-theme-json-como-generarlo-amigablemente-y-como-exportarlo/)
 - [Meta y Facebook están apoyando fuertemente a Python: estas son las razones](https://jlferrete.com/blog/meta-y-facebook-estan-apoyando-fuertemente-a-python-estas-son-las-razones/)
-- [Curso intermedio de After Effects](https://jlferrete.com/blog/curso-intermedio-de-after-effects/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
