@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Teach Yourself Data Analytics in 30 Days](https://jlferrete.com/blog/teach-yourself-data-analytics-in-30-days/)
 - [How to Solve freeCodeCamp’s Record Collection Challenge](https://jlferrete.com/blog/how-to-solve-freecodecamps-record-collection-challenge/)
 - [La española Manfred crea el currículo digital universal: un solo archivo para todas las plataformas sin largos registros](https://jlferrete.com/blog/la-espanola-manfred-crea-el-curriculo-digital-universal-un-solo-archivo-para-todas-las-plataformas-sin-largos-registros/)
 - [Anno, una herramienta para comentar partes de vídeos y registrar notas](https://jlferrete.com/blog/anno-una-herramienta-para-comentar-partes-de-videos-y-registrar-notas/)
 - [Javarevisited: Top 5 Courses to Learn WebSocket for Beginners in 2022](https://jlferrete.com/blog/javarevisited-top-5-courses-to-learn-websocket-for-beginners-in-2022/)
-- [Jupyter Notebooks in VS Code](https://jlferrete.com/blog/jupyter-notebooks-in-vs-code/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
