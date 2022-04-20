@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso intermedio de After Effects – https://t.co/IJCyaD7eku](https://jlferrete.com/blog/curso-intermedio-de-after-effects-https-t-co-ijcyad7eku/)
 - [Building a Django User Management System](https://jlferrete.com/blog/building-a-django-user-management-system/)
 - [Teach Yourself Data Analytics in 30 Days](https://jlferrete.com/blog/teach-yourself-data-analytics-in-30-days/)
 - [How to Solve freeCodeCamp’s Record Collection Challenge](https://jlferrete.com/blog/how-to-solve-freecodecamps-record-collection-challenge/)
 - [La española Manfred crea el currículo digital universal: un solo archivo para todas las plataformas sin largos registros](https://jlferrete.com/blog/la-espanola-manfred-crea-el-curriculo-digital-universal-un-solo-archivo-para-todas-las-plataformas-sin-largos-registros/)
-- [Anno, una herramienta para comentar partes de vídeos y registrar notas](https://jlferrete.com/blog/anno-una-herramienta-para-comentar-partes-de-videos-y-registrar-notas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
