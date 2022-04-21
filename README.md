@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ocho cursos gratis para aprender Python desde cero](https://jlferrete.com/blog/ocho-cursos-gratis-para-aprender-python-desde-cero/)
 - [Subtract Days from a Date in Java](https://jlferrete.com/blog/subtract-days-from-a-date-in-java/)
 - [Curso intermedio de After Effects – https://t.co/IJCyaD7eku](https://jlferrete.com/blog/curso-intermedio-de-after-effects-https-t-co-ijcyad7eku/)
 - [Building a Django User Management System](https://jlferrete.com/blog/building-a-django-user-management-system/)
 - [Teach Yourself Data Analytics in 30 Days](https://jlferrete.com/blog/teach-yourself-data-analytics-in-30-days/)
-- [How to Solve freeCodeCamp’s Record Collection Challenge](https://jlferrete.com/blog/how-to-solve-freecodecamps-record-collection-challenge/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
