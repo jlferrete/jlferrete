@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Python: How to insert characters in specific positions of a string](https://jlferrete.com/blog/python-how-to-insert-characters-in-specific-positions-of-a-string/)
 - [Docker Cache – How to Do a Clean Image Rebuild and Clear Docker’s Cache](https://jlferrete.com/blog/docker-cache-how-to-do-a-clean-image-rebuild-and-clear-dockers-cache/)
 - [Smash Balloon Social Photo Feed – Muestra tu feed de Instagram](https://jlferrete.com/blog/smash-balloon-social-photo-feed-muestra-tu-feed-de-instagram/)
 - [React Project Tutorial – Build a Portfolio Website w/ Advanced Animations](https://jlferrete.com/blog/react-project-tutorial-build-a-portfolio-website-w-advanced-animations/)
 - [Mantén siempre tu cuenta segura en Linux cambiando la contraseña](https://jlferrete.com/blog/manten-siempre-tu-cuenta-segura-en-linux-cambiando-la-contrasena/)
-- [Curso avanzado de Google Tag Manager](https://jlferrete.com/blog/curso-avanzado-de-google-tag-manager/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
