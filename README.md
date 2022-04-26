@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Gestores de contraseñas: Organiza tus contraseñas BIEN](https://jlferrete.com/blog/gestores-de-contrasenas-organiza-tus-contrasenas-bien/)
 - [Spring Security – Map Authorities from JWT](https://jlferrete.com/blog/spring-security-map-authorities-from-jwt/)
 - [Javarevisited: How to use Session attributes in Spring MVC? @SessionAttribute and @ModelAttribute Annotation Example Tutorial](https://jlferrete.com/blog/javarevisited-how-to-use-session-attributes-in-spring-mvc-sessionattribute-and-modelattribute-annotation-example-tutorial/)
 - [Python: How to insert characters in specific positions of a string](https://jlferrete.com/blog/python-how-to-insert-characters-in-specific-positions-of-a-string/)
 - [Docker Cache – How to Do a Clean Image Rebuild and Clear Docker’s Cache](https://jlferrete.com/blog/docker-cache-how-to-do-a-clean-image-rebuild-and-clear-dockers-cache/)
-- [Smash Balloon Social Photo Feed – Muestra tu feed de Instagram](https://jlferrete.com/blog/smash-balloon-social-photo-feed-muestra-tu-feed-de-instagram/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
