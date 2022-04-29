@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Make Django Raise an Error for Missing Template Variables](https://jlferrete.com/blog/how-to-make-django-raise-an-error-for-missing-template-variables/)
 - [How to Be a Teapot in Django](https://jlferrete.com/blog/how-to-be-a-teapot-in-django/)
 - [Cómo evitar que una aplicación se ejecute al iniciar Windows](https://jlferrete.com/blog/como-evitar-que-una-aplicacion-se-ejecute-al-iniciar-windows/)
 - [Cómo limpiar a fondo tu ordenador portátil (sí, también por dentro) y conseguir que quede como si lo acabases de estrenar](https://jlferrete.com/blog/como-limpiar-a-fondo-tu-ordenador-portatil-si-tambien-por-dentro-y-conseguir-que-quede-como-si-lo-acabases-de-estrenar/)
 - [Cómo hacer un CV para que lo lean bien las máquinas](https://jlferrete.com/blog/como-hacer-un-cv-para-que-lo-lean-bien-las-maquinas/)
-- [Cómo crear tablas comparativas de productos de Amazon en WordPress](https://jlferrete.com/blog/como-crear-tablas-comparativas-de-productos-de-amazon-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
