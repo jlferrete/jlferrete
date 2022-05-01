@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Los mejores cursos online gratis de introducción a la programación perfectos para principiantes](https://jlferrete.com/blog/los-mejores-cursos-online-gratis-de-introduccion-a-la-programacion-perfectos-para-principiantes/)
 - [Creating a Laravel Project Step by Step](https://jlferrete.com/blog/creating-a-laravel-project-step-by-step/)
 - [Plugins de acciones para bulk operations](https://jlferrete.com/blog/plugins-de-acciones-para-bulk-operations/)
 - [Top 10 Java Debbuging Tíos](https://jlferrete.com/blog/top-10-java-debbuging-tios/)
 - [How to Make Django Raise an Error for Missing Template Variables](https://jlferrete.com/blog/how-to-make-django-raise-an-error-for-missing-template-variables/)
-- [How to Be a Teapot in Django](https://jlferrete.com/blog/how-to-be-a-teapot-in-django/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
