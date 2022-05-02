@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Lista desplegable (Combobox) en Tcl/Tk (tkinter)](https://jlferrete.com/blog/lista-desplegable-combobox-en-tcl-tk-tkinter/)
 - [INVERSIÓN DE IMAGEN EN VÍDEOS CON PYTHON Y FFMPEG](https://jlferrete.com/blog/inversion-de-imagen-en-videos-con-python-y-ffmpeg/)
 - [Figma, la solución definitiva para el diseño UI/UX – Adictos al trabajo](https://jlferrete.com/blog/figma-la-solucion-definitiva-para-el-diseno-ui-ux-adictos-al-trabajo/)
 - [Los mejores cursos online gratis de introducción a la programación perfectos para principiantes](https://jlferrete.com/blog/los-mejores-cursos-online-gratis-de-introduccion-a-la-programacion-perfectos-para-principiantes/)
 - [Creating a Laravel Project Step by Step](https://jlferrete.com/blog/creating-a-laravel-project-step-by-step/)
-- [Plugins de acciones para bulk operations](https://jlferrete.com/blog/plugins-de-acciones-para-bulk-operations/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
