@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Introducing Docker Extensions 🐳](https://jlferrete.com/blog/introducing-docker-extensions-%f0%9f%90%b3/)
 - [Automation with Docker for CI/CD Workflows](https://jlferrete.com/blog/automation-with-docker-for-ci-cd-workflows/)
 - [Haz de tu marca personal un negocio para vivir](https://jlferrete.com/blog/haz-de-tu-marca-personal-un-negocio-para-vivir/)
 - [TRANSFORMACIONES GEOMETRICAS BASICAS EN IMAGENES CON ‘PIL’ Y ‘OpenCV’ (ROTACIÓN Y ESCALADO)](https://jlferrete.com/blog/transformaciones-geometricas-basicas-en-imagenes-con-pil-y-opencv-rotacion-y-escalado/)
 - [Lista desplegable (Combobox) en Tcl/Tk (tkinter)](https://jlferrete.com/blog/lista-desplegable-combobox-en-tcl-tk-tkinter/)
-- [INVERSIÓN DE IMAGEN EN VÍDEOS CON PYTHON Y FFMPEG](https://jlferrete.com/blog/inversion-de-imagen-en-videos-con-python-y-ffmpeg/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
