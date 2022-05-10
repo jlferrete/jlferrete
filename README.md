@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://jlferrete.com/blog/shell-scripting-for-beginners-how-to-write-bash-scripts-in-linux/)
 - [How to Create Your Own Google Chrome Extension](https://jlferrete.com/blog/how-to-create-your-own-google-chrome-extension-2/)
 - [Learn Vue 3, a Front-End JavaScript Framework](https://jlferrete.com/blog/learn-vue-3-a-front-end-javascript-framework-2/)
 - [Failing in Public When Doing Open Source Is Not the End of the World](https://jlferrete.com/blog/failing-in-public-when-doing-open-source-is-not-the-end-of-the-world/)
 - [List Comprehension The Most Effective Way to Solve Any Tasks?](https://jlferrete.com/blog/list-comprehension-the-most-effective-way-to-solve-any-tasks/)
-- [Face Recognition System Using Python](https://jlferrete.com/blog/face-recognition-system-using-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
