@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Write a Script to Change Your Zoom Background Every Day](https://jlferrete.com/blog/how-to-write-a-script-to-change-your-zoom-background-every-day/)
 - [Best Colorful VSCode Extensions – How to Personalize Your Editor](https://jlferrete.com/blog/best-colorful-vscode-extensions-how-to-personalize-your-editor/)
 - [Solidity: qué es y para qué sirve este lenguaje de programación](https://jlferrete.com/blog/solidity-que-es-y-para-que-sirve-este-lenguaje-de-programacion/)
 - [Exploring Keywords in Python](https://jlferrete.com/blog/exploring-keywords-in-python-2/)
 - [How to Set Up a Virtual Environment in Python – And Why It’s Useful](https://jlferrete.com/blog/how-to-set-up-a-virtual-environment-in-python-and-why-its-useful/)
-- [How to Create and Upload Your First Python Package to PyPI](https://jlferrete.com/blog/how-to-create-and-upload-your-first-python-package-to-pypi/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
