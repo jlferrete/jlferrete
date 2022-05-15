@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [HTTP Error 504 – 504 Gateway Timeout Status Code Explained](https://jlferrete.com/blog/http-error-504-504-gateway-timeout-status-code-explained/)
 - [Learn Vim – Beginner’s Tutorial](https://jlferrete.com/blog/learn-vim-beginners-tutorial/)
 - [Python Virtual Environments: A Primer](https://jlferrete.com/blog/python-virtual-environments-a-primer/)
 - [How to Write a Script to Change Your Zoom Background Every Day](https://jlferrete.com/blog/how-to-write-a-script-to-change-your-zoom-background-every-day/)
 - [Best Colorful VSCode Extensions – How to Personalize Your Editor](https://jlferrete.com/blog/best-colorful-vscode-extensions-how-to-personalize-your-editor/)
-- [Solidity: qué es y para qué sirve este lenguaje de programación](https://jlferrete.com/blog/solidity-que-es-y-para-que-sirve-este-lenguaje-de-programacion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
