@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [HTML and CSS Project – How to Build A YouTube Clone Step by Step](https://jlferrete.com/blog/html-and-css-project-how-to-build-a-youtube-clone-step-by-step/)
 - [Cómo copiar imágenes Docker a otro equipo](https://jlferrete.com/blog/como-copiar-imagenes-docker-a-otro-equipo/)
 - [How to generate image with text using Python Open-AI Glide](https://jlferrete.com/blog/how-to-generate-image-with-text-using-python-open-ai-glide/)
 - [He instalado Windows 11 y no me gusta, ¿puedo volver a Windows 10?](https://jlferrete.com/blog/he-instalado-windows-11-y-no-me-gusta-puedo-volver-a-windows-10/)
 - [HTTP Error 504 – 504 Gateway Timeout Status Code Explained](https://jlferrete.com/blog/http-error-504-504-gateway-timeout-status-code-explained/)
-- [Learn Vim – Beginner’s Tutorial](https://jlferrete.com/blog/learn-vim-beginners-tutorial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
