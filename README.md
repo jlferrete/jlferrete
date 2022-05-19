@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [React Animation Course – Code a Portfolio Featuring Animations](https://jlferrete.com/blog/react-animation-course-code-a-portfolio-featuring-animations/)
 - [The React Cheatsheet for 2022](https://jlferrete.com/blog/the-react-cheatsheet-for-2022/)
 - [Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter)](https://jlferrete.com/blog/python-game-development-project-using-oop-minesweeper-tutorial-w-tkinter/)
 - [Cómo instalar y ver Plex en Kodi y por qué puede ser mejor que hacerlo en sus aplicaciones oficiales](https://jlferrete.com/blog/como-instalar-y-ver-plex-en-kodi-y-por-que-puede-ser-mejor-que-hacerlo-en-sus-aplicaciones-oficiales/)
 - [HTML and CSS Project – How to Build A YouTube Clone Step by Step](https://jlferrete.com/blog/html-and-css-project-how-to-build-a-youtube-clone-step-by-step/)
-- [Cómo copiar imágenes Docker a otro equipo](https://jlferrete.com/blog/como-copiar-imagenes-docker-a-otro-equipo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
