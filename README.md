@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Remove a Property from a JavaScript Object](https://jlferrete.com/blog/how-to-remove-a-property-from-a-javascript-object/)
 - [Rubber Duck Debugging](https://jlferrete.com/blog/rubber-duck-debugging/)
 - [React + WebSockets Project – Build a Real-Time Order Book Application](https://jlferrete.com/blog/react-websockets-project-build-a-real-time-order-book-application/)
 - [What is Docker? Learn How to Use Containers – Explained with Examples](https://jlferrete.com/blog/what-is-docker-learn-how-to-use-containers-explained-with-examples/)
 - [React Animation Course – Code a Portfolio Featuring Animations](https://jlferrete.com/blog/react-animation-course-code-a-portfolio-featuring-animations/)
-- [The React Cheatsheet for 2022](https://jlferrete.com/blog/the-react-cheatsheet-for-2022/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
