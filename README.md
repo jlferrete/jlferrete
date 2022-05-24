@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Así puedes convertir tu móvil antiguo en una cámara de seguridad](https://jlferrete.com/blog/asi-puedes-convertir-tu-movil-antiguo-en-una-camara-de-seguridad/)
 - [Upgrading to React 18 with TypeScript](https://jlferrete.com/blog/upgrading-to-react-18-with-typescript/)
 - [Get Started With Django Part 1: Build a Portfolio App](https://jlferrete.com/blog/get-started-with-django-part-1-build-a-portfolio-app/)
 - [Return Map from GraphQL](https://jlferrete.com/blog/return-map-from-graphql/)
 - [Exception Handling With Jersey](https://jlferrete.com/blog/exception-handling-with-jersey/)
-- [22 Things to do After Installing Ubuntu 22.04 Jammy Jellyfish](https://jlferrete.com/blog/22-things-to-do-after-installing-ubuntu-22-04-jammy-jellyfish/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
