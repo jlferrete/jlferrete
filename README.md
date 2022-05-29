@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Test Your Apps using Jest, Testing Library, Cypress, and Supertest](https://jlferrete.com/blog/how-to-test-your-apps-using-jest-testing-library-cypress-and-supertest/)
 - [Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)](https://jlferrete.com/blog/train-ai-to-play-snake-reinforcement-learning-course-python-pytorch-pygame/)
 - [Augmented Reality Full Course](https://jlferrete.com/blog/augmented-reality-full-course/)
 - [Migración de Elementor a Gutenberg (editor de bloques)](https://jlferrete.com/blog/migracion-de-elementor-a-gutenberg-editor-de-bloques/)
 - [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://jlferrete.com/blog/shell-scripting-for-beginners-how-to-write-bash-scripts-in-linux-2/)
-- [Use Selenium to Create a Web Scraping Bot](https://jlferrete.com/blog/use-selenium-to-create-a-web-scraping-bot/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
