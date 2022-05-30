@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Combining Data in Pandas With merge(), .join(), and concat()](https://jlferrete.com/blog/combining-data-in-pandas-with-merge-join-and-concat/)
 - [Cómo crear páginas de error en Nginx](https://jlferrete.com/blog/como-crear-paginas-de-error-en-nginx/)
 - [How to Test Your Apps using Jest, Testing Library, Cypress, and Supertest](https://jlferrete.com/blog/how-to-test-your-apps-using-jest-testing-library-cypress-and-supertest/)
 - [Train AI to Play Snake – Reinforcement Learning Course (Python, PyTorch, Pygame)](https://jlferrete.com/blog/train-ai-to-play-snake-reinforcement-learning-course-python-pytorch-pygame/)
 - [Augmented Reality Full Course](https://jlferrete.com/blog/augmented-reality-full-course/)
-- [Migración de Elementor a Gutenberg (editor de bloques)](https://jlferrete.com/blog/migracion-de-elementor-a-gutenberg-editor-de-bloques/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
