@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Hacking en IoT | Acceso al firmware de un dispositivo](https://jlferrete.com/blog/hacking-en-iot-acceso-al-firmware-de-un-dispositivo/)
 - [How to Use REST APIs – A Complete Beginner’s Guide](https://jlferrete.com/blog/how-to-use-rest-apis-a-complete-beginners-guide/)
 - [Cómo usar un viejo móvil Android para que sea tu monitor del sistema en Windows 10 y 11](https://jlferrete.com/blog/como-usar-un-viejo-movil-android-para-que-sea-tu-monitor-del-sistema-en-windows-10-y-11/)
 - [Mejores webs sobre raspberry pi y lo que puedes hacer con ella](https://jlferrete.com/blog/mejores-webs-sobre-raspberry-pi-y-lo-que-puedes-hacer-con-ella/)
 - [Combining Data in Pandas With merge(), .join(), and concat()](https://jlferrete.com/blog/combining-data-in-pandas-with-merge-join-and-concat/)
-- [Cómo crear páginas de error en Nginx](https://jlferrete.com/blog/como-crear-paginas-de-error-en-nginx/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
