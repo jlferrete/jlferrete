@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Las mejores apps de 2022 para GNU/Linux: nuevas, imprescindibles y joyas ocultas](https://jlferrete.com/blog/las-mejores-apps-de-2022-para-gnu-linux-nuevas-imprescindibles-y-joyas-ocultas/)
 - [How to use python for google search](https://jlferrete.com/blog/how-to-use-python-for-google-search/)
 - [Cómo convertir tu viejo móvil Android en un despertador para la mesita de noche](https://jlferrete.com/blog/como-convertir-tu-viejo-movil-android-en-un-despertador-para-la-mesita-de-noche/)
 - [Python Program to Print the Fibonacci Sequence](https://jlferrete.com/blog/python-program-to-print-the-fibonacci-sequence/)
 - [Programando en directo en Twitch: cuatro ejemplos de ‘livecoders’ que nos enseñan a desarrollar en español](https://jlferrete.com/blog/programando-en-directo-en-twitch-cuatro-ejemplos-de-livecoders-que-nos-ensenan-a-desarrollar-en-espanol/)
-- [Hacking en IoT | Acceso al firmware de un dispositivo](https://jlferrete.com/blog/hacking-en-iot-acceso-al-firmware-de-un-dispositivo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
