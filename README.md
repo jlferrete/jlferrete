@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [5 Mejores bibliotecas de aprendizaje profundo de Python que todo programador debe conocer](https://jlferrete.com/blog/5-mejores-bibliotecas-de-aprendizaje-profundo-de-python-que-todo-programador-debe-conocer/)
 - [Así es como NO debes montar una refrigeración líquida all-in-one](https://jlferrete.com/blog/asi-es-como-no-debes-montar-una-refrigeracion-liquida-all-in-one/)
 - [Las mejores apps de 2022 para GNU/Linux: nuevas, imprescindibles y joyas ocultas](https://jlferrete.com/blog/las-mejores-apps-de-2022-para-gnu-linux-nuevas-imprescindibles-y-joyas-ocultas/)
 - [How to use python for google search](https://jlferrete.com/blog/how-to-use-python-for-google-search/)
 - [Cómo convertir tu viejo móvil Android en un despertador para la mesita de noche](https://jlferrete.com/blog/como-convertir-tu-viejo-movil-android-en-un-despertador-para-la-mesita-de-noche/)
-- [Python Program to Print the Fibonacci Sequence](https://jlferrete.com/blog/python-program-to-print-the-fibonacci-sequence/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
