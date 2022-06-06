@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Recorrer una lista con Spliterator](https://jlferrete.com/blog/recorrer-una-lista-con-spliterator/)
 - [Cómo mostrar solo algunas provincias o regiones en WooCommerce](https://jlferrete.com/blog/como-mostrar-solo-algunas-provincias-o-regiones-en-woocommerce/)
 - [Cómo restablecer los ajustes del personalizador de cualquier tema](https://jlferrete.com/blog/como-restablecer-los-ajustes-del-personalizador-de-cualquier-tema/)
 - [Personalizar IOException](https://jlferrete.com/blog/personalizar-ioexception/)
 - [5 Mejores bibliotecas de aprendizaje profundo de Python que todo programador debe conocer](https://jlferrete.com/blog/5-mejores-bibliotecas-de-aprendizaje-profundo-de-python-que-todo-programador-debe-conocer/)
-- [Así es como NO debes montar una refrigeración líquida all-in-one](https://jlferrete.com/blog/asi-es-como-no-debes-montar-una-refrigeracion-liquida-all-in-one/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
