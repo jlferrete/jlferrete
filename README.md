@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ejecutar un script o aplicación en PyCharm](https://jlferrete.com/blog/ejecutar-un-script-o-aplicacion-en-pycharm/)
 - [Configurar un intérprete de Python en PyCharm](https://jlferrete.com/blog/configurar-un-interprete-de-python-en-pycharm/)
 - [How to build a Public API with Laravel](https://jlferrete.com/blog/how-to-build-a-public-api-with-laravel/)
 - [Recorrer una lista con Spliterator](https://jlferrete.com/blog/recorrer-una-lista-con-spliterator/)
 - [Cómo mostrar solo algunas provincias o regiones en WooCommerce](https://jlferrete.com/blog/como-mostrar-solo-algunas-provincias-o-regiones-en-woocommerce/)
-- [Cómo restablecer los ajustes del personalizador de cualquier tema](https://jlferrete.com/blog/como-restablecer-los-ajustes-del-personalizador-de-cualquier-tema/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
