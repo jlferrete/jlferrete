@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Python split – Dividir string en Python en tokens](https://jlferrete.com/blog/python-split-dividir-string-en-python-en-tokens/)
 - [Crear un proyecto en PyCharm](https://jlferrete.com/blog/crear-un-proyecto-en-pycharm/)
 - [Ejecutar un script o aplicación en PyCharm](https://jlferrete.com/blog/ejecutar-un-script-o-aplicacion-en-pycharm/)
 - [Configurar un intérprete de Python en PyCharm](https://jlferrete.com/blog/configurar-un-interprete-de-python-en-pycharm/)
 - [How to build a Public API with Laravel](https://jlferrete.com/blog/how-to-build-a-public-api-with-laravel/)
-- [Recorrer una lista con Spliterator](https://jlferrete.com/blog/recorrer-una-lista-con-spliterator/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
