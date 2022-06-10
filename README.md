@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comparar fechas en Python](https://jlferrete.com/blog/comparar-fechas-en-python/)
 - [Listar directorio en Python. Listar ficheros de un directorio](https://jlferrete.com/blog/listar-directorio-en-python-listar-ficheros-de-un-directorio/)
 - [PyCharm – Tutorial de PyCharm en español. Cómo sacarle partido al IDE.](https://jlferrete.com/blog/pycharm-tutorial-de-pycharm-en-espanol-como-sacarle-partido-al-ide/)
 - [Python split – Dividir string en Python en tokens](https://jlferrete.com/blog/python-split-dividir-string-en-python-en-tokens/)
 - [Crear un proyecto en PyCharm](https://jlferrete.com/blog/crear-un-proyecto-en-pycharm/)
-- [Ejecutar un script o aplicación en PyCharm](https://jlferrete.com/blog/ejecutar-un-script-o-aplicacion-en-pycharm/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
