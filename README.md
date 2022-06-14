@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Deploy A Laravel App on LEMP Stack: Ultimate Guide](https://jlferrete.com/blog/how-to-deploy-a-laravel-app-on-lemp-stack-ultimate-guide/)
 - [SQL Recursive WITH CTE queries – Vlad Mihalcea](https://jlferrete.com/blog/sql-recursive-with-cte-queries-vlad-mihalcea/)
 - [Oracle Bloggers you should definitely like and subscribe](https://jlferrete.com/blog/oracle-bloggers-you-should-definitely-like-and-subscribe/)
 - [Programación orientada a objetos (POO) en Python](https://jlferrete.com/blog/programacion-orientada-a-objetos-poo-en-python/)
 - [Cómo servir ficheros y contenido estático con Flask](https://jlferrete.com/blog/como-servir-ficheros-y-contenido-estatico-con-flask/)
-- [Convertir a mayúsculas y minúsculas en Python. Métodos de formato](https://jlferrete.com/blog/convertir-a-mayusculas-y-minusculas-en-python-metodos-de-formato/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
