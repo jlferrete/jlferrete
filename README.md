@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [The best way to fix the Hibernate «HHH000104: firstResult/maxResults specified with collection fetch; applying in memory!» warning message](https://jlferrete.com/blog/the-best-way-to-fix-the-hibernate-hhh000104-firstresult-maxresults-specified-with-collection-fetch-applying-in-memory-warning-message/)
 - [The best way to use the Hibernate TupleTransformer](https://jlferrete.com/blog/the-best-way-to-use-the-hibernate-tupletransformer/)
 - [How to fetch a one-to-many DTO projection with JPA and Hibernate](https://jlferrete.com/blog/how-to-fetch-a-one-to-many-dto-projection-with-jpa-and-hibernate/)
 - [ResultSet statement fetching with JDBC and Hibernate](https://jlferrete.com/blog/resultset-statement-fetching-with-jdbc-and-hibernate/)
 - [The data knowledge stack](https://jlferrete.com/blog/the-data-knowledge-stack/)
-- [How to write a compact DTO projection query with JPA](https://jlferrete.com/blog/how-to-write-a-compact-dto-projection-query-with-jpa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
