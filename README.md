@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Spring Boot Tutorial – Bootstrap a Simple App](https://jlferrete.com/blog/spring-boot-tutorial-bootstrap-a-simple-app/)
 - [14 High-Performance Java Persistence Tips](https://jlferrete.com/blog/14-high-performance-java-persistence-tips/)
 - [Google Colaboratory – How to Run Python Code in Your Google Drive](https://jlferrete.com/blog/google-colaboratory-how-to-run-python-code-in-your-google-drive/)
 - [How to Use Sass with CSS](https://jlferrete.com/blog/how-to-use-sass-with-css/)
 - [How to Create a Habit System and Stay Motivated as a Developer](https://jlferrete.com/blog/how-to-create-a-habit-system-and-stay-motivated-as-a-developer/)
-- [The best way to fix the Hibernate «HHH000104: firstResult/maxResults specified with collection fetch; applying in memory!» warning message](https://jlferrete.com/blog/the-best-way-to-fix-the-hibernate-hhh000104-firstresult-maxresults-specified-with-collection-fetch-applying-in-memory-warning-message/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
