@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo programar mensajes en Slack](https://jlferrete.com/blog/como-programar-mensajes-en-slack/)
 - [Don’t lose your Github contributions when you leave an organization](https://jlferrete.com/blog/dont-lose-your-github-contributions-when-you-leave-an-organization/)
 - [Spring Boot Tutorial – Bootstrap a Simple App](https://jlferrete.com/blog/spring-boot-tutorial-bootstrap-a-simple-app/)
 - [14 High-Performance Java Persistence Tips](https://jlferrete.com/blog/14-high-performance-java-persistence-tips/)
 - [Google Colaboratory – How to Run Python Code in Your Google Drive](https://jlferrete.com/blog/google-colaboratory-how-to-run-python-code-in-your-google-drive/)
-- [How to Use Sass with CSS](https://jlferrete.com/blog/how-to-use-sass-with-css/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
