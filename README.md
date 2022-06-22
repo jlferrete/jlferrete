@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Code Your Own Heroku Clone with Python – Provision Infrastructure Programmatically Tutorial](https://jlferrete.com/blog/code-your-own-heroku-clone-with-python-provision-infrastructure-programmatically-tutorial/)
 - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://jlferrete.com/blog/how-to-build-a-ci-cd-pipeline-with-github-actions-in-four-simple-steps/)
 - [Cómo programar mensajes en Slack](https://jlferrete.com/blog/como-programar-mensajes-en-slack/)
 - [Don’t lose your Github contributions when you leave an organization](https://jlferrete.com/blog/dont-lose-your-github-contributions-when-you-leave-an-organization/)
 - [Spring Boot Tutorial – Bootstrap a Simple App](https://jlferrete.com/blog/spring-boot-tutorial-bootstrap-a-simple-app/)
-- [14 High-Performance Java Persistence Tips](https://jlferrete.com/blog/14-high-performance-java-persistence-tips/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
