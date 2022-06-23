@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Create a Social Media App with Django](https://jlferrete.com/blog/create-a-social-media-app-with-django/)
 - [JPA and Hibernate – Criteria vs. JPQL vs. HQL Query](https://jlferrete.com/blog/jpa-and-hibernate-criteria-vs-jpql-vs-hql-query/)
 - [Code Your Own Heroku Clone with Python – Provision Infrastructure Programmatically Tutorial](https://jlferrete.com/blog/code-your-own-heroku-clone-with-python-provision-infrastructure-programmatically-tutorial/)
 - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://jlferrete.com/blog/how-to-build-a-ci-cd-pipeline-with-github-actions-in-four-simple-steps/)
 - [Cómo programar mensajes en Slack](https://jlferrete.com/blog/como-programar-mensajes-en-slack/)
-- [Don’t lose your Github contributions when you leave an organization](https://jlferrete.com/blog/dont-lose-your-github-contributions-when-you-leave-an-organization/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
