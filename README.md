@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://jlferrete.com/blog/command-line-for-beginners-how-to-use-the-terminal-like-a-pro-full-handbook/)
 - [How To Use Docker Python Images and Docker Compose With Python](https://jlferrete.com/blog/how-to-use-docker-python-images-and-docker-compose-with-python/)
 - [Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe](https://jlferrete.com/blog/home-network-security-how-to-use-suricata-raspberrypi4-and-python-to-make-your-network-safe/)
 - [Create a Social Media App with Django](https://jlferrete.com/blog/create-a-social-media-app-with-django/)
 - [JPA and Hibernate – Criteria vs. JPQL vs. HQL Query](https://jlferrete.com/blog/jpa-and-hibernate-criteria-vs-jpql-vs-hql-query/)
-- [Code Your Own Heroku Clone with Python – Provision Infrastructure Programmatically Tutorial](https://jlferrete.com/blog/code-your-own-heroku-clone-with-python-provision-infrastructure-programmatically-tutorial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
