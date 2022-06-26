@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [PyScript demo](https://jlferrete.com/blog/pyscript-demo/)
 - [Amazon lanza CodeWhisperer, su propia alternativa a GitHub Copilot… que no insertará código ya licenciado sin avisar](https://jlferrete.com/blog/amazon-lanza-codewhisperer-su-propia-alternativa-a-github-copilot-que-no-insertara-codigo-ya-licenciado-sin-avisar/)
 - [Introducing GitHub Skills](https://jlferrete.com/blog/introducing-github-skills/)
 - [The best way to map a @OneToOne relationship with JPA and Hibernate](https://jlferrete.com/blog/the-best-way-to-map-a-onetoone-relationship-with-jpa-and-hibernate/)
 - [How to Apply to Google Summer of Code](https://jlferrete.com/blog/how-to-apply-to-google-summer-of-code/)
-- [Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://jlferrete.com/blog/command-line-for-beginners-how-to-use-the-terminal-like-a-pro-full-handbook/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
