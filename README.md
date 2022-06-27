@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Retrieve User Information in Spring Security](https://jlferrete.com/blog/retrieve-user-information-in-spring-security/)
 - [Best way to map the JPA and Hibernate ManyToMany relationship](https://jlferrete.com/blog/best-way-to-map-the-jpa-and-hibernate-manytomany-relationship/)
 - [The best Spring Data JpaRepository](https://jlferrete.com/blog/the-best-spring-data-jparepository/)
 - [PyScript demo](https://jlferrete.com/blog/pyscript-demo/)
 - [Amazon lanza CodeWhisperer, su propia alternativa a GitHub Copilot… que no insertará código ya licenciado sin avisar](https://jlferrete.com/blog/amazon-lanza-codewhisperer-su-propia-alternativa-a-github-copilot-que-no-insertara-codigo-ya-licenciado-sin-avisar/)
-- [Introducing GitHub Skills](https://jlferrete.com/blog/introducing-github-skills/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
