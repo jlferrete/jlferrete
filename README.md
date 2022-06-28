@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Converting a JDBC ResultSet to JSON in Java](https://jlferrete.com/blog/converting-a-jdbc-resultset-to-json-in-java/)
 - [Restart a Single Container With Docker Compose](https://jlferrete.com/blog/restart-a-single-container-with-docker-compose/)
 - [Retrieve User Information in Spring Security](https://jlferrete.com/blog/retrieve-user-information-in-spring-security/)
 - [Best way to map the JPA and Hibernate ManyToMany relationship](https://jlferrete.com/blog/best-way-to-map-the-jpa-and-hibernate-manytomany-relationship/)
 - [The best Spring Data JpaRepository](https://jlferrete.com/blog/the-best-spring-data-jparepository/)
-- [PyScript demo](https://jlferrete.com/blog/pyscript-demo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
