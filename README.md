@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Java Package , Diseño e Interfaces](https://jlferrete.com/blog/java-package-diseno-e-interfaces/)
 - [¿Qué es Maven?](https://jlferrete.com/blog/que-es-maven/)
 - [Java @Data y preprocesado de JavaBeans](https://jlferrete.com/blog/java-data-y-preprocesado-de-javabeans/)
 - [Choosing a Django Version](https://jlferrete.com/blog/choosing-a-django-version/)
 - [Conditionally Styling Selected Elements in a Grid Container](https://jlferrete.com/blog/conditionally-styling-selected-elements-in-a-grid-container/)
-- [Reselect Your Last Selection in Vim with gv](https://jlferrete.com/blog/reselect-your-last-selection-in-vim-with-gv/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
