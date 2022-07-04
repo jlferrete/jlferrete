@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Hacking en IoT | Acceso al firmware de un dispositivo](https://jlferrete.com/blog/hacking-en-iot-acceso-al-firmware-de-un-dispositivo-2/)
 - [How to Create Microservices with FastAPI](https://jlferrete.com/blog/how-to-create-microservices-with-fastapi/)
 - [Contando qué es el PyCamp, y qué hicimos en el último](https://jlferrete.com/blog/contando-que-es-el-pycamp-y-que-hicimos-en-el-ultimo/)
 - [Instalar Windows 11 sin necesidad de una cuenta Microsoft: la última versión de Rufus nos permite eso y más](https://jlferrete.com/blog/instalar-windows-11-sin-necesidad-de-una-cuenta-microsoft-la-ultima-version-de-rufus-nos-permite-eso-y-mas/)
 - [Java Package , Diseño e Interfaces](https://jlferrete.com/blog/java-package-diseno-e-interfaces/)
-- [¿Qué es Maven?](https://jlferrete.com/blog/que-es-maven/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
