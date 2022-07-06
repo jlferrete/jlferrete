@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Bootcamp Free Python 3 – De 0 a Experto paso a paso](https://jlferrete.com/blog/bootcamp-free-python-3-de-0-a-experto-paso-a-paso/)
 - [What is the difference between LATERAL JOIN and a subquery in PostgreSQL](https://jlferrete.com/blog/what-is-the-difference-between-lateral-join-and-a-subquery-in-postgresql/)
 - [¿Puedo configurar Visual Studio Code como portable y usarlo en un USB?](https://jlferrete.com/blog/puedo-configurar-visual-studio-code-como-portable-y-usarlo-en-un-usb/)
 - [La mejor web para aprender lengua de signos: completamente gratuita y con acceso a diferentes idiomas](https://jlferrete.com/blog/la-mejor-web-para-aprender-lengua-de-signos-completamente-gratuita-y-con-acceso-a-diferentes-idiomas/)
 - [A Guide to Tag in Docker](https://jlferrete.com/blog/a-guide-to-tag-in-docker/)
-- [Hacking en IoT | Acceso al firmware de un dispositivo](https://jlferrete.com/blog/hacking-en-iot-acceso-al-firmware-de-un-dispositivo-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
