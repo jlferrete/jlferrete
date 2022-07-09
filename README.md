@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Free 10-Hour Machine Learning Course](https://jlferrete.com/blog/free-10-hour-machine-learning-course-3/)
 - [Spring read-only transaction Hibernate optimization](https://jlferrete.com/blog/spring-read-only-transaction-hibernate-optimization/)
 - [How to Consume REST APIs in React – a Beginner’s Guide](https://jlferrete.com/blog/how-to-consume-rest-apis-in-react-a-beginners-guide/)
 - [Limitar la comunicación entre tus pods en Kubernetes con Network Policies](https://jlferrete.com/blog/limitar-la-comunicacion-entre-tus-pods-en-kubernetes-con-network-policies/)
 - [Spring Security for Spring Boot Integration Tests](https://jlferrete.com/blog/spring-security-for-spring-boot-integration-tests/)
-- [Converting a JDBC ResultSet to JSON in Java](https://jlferrete.com/blog/converting-a-jdbc-resultset-to-json-in-java-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
