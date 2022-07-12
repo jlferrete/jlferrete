@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Implementing a Binary Tree in Java](https://jlferrete.com/blog/implementing-a-binary-tree-in-java/)
 - [How to Handle Missing Data in a Dataset](https://jlferrete.com/blog/how-to-handle-missing-data-in-a-dataset/)
 - [Batch processing best practices](https://jlferrete.com/blog/batch-processing-best-practices/)
 - [La Fundación Raspberry Pi está ofreciendo un curso GRATIS de programación en Python](https://jlferrete.com/blog/la-fundacion-raspberry-pi-esta-ofreciendo-un-curso-gratis-de-programacion-en-python/)
 - [IBM ofrece un curso gratuito de programación en Python que incluye certificación GRATIS](https://jlferrete.com/blog/ibm-ofrece-un-curso-gratuito-de-programacion-en-python-que-incluye-certificacion-gratis/)
-- [Free 10-Hour Machine Learning Course](https://jlferrete.com/blog/free-10-hour-machine-learning-course-3/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
