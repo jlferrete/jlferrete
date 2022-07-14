@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [11 Google Sheets formulas SEOs should know](https://jlferrete.com/blog/11-google-sheets-formulas-seos-should-know/)
 - [Youtube NO lo solucionaba, así que hice mi propio BOT…](https://jlferrete.com/blog/youtube-no-lo-solucionaba-asi-que-hice-mi-propio-bot/)
 - [React + Ink CLI Tutorial – How to Build a Browser Command Line Application](https://jlferrete.com/blog/react-ink-cli-tutorial-how-to-build-a-browser-command-line-application/)
 - [Automate Your Life with Python](https://jlferrete.com/blog/automate-your-life-with-python/)
 - [How do find and getReference EntityManager methods work when using JPA and Hibernate](https://jlferrete.com/blog/how-do-find-and-getreference-entitymanager-methods-work-when-using-jpa-and-hibernate/)
-- [Implementing a Binary Tree in Java](https://jlferrete.com/blog/implementing-a-binary-tree-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
