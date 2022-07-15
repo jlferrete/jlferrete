@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Optimotuss, el sistema para viajar en Metro sin parar en ninguna estación: “No es ciencia ficción”](https://jlferrete.com/blog/optimotuss-el-sistema-para-viajar-en-metro-sin-parar-en-ninguna-estacion-no-es-ciencia-ficcion/)
 - [How to Write Better Performing React Function Components](https://jlferrete.com/blog/how-to-write-better-performing-react-function-components/)
 - [WordPress vs Laravel PHP Framework](https://jlferrete.com/blog/wordpress-vs-laravel-php-framework/)
 - [11 Google Sheets formulas SEOs should know](https://jlferrete.com/blog/11-google-sheets-formulas-seos-should-know/)
 - [Youtube NO lo solucionaba, así que hice mi propio BOT…](https://jlferrete.com/blog/youtube-no-lo-solucionaba-asi-que-hice-mi-propio-bot/)
-- [React + Ink CLI Tutorial – How to Build a Browser Command Line Application](https://jlferrete.com/blog/react-ink-cli-tutorial-how-to-build-a-browser-command-line-application/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
