@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Add a Git Branch to Your Prompt with a Few Lines of Shell Scripting](https://jlferrete.com/blog/add-a-git-branch-to-your-prompt-with-a-few-lines-of-shell-scripting/)
 - [A beginner’s guide to JPA and Hibernate query hints](https://jlferrete.com/blog/a-beginners-guide-to-jpa-and-hibernate-query-hints/)
 - [Me he comprado un NAS para dejar de depender de Google Photos y Dropbox: configuración paso a paso](https://jlferrete.com/blog/me-he-comprado-un-nas-para-dejar-de-depender-de-google-photos-y-dropbox-configuracion-paso-a-paso-2/)
 - [How to create a Discord bot and add it to your server](https://jlferrete.com/blog/how-to-create-a-discord-bot-and-add-it-to-your-server/)
 - [Ya hay organizaciones pro-software libre abandonando GitHub por su uso comercial de proyectos open source en Copilot](https://jlferrete.com/blog/ya-hay-organizaciones-pro-software-libre-abandonando-github-por-su-uso-comercial-de-proyectos-open-source-en-copilot/)
-- [Optimotuss, el sistema para viajar en Metro sin parar en ninguna estación: “No es ciencia ficción”](https://jlferrete.com/blog/optimotuss-el-sistema-para-viajar-en-metro-sin-parar-en-ninguna-estacion-no-es-ciencia-ficcion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
