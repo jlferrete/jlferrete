@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Patch Requests to Have a Default Timeout](https://jlferrete.com/blog/how-to-patch-requests-to-have-a-default-timeout/)
 - [eBook: The Definitive Guide to Hotwire and Django](https://jlferrete.com/blog/ebook-the-definitive-guide-to-hotwire-and-django/)
 - [What are Docker Extensions](https://jlferrete.com/blog/what-are-docker-extensions/)
 - [Best Practices When Containerizing Your Next.js Application](https://jlferrete.com/blog/best-practices-when-containerizing-your-next-js-application/)
 - [Add a Git Branch to Your Prompt with a Few Lines of Shell Scripting](https://jlferrete.com/blog/add-a-git-branch-to-your-prompt-with-a-few-lines-of-shell-scripting/)
-- [A beginner’s guide to JPA and Hibernate query hints](https://jlferrete.com/blog/a-beginners-guide-to-jpa-and-hibernate-query-hints/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
