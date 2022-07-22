@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Statement, PreparedStatement y CallableStatement](https://jlferrete.com/blog/statement-preparedstatement-y-callablestatement/)
 - [Cómo clonar un Array en JavaScript de forma correcta y sin problemas](https://jlferrete.com/blog/como-clonar-un-array-en-javascript-de-forma-correcta-y-sin-problemas/)
 - [El patrón Iterador y su flexibilidad](https://jlferrete.com/blog/el-patron-iterador-y-su-flexibilidad/)
 - [¿Qué es Infura?](https://jlferrete.com/blog/que-es-infura/)
 - [How to Patch Requests to Have a Default Timeout](https://jlferrete.com/blog/how-to-patch-requests-to-have-a-default-timeout/)
-- [eBook: The Definitive Guide to Hotwire and Django](https://jlferrete.com/blog/ebook-the-definitive-guide-to-hotwire-and-django/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
