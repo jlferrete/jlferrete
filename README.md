@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Top 20 GraphQL Interview Questions with Answers](https://jlferrete.com/blog/top-20-graphql-interview-questions-with-answers/)
 - [Ingress vs. Load Balancer in Kubernetes](https://jlferrete.com/blog/ingress-vs-load-balancer-in-kubernetes/)
 - [Top 20 Mockito Interview Questions with Answers](https://jlferrete.com/blog/top-20-mockito-interview-questions-with-answers/)
 - [Tiempos de entrenamiento CPU vs GPU en Deep Learning](https://jlferrete.com/blog/tiempos-de-entrenamiento-cpu-vs-gpu-en-deep-learning/)
 - [Statement, PreparedStatement y CallableStatement](https://jlferrete.com/blog/statement-preparedstatement-y-callablestatement/)
-- [Cómo clonar un Array en JavaScript de forma correcta y sin problemas](https://jlferrete.com/blog/como-clonar-un-array-en-javascript-de-forma-correcta-y-sin-problemas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
