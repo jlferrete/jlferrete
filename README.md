@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [10 Examples of Git commands for Java Programmers](https://jlferrete.com/blog/10-examples-of-git-commands-for-java-programmers/)
 - [How to sort an Array in Java? Ascending and Descending Order Example](https://jlferrete.com/blog/how-to-sort-an-array-in-java-ascending-and-descending-order-example/)
 - [Top 20 GraphQL Interview Questions with Answers](https://jlferrete.com/blog/top-20-graphql-interview-questions-with-answers/)
 - [Ingress vs. Load Balancer in Kubernetes](https://jlferrete.com/blog/ingress-vs-load-balancer-in-kubernetes/)
 - [Top 20 Mockito Interview Questions with Answers](https://jlferrete.com/blog/top-20-mockito-interview-questions-with-answers/)
-- [Tiempos de entrenamiento CPU vs GPU en Deep Learning](https://jlferrete.com/blog/tiempos-de-entrenamiento-cpu-vs-gpu-en-deep-learning/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
