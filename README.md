@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Top 20 Web Development Interview Questions with Answer with 3 to 5 years experienced](https://jlferrete.com/blog/top-20-web-development-interview-questions-with-answer-with-3-to-5-years-experienced/)
 - [Creating JAR Files Programmatically](https://jlferrete.com/blog/creating-jar-files-programmatically/)
 - [Top 20 Bootstrap Interview Questions Answers for 1 to 3 Years Experienced](https://jlferrete.com/blog/top-20-bootstrap-interview-questions-answers-for-1-to-3-years-experienced/)
 - [Guide to Find in MongoDB](https://jlferrete.com/blog/guide-to-find-in-mongodb/)
 - [10 Examples of Git commands for Java Programmers](https://jlferrete.com/blog/10-examples-of-git-commands-for-java-programmers/)
-- [How to sort an Array in Java? Ascending and Descending Order Example](https://jlferrete.com/blog/how-to-sort-an-array-in-java-ascending-and-descending-order-example/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
