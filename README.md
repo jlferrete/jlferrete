@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Top 20 Machine Learning Interview Questions with Answers](https://jlferrete.com/blog/top-20-machine-learning-interview-questions-with-answers/)
 - [Top 20 CSS Interview Questions With Answers](https://jlferrete.com/blog/top-20-css-interview-questions-with-answers/)
 - [Top 20 Data Science Interview Questions with Answers](https://jlferrete.com/blog/top-20-data-science-interview-questions-with-answers/)
 - [Top 20 Spring Cloud Interview Questions with Answers](https://jlferrete.com/blog/top-20-spring-cloud-interview-questions-with-answers/)
 - [Top 20 IT Support Interview Questions with Answers for 2 to 5 Years Experienced](https://jlferrete.com/blog/top-20-it-support-interview-questions-with-answers-for-2-to-5-years-experienced/)
-- [Top 20 Web Development Interview Questions with Answer with 3 to 5 years experienced](https://jlferrete.com/blog/top-20-web-development-interview-questions-with-answer-with-3-to-5-years-experienced/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
