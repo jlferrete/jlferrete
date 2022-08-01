@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Panel de control lento en WordPress: cómo arreglarlo](https://jlferrete.com/blog/panel-de-control-lento-en-wordpress-como-arreglarlo/)
 - [A Guide to Maven Encoding](https://jlferrete.com/blog/a-guide-to-maven-encoding/)
 - [Top 20 Spring Data JPA Interview Questions with Answers](https://jlferrete.com/blog/top-20-spring-data-jpa-interview-questions-with-answers/)
 - [Spring Data JPA – Run an App Without a Database](https://jlferrete.com/blog/spring-data-jpa-run-an-app-without-a-database/)
 - [Top 20 HTML Interview Questions with Answers for 1 to 3 Years Experienced](https://jlferrete.com/blog/top-20-html-interview-questions-with-answers-for-1-to-3-years-experienced/)
-- [Top 20 Machine Learning Interview Questions with Answers](https://jlferrete.com/blog/top-20-machine-learning-interview-questions-with-answers/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
