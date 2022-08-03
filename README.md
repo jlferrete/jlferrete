@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Este ebook gratis te enseñará qué son los patrones de diseño y cómo aplicarlos al desarrollo de aplicaciones JavaScript / React](https://jlferrete.com/blog/este-ebook-gratis-te-ensenara-que-son-los-patrones-de-diseno-y-como-aplicarlos-al-desarrollo-de-aplicaciones-javascript-react/)
 - [Intro to the Jackson ObjectMapper](https://jlferrete.com/blog/intro-to-the-jackson-objectmapper/)
 - [Esto es lo que necesitas para usar un PC como si fuera un servidor NAS](https://jlferrete.com/blog/esto-es-lo-que-necesitas-para-usar-un-pc-como-si-fuera-un-servidor-nas/)
 - [Si te quedas en Windows 10, prueba con estos trucos para que nada ni nadie te mueva de ahí](https://jlferrete.com/blog/si-te-quedas-en-windows-10-prueba-con-estos-trucos-para-que-nada-ni-nadie-te-mueva-de-ahi/)
 - [Panel de control lento en WordPress: cómo arreglarlo](https://jlferrete.com/blog/panel-de-control-lento-en-wordpress-como-arreglarlo/)
-- [A Guide to Maven Encoding](https://jlferrete.com/blog/a-guide-to-maven-encoding/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
