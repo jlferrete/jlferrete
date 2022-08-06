@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Query Documents using Document ID in MongoDB](https://jlferrete.com/blog/query-documents-using-document-id-in-mongodb/)
 - [Using @NotNull on a Method Parameter](https://jlferrete.com/blog/using-notnull-on-a-method-parameter/)
 - [Este ebook gratis te enseñará qué son los patrones de diseño y cómo aplicarlos al desarrollo de aplicaciones JavaScript / React](https://jlferrete.com/blog/este-ebook-gratis-te-ensenara-que-son-los-patrones-de-diseno-y-como-aplicarlos-al-desarrollo-de-aplicaciones-javascript-react-2/)
 - [Seis juegos educativos gratis para aprender a programar (en docenas de lenguajes)](https://jlferrete.com/blog/seis-juegos-educativos-gratis-para-aprender-a-programar-en-docenas-de-lenguajes/)
 - [2136. Preguntas y cómo ser Community Manager](https://jlferrete.com/blog/2136-preguntas-y-como-ser-community-manager/)
-- [Curso de maquetación con Gutenberg](https://jlferrete.com/blog/curso-de-maquetacion-con-gutenberg/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
