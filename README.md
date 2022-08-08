@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comparación de constructores en Java y en Python](https://jlferrete.com/blog/comparacion-de-constructores-en-java-y-en-python/)
 - [Curso para superar el síndrome del impostor](https://jlferrete.com/blog/curso-para-superar-el-sindrome-del-impostor/)
 - [Modify a Specified Commit in Git](https://jlferrete.com/blog/modify-a-specified-commit-in-git/)
 - [Cómo desinstalar un Plugin en WordPress](https://jlferrete.com/blog/como-desinstalar-un-plugin-en-wordpress/)
 - [Query Documents using Document ID in MongoDB](https://jlferrete.com/blog/query-documents-using-document-id-in-mongodb/)
-- [Using @NotNull on a Method Parameter](https://jlferrete.com/blog/using-notnull-on-a-method-parameter/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
