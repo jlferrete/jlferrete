@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Javarevisited: How to use @EnableTransactionManagement in Spring Framework and Spring Boot? Example Tutorial](https://jlferrete.com/blog/javarevisited-how-to-use-enabletransactionmanagement-in-spring-framework-and-spring-boot-example-tutorial/)
 - [Javarevisited: Top 7 Websites To Learn System Design and Software Design in 2022](https://jlferrete.com/blog/javarevisited-top-7-websites-to-learn-system-design-and-software-design-in-2022/)
 - [Qué pasará finalmente con los repositorios inactivos en GitLab: te lo explicamos tras el cambio de postura de la compañía](https://jlferrete.com/blog/que-pasara-finalmente-con-los-repositorios-inactivos-en-gitlab-te-lo-explicamos-tras-el-cambio-de-postura-de-la-compania/)
 - [Comparación de constructores en Java y en Python](https://jlferrete.com/blog/comparacion-de-constructores-en-java-y-en-python/)
 - [Curso para superar el síndrome del impostor](https://jlferrete.com/blog/curso-para-superar-el-sindrome-del-impostor/)
-- [Modify a Specified Commit in Git](https://jlferrete.com/blog/modify-a-specified-commit-in-git/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
