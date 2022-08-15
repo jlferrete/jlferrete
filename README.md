@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [JPA vs Spring Data y sus diferencias](https://jlferrete.com/blog/jpa-vs-spring-data-y-sus-diferencias/)
 - [Java Herencia Multiple y sus opciones](https://jlferrete.com/blog/java-herencia-multiple-y-sus-opciones/)
 - [Interactive Shell Using Docker Compose](https://jlferrete.com/blog/interactive-shell-using-docker-compose/)
 - [Replace Element at a Specific Index in a Java ArrayList](https://jlferrete.com/blog/replace-element-at-a-specific-index-in-a-java-arraylist/)
 - [Javarevisited: How to use @EnableTransactionManagement in Spring Framework and Spring Boot? Example Tutorial](https://jlferrete.com/blog/javarevisited-how-to-use-enabletransactionmanagement-in-spring-framework-and-spring-boot-example-tutorial/)
-- [Javarevisited: Top 7 Websites To Learn System Design and Software Design in 2022](https://jlferrete.com/blog/javarevisited-top-7-websites-to-learn-system-design-and-software-design-in-2022/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
