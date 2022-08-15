@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Que es un Java Trait](https://jlferrete.com/blog/que-es-un-java-trait/)
 - [JPA vs Spring Data y sus diferencias](https://jlferrete.com/blog/jpa-vs-spring-data-y-sus-diferencias/)
 - [Java Herencia Multiple y sus opciones](https://jlferrete.com/blog/java-herencia-multiple-y-sus-opciones/)
 - [Interactive Shell Using Docker Compose](https://jlferrete.com/blog/interactive-shell-using-docker-compose/)
 - [Replace Element at a Specific Index in a Java ArrayList](https://jlferrete.com/blog/replace-element-at-a-specific-index-in-a-java-arraylist/)
-- [Javarevisited: How to use @EnableTransactionManagement in Spring Framework and Spring Boot? Example Tutorial](https://jlferrete.com/blog/javarevisited-how-to-use-enabletransactionmanagement-in-spring-framework-and-spring-boot-example-tutorial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
