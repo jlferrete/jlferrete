@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [MySQL rewriteBatchedStatements](https://jlferrete.com/blog/mysql-rewritebatchedstatements/)
 - [Apache HttpClient 4 Cookbook](https://jlferrete.com/blog/apache-httpclient-4-cookbook/)
 - [Java Thread concurrencia y Runnables](https://jlferrete.com/blog/java-thread-concurrencia-y-runnables/)
 - [Log4J PatternLayout](https://jlferrete.com/blog/log4j-patternlayout/)
 - [¿Que es un Java Trait](https://jlferrete.com/blog/que-es-un-java-trait/)
-- [JPA vs Spring Data y sus diferencias](https://jlferrete.com/blog/jpa-vs-spring-data-y-sus-diferencias/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
