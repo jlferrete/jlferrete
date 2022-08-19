@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Python Basics: Finding and Fixing Code Bugs](https://jlferrete.com/blog/python-basics-finding-and-fixing-code-bugs/)
 - [Asynchronous Tasks With Django and Celery](https://jlferrete.com/blog/asynchronous-tasks-with-django-and-celery/)
 - [«Lo mejor que podemos hacer hoy con JavaScript es retirarlo»: así habla el creador de JSON y autor de ‘How JavaScript Works’](https://jlferrete.com/blog/lo-mejor-que-podemos-hacer-hoy-con-javascript-es-retirarlo-asi-habla-el-creador-de-json-y-autor-de-how-javascript-works/)
 - [MySQL rewriteBatchedStatements](https://jlferrete.com/blog/mysql-rewritebatchedstatements/)
 - [Apache HttpClient 4 Cookbook](https://jlferrete.com/blog/apache-httpclient-4-cookbook/)
-- [Java Thread concurrencia y Runnables](https://jlferrete.com/blog/java-thread-concurrencia-y-runnables/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
