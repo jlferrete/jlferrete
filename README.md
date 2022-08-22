@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso para crear side projects](https://jlferrete.com/blog/curso-para-crear-side-projects/)
 - [¿ Qué es NEAR?](https://jlferrete.com/blog/que-es-near/)
 - [Generating XLSX (or CSV) from the Django admin (or elsewhere)](https://jlferrete.com/blog/generating-xlsx-or-csv-from-the-django-admin-or-elsewhere/)
 - [When Do You Use CSS Columns](https://jlferrete.com/blog/when-do-you-use-css-columns/)
 - [Testcontainers Database Integration Testing](https://jlferrete.com/blog/testcontainers-database-integration-testing/)
-- [Apache HttpClient – Follow Redirects for POST](https://jlferrete.com/blog/apache-httpclient-follow-redirects-for-post/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
