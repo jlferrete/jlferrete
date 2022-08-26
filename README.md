@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Integrating Mailchimp with Django](https://jlferrete.com/blog/integrating-mailchimp-with-django/)
 - [Django: excel output instead of csv](https://jlferrete.com/blog/django-excel-output-instead-of-csv/)
 - [Understanding async Python for the web](https://jlferrete.com/blog/understanding-async-python-for-the-web/)
 - [Easier Crediting of Contributors on GitHub](https://jlferrete.com/blog/easier-crediting-of-contributors-on-github/)
 - [Converting Speech to PDF with NextJS and ExpressJS](https://jlferrete.com/blog/converting-speech-to-pdf-with-nextjs-and-expressjs/)
-- [How to Use the Apache httpd Docker Official Image](https://jlferrete.com/blog/how-to-use-the-apache-httpd-docker-official-image/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
