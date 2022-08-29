@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ejemplo de patrón Builder para las clases Record de Java](https://jlferrete.com/blog/ejemplo-de-patron-builder-para-las-clases-record-de-java/)
 - [10 libros que leí en 2022](https://jlferrete.com/blog/10-libros-que-lei-en-2022/)
 - [Cada vez más facilidades para desarrollar en Ubuntu para Windows: su edición 22.04 ya cuenta con soporte nativo para .NET 6](https://jlferrete.com/blog/cada-vez-mas-facilidades-para-desarrollar-en-ubuntu-para-windows-su-edicion-22-04-ya-cuenta-con-soporte-nativo-para-net-6/)
 - [Eclipse Parameter Object y refactorings](https://jlferrete.com/blog/eclipse-parameter-object-y-refactorings/)
 - [Django: How to let user download a file](https://jlferrete.com/blog/django-how-to-let-user-download-a-file/)
-- [How to Combine Frontend and Backend](https://jlferrete.com/blog/how-to-combine-frontend-and-backend/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
