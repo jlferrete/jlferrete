@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Multipart Upload with Apache HttpClient](https://jlferrete.com/blog/multipart-upload-with-apache-httpclient/)
 - [How to Generate WordPress Posts Automatically with Python](https://jlferrete.com/blog/how-to-generate-wordpress-posts-automatically-with-python/)
 - [How to Use Python in Power BI](https://jlferrete.com/blog/how-to-use-python-in-power-bi/)
 - [Google ofrece un curso acelerado de programación en Python y es gratis](https://jlferrete.com/blog/google-ofrece-un-curso-acelerado-de-programacion-en-python-y-es-gratis/)
 - [Ejemplo de patrón Builder para las clases Record de Java](https://jlferrete.com/blog/ejemplo-de-patron-builder-para-las-clases-record-de-java/)
-- [10 libros que leí en 2022](https://jlferrete.com/blog/10-libros-que-lei-en-2022/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
