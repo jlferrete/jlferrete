@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Not Sure How to WordPress Anymore?](https://jlferrete.com/blog/not-sure-how-to-wordpress-anymore/)
 - [Using Grid Named Areas to Visualize (and Reference) Your Layout](https://jlferrete.com/blog/using-grid-named-areas-to-visualize-and-reference-your-layout/)
 - [Test Specific HTTP Status Code Responses With https://t.co/9vKMAf6n4p](https://jlferrete.com/blog/test-specific-http-status-code-responses-with-https-t-co-9vkmaf6n4p/)
 - [Curso de Pitch Deck](https://jlferrete.com/blog/curso-de-pitch-deck/)
 - [How to Dual Boot Windows 10 and Ubuntu](https://jlferrete.com/blog/how-to-dual-boot-windows-10-and-ubuntu/)
-- [Multipart Upload with Apache HttpClient](https://jlferrete.com/blog/multipart-upload-with-apache-httpclient/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
