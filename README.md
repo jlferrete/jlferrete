@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [File Handling in Python – How to Create, Read, and Write to a File](https://jlferrete.com/blog/file-handling-in-python-how-to-create-read-and-write-to-a-file/)
 - [How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot](https://jlferrete.com/blog/how-to-perform-integration-testing-using-junit-5-and-testcontainers-with-springboot/)
 - [Django News – Heroku Eliminates Free Tiers](https://jlferrete.com/blog/django-news-heroku-eliminates-free-tiers/)
 - [Not Sure How to WordPress Anymore?](https://jlferrete.com/blog/not-sure-how-to-wordpress-anymore/)
 - [Using Grid Named Areas to Visualize (and Reference) Your Layout](https://jlferrete.com/blog/using-grid-named-areas-to-visualize-and-reference-your-layout/)
-- [Test Specific HTTP Status Code Responses With https://t.co/9vKMAf6n4p](https://jlferrete.com/blog/test-specific-http-status-code-responses-with-https-t-co-9vkmaf6n4p/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
