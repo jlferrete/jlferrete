@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué fue de Brian Kernighan, pionero de la fórmula ‘Hola, Mundo!’ y leyenda de los primeros tiempos de Unix](https://jlferrete.com/blog/que-fue-de-brian-kernighan-pionero-de-la-formula-hola-mundo-y-leyenda-de-los-primeros-tiempos-de-unix/)
 - [Java modificadores acceso y curiosidades](https://jlferrete.com/blog/java-modificadores-acceso-y-curiosidades/)
 - [¿Qué es Apache Iceberg?](https://jlferrete.com/blog/que-es-apache-iceberg/)
 - [File Handling in Python – How to Create, Read, and Write to a File](https://jlferrete.com/blog/file-handling-in-python-how-to-create-read-and-write-to-a-file/)
 - [How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot](https://jlferrete.com/blog/how-to-perform-integration-testing-using-junit-5-and-testcontainers-with-springboot/)
-- [Django News – Heroku Eliminates Free Tiers](https://jlferrete.com/blog/django-news-heroku-eliminates-free-tiers/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
