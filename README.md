@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Enviar correo electrónico vía Gmail y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-gmail-y-smtp/)
 - [Enviar correo electrónico vía Outlook y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-outlook-y-smtp/)
 - [Qué fue de Brian Kernighan, pionero de la fórmula ‘Hola, Mundo!’ y leyenda de los primeros tiempos de Unix](https://jlferrete.com/blog/que-fue-de-brian-kernighan-pionero-de-la-formula-hola-mundo-y-leyenda-de-los-primeros-tiempos-de-unix/)
 - [Java modificadores acceso y curiosidades](https://jlferrete.com/blog/java-modificadores-acceso-y-curiosidades/)
 - [¿Qué es Apache Iceberg?](https://jlferrete.com/blog/que-es-apache-iceberg/)
-- [File Handling in Python – How to Create, Read, and Write to a File](https://jlferrete.com/blog/file-handling-in-python-how-to-create-read-and-write-to-a-file/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
