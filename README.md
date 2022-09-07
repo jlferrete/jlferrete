@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Javarevisited: Decorator Design Pattern in Java with Example Java Tutorial](https://jlferrete.com/blog/javarevisited-decorator-design-pattern-in-java-with-example-java-tutorial/)
 - [Enviar correo electrónico en HTML y con adjuntos vía SMTP](https://jlferrete.com/blog/enviar-correo-electronico-en-html-y-con-adjuntos-via-smtp/)
 - [Enviar correo electrónico vía Gmail y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-gmail-y-smtp/)
 - [Enviar correo electrónico vía Outlook y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-outlook-y-smtp/)
 - [Qué fue de Brian Kernighan, pionero de la fórmula ‘Hola, Mundo!’ y leyenda de los primeros tiempos de Unix](https://jlferrete.com/blog/que-fue-de-brian-kernighan-pionero-de-la-formula-hola-mundo-y-leyenda-de-los-primeros-tiempos-de-unix/)
-- [Java modificadores acceso y curiosidades](https://jlferrete.com/blog/java-modificadores-acceso-y-curiosidades/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
