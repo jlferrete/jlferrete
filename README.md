@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Creating a custom Spring Cloud Gateway Filter](https://jlferrete.com/blog/creating-a-custom-spring-cloud-gateway-filter/)
 - [Feign Client Exception Handling](https://jlferrete.com/blog/feign-client-exception-handling/)
 - [Javarevisited: Decorator Design Pattern in Java with Example Java Tutorial](https://jlferrete.com/blog/javarevisited-decorator-design-pattern-in-java-with-example-java-tutorial/)
 - [Enviar correo electrónico en HTML y con adjuntos vía SMTP](https://jlferrete.com/blog/enviar-correo-electronico-en-html-y-con-adjuntos-via-smtp/)
 - [Enviar correo electrónico vía Gmail y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-gmail-y-smtp/)
-- [Enviar correo electrónico vía Outlook y SMTP](https://jlferrete.com/blog/enviar-correo-electronico-via-outlook-y-smtp/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
