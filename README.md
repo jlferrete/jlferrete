@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Multitenancy With Spring Data JPA](https://jlferrete.com/blog/multitenancy-with-spring-data-jpa/)
 - [Javarevisited: How to add element at the head and tail of a LinkedList in Java? Example](https://jlferrete.com/blog/javarevisited-how-to-add-element-at-the-head-and-tail-of-a-linkedlist-in-java-example/)
 - [How to Parse an INI File in Java](https://jlferrete.com/blog/how-to-parse-an-ini-file-in-java/)
 - [Javarevisited: How to use for loop in Linux? Looping through List, values, and range in Bash with Example](https://jlferrete.com/blog/javarevisited-how-to-use-for-loop-in-linux-looping-through-list-values-and-range-in-bash-with-example/)
 - [Creating a custom Spring Cloud Gateway Filter](https://jlferrete.com/blog/creating-a-custom-spring-cloud-gateway-filter/)
-- [Feign Client Exception Handling](https://jlferrete.com/blog/feign-client-exception-handling/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
