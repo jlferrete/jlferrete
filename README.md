@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Building IoT Applications Using Fauna and Spring](https://jlferrete.com/blog/building-iot-applications-using-fauna-and-spring/)
 - [Difference Between Arrays.asList() and List.of()](https://jlferrete.com/blog/difference-between-arrays-aslist-and-list-of/)
 - [Swagger: Specify Two Responses with the Same Response Code](https://jlferrete.com/blog/swagger-specify-two-responses-with-the-same-response-code/)
 - [Multitenancy With Spring Data JPA](https://jlferrete.com/blog/multitenancy-with-spring-data-jpa/)
 - [Javarevisited: How to add element at the head and tail of a LinkedList in Java? Example](https://jlferrete.com/blog/javarevisited-how-to-add-element-at-the-head-and-tail-of-a-linkedlist-in-java-example/)
-- [How to Parse an INI File in Java](https://jlferrete.com/blog/how-to-parse-an-ini-file-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
