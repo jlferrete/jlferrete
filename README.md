@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Spring JDBC Batch Inserts](https://jlferrete.com/blog/spring-jdbc-batch-inserts/)
 - [Javarevisited: 10 Example of SSH command in Linux and UNIX](https://jlferrete.com/blog/javarevisited-10-example-of-ssh-command-in-linux-and-unix/)
 - [Building IoT Applications Using Fauna and Spring](https://jlferrete.com/blog/building-iot-applications-using-fauna-and-spring/)
 - [Difference Between Arrays.asList() and List.of()](https://jlferrete.com/blog/difference-between-arrays-aslist-and-list-of/)
 - [Swagger: Specify Two Responses with the Same Response Code](https://jlferrete.com/blog/swagger-specify-two-responses-with-the-same-response-code/)
-- [Multitenancy With Spring Data JPA](https://jlferrete.com/blog/multitenancy-with-spring-data-jpa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
