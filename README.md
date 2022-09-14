@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Los 30 ajustes del móvil que siempre cambio cuando estreno smartphone](https://jlferrete.com/blog/los-30-ajustes-del-movil-que-siempre-cambio-cuando-estreno-smartphone/)
 - [Un pendrive cogiendo polvo es un USB desaprovechado: 10 ideas para sacarle el máximo partido en tu PC](https://jlferrete.com/blog/un-pendrive-cogiendo-polvo-es-un-usb-desaprovechado-10-ideas-para-sacarle-el-maximo-partido-en-tu-pc/)
 - [Toggle a Boolean Variable in Java](https://jlferrete.com/blog/toggle-a-boolean-variable-in-java/)
 - [Spring JDBC Batch Inserts](https://jlferrete.com/blog/spring-jdbc-batch-inserts/)
 - [Javarevisited: 10 Example of SSH command in Linux and UNIX](https://jlferrete.com/blog/javarevisited-10-example-of-ssh-command-in-linux-and-unix/)
-- [Building IoT Applications Using Fauna and Spring](https://jlferrete.com/blog/building-iot-applications-using-fauna-and-spring/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
