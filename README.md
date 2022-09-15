@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Yaiza Rubio, experta en ciberseguridad: “Evitar internet no es una opción; hay que inculcar el uso seguro”](https://jlferrete.com/blog/yaiza-rubio-experta-en-ciberseguridad-evitar-internet-no-es-una-opcion-hay-que-inculcar-el-uso-seguro/)
 - [Me he comprado un ordenador con Windows 11, ¿qué hago ahora?](https://jlferrete.com/blog/me-he-comprado-un-ordenador-con-windows-11-que-hago-ahora/)
 - [Los 30 ajustes del móvil que siempre cambio cuando estreno smartphone](https://jlferrete.com/blog/los-30-ajustes-del-movil-que-siempre-cambio-cuando-estreno-smartphone/)
 - [Un pendrive cogiendo polvo es un USB desaprovechado: 10 ideas para sacarle el máximo partido en tu PC](https://jlferrete.com/blog/un-pendrive-cogiendo-polvo-es-un-usb-desaprovechado-10-ideas-para-sacarle-el-maximo-partido-en-tu-pc/)
 - [Toggle a Boolean Variable in Java](https://jlferrete.com/blog/toggle-a-boolean-variable-in-java/)
-- [Spring JDBC Batch Inserts](https://jlferrete.com/blog/spring-jdbc-batch-inserts/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
