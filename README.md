@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Quiero empezar a usar Linux: guía todo lo que debes saber y primeros pasos](https://jlferrete.com/blog/quiero-empezar-a-usar-linux-guia-todo-lo-que-debes-saber-y-primeros-pasos/)
 - [Cómo reparar un disco duro NTFS corrupto](https://jlferrete.com/blog/como-reparar-un-disco-duro-ntfs-corrupto/)
 - [The best way to fetch a Spring Data JPA DTO Projection](https://jlferrete.com/blog/the-best-way-to-fetch-a-spring-data-jpa-dto-projection/)
 - [Apache HttpClient – Get the Status Code](https://jlferrete.com/blog/apache-httpclient-get-the-status-code/)
 - [How to use different Java versions for main and test in Maven](https://jlferrete.com/blog/how-to-use-different-java-versions-for-main-and-test-in-maven/)
-- [Apache HttpClient – Send Custom Cookie](https://jlferrete.com/blog/apache-httpclient-send-custom-cookie/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
