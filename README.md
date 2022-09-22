@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo acelerar el arranque en Linux](https://jlferrete.com/blog/como-acelerar-el-arranque-en-linux/)
 - [Inversion of Control and Dependency Injection with Spring](https://jlferrete.com/blog/inversion-of-control-and-dependency-injection-with-spring/)
 - [4 errores comunes al empezar a programar que debes corregir](https://jlferrete.com/blog/4-errores-comunes-al-empezar-a-programar-que-debes-corregir/)
 - [Open Source for Developers – A Beginner’s Handbook to Help You Start Contributing](https://jlferrete.com/blog/open-source-for-developers-a-beginners-handbook-to-help-you-start-contributing/)
 - [Apache HttpClient – Cancel Request](https://jlferrete.com/blog/apache-httpclient-cancel-request/)
-- [Un simulador de vida artificial en 100 líneas de código](https://jlferrete.com/blog/un-simulador-de-vida-artificial-en-100-lineas-de-codigo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
