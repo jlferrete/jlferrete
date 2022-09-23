@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [A Comparison Between Spring and Spring Boot](https://jlferrete.com/blog/a-comparison-between-spring-and-spring-boot/)
 - [How to dockerise your Flask application](https://jlferrete.com/blog/how-to-dockerise-your-flask-application/)
 - [A Face recognition attendance system with python](https://jlferrete.com/blog/a-face-recognition-attendance-system-with-python/)
 - [Cómo acelerar el arranque en Linux](https://jlferrete.com/blog/como-acelerar-el-arranque-en-linux/)
 - [Inversion of Control and Dependency Injection with Spring](https://jlferrete.com/blog/inversion-of-control-and-dependency-injection-with-spring/)
-- [4 errores comunes al empezar a programar que debes corregir](https://jlferrete.com/blog/4-errores-comunes-al-empezar-a-programar-que-debes-corregir/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
