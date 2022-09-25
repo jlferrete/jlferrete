@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Entity To DTO Conversion for a Spring REST API](https://jlferrete.com/blog/entity-to-dto-conversion-for-a-spring-rest-api/)
 - [The Spring Data findAll Anti-Pattern](https://jlferrete.com/blog/the-spring-data-findall-anti-pattern/)
 - [Spring Profiles](https://jlferrete.com/blog/spring-profiles/)
 - [A Comparison Between Spring and Spring Boot](https://jlferrete.com/blog/a-comparison-between-spring-and-spring-boot/)
 - [How to dockerise your Flask application](https://jlferrete.com/blog/how-to-dockerise-your-flask-application/)
-- [A Face recognition attendance system with python](https://jlferrete.com/blog/a-face-recognition-attendance-system-with-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
