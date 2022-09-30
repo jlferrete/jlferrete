@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Strong Consistency with YugabyteDB](https://jlferrete.com/blog/strong-consistency-with-yugabytedb/)
 - [6 Alternativas a Figma](https://jlferrete.com/blog/6-alternativas-a-figma/)
 - [Pensar fuera de la caja](https://jlferrete.com/blog/pensar-fuera-de-la-caja/)
 - [Map a JSON POST to Multiple Spring MVC Parameters](https://jlferrete.com/blog/map-a-json-post-to-multiple-spring-mvc-parameters/)
 - [Top 5 Spring MVC Annotations for Developing RESTful Web Services](https://jlferrete.com/blog/top-5-spring-mvc-annotations-for-developing-restful-web-services/)
-- [10 consejos para hacer crecer tus seguidores de TikTok](https://jlferrete.com/blog/10-consejos-para-hacer-crecer-tus-seguidores-de-tiktok/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
