@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de Canva](https://jlferrete.com/blog/curso-de-canva/)
 - [When Do You Use an Ellipsis in Python?](https://jlferrete.com/blog/when-do-you-use-an-ellipsis-in-python/)
 - [Building Python Project Documentation With MkDocs](https://jlferrete.com/blog/building-python-project-documentation-with-mkdocs/)
 - [Code a Minecraft Clone Using React and Three.js](https://jlferrete.com/blog/code-a-minecraft-clone-using-react-and-three-js/)
 - [Strong Consistency with YugabyteDB](https://jlferrete.com/blog/strong-consistency-with-yugabytedb/)
-- [6 Alternativas a Figma](https://jlferrete.com/blog/6-alternativas-a-figma/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
