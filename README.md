@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [La inteligencia artificial es capaz de generar discursos con tu voz](https://jlferrete.com/blog/la-inteligencia-artificial-es-capaz-de-generar-discursos-con-tu-voz/)
 - [Java Scanner Taking a Character Input](https://jlferrete.com/blog/java-scanner-taking-a-character-input/)
 - [How to use Mockito to Unit test Java Program with JUnit? Example Tutorial](https://jlferrete.com/blog/how-to-use-mockito-to-unit-test-java-program-with-junit-example-tutorial/)
 - [Los mejores cursos gratis de programación y más que ofrecen las mejores universidades del mundo](https://jlferrete.com/blog/los-mejores-cursos-gratis-de-programacion-y-mas-que-ofrecen-las-mejores-universidades-del-mundo/)
 - [Put together a short (8 minute) video to show some key differences between Laravel Passport and Sanctum](https://jlferrete.com/blog/put-together-a-short-8-minute-video-to-show-some-key-differences-between-laravel-passport-and-sanctum/)
-- [Curso de Canva](https://jlferrete.com/blog/curso-de-canva/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
