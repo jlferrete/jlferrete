@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente](https://jlferrete.com/blog/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
 - [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://jlferrete.com/blog/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
 - [La inteligencia artificial es capaz de generar discursos con tu voz](https://jlferrete.com/blog/la-inteligencia-artificial-es-capaz-de-generar-discursos-con-tu-voz/)
 - [Java Scanner Taking a Character Input](https://jlferrete.com/blog/java-scanner-taking-a-character-input/)
 - [How to use Mockito to Unit test Java Program with JUnit? Example Tutorial](https://jlferrete.com/blog/how-to-use-mockito-to-unit-test-java-program-with-junit-example-tutorial/)
-- [Los mejores cursos gratis de programación y más que ofrecen las mejores universidades del mundo](https://jlferrete.com/blog/los-mejores-cursos-gratis-de-programacion-y-mas-que-ofrecen-las-mejores-universidades-del-mundo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
