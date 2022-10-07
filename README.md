@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Java 8 – Comparison with Lambdas](https://jlferrete.com/blog/java-8-comparison-with-lambdas/)
 - [GA4, GTM y el dataLayer](https://jlferrete.com/blog/ga4-gtm-y-el-datalayer/)
 - [Guide to the Storage Engine in Apache Cassandra](https://jlferrete.com/blog/guide-to-the-storage-engine-in-apache-cassandra/)
 - [AMA: Seguridad en WordPress, ¿Y eso qué significa realmente](https://jlferrete.com/blog/ama-seguridad-en-wordpress-y-eso-que-significa-realmente/)
 - [Plugins y otras formas de mejorar la accesibilidad web con WordPress](https://jlferrete.com/blog/plugins-y-otras-formas-de-mejorar-la-accesibilidad-web-con-wordpress/)
-- [La inteligencia artificial es capaz de generar discursos con tu voz](https://jlferrete.com/blog/la-inteligencia-artificial-es-capaz-de-generar-discursos-con-tu-voz/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
