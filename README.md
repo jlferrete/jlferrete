@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guide To CompletableFuture](https://jlferrete.com/blog/guide-to-completablefuture-2/)
 - [Core Web Vitals: ¿Qué son estas métricas y cómo mejorarlas?](https://jlferrete.com/blog/core-web-vitals-que-son-estas-metricas-y-como-mejorarlas/)
 - [Esto es lo que hago en mi PC para que Windows 10 y 11 funcionen como el primer día](https://jlferrete.com/blog/esto-es-lo-que-hago-en-mi-pc-para-que-windows-10-y-11-funcionen-como-el-primer-dia/)
 - [How to Add Python to PATH](https://jlferrete.com/blog/how-to-add-python-to-path/)
 - [La tecnología nativa de la nube se combina con la nube híbrida: guía estratégica](https://jlferrete.com/blog/la-tecnologia-nativa-de-la-nube-se-combina-con-la-nube-hibrida-guia-estrategica/)
-- [How to Learn Serverless AWS by Building 7 Projects](https://jlferrete.com/blog/how-to-learn-serverless-aws-by-building-7-projects/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
