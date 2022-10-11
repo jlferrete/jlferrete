@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [La inteligencia artificial es capaz de generar discursos con tu voz](https://jlferrete.com/blog/la-inteligencia-artificial-es-capaz-de-generar-discursos-con-tu-voz-2/)
 - [Como acceder a nuestro localhost desde cualquier lugar](https://jlferrete.com/blog/como-acceder-a-nuestro-localhost-desde-cualquier-lugar/)
 - [Guide To CompletableFuture](https://jlferrete.com/blog/guide-to-completablefuture-2/)
 - [Core Web Vitals: ¿Qué son estas métricas y cómo mejorarlas?](https://jlferrete.com/blog/core-web-vitals-que-son-estas-metricas-y-como-mejorarlas/)
 - [Esto es lo que hago en mi PC para que Windows 10 y 11 funcionen como el primer día](https://jlferrete.com/blog/esto-es-lo-que-hago-en-mi-pc-para-que-windows-10-y-11-funcionen-como-el-primer-dia/)
-- [How to Add Python to PATH](https://jlferrete.com/blog/how-to-add-python-to-path/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
