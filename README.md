@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Como instalar una instancia de GitLab](https://jlferrete.com/blog/como-instalar-una-instancia-de-gitlab/)
 - [Malestar entre los usuarios de Google Colab, que ven limitados sus recursos de computación tras un cambio en las opciones de pago](https://jlferrete.com/blog/malestar-entre-los-usuarios-de-google-colab-que-ven-limitados-sus-recursos-de-computacion-tras-un-cambio-en-las-opciones-de-pago/)
 - [La inteligencia artificial es capaz de generar discursos con tu voz](https://jlferrete.com/blog/la-inteligencia-artificial-es-capaz-de-generar-discursos-con-tu-voz-2/)
 - [Como acceder a nuestro localhost desde cualquier lugar](https://jlferrete.com/blog/como-acceder-a-nuestro-localhost-desde-cualquier-lugar/)
 - [Guide To CompletableFuture](https://jlferrete.com/blog/guide-to-completablefuture-2/)
-- [Core Web Vitals: ¿Qué son estas métricas y cómo mejorarlas?](https://jlferrete.com/blog/core-web-vitals-que-son-estas-metricas-y-como-mejorarlas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
