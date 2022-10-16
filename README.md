@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué es el Growth Hacking?](https://jlferrete.com/blog/que-es-el-growth-hacking/)
 - [Cómo descargar vídeos, música o audio de YouTube y otras webs](https://jlferrete.com/blog/como-descargar-videos-musica-o-audio-de-youtube-y-otras-webs/)
 - [OKRs – From Zero To Hero](https://jlferrete.com/blog/okrs-from-zero-to-hero/)
 - [How to Safely Pass Data to JavaScript in a Django Template](https://jlferrete.com/blog/how-to-safely-pass-data-to-javascript-in-a-django-template/)
 - [How to Safely Share Your Email Address on a Website](https://jlferrete.com/blog/how-to-safely-share-your-email-address-on-a-website/)
-- [Lambda Expressions and Functional Interfaces: Tips and Best Practices](https://jlferrete.com/blog/lambda-expressions-and-functional-interfaces-tips-and-best-practices/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
