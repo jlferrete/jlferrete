@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Nuevos patrones para cabeceras, pies de página, biografías con enlaces y muchos más](https://jlferrete.com/blog/nuevos-patrones-para-cabeceras-pies-de-pagina-biografias-con-enlaces-y-muchos-mas/)
 - [A Bootiful Podcast: Spring and Java community legend Marten Deinum](https://jlferrete.com/blog/a-bootiful-podcast-spring-and-java-community-legend-marten-deinum/)
 - [Dealing with “java.lang.OutOfMemoryError: PermGen space” Error](https://jlferrete.com/blog/dealing-with-java-lang-outofmemoryerror-permgen-space-error/)
 - [¿Qué es el Growth Hacking?](https://jlferrete.com/blog/que-es-el-growth-hacking/)
 - [Cómo descargar vídeos, música o audio de YouTube y otras webs](https://jlferrete.com/blog/como-descargar-videos-musica-o-audio-de-youtube-y-otras-webs/)
-- [OKRs – From Zero To Hero](https://jlferrete.com/blog/okrs-from-zero-to-hero/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
