@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Beneficios de aplicar la gamificación al sector turístico](https://jlferrete.com/blog/beneficios-de-aplicar-la-gamificacion-al-sector-turistico/)
 - [Los mejores consejos para generar mayor interacción en redes sociales](https://jlferrete.com/blog/los-mejores-consejos-para-generar-mayor-interaccion-en-redes-sociales/)
 - [Cómo generar facturas en WooCommerce automáticamente](https://jlferrete.com/blog/como-generar-facturas-en-woocommerce-automaticamente/)
 - [Barra inferior fija para móviles en WordPress](https://jlferrete.com/blog/barra-inferior-fija-para-moviles-en-wordpress/)
 - [Añadir selector de cantidades al finalizar compra en WooCommerce](https://jlferrete.com/blog/anadir-selector-de-cantidades-al-finalizar-compra-en-woocommerce/)
-- [Canva presenta la función de creación de sitios web; y más noticias sobre WordPress](https://jlferrete.com/blog/canva-presenta-la-funcion-de-creacion-de-sitios-web-y-mas-noticias-sobre-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
