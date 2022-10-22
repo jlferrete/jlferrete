@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Observability with Spring Boot 3](https://jlferrete.com/blog/observability-with-spring-boot-3/)
 - [¿Es React una biblioteca o un framework?](https://jlferrete.com/blog/es-react-una-biblioteca-o-un-framework/)
 - [21 Jenkins and CI/CD Interview Questions for Java Developers and DevOps (with Answers)](https://jlferrete.com/blog/21-jenkins-and-ci-cd-interview-questions-for-java-developers-and-devops-with-answers/)
 - [Patterns for Iterating Over Large Result Sets With Spring Data JPA](https://jlferrete.com/blog/patterns-for-iterating-over-large-result-sets-with-spring-data-jpa/)
 - [Beneficios de aplicar la gamificación al sector turístico](https://jlferrete.com/blog/beneficios-de-aplicar-la-gamificacion-al-sector-turistico/)
-- [Los mejores consejos para generar mayor interacción en redes sociales](https://jlferrete.com/blog/los-mejores-consejos-para-generar-mayor-interaccion-en-redes-sociales/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
