@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Fechas relativas en WordPress a través de código](https://jlferrete.com/blog/fechas-relativas-en-wordpress-a-traves-de-codigo/)
 - [Embracing Virtual Threads](https://jlferrete.com/blog/embracing-virtual-threads/)
 - [Setting Time-To-Live Value for Caching](https://jlferrete.com/blog/setting-time-to-live-value-for-caching/)
 - [Observability with Spring Boot 3](https://jlferrete.com/blog/observability-with-spring-boot-3/)
 - [¿Es React una biblioteca o un framework?](https://jlferrete.com/blog/es-react-una-biblioteca-o-un-framework/)
-- [21 Jenkins and CI/CD Interview Questions for Java Developers and DevOps (with Answers)](https://jlferrete.com/blog/21-jenkins-and-ci-cd-interview-questions-for-java-developers-and-devops-with-answers/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
