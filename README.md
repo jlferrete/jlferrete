@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué fue de CyanogenMod](https://jlferrete.com/blog/que-fue-de-cyanogenmod/)
 - [Infinity in Java](https://jlferrete.com/blog/infinity-in-java/)
 - [Java Literals](https://jlferrete.com/blog/java-literals/)
 - [Fechas relativas en WordPress a través de código](https://jlferrete.com/blog/fechas-relativas-en-wordpress-a-traves-de-codigo/)
 - [Embracing Virtual Threads](https://jlferrete.com/blog/embracing-virtual-threads/)
-- [Setting Time-To-Live Value for Caching](https://jlferrete.com/blog/setting-time-to-live-value-for-caching/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
