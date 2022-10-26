@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Build a Tic-Tac-Toe Game Engine With an AI Player in Python](https://jlferrete.com/blog/build-a-tic-tac-toe-game-engine-with-an-ai-player-in-python/)
 - [Guava Cache](https://jlferrete.com/blog/guava-cache/)
 - [Qué fue de CyanogenMod](https://jlferrete.com/blog/que-fue-de-cyanogenmod/)
 - [Infinity in Java](https://jlferrete.com/blog/infinity-in-java/)
 - [Java Literals](https://jlferrete.com/blog/java-literals/)
-- [Fechas relativas en WordPress a través de código](https://jlferrete.com/blog/fechas-relativas-en-wordpress-a-traves-de-codigo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
