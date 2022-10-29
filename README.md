@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cada vez más estudiantes usan inteligencia artificial para hacer sus trabajos de clase. Y nadie se da cuenta](https://jlferrete.com/blog/cada-vez-mas-estudiantes-usan-inteligencia-artificial-para-hacer-sus-trabajos-de-clase-y-nadie-se-da-cuenta/)
 - [Cómo implementar Social Selling de manera correcta](https://jlferrete.com/blog/como-implementar-social-selling-de-manera-correcta/)
 - [Las funcionalidades de un service mesh en una arquitectura de microservicios](https://jlferrete.com/blog/las-funcionalidades-de-un-service-mesh-en-una-arquitectura-de-microservicios/)
 - [PHP For Beginners: Make a PHP Router](https://jlferrete.com/blog/php-for-beginners-make-a-php-router/)
 - [Fancy Image Decorations: Masks and Advanced Hover Effects](https://jlferrete.com/blog/fancy-image-decorations-masks-and-advanced-hover-effects/)
-- [Build a Tic-Tac-Toe Game Engine With an AI Player in Python](https://jlferrete.com/blog/build-a-tic-tac-toe-game-engine-with-an-ai-player-in-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
