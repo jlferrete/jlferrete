@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Implementing Factory Pattern With Generics in Java](https://jlferrete.com/blog/implementing-factory-pattern-with-generics-in-java/)
 - [Migrating to a Custom User Model Mid-project in Django](https://jlferrete.com/blog/migrating-to-a-custom-user-model-mid-project-in-django/)
 - [DjangoTricks: How to Handle Django Forms within Modal Dialogs](https://jlferrete.com/blog/djangotricks-how-to-handle-django-forms-within-modal-dialogs/)
 - [Cada vez más estudiantes usan inteligencia artificial para hacer sus trabajos de clase. Y nadie se da cuenta](https://jlferrete.com/blog/cada-vez-mas-estudiantes-usan-inteligencia-artificial-para-hacer-sus-trabajos-de-clase-y-nadie-se-da-cuenta/)
 - [Cómo implementar Social Selling de manera correcta](https://jlferrete.com/blog/como-implementar-social-selling-de-manera-correcta/)
-- [Las funcionalidades de un service mesh en una arquitectura de microservicios](https://jlferrete.com/blog/las-funcionalidades-de-un-service-mesh-en-una-arquitectura-de-microservicios/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
