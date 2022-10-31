@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guide to Simple Binary Encoding](https://jlferrete.com/blog/guide-to-simple-binary-encoding/)
 - [Convert String to char in Java](https://jlferrete.com/blog/convert-string-to-char-in-java/)
 - [Implementing Factory Pattern With Generics in Java](https://jlferrete.com/blog/implementing-factory-pattern-with-generics-in-java/)
 - [Migrating to a Custom User Model Mid-project in Django](https://jlferrete.com/blog/migrating-to-a-custom-user-model-mid-project-in-django/)
 - [DjangoTricks: How to Handle Django Forms within Modal Dialogs](https://jlferrete.com/blog/djangotricks-how-to-handle-django-forms-within-modal-dialogs/)
-- [Cada vez más estudiantes usan inteligencia artificial para hacer sus trabajos de clase. Y nadie se da cuenta](https://jlferrete.com/blog/cada-vez-mas-estudiantes-usan-inteligencia-artificial-para-hacer-sus-trabajos-de-clase-y-nadie-se-da-cuenta/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
