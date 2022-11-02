@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El color y el tamaño factores clave para la legibilidad del texto](https://jlferrete.com/blog/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
 - [¿Es WordPress seguro? Depende de ti](https://jlferrete.com/blog/es-wordpress-seguro-depende-de-ti/)
 - [¿Por qué https://t.co/87OqbIPICX es brutalista en diseño web?](https://jlferrete.com/blog/por-que-https-t-co-87oqbipicx-es-brutalista-en-diseno-web/)
 - [Guide to Simple Binary Encoding](https://jlferrete.com/blog/guide-to-simple-binary-encoding/)
 - [Convert String to char in Java](https://jlferrete.com/blog/convert-string-to-char-in-java/)
-- [Implementing Factory Pattern With Generics in Java](https://jlferrete.com/blog/implementing-factory-pattern-with-generics-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
