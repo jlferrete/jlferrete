@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Agregar Menu Inferior Fijo para Móviles en Woocommerce](https://jlferrete.com/blog/agregar-menu-inferior-fijo-para-moviles-en-woocommerce/)
 - [¿Por qué abrir tu tienda online en WordPress?](https://jlferrete.com/blog/por-que-abrir-tu-tienda-online-en-wordpress/)
 - [Cómo crear una categoría en WordPress](https://jlferrete.com/blog/como-crear-una-categoria-en-wordpress/)
 - [El color y el tamaño factores clave para la legibilidad del texto](https://jlferrete.com/blog/el-color-y-el-tamano-factores-clave-para-la-legibilidad-del-texto/)
 - [¿Es WordPress seguro? Depende de ti](https://jlferrete.com/blog/es-wordpress-seguro-depende-de-ti/)
-- [¿Por qué https://t.co/87OqbIPICX es brutalista en diseño web?](https://jlferrete.com/blog/por-que-https-t-co-87oqbipicx-es-brutalista-en-diseno-web/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
