@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Convert String to String Array](https://jlferrete.com/blog/convert-string-to-string-array/)
 - [[Taller] Introducción a Drupal https://t.co/S7xd01QiEc a través de @YouTube](https://jlferrete.com/blog/taller-introduccion-a-drupal-https-t-co-s7xd01qiec-a-traves-de-youtube/)
 - [Creating Animated, Clickable Cards With the :has() Relational Pseudo Class](https://jlferrete.com/blog/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/)
 - [Building a Laravel App with TDD](https://jlferrete.com/blog/building-a-laravel-app-with-tdd/)
 - [Cómo editar el Footer en WordPress](https://jlferrete.com/blog/como-editar-el-footer-en-wordpress/)
-- [Agregar Menu Inferior Fijo para Móviles en Woocommerce](https://jlferrete.com/blog/agregar-menu-inferior-fijo-para-moviles-en-woocommerce/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
