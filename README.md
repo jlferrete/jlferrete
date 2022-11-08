@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo silenciar vídeos en WordPress](https://jlferrete.com/blog/como-silenciar-videos-en-wordpress/)
 - [¿Por qué WordPress es lento](https://jlferrete.com/blog/por-que-wordpress-es-lento/)
 - [Redirección personalizada tras acceder o registrarse en una tienda WooCommerce](https://jlferrete.com/blog/redireccion-personalizada-tras-acceder-o-registrarse-en-una-tienda-woocommerce/)
 - [Formulario de contacto con Ajax en WordPress](https://jlferrete.com/blog/formulario-de-contacto-con-ajax-en-wordpress/)
 - [Convert String to String Array](https://jlferrete.com/blog/convert-string-to-string-array/)
-- [[Taller] Introducción a Drupal https://t.co/S7xd01QiEc a través de @YouTube](https://jlferrete.com/blog/taller-introduccion-a-drupal-https-t-co-s7xd01qiec-a-traves-de-youtube/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
