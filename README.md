@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Si te quedas sin Internet teletrabajando no debes recuperar el tiempo perdido](https://jlferrete.com/blog/si-te-quedas-sin-internet-teletrabajando-no-debes-recuperar-el-tiempo-perdido/)
 - [Detectar un adblock y solicitar desactivarlo en WordPress](https://jlferrete.com/blog/detectar-un-adblock-y-solicitar-desactivarlo-en-wordpress/)
 - [Personalizar Pagina de Gracias en Woocommerce](https://jlferrete.com/blog/personalizar-pagina-de-gracias-en-woocommerce/)
 - [Message Delivery Semantics in Streaming Platforms](https://jlferrete.com/blog/message-delivery-semantics-in-streaming-platforms/)
 - [Using Okta with Laravel authentication](https://jlferrete.com/blog/using-okta-with-laravel-authentication/)
-- [Cómo silenciar vídeos en WordPress](https://jlferrete.com/blog/como-silenciar-videos-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
