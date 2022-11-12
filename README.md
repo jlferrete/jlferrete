@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guava – Write to File, Read from File](https://jlferrete.com/blog/guava-write-to-file-read-from-file/)
 - [Python REST APIs with FastAPI](https://jlferrete.com/blog/python-rest-apis-with-fastapi/)
 - [Python 3.11: Cool New Features for You to Try](https://jlferrete.com/blog/python-3-11-cool-new-features-for-you-to-try/)
 - [WordPress 6.1: Novedades, alegrías y decepciones](https://jlferrete.com/blog/wordpress-6-1-novedades-alegrias-y-decepciones/)
 - [Si te quedas sin Internet teletrabajando no debes recuperar el tiempo perdido](https://jlferrete.com/blog/si-te-quedas-sin-internet-teletrabajando-no-debes-recuperar-el-tiempo-perdido/)
-- [Detectar un adblock y solicitar desactivarlo en WordPress](https://jlferrete.com/blog/detectar-un-adblock-y-solicitar-desactivarlo-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
