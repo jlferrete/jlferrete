@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guava – Sets](https://jlferrete.com/blog/guava-sets/)
 - [Build your next PHP project with a touch of AI](https://jlferrete.com/blog/build-your-next-php-project-with-a-touch-of-ai/)
 - [Guava – Write to File, Read from File](https://jlferrete.com/blog/guava-write-to-file-read-from-file/)
 - [Python REST APIs with FastAPI](https://jlferrete.com/blog/python-rest-apis-with-fastapi/)
 - [Python 3.11: Cool New Features for You to Try](https://jlferrete.com/blog/python-3-11-cool-new-features-for-you-to-try/)
-- [WordPress 6.1: Novedades, alegrías y decepciones](https://jlferrete.com/blog/wordpress-6-1-novedades-alegrias-y-decepciones/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
