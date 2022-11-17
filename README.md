@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Seis consejos para Black Friday](https://jlferrete.com/blog/seis-consejos-para-black-friday/)
+- [Automate API tests and Debug in Docker with Postman’s Newman](https://jlferrete.com/blog/automate-api-tests-and-debug-in-docker-with-postmans-newman/)
 - [Spring Data JPA entity locking](https://jlferrete.com/blog/spring-data-jpa-entity-locking/)
 - [Guava – Sets](https://jlferrete.com/blog/guava-sets/)
 - [Build your next PHP project with a touch of AI](https://jlferrete.com/blog/build-your-next-php-project-with-a-touch-of-ai/)
-- [Guava – Write to File, Read from File](https://jlferrete.com/blog/guava-write-to-file-read-from-file/)
-- [Python REST APIs with FastAPI](https://jlferrete.com/blog/python-rest-apis-with-fastapi/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
