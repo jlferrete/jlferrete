@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Programas para crear máquinas virtuales y virtualizar sistemas](https://jlferrete.com/blog/programas-para-crear-maquinas-virtuales-y-virtualizar-sistemas/)
+- [The Factory Design Pattern in Java](https://jlferrete.com/blog/the-factory-design-pattern-in-java/)
 - [Java DTO y flexibilidad](https://jlferrete.com/blog/java-dto-y-flexibilidad-2/)
 - [Java DTO y flexibilidad](https://jlferrete.com/blog/java-dto-y-flexibilidad/)
 - [¿Qué es el web.xml?](https://jlferrete.com/blog/que-es-el-web-xml-2/)
-- [¿Qué es el web.xml?](https://jlferrete.com/blog/que-es-el-web-xml/)
-- [Dejar de usar C y C++ y centrarse en Rust y Java: esto recomienda la Agencia de Seguridad de EE.UU a empresas del mundo](https://jlferrete.com/blog/dejar-de-usar-c-y-c-y-centrarse-en-rust-y-java-esto-recomienda-la-agencia-de-seguridad-de-ee-uu-a-empresas-del-mundo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
