@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Iterate Through Two ArrayLists Simultaneous](https://jlferrete.com/blog/iterate-through-two-arraylists-simultaneous/)
 - [Mastodon y WordPress](https://jlferrete.com/blog/mastodon-y-wordpress/)
 - [Retry with Delay in RxJava](https://jlferrete.com/blog/retry-with-delay-in-rxjava/)
 - [Guía de inicio de Mastodon: qué es, cómo funciona, cómo elegir instancia y cómo se utiliza la red social](https://jlferrete.com/blog/guia-de-inicio-de-mastodon-que-es-como-funciona-como-elegir-instancia-y-como-se-utiliza-la-red-social/)
 - [Creación de Gutenberg Blocks](https://jlferrete.com/blog/creacion-de-gutenberg-blocks/)
-- [Programas para crear máquinas virtuales y virtualizar sistemas](https://jlferrete.com/blog/programas-para-crear-maquinas-virtuales-y-virtualizar-sistemas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
