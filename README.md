@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guía Básica Markdown. Claves para entender el lenguaje](https://jlferrete.com/blog/guia-basica-markdown-claves-para-entender-el-lenguaje/)
 - [Curso de CapCut](https://jlferrete.com/blog/curso-de-capcut/)
 - [75 webs de famosos hechas en WordPress](https://jlferrete.com/blog/75-webs-de-famosos-hechas-en-wordpress/)
 - [Curso para crear una radio online](https://jlferrete.com/blog/curso-para-crear-una-radio-online/)
 - [¿Cuál es el mejor plugin SEO para WordPress?](https://jlferrete.com/blog/cual-es-el-mejor-plugin-seo-para-wordpress/)
-- [Empleabilidad post Covid-19](https://jlferrete.com/blog/empleabilidad-post-covid-19/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
