@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Creating a Settings UI for a Custom WordPress Block](https://jlferrete.com/blog/creating-a-settings-ui-for-a-custom-wordpress-block/)
 - [Para qué utilizar WordPress](https://jlferrete.com/blog/para-que-utilizar-wordpress/)
 - [La puerta de entrada a WordPress](https://jlferrete.com/blog/la-puerta-de-entrada-a-wordpress/)
 - [Crear un sitio para vender tus servicios](https://jlferrete.com/blog/crear-un-sitio-para-vender-tus-servicios/)
 - [Curso de SonoBus](https://jlferrete.com/blog/curso-de-sonobus/)
-- [Guía Básica Markdown. Claves para entender el lenguaje](https://jlferrete.com/blog/guia-basica-markdown-claves-para-entender-el-lenguaje/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
