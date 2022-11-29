@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [No todo va a ser trabajar: Microsoft lanza ‘Games for Work’ en Teams para fomentar el ocio y estrechar lazos entre los empleados](https://jlferrete.com/blog/no-todo-va-a-ser-trabajar-microsoft-lanza-games-for-work-en-teams-para-fomentar-el-ocio-y-estrechar-lazos-entre-los-empleados/)
 - [Creating a Settings UI for a Custom WordPress Block](https://jlferrete.com/blog/creating-a-settings-ui-for-a-custom-wordpress-block/)
 - [Para qué utilizar WordPress](https://jlferrete.com/blog/para-que-utilizar-wordpress/)
 - [La puerta de entrada a WordPress](https://jlferrete.com/blog/la-puerta-de-entrada-a-wordpress/)
 - [Crear un sitio para vender tus servicios](https://jlferrete.com/blog/crear-un-sitio-para-vender-tus-servicios/)
-- [Curso de SonoBus](https://jlferrete.com/blog/curso-de-sonobus/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
