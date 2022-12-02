@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Are you looking for an IT job?](https://jlferrete.com/blog/are-you-looking-for-an-it-job/)
 - [Java 8 Predicate Functional Interface Example [Tutorial]](https://jlferrete.com/blog/java-8-predicate-functional-interface-example-tutorial/)
 - [How to Fix and Debug Docker Containers Like a Superhero](https://jlferrete.com/blog/how-to-fix-and-debug-docker-containers-like-a-superhero/)
 - [Cómo atraer clientes a tu web https://t.co/YZl7ri65RC](https://jlferrete.com/blog/como-atraer-clientes-a-tu-web-https-t-co-yzl7ri65rc/)
 - [A Complete Guide to Task Scheduling in Laravel https://t.co/JNQf1yIJHR](https://jlferrete.com/blog/a-complete-guide-to-task-scheduling-in-laravel-https-t-co-jnqf1yijhr/)
-- [Delete Old or Unused Local Git Branches Using grep and xargs](https://jlferrete.com/blog/delete-old-or-unused-local-git-branches-using-grep-and-xargs/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
