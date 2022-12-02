@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Fix and Debug Docker Containers Like a Superhero](https://jlferrete.com/blog/how-to-fix-and-debug-docker-containers-like-a-superhero/)
+- [Cómo atraer clientes a tu web https://t.co/YZl7ri65RC](https://jlferrete.com/blog/como-atraer-clientes-a-tu-web-https-t-co-yzl7ri65rc/)
+- [A Complete Guide to Task Scheduling in Laravel https://t.co/JNQf1yIJHR](https://jlferrete.com/blog/a-complete-guide-to-task-scheduling-in-laravel-https-t-co-jnqf1yijhr/)
 - [Delete Old or Unused Local Git Branches Using grep and xargs](https://jlferrete.com/blog/delete-old-or-unused-local-git-branches-using-grep-and-xargs/)
 - [Paso a paso de creación de una web](https://jlferrete.com/blog/paso-a-paso-de-creacion-de-una-web/)
-- [No todo va a ser trabajar: Microsoft lanza ‘Games for Work’ en Teams para fomentar el ocio y estrechar lazos entre los empleados](https://jlferrete.com/blog/no-todo-va-a-ser-trabajar-microsoft-lanza-games-for-work-en-teams-para-fomentar-el-ocio-y-estrechar-lazos-entre-los-empleados/)
-- [Creating a Settings UI for a Custom WordPress Block](https://jlferrete.com/blog/creating-a-settings-ui-for-a-custom-wordpress-block/)
-- [Para qué utilizar WordPress](https://jlferrete.com/blog/para-que-utilizar-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
