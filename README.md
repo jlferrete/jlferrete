@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Implement Decentralized Storage Using Docker Extensions](https://jlferrete.com/blog/how-to-implement-decentralized-storage-using-docker-extensions/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://jlferrete.com/blog/build-share-and-run-webassembly-apps-using-docker/)
 - [Curso de presupuestos para servicios](https://jlferrete.com/blog/curso-de-presupuestos-para-servicios/)
 - [Self Host and Preview Emails Locally with MailCatcher](https://jlferrete.com/blog/self-host-and-preview-emails-locally-with-mailcatcher/)
 - [Spring Boot 3 y sus novedades](https://jlferrete.com/blog/spring-boot-3-y-sus-novedades/)
-- [Are you looking for an IT job?](https://jlferrete.com/blog/are-you-looking-for-an-it-job/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
