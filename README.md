@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Make a Folder “Slit” Effect With CSS](https://jlferrete.com/blog/how-to-make-a-folder-slit-effect-with-css/)
 - [ChatGPT está desatado entre los programadores: máquinas virtuales infinitas, LaTeX y robots que pican código solos](https://jlferrete.com/blog/chatgpt-esta-desatado-entre-los-programadores-maquinas-virtuales-infinitas-latex-y-robots-que-pican-codigo-solos/)
 - [Managing CSS Styles in a WordPress Block Theme](https://jlferrete.com/blog/managing-css-styles-in-a-wordpress-block-theme/)
 - [How to Use the Node Docker Official Image](https://jlferrete.com/blog/how-to-use-the-node-docker-official-image/)
 - [How to Implement Decentralized Storage Using Docker Extensions](https://jlferrete.com/blog/how-to-implement-decentralized-storage-using-docker-extensions/)
-- [Build, Share, and Run WebAssembly Apps Using Docker](https://jlferrete.com/blog/build-share-and-run-webassembly-apps-using-docker/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
