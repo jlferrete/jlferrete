@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How To Build a GPT-3 Chatbot with Python](https://jlferrete.com/blog/how-to-build-a-gpt-3-chatbot-with-python/)
 - [Deploying a Django App to Fly.io](https://jlferrete.com/blog/deploying-a-django-app-to-fly-io/)
 - [Professionalism: You should maintain a transition file](https://jlferrete.com/blog/professionalism-you-should-maintain-a-transition-file/)
 - [Deploy Django + PostgreSQL on Fly.io](https://jlferrete.com/blog/deploy-django-postgresql-on-fly-io/)
 - [Automatically Sort Your Python Imports in Flask and Django with isort](https://jlferrete.com/blog/automatically-sort-your-python-imports-in-flask-and-django-with-isort/)
-- [How to Make a Folder “Slit” Effect With CSS](https://jlferrete.com/blog/how-to-make-a-folder-slit-effect-with-css/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
