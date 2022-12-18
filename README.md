@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Spring Boot Actuator](https://jlferrete.com/blog/spring-boot-actuator/)
+- [Frameworks ciclo de vida y curiosidades](https://jlferrete.com/blog/frameworks-ciclo-de-vida-y-curiosidades/)
 - [La espada es la verdad](https://jlferrete.com/blog/la-espada-es-la-verdad/)
 - [The Intersection of Tenure and Seniority](https://jlferrete.com/blog/the-intersection-of-tenure-and-seniority/)
 - [Context Managers and Python’s with Statement](https://jlferrete.com/blog/context-managers-and-pythons-with-statement/)
-- [Django: Customizing how a model form renders fields](https://jlferrete.com/blog/django-customizing-how-a-model-form-renders-fields/)
-- [How To Build a GPT-3 Chatbot with Python](https://jlferrete.com/blog/how-to-build-a-gpt-3-chatbot-with-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
