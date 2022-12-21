@@ -45,6 +45,9 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Sorting a HashSet in Java #wp
+
+https://www. baeldung.com/java-sort-hashset](https://jlferrete.com/blog/sorting-a-hashset-in-java-wphttps-www-baeldung-com-java-sort-hashset/)
 - [Donando a proyectos de software libre: Thunderbird](https://jlferrete.com/blog/donando-a-proyectos-de-software-libre-thunderbird/)
 - [Fixing the No Main Manifest Attribute in Spring Boot #wp
 
@@ -53,7 +56,6 @@ https://www. baeldung.com/spring-boot-fix-t he-no-main-manifest-attribute](https
 - [Passing Exported Env Vars into a Docker Container without an .env File #wp
 
 https:// nickjanetakis.com/blog/passing -exported-env-vars-into-a-docker-container-without-an-env-file](https://jlferrete.com/blog/passing-exported-env-vars-into-a-docker-container-without-an-env-file-wphttps-nickjanetakis-com-blog-passing-exported-env-vars-into-a-docker-container-without-an-env-file/)
-- [Introduction to ChatOps with Acquia BLT and Slack](https://jlferrete.com/blog/introduction-to-chatops-with-acquia-blt-and-slack/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
