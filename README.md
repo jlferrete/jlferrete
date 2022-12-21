@@ -45,6 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Donando a proyectos de software libre: Thunderbird](https://jlferrete.com/blog/donando-a-proyectos-de-software-libre-thunderbird/)
 - [Fixing the No Main Manifest Attribute in Spring Boot #wp
 
 https://www. baeldung.com/spring-boot-fix-t he-no-main-manifest-attribute](https://jlferrete.com/blog/fixing-the-no-main-manifest-attribute-in-spring-boot-wphttps-www-baeldung-com-spring-boot-fix-t-he-no-main-manifest-attribute/)
@@ -53,7 +54,6 @@ https://www. baeldung.com/spring-boot-fix-t he-no-main-manifest-attribute](https
 
 https:// nickjanetakis.com/blog/passing -exported-env-vars-into-a-docker-container-without-an-env-file](https://jlferrete.com/blog/passing-exported-env-vars-into-a-docker-container-without-an-env-file-wphttps-nickjanetakis-com-blog-passing-exported-env-vars-into-a-docker-container-without-an-env-file/)
 - [Introduction to ChatOps with Acquia BLT and Slack](https://jlferrete.com/blog/introduction-to-chatops-with-acquia-blt-and-slack/)
-- [Javarevisited: Difference between 32-bit and 64-bit JVM in Java?](https://jlferrete.com/blog/javarevisited-difference-between-32-bit-and-64-bit-jvm-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
