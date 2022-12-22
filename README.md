@@ -45,6 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Generate Images With DALL-E 2 and the OpenAI API](https://jlferrete.com/blog/generate-images-with-dall-e-2-and-the-openai-api/)
 - [Sorting a HashSet in Java #wp
 
 https://www. baeldung.com/java-sort-hashset](https://jlferrete.com/blog/sorting-a-hashset-in-java-wphttps-www-baeldung-com-java-sort-hashset/)
@@ -53,9 +54,6 @@ https://www. baeldung.com/java-sort-hashset](https://jlferrete.com/blog/sorting-
 
 https://www. baeldung.com/spring-boot-fix-t he-no-main-manifest-attribute](https://jlferrete.com/blog/fixing-the-no-main-manifest-attribute-in-spring-boot-wphttps-www-baeldung-com-spring-boot-fix-t-he-no-main-manifest-attribute/)
 - [Qué es MicroPython, el lenguaje de programación que ya puedes usar en tu Arduino (y probar desde tu navegador)](https://jlferrete.com/blog/que-es-micropython-el-lenguaje-de-programacion-que-ya-puedes-usar-en-tu-arduino-y-probar-desde-tu-navegador/)
-- [Passing Exported Env Vars into a Docker Container without an .env File #wp
-
-https:// nickjanetakis.com/blog/passing -exported-env-vars-into-a-docker-container-without-an-env-file](https://jlferrete.com/blog/passing-exported-env-vars-into-a-docker-container-without-an-env-file-wphttps-nickjanetakis-com-blog-passing-exported-env-vars-into-a-docker-container-without-an-env-file/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
