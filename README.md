@@ -45,6 +45,9 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [4 utilidades para los puertos USB de un Android TV que no conocías #wp
+
+https:// wwwhatsnew.com/2022/12/18/4-ut ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/](https://jlferrete.com/blog/4-utilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias-wphttps-wwwhatsnew-com-2022-12-18-4-ut-ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/)
 - [Cómo añadir redes sociales a una web creada en WordPress](https://jlferrete.com/blog/como-anadir-redes-sociales-a-una-web-creada-en-wordpress/)
 - [Extract Values using AssertJ in Java #wp
 
@@ -53,7 +56,6 @@ https://www. baeldung.com/java-extract-valu es-assertj](https://jlferrete.com/bl
 - [Fixing Git ‘remote: Repository not found’ Error #wp
 
 https://www. baeldung.com/ops/git-remote-re pository-not-found](https://jlferrete.com/blog/fixing-git-remote-repository-not-found-error-wphttps-www-baeldung-com-ops-git-remote-re-pository-not-found/)
-- [Github Copilot ¿Nos reemplazará esta IA? Aprende a usarla](https://jlferrete.com/blog/github-copilot-nos-reemplazara-esta-ia-aprende-a-usarla/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
