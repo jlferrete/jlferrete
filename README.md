@@ -45,6 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo añadir redes sociales a una web creada en WordPress](https://jlferrete.com/blog/como-anadir-redes-sociales-a-una-web-creada-en-wordpress/)
 - [Extract Values using AssertJ in Java #wp
 
 https://www. baeldung.com/java-extract-valu es-assertj](https://jlferrete.com/blog/extract-values-using-assertj-in-java-wphttps-www-baeldung-com-java-extract-valu-es-assertj/)
@@ -53,7 +54,6 @@ https://www. baeldung.com/java-extract-valu es-assertj](https://jlferrete.com/bl
 
 https://www. baeldung.com/ops/git-remote-re pository-not-found](https://jlferrete.com/blog/fixing-git-remote-repository-not-found-error-wphttps-www-baeldung-com-ops-git-remote-re-pository-not-found/)
 - [Github Copilot ¿Nos reemplazará esta IA? Aprende a usarla](https://jlferrete.com/blog/github-copilot-nos-reemplazara-esta-ia-aprende-a-usarla/)
-- [Generate Images With DALL-E 2 and the OpenAI API](https://jlferrete.com/blog/generate-images-with-dall-e-2-and-the-openai-api/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
