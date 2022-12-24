@@ -45,6 +45,9 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Documenting a Spring REST API Using OpenAPI 3.0 #wp
+
+https://www. baeldung.com/spring-rest-opena pi-documentation](https://jlferrete.com/blog/documenting-a-spring-rest-api-using-openapi-3-0-wphttps-www-baeldung-com-spring-rest-opena-pi-documentation/)
 - [4 utilidades para los puertos USB de un Android TV que no conocías #wp
 
 https:// wwwhatsnew.com/2022/12/18/4-ut ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/](https://jlferrete.com/blog/4-utilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias-wphttps-wwwhatsnew-com-2022-12-18-4-ut-ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/)
@@ -53,9 +56,6 @@ https:// wwwhatsnew.com/2022/12/18/4-ut ilidades-para-los-puertos-usb-de-un-andr
 
 https://www. baeldung.com/java-extract-valu es-assertj](https://jlferrete.com/blog/extract-values-using-assertj-in-java-wphttps-www-baeldung-com-java-extract-valu-es-assertj/)
 - [Cómo desplegar una app Server-Side Rendering con Next.js en el nuevo Firebase Hosting](https://jlferrete.com/blog/como-desplegar-una-app-server-side-rendering-con-next-js-en-el-nuevo-firebase-hosting/)
-- [Fixing Git ‘remote: Repository not found’ Error #wp
-
-https://www. baeldung.com/ops/git-remote-re pository-not-found](https://jlferrete.com/blog/fixing-git-remote-repository-not-found-error-wphttps-www-baeldung-com-ops-git-remote-re-pository-not-found/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
