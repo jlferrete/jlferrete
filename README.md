@@ -49,9 +49,7 @@ Please do not hesitate to contact me if you require any futher information at th
 - [Así puedes desinstalar fácilmente las apps no deseadas que se incluyen por defecto en Windows 10 y Windows 11](https://jlferrete.com/blog/asi-puedes-desinstalar-facilmente-las-apps-no-deseadas-que-se-incluyen-por-defecto-en-windows-10-y-windows-11-wphttps-www-genbeta-com-paso-a-paso-asi-pu-edes-desinstalar-facilmente-todas-apps-no/)
 - [Enable and Disable Endpoints at Runtime With Spring Boot](https://jlferrete.com/blog/enable-and-disable-endpoints-at-runtime-with-spring-boot/)
 - [Documenting a Spring REST API Using OpenAPI 3.0](https://jlferrete.com/blog/documenting-a-spring-rest-api-using-openapi-3-0-wphttps-www-baeldung-com-spring-rest-opena-pi-documentation/)
-- [4 utilidades para los puertos USB de un Android TV que no conocías #wp
-
-https:// wwwhatsnew.com/2022/12/18/4-ut ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/](https://jlferrete.com/blog/4-utilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias-wphttps-wwwhatsnew-com-2022-12-18-4-ut-ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/)
+- [4 utilidades para los puertos USB de un Android TV que no conocías](https://jlferrete.com/blog/4-utilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias-wphttps-wwwhatsnew-com-2022-12-18-4-ut-ilidades-para-los-puertos-usb-de-un-android-tv-que-no-conocias/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
