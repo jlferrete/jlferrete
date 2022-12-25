@@ -45,6 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Enable and Disable Endpoints at Runtime With Spring Boot](https://jlferrete.com/blog/enable-and-disable-endpoints-at-runtime-with-spring-boot/)
 - [Documenting a Spring REST API Using OpenAPI 3.0 #wp
 
 https://www. baeldung.com/spring-rest-opena pi-documentation](https://jlferrete.com/blog/documenting-a-spring-rest-api-using-openapi-3-0-wphttps-www-baeldung-com-spring-rest-opena-pi-documentation/)
@@ -55,7 +56,6 @@ https:// wwwhatsnew.com/2022/12/18/4-ut ilidades-para-los-puertos-usb-de-un-andr
 - [Extract Values using AssertJ in Java #wp
 
 https://www. baeldung.com/java-extract-valu es-assertj](https://jlferrete.com/blog/extract-values-using-assertj-in-java-wphttps-www-baeldung-com-java-extract-valu-es-assertj/)
-- [Cómo desplegar una app Server-Side Rendering con Next.js en el nuevo Firebase Hosting](https://jlferrete.com/blog/como-desplegar-una-app-server-side-rendering-con-next-js-en-el-nuevo-firebase-hosting/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
