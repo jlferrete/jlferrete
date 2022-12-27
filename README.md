@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Filling a List With All Enum Values in Java](https://jlferrete.com/blog/filling-a-list-with-all-enum-values-in-java/)
 - [Clases Abstractas vs Interfaces](https://jlferrete.com/blog/clases-abstractas-vs-interfaces/)
 - [Spring @EnableMethodSecurity Annotation](https://jlferrete.com/blog/spring-enablemethodsecurity-annotation/)
 - [Sincronizar WooCommerce y Excel](https://jlferrete.com/blog/sincronizar-woocommerce-y-excel/)
 - [Así puedes desinstalar fácilmente las apps no deseadas que se incluyen por defecto en Windows 10 y Windows 11](https://jlferrete.com/blog/asi-puedes-desinstalar-facilmente-las-apps-no-deseadas-que-se-incluyen-por-defecto-en-windows-10-y-windows-11-wphttps-www-genbeta-com-paso-a-paso-asi-pu-edes-desinstalar-facilmente-todas-apps-no/)
-- [Enable and Disable Endpoints at Runtime With Spring Boot](https://jlferrete.com/blog/enable-and-disable-endpoints-at-runtime-with-spring-boot/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
