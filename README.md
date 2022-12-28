@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Registration – Password Strength and Rules](https://jlferrete.com/blog/registration-password-strength-and-rules/)
 - [Http Message Converters with the Spring Framework](https://jlferrete.com/blog/http-message-converters-with-the-spring-framework/)
 - [SpringRunner vs MockitoJUnitRunner](https://jlferrete.com/blog/springrunner-vs-mockitojunitrunner/)
 - [Cómo añadir fuentes de forma local a WordPress (sin plugins)](https://jlferrete.com/blog/como-anadir-fuentes-de-forma-local-a-wordpress-sin-plugins/)
 - [Metrics for your Spring REST API](https://jlferrete.com/blog/metrics-for-your-spring-rest-api/)
-- [Filling a List With All Enum Values in Java](https://jlferrete.com/blog/filling-a-list-with-all-enum-values-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
