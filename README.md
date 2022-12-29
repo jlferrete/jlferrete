@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comparte tus post de WordPress en Twitter](https://jlferrete.com/blog/comparte-tus-post-de-wordpress-en-twitter/)
+- [Spring MDC Transaction Logging](https://jlferrete.com/blog/spring-mdc-transaction-logging/)
+- [Fixing Selenium WebDriver Executable Path Error](https://jlferrete.com/blog/fixing-selenium-webdriver-executable-path-error/)
 - [Registration – Password Strength and Rules](https://jlferrete.com/blog/registration-password-strength-and-rules/)
 - [Http Message Converters with the Spring Framework](https://jlferrete.com/blog/http-message-converters-with-the-spring-framework/)
-- [SpringRunner vs MockitoJUnitRunner](https://jlferrete.com/blog/springrunner-vs-mockitojunitrunner/)
-- [Cómo añadir fuentes de forma local a WordPress (sin plugins)](https://jlferrete.com/blog/como-anadir-fuentes-de-forma-local-a-wordpress-sin-plugins/)
-- [Metrics for your Spring REST API](https://jlferrete.com/blog/metrics-for-your-spring-rest-api/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
