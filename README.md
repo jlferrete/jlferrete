@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso gratuito de SEO para WordPress en vídeo](https://jlferrete.com/blog/curso-gratuito-de-seo-para-wordpress-en-video/)
 - [Comentarios en WordPress ¿cómo bloquear bots spammers?](https://jlferrete.com/blog/comentarios-en-wordpress-como-bloquear-bots-spammers/)
 - [Mejora la carga de WordPress con WP Super Cache](https://jlferrete.com/blog/mejora-la-carga-de-wordpress-con-wp-super-cache/)
 - [REST Query Language with Spring and JPA Criteria](https://jlferrete.com/blog/rest-query-language-with-spring-and-jpa-criteria/)
 - [WooCommerce Subscriptions: Cambiar el precio de las suscripciones activas](https://jlferrete.com/blog/woocommerce-subscriptions-cambiar-el-precio-de-las-suscripciones-activas/)
-- [Comparte tus post de WordPress en Twitter](https://jlferrete.com/blog/comparte-tus-post-de-wordpress-en-twitter/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
