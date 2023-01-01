@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Sort Collection of Objects by Multiple Fields in Java](https://jlferrete.com/blog/sort-collection-of-objects-by-multiple-fields-in-java/)
 - [How to validate JSON in Java Jackson – Example Tutorial](https://jlferrete.com/blog/how-to-validate-json-in-java-jackson-example-tutorial/)
 - [Curso gratuito de SEO para WordPress en vídeo](https://jlferrete.com/blog/curso-gratuito-de-seo-para-wordpress-en-video/)
 - [Comentarios en WordPress ¿cómo bloquear bots spammers?](https://jlferrete.com/blog/comentarios-en-wordpress-como-bloquear-bots-spammers/)
 - [Mejora la carga de WordPress con WP Super Cache](https://jlferrete.com/blog/mejora-la-carga-de-wordpress-con-wp-super-cache/)
-- [REST Query Language with Spring and JPA Criteria](https://jlferrete.com/blog/rest-query-language-with-spring-and-jpa-criteria/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
