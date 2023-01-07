@@ -45,13 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo integrar WordPress y Mastodon](https://jlferrete.com/blog/como-integrar-wordpress-y-mastodon/)
 - [Añadir rápido al carrito eligiendo cantidad](https://jlferrete.com/blog/anadir-rapido-al-carrito-eligiendo-cantidad/)
 - [Microsoft Power BI and Python: Two Superpowers Combined](https://jlferrete.com/blog/microsoft-power-bi-and-python-two-superpowers-combined/)
 - [Este sistema es idéntico a macOS, pero lo puedes instalar en cualquier PC](https://jlferrete.com/blog/este-sistema-es-identico-a-macos-pero-lo-puedes-instalar-en-cualquier-pc/)
 - [Registration – Activate a New Account by Email](https://jlferrete.com/blog/registration-activate-a-new-account-by-email/)
-- [Curso avanzado de Discord #wp
-
-https:// boluda.com/curso/avanzado-disc ord/](https://jlferrete.com/blog/curso-avanzado-de-discord-wphttps-boluda-com-curso-avanzado-disc-ord/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
