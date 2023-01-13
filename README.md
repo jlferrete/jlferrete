@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mostrar notificaciones por usuario en la administración de WordPress](https://jlferrete.com/blog/mostrar-notificaciones-por-usuario-en-la-administracion-de-wordpress/)
 - [Cómo ocultar los errores de PHP en WordPress](https://jlferrete.com/blog/como-ocultar-los-errores-de-php-en-wordpress/)
 - [MongoDB vs. Couchbase](https://jlferrete.com/blog/mongodb-vs-couchbase/)
 - [Restringir el acceso al administrador de WordPress mediante IPs](https://jlferrete.com/blog/restringir-el-acceso-al-administrador-de-wordpress-mediante-ips/)
 - [Publicidad en WordPress ¿cómo insertar banners en post?](https://jlferrete.com/blog/publicidad-en-wordpress-como-insertar-banners-en-post/)
-- [Hosting WordPress ventajas y desventajas](https://jlferrete.com/blog/hosting-wordpress-ventajas-y-desventajas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
