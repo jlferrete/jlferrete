@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué es un Plugin y para qué se usa en WordPress](https://jlferrete.com/blog/que-es-un-plugin-y-para-que-se-usa-en-wordpress/)
 - [Cambiar la imagen del producto al pasar el mouse en WooCommerce](https://jlferrete.com/blog/cambiar-la-imagen-del-producto-al-pasar-el-mouse-en-woocommerce/)
 - [Mostrar notificaciones por usuario en la administración de WordPress](https://jlferrete.com/blog/mostrar-notificaciones-por-usuario-en-la-administracion-de-wordpress/)
 - [Cómo ocultar los errores de PHP en WordPress](https://jlferrete.com/blog/como-ocultar-los-errores-de-php-en-wordpress/)
 - [MongoDB vs. Couchbase](https://jlferrete.com/blog/mongodb-vs-couchbase/)
-- [Restringir el acceso al administrador de WordPress mediante IPs](https://jlferrete.com/blog/restringir-el-acceso-al-administrador-de-wordpress-mediante-ips/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
