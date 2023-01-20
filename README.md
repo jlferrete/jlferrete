@@ -45,11 +45,13 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Perplexity AI es todo lo que debe temer el buscador de Google: un «ChatGPT» conectado a internet #wp
+
+https://www. xataka.com/robotica-e-ia/perpl exity-ai-todo-que-debe-temer-buscador-google-chatgpt-conectado-a-internet](https://jlferrete.com/blog/perplexity-ai-es-todo-lo-que-debe-temer-el-buscador-de-google-un-chatgpt-conectado-a-internet-wphttps-www-xataka-com-robotica-e-ia-perpl-exity-ai-todo-que-debe-temer-buscador-google-chatgpt/)
 - [Looking for an IT job?](https://jlferrete.com/blog/looking-for-an-it-job/)
 - [The best way to do the Spring 6 migration](https://jlferrete.com/blog/the-best-way-to-do-the-spring-6-migration/)
 - [How to Serialize a Singleton in Java](https://jlferrete.com/blog/how-to-serialize-a-singleton-in-java/)
 - [Choosing the Right Java Collection](https://jlferrete.com/blog/choosing-the-right-java-collection/)
-- [Difference Between Map.ofEntries() and Map.of()](https://jlferrete.com/blog/difference-between-map-ofentries-and-map-of/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
