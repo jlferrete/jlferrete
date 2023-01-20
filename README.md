@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Looking for an IT job?](https://jlferrete.com/blog/looking-for-an-it-job/)
 - [The best way to do the Spring 6 migration](https://jlferrete.com/blog/the-best-way-to-do-the-spring-6-migration/)
 - [How to Serialize a Singleton in Java](https://jlferrete.com/blog/how-to-serialize-a-singleton-in-java/)
 - [Choosing the Right Java Collection](https://jlferrete.com/blog/choosing-the-right-java-collection/)
 - [Difference Between Map.ofEntries() and Map.of()](https://jlferrete.com/blog/difference-between-map-ofentries-and-map-of/)
-- [Qué es un Plugin y para qué se usa en WordPress](https://jlferrete.com/blog/que-es-un-plugin-y-para-que-se-usa-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
