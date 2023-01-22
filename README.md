@@ -45,6 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Use the Resource Usage Docker Extension](https://jlferrete.com/blog/how-to-use-the-resource-usage-docker-extension/)
 - [Introducing: YAMS (Yet Another Media Server)! #wp
 
 https:// rogs.me/2023/01/introducing-ya ms-yet-another-media-server/](https://jlferrete.com/blog/introducing-yams-yet-another-media-server-wphttps-rogs-me-2023-01-introducing-ya-ms-yet-another-media-server/)
@@ -55,7 +56,6 @@ https:// realpython.com/power-bi-python /](https://jlferrete.com/blog/microsoft-
 - [Perplexity AI es todo lo que debe temer el buscador de Google: un «ChatGPT» conectado a internet #wp
 
 https://www. xataka.com/robotica-e-ia/perpl exity-ai-todo-que-debe-temer-buscador-google-chatgpt-conectado-a-internet](https://jlferrete.com/blog/perplexity-ai-es-todo-lo-que-debe-temer-el-buscador-de-google-un-chatgpt-conectado-a-internet-wphttps-www-xataka-com-robotica-e-ia-perpl-exity-ai-todo-que-debe-temer-buscador-google-chatgpt/)
-- [Looking for an IT job?](https://jlferrete.com/blog/looking-for-an-it-job/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
