@@ -45,6 +45,8 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Es Manyverse el futuro de las redes sociales? [Nueva red social]](https://jlferrete.com/blog/es-manyverse-el-futuro-de-las-redes-sociales-nueva-red-social/)
+- [10 tendencias de redes sociales para el 2023](https://jlferrete.com/blog/10-tendencias-de-redes-sociales-para-el-2023/)
 - [How to Use the Resource Usage Docker Extension](https://jlferrete.com/blog/how-to-use-the-resource-usage-docker-extension/)
 - [Introducing: YAMS (Yet Another Media Server)! #wp
 
@@ -52,10 +54,6 @@ https:// rogs.me/2023/01/introducing-ya ms-yet-another-media-server/](https://jl
 - [Microsoft Power BI and Python: Two Superpowers Combined #wp
 
 https:// realpython.com/power-bi-python /](https://jlferrete.com/blog/microsoft-power-bi-and-python-two-superpowers-combined-wphttps-realpython-com-power-bi-python/)
-- [CSRF Explained – What Is Cross Site Request Forgery – Build Expense Tracker App With PHP 8](https://jlferrete.com/blog/csrf-explained-what-is-cross-site-request-forgery-build-expense-tracker-app-with-php-8/)
-- [Perplexity AI es todo lo que debe temer el buscador de Google: un «ChatGPT» conectado a internet #wp
-
-https://www. xataka.com/robotica-e-ia/perpl exity-ai-todo-que-debe-temer-buscador-google-chatgpt-conectado-a-internet](https://jlferrete.com/blog/perplexity-ai-es-todo-lo-que-debe-temer-el-buscador-de-google-un-chatgpt-conectado-a-internet-wphttps-www-xataka-com-robotica-e-ia-perpl-exity-ai-todo-que-debe-temer-buscador-google-chatgpt/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
