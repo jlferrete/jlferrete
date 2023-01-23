@@ -45,15 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Fix the IllegalArgumentException: No enum const class](https://jlferrete.com/blog/fix-the-illegalargumentexception-no-enum-const-class/)
+- [CSS Infinite and Circular Rotating Image Slider](https://jlferrete.com/blog/css-infinite-and-circular-rotating-image-slider/)
 - [¿Es Manyverse el futuro de las redes sociales? [Nueva red social]](https://jlferrete.com/blog/es-manyverse-el-futuro-de-las-redes-sociales-nueva-red-social/)
 - [10 tendencias de redes sociales para el 2023](https://jlferrete.com/blog/10-tendencias-de-redes-sociales-para-el-2023/)
 - [How to Use the Resource Usage Docker Extension](https://jlferrete.com/blog/how-to-use-the-resource-usage-docker-extension/)
-- [Introducing: YAMS (Yet Another Media Server)! #wp
-
-https:// rogs.me/2023/01/introducing-ya ms-yet-another-media-server/](https://jlferrete.com/blog/introducing-yams-yet-another-media-server-wphttps-rogs-me-2023-01-introducing-ya-ms-yet-another-media-server/)
-- [Microsoft Power BI and Python: Two Superpowers Combined #wp
-
-https:// realpython.com/power-bi-python /](https://jlferrete.com/blog/microsoft-power-bi-and-python-two-superpowers-combined-wphttps-realpython-com-power-bi-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
