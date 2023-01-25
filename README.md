@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo funciona Internet, la guía definitiva](https://jlferrete.com/blog/como-funciona-internet-la-guia-definitiva/)
 - [Cómo desactivar o controlar la verificación de correo electrónico de administración de WordPress](https://jlferrete.com/blog/como-desactivar-o-controlar-la-verificacion-de-correo-electronico-de-administracion-de-wordpress/)
 - [Fix the IllegalArgumentException: No enum const class](https://jlferrete.com/blog/fix-the-illegalargumentexception-no-enum-const-class/)
 - [CSS Infinite and Circular Rotating Image Slider](https://jlferrete.com/blog/css-infinite-and-circular-rotating-image-slider/)
 - [¿Es Manyverse el futuro de las redes sociales? [Nueva red social]](https://jlferrete.com/blog/es-manyverse-el-futuro-de-las-redes-sociales-nueva-red-social/)
-- [10 tendencias de redes sociales para el 2023](https://jlferrete.com/blog/10-tendencias-de-redes-sociales-para-el-2023/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
