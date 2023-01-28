@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Build A YouTube Video Downloader GUI App with Python](https://jlferrete.com/blog/build-a-youtube-video-downloader-gui-app-with-python/)
 - [Métodos para agregar emojis en WordPress](https://jlferrete.com/blog/metodos-para-agregar-emojis-en-wordpress/)
 - [Mejores plugins de inmobiliaria para WordPress](https://jlferrete.com/blog/mejores-plugins-de-inmobiliaria-para-wordpress/)
 - [Cómo funciona Internet, la guía definitiva](https://jlferrete.com/blog/como-funciona-internet-la-guia-definitiva/)
 - [Cómo desactivar o controlar la verificación de correo electrónico de administración de WordPress](https://jlferrete.com/blog/como-desactivar-o-controlar-la-verificacion-de-correo-electronico-de-administracion-de-wordpress/)
-- [Fix the IllegalArgumentException: No enum const class](https://jlferrete.com/blog/fix-the-illegalargumentexception-no-enum-const-class/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
