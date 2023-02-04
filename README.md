@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Agregar reacciones de emojis a entradas en WordPress](https://jlferrete.com/blog/agregar-reacciones-de-emojis-a-entradas-en-wordpress/)
 - [Curso de publicidad en redes sociales](https://jlferrete.com/blog/curso-de-publicidad-en-redes-sociales/)
 - [Build Command-Line Interfaces With Python’s argparse](https://jlferrete.com/blog/build-command-line-interfaces-with-pythons-argparse/)
 - [A Guide to Spring CredHub](https://jlferrete.com/blog/a-guide-to-spring-credhub/)
 - [Kanbanize, una plataforma de gestión lean](https://jlferrete.com/blog/kanbanize-una-plataforma-de-gestion-lean/)
-- [Python Basics: Dictionaries](https://jlferrete.com/blog/python-basics-dictionaries/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
