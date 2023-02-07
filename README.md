@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo comparar Strings en Java](https://jlferrete.com/blog/como-comparar-strings-en-java/)
+- [Cómo programar entradas en WordPress](https://jlferrete.com/blog/como-programar-entradas-en-wordpress/)
 - [5 consejos para programadores senior](https://jlferrete.com/blog/5-consejos-para-programadores-senior/)
 - [WordPress Hackeado, qué es y cómo solucionarlo](https://jlferrete.com/blog/wordpress-hackeado-que-es-y-como-solucionarlo/)
 - [Como evitar el indexado de archivos PDF (SEO)](https://jlferrete.com/blog/como-evitar-el-indexado-de-archivos-pdf-seo/)
-- [Curso de cómo venderse (como marca personal)](https://jlferrete.com/blog/curso-de-como-venderse-como-marca-personal/)
-- [Agregar reacciones de emojis a entradas en WordPress](https://jlferrete.com/blog/agregar-reacciones-de-emojis-a-entradas-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
