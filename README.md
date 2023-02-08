@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Reproducir inyección SQL en sqlite3 y PyMySQL](https://jlferrete.com/blog/reproducir-inyeccion-sql-en-sqlite3-y-pymysql/)
 - [Deploying a Django App to Render](https://jlferrete.com/blog/deploying-a-django-app-to-render/)
 - [Cómo comparar Strings en Java](https://jlferrete.com/blog/como-comparar-strings-en-java/)
 - [Cómo programar entradas en WordPress](https://jlferrete.com/blog/como-programar-entradas-en-wordpress/)
 - [5 consejos para programadores senior](https://jlferrete.com/blog/5-consejos-para-programadores-senior/)
-- [WordPress Hackeado, qué es y cómo solucionarlo](https://jlferrete.com/blog/wordpress-hackeado-que-es-y-como-solucionarlo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
