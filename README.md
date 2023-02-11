@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Monads in Java](https://jlferrete.com/blog/monads-in-java/)
+- [Nahuai Badiola: Cosas guapas que puedes hacer con bloques de WordPress](https://jlferrete.com/blog/nahuai-badiola-cosas-guapas-que-puedes-hacer-con-bloques-de-wordpress/)
 - [26 Herramientas que usan OpenAI [además de ChatGPT]](https://jlferrete.com/blog/26-herramientas-que-usan-openai-ademas-de-chatgpt/)
 - [Cómo descargar plugins desde el escritorio de WordPress](https://jlferrete.com/blog/como-descargar-plugins-desde-el-escritorio-de-wordpress/)
 - [Cómo escribir un fichero en Deno](https://jlferrete.com/blog/como-escribir-un-fichero-en-deno/)
-- [Análisis predictivo con herramientas [GRATIS]](https://jlferrete.com/blog/analisis-predictivo-con-herramientas-gratis/)
-- [Reproducir inyección SQL en sqlite3 y PyMySQL](https://jlferrete.com/blog/reproducir-inyeccion-sql-en-sqlite3-y-pymysql/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
