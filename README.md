@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://jlferrete.com/blog/pablo-moratinos-todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://jlferrete.com/blog/ana-cirujano-como-pedir-feedback-de-diseno-web/)
 - [5 repositorios de GitHub que debes conocer como desarrollador](https://jlferrete.com/blog/5-repositorios-de-github-que-debes-conocer-como-desarrollador/)
 - [Los movimientos de Google con respecto a ChatGPT](https://jlferrete.com/blog/los-movimientos-de-google-con-respecto-a-chatgpt/)
 - [Ya puedes instalar Android 14 en Windows 10 y 11: así puedes hacerlo](https://jlferrete.com/blog/ya-puedes-instalar-android-14-en-windows-10-y-11-asi-puedes-hacerlo/)
-- [Néstor Angulo: Round 1! FIGHT! – O cómo sobrevivir al ataque de un hacker malicioso](https://jlferrete.com/blog/nestor-angulo-round-1-fight-o-como-sobrevivir-al-ataque-de-un-hacker-malicioso/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
