@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [10+ Resources for recreating old school & retro user interfaces today!](https://jlferrete.com/blog/10-resources-for-recreating-old-school-retro-user-interfaces-today/)
 - [Cómo usar Lando para desarrollar en WordPress (o Docker para todos)](https://jlferrete.com/blog/como-usar-lando-para-desarrollar-en-wordpress-o-docker-para-todos/)
 - [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://jlferrete.com/blog/pablo-moratinos-todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 - [Ana Cirujano: Cómo pedir feedback de diseño web](https://jlferrete.com/blog/ana-cirujano-como-pedir-feedback-de-diseno-web/)
 - [5 repositorios de GitHub que debes conocer como desarrollador](https://jlferrete.com/blog/5-repositorios-de-github-que-debes-conocer-como-desarrollador/)
-- [Los movimientos de Google con respecto a ChatGPT](https://jlferrete.com/blog/los-movimientos-de-google-con-respecto-a-chatgpt/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
