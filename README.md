@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de creación de podcast en Telegram](https://jlferrete.com/blog/curso-de-creacion-de-podcast-en-telegram/)
 - [Reading PDF File Using Java](https://jlferrete.com/blog/reading-pdf-file-using-java/)
 - [Curso de inteligencia artificial aplicada a los negocios](https://jlferrete.com/blog/curso-de-inteligencia-artificial-aplicada-a-los-negocios/)
 - [10+ Resources for recreating old school & retro user interfaces today!](https://jlferrete.com/blog/10-resources-for-recreating-old-school-retro-user-interfaces-today/)
 - [Cómo usar Lando para desarrollar en WordPress (o Docker para todos)](https://jlferrete.com/blog/como-usar-lando-para-desarrollar-en-wordpress-o-docker-para-todos/)
-- [Pablo Moratinos: Todo sobre el etiquetado de enlaces con UTMs. Novedades en GA4](https://jlferrete.com/blog/pablo-moratinos-todo-sobre-el-etiquetado-de-enlaces-con-utms-novedades-en-ga4/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
