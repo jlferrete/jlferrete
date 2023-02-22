@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo automatizar tareas en Windows con Power Automate](https://jlferrete.com/blog/como-automatizar-tareas-en-windows-con-power-automate/)
 - [4 cosas que casi nadie sabe que puede hacer con una Raspberry Pi](https://jlferrete.com/blog/4-cosas-que-casi-nadie-sabe-que-puede-hacer-con-una-raspberry-pi/)
 - [Cómo compartir cuenta de Netflix gratis y sin pagar más](https://jlferrete.com/blog/como-compartir-cuenta-de-netflix-gratis-y-sin-pagar-mas/)
 - [Pagination and Sorting using Spring Data JPA](https://jlferrete.com/blog/pagination-and-sorting-using-spring-data-jpa/)
 - [Curso de creación de podcast en Telegram](https://jlferrete.com/blog/curso-de-creacion-de-podcast-en-telegram/)
-- [Reading PDF File Using Java](https://jlferrete.com/blog/reading-pdf-file-using-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
