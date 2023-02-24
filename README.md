@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to update value in ConcurrentHashMap atomically in Java? Compute and ComputeIfAbsent Example](https://jlferrete.com/blog/how-to-update-value-in-concurrenthashmap-atomically-in-java-compute-and-computeifabsent-example/)
 - [Con estos ajustes en Google Chrome reducirás el consumo de RAM un 40%: mejorará el rendimiento y la autonomía de tu portáti](https://jlferrete.com/blog/con-estos-ajustes-en-google-chrome-reduciras-el-consumo-de-ram-un-40-mejorara-el-rendimiento-y-la-autonomia-de-tu-portati/)
 - [Create Dynamic Queues in RabbitMQ](https://jlferrete.com/blog/create-dynamic-queues-in-rabbitmq/)
 - [Cómo automatizar tareas en Windows con Power Automate](https://jlferrete.com/blog/como-automatizar-tareas-en-windows-con-power-automate/)
 - [4 cosas que casi nadie sabe que puede hacer con una Raspberry Pi](https://jlferrete.com/blog/4-cosas-que-casi-nadie-sabe-que-puede-hacer-con-una-raspberry-pi/)
-- [Cómo compartir cuenta de Netflix gratis y sin pagar más](https://jlferrete.com/blog/como-compartir-cuenta-de-netflix-gratis-y-sin-pagar-mas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
