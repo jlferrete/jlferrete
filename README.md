@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mapping an Array of Integers to Strings Using Java Streams](https://jlferrete.com/blog/mapping-an-array-of-integers-to-strings-using-java-streams/)
 - [Combining Two Lists Into a Map in Java](https://jlferrete.com/blog/combining-two-lists-into-a-map-in-java/)
 - [Cómo escoger el mejor hosting para tu sitio web](https://jlferrete.com/blog/como-escoger-el-mejor-hosting-para-tu-sitio-web/)
 - [Cómo mostrar los productos previamente comprados en WooCommerce](https://jlferrete.com/blog/como-mostrar-los-productos-previamente-comprados-en-woocommerce/)
 - [Getting Started With RethinkDB](https://jlferrete.com/blog/getting-started-with-rethinkdb/)
-- [How to update value in ConcurrentHashMap atomically in Java? Compute and ComputeIfAbsent Example](https://jlferrete.com/blog/how-to-update-value-in-concurrenthashmap-atomically-in-java-compute-and-computeifabsent-example/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
