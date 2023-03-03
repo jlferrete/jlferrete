@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [5 Developer Workstation Security Best Practices](https://jlferrete.com/blog/5-developer-workstation-security-best-practices/)
 - [Configura (de una vez) tu web con GA4 antes de que sea tarde](https://jlferrete.com/blog/configura-de-una-vez-tu-web-con-ga4-antes-de-que-sea-tarde/)
 - [Aspectos legales de las páginas web](https://jlferrete.com/blog/aspectos-legales-de-las-paginas-web/)
 - [Mapping an Array of Integers to Strings Using Java Streams](https://jlferrete.com/blog/mapping-an-array-of-integers-to-strings-using-java-streams/)
 - [Combining Two Lists Into a Map in Java](https://jlferrete.com/blog/combining-two-lists-into-a-map-in-java/)
-- [Cómo escoger el mejor hosting para tu sitio web](https://jlferrete.com/blog/como-escoger-el-mejor-hosting-para-tu-sitio-web/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
