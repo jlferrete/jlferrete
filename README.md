@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-2/)
 - [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress/)
 - [Cómo renombrar una rama de Git](https://jlferrete.com/blog/como-renombrar-una-rama-de-git/)
 - [Aprende HTML desde cero con este nuevo curso 100% gratis lanzado por Google](https://jlferrete.com/blog/aprende-html-desde-cero-con-este-nuevo-curso-100-gratis-lanzado-por-google/)
 - [Using a Custom SSH Key to Access a Private Git Repo](https://jlferrete.com/blog/using-a-custom-ssh-key-to-access-a-private-git-repo/)
-- [5 Developer Workstation Security Best Practices](https://jlferrete.com/blog/5-developer-workstation-security-best-practices/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
