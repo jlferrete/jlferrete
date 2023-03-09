@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [JPA y Jakarta EE (dependencias)](https://jlferrete.com/blog/jpa-y-jakarta-ee-dependencias/)
+- [Backup WordPress ¿Qué es un y cómo hacerlo en mi web?](https://jlferrete.com/blog/backup-wordpress-que-es-un-y-como-hacerlo-en-mi-web/)
 - [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-3/)
 - [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-2/)
 - [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress/)
-- [Cómo renombrar una rama de Git](https://jlferrete.com/blog/como-renombrar-una-rama-de-git/)
-- [Aprende HTML desde cero con este nuevo curso 100% gratis lanzado por Google](https://jlferrete.com/blog/aprende-html-desde-cero-con-este-nuevo-curso-100-gratis-lanzado-por-google/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
