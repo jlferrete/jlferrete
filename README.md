@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de Hootsuite](https://jlferrete.com/blog/curso-de-hootsuite/)
 - [Creación dinámica de Custom Post Types en WordPress](https://jlferrete.com/blog/creacion-dinamica-de-custom-post-types-en-wordpress/)
 - [Python Folium: Create Web Maps From Your Data](https://jlferrete.com/blog/python-folium-create-web-maps-from-your-data/)
 - [JPA y Jakarta EE (dependencias)](https://jlferrete.com/blog/jpa-y-jakarta-ee-dependencias/)
 - [Backup WordPress ¿Qué es un y cómo hacerlo en mi web?](https://jlferrete.com/blog/backup-wordpress-que-es-un-y-como-hacerlo-en-mi-web/)
-- [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-3/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
