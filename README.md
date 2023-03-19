@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Authenticating Users with AzureAD in Spring Boot](https://jlferrete.com/blog/authenticating-users-with-azuread-in-spring-boot/)
 - [HeyBot, para tener chatbot personalizado basado en ChatGPT en la propia web](https://jlferrete.com/blog/heybot-para-tener-chatbot-personalizado-basado-en-chatgpt-en-la-propia-web/)
 - [Change Date Inside a Docker Container](https://jlferrete.com/blog/change-date-inside-a-docker-container/)
 - [Getting Started With K3s](https://jlferrete.com/blog/getting-started-with-k3s/)
 - [Cómo empiezo a contribuir en la comunidad de WordPress España](https://jlferrete.com/blog/como-empiezo-a-contribuir-en-la-comunidad-de-wordpress-espana/)
-- [Different Ways to Create an Object in Java](https://jlferrete.com/blog/different-ways-to-create-an-object-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
