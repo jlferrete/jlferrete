@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Desplegar un proyecto de Django en PythonAnywhere](https://jlferrete.com/blog/desplegar-un-proyecto-de-django-en-pythonanywhere/)
 - [El módulo «operator» y la programación funcional](https://jlferrete.com/blog/el-modulo-operator-y-la-programacion-funcional/)
 - [Java Interface Metodos privados](https://jlferrete.com/blog/java-interface-metodos-privados/)
 - [¿Para que sirven los :: en Java?](https://jlferrete.com/blog/para-que-sirven-los-en-java/)
 - [JPA Streamer y consultas dinámicas](https://jlferrete.com/blog/jpa-streamer-y-consultas-dinamicas/)
-- [Curso gratuito herramientas Analytics Open Source](https://jlferrete.com/blog/curso-gratuito-herramientas-analytics-open-source/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
