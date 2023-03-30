@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Can Stream.collect() Return the null Value?](https://jlferrete.com/blog/can-stream-collect-return-the-null-value/)
 - [Mejores plugins Quiz para WordPress](https://jlferrete.com/blog/mejores-plugins-quiz-para-wordpress/)
 - [Cómo instalar y configurar Google Analytics en WordPress](https://jlferrete.com/blog/como-instalar-y-configurar-google-analytics-en-wordpress/)
 - [Cómo identificar y optimizar las tablas lentas de la base de datos](https://jlferrete.com/blog/como-identificar-y-optimizar-las-tablas-lentas-de-la-base-de-datos/)
 - [EXTRAYENDO TEXTO DE ARCHIVO PDF CON «PyPDF2»](https://jlferrete.com/blog/extrayendo-texto-de-archivo-pdf-con-pypdf2/)
-- [GRAFICANDO SEÑALES DE AUDIO CON ‘wave’ Y ‘matplotlib’](https://jlferrete.com/blog/graficando-senales-de-audio-con-wave-y-matplotlib/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
