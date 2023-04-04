@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Siete medidas de seguridad para entornos corporativos en la nube](https://jlferrete.com/blog/siete-medidas-de-seguridad-para-entornos-corporativos-en-la-nube/)
 - [Así es como las empresas abordan el almacenamiento de datos](https://jlferrete.com/blog/asi-es-como-las-empresas-abordan-el-almacenamiento-de-datos/)
 - [Difference between Spring Boot and Spring Cloud Framework](https://jlferrete.com/blog/difference-between-spring-boot-and-spring-cloud-framework/)
 - [Deploy a Django App With Gunicorn and Nginx](https://jlferrete.com/blog/deploy-a-django-app-with-gunicorn-and-nginx/)
 - [Get the Desktop Path in Java](https://jlferrete.com/blog/get-the-desktop-path-in-java/)
-- [Python and REST APIs: Interacting With Web Services](https://jlferrete.com/blog/python-and-rest-apis-interacting-with-web-services/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
