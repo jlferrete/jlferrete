@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Understanding Data Lakes: Definition, Architecture, and Benefits](https://jlferrete.com/blog/understanding-data-lakes-definition-architecture-and-benefits/)
 - [Logra escalabilidad, flexibilidad y ahorros con Cloud Data Integration](https://jlferrete.com/blog/logra-escalabilidad-flexibilidad-y-ahorros-con-cloud-data-integration/)
 - [Siete medidas de seguridad para entornos corporativos en la nube](https://jlferrete.com/blog/siete-medidas-de-seguridad-para-entornos-corporativos-en-la-nube/)
 - [Así es como las empresas abordan el almacenamiento de datos](https://jlferrete.com/blog/asi-es-como-las-empresas-abordan-el-almacenamiento-de-datos/)
 - [Difference between Spring Boot and Spring Cloud Framework](https://jlferrete.com/blog/difference-between-spring-boot-and-spring-cloud-framework/)
-- [Deploy a Django App With Gunicorn and Nginx](https://jlferrete.com/blog/deploy-a-django-app-with-gunicorn-and-nginx/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
