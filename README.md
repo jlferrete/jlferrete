@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Una vulnerabilidad en un ‘plugin’ de WordPress pone en riesgo millones de sitios web](https://jlferrete.com/blog/una-vulnerabilidad-en-un-plugin-de-wordpress-pone-en-riesgo-millones-de-sitios-web/)
 - [Data Lakehouse: La solución híbrida para Big Data](https://jlferrete.com/blog/data-lakehouse-la-solucion-hibrida-para-big-data/)
 - [Instalación y Configuración «Básica» de Hyper-V Server 2019 en un Grupo de Trabajo (NO Dominio)](https://jlferrete.com/blog/instalacion-y-configuracion-basica-de-hyper-v-server-2019-en-un-grupo-de-trabajo-no-dominio/)
 - [Cómo usar Rufus para crear un disco de arranque](https://jlferrete.com/blog/como-usar-rufus-para-crear-un-disco-de-arranque/)
 - [¿Qué es Laravel y cúales son sus beneficios para desarrollo web?](https://jlferrete.com/blog/que-es-laravel-y-cuales-son-sus-beneficios-para-desarrollo-web/)
-- [Understanding Data Lakes: Definition, Architecture, and Benefits](https://jlferrete.com/blog/understanding-data-lakes-definition-architecture-and-benefits/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
