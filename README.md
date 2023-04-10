@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Script LPI SOA: Haz tu app Linux de mantenimiento y actualización](https://jlferrete.com/blog/script-lpi-soa-haz-tu-app-linux-de-mantenimiento-y-actualizacion/)
 - [ECUALIZACIÓN DE HISTOGRAMAS EN PYTHON, CON «opencv»](https://jlferrete.com/blog/ecualizacion-de-histogramas-en-python-con-opencv/)
 - [Cypress : How to Run tests in Docker image](https://jlferrete.com/blog/cypress-how-to-run-tests-in-docker-image/)
 - [Una vulnerabilidad en un ‘plugin’ de WordPress pone en riesgo millones de sitios web](https://jlferrete.com/blog/una-vulnerabilidad-en-un-plugin-de-wordpress-pone-en-riesgo-millones-de-sitios-web/)
 - [Data Lakehouse: La solución híbrida para Big Data](https://jlferrete.com/blog/data-lakehouse-la-solucion-hibrida-para-big-data/)
-- [Instalación y Configuración «Básica» de Hyper-V Server 2019 en un Grupo de Trabajo (NO Dominio)](https://jlferrete.com/blog/instalacion-y-configuracion-basica-de-hyper-v-server-2019-en-un-grupo-de-trabajo-no-dominio/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
