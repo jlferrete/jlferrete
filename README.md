@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [«Antes de plantear una estrategia del uso del dato hay que saber de qué datos se dispone»](https://jlferrete.com/blog/antes-de-plantear-una-estrategia-del-uso-del-dato-hay-que-saber-de-que-datos-se-dispone/)
 - [Ventajas de optar por un almacén de datos en la nube](https://jlferrete.com/blog/ventajas-de-optar-por-un-almacen-de-datos-en-la-nube/)
 - [«Lo controvertido no son los algoritmos ni la IA sino lo que se hace con ellos»](https://jlferrete.com/blog/lo-controvertido-no-son-los-algoritmos-ni-la-ia-sino-lo-que-se-hace-con-ellos/)
 - [Script LPI SOA: Haz tu app Linux de mantenimiento y actualización](https://jlferrete.com/blog/script-lpi-soa-haz-tu-app-linux-de-mantenimiento-y-actualizacion/)
 - [ECUALIZACIÓN DE HISTOGRAMAS EN PYTHON, CON «opencv»](https://jlferrete.com/blog/ecualizacion-de-histogramas-en-python-con-opencv/)
-- [Cypress : How to Run tests in Docker image](https://jlferrete.com/blog/cypress-how-to-run-tests-in-docker-image/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
