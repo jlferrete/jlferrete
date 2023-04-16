@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Triunfa en tu entrevista de Ingeniero de Datos: Consejos clave](https://jlferrete.com/blog/triunfa-en-tu-entrevista-de-ingeniero-de-datos-consejos-clave/)
 - [«MLOps nos ha permitido adaptarnos a las buenas prácticas del desarrollo de software»](https://jlferrete.com/blog/mlops-nos-ha-permitido-adaptarnos-a-las-buenas-practicas-del-desarrollo-de-software/)
 - [Cómo migrar tu WordPress](https://jlferrete.com/blog/como-migrar-tu-wordpress/)
 - [Data Vault: Cómo estructurar tu Data Warehouse](https://jlferrete.com/blog/data-vault-como-estructurar-tu-data-warehouse/)
 - [«Antes de plantear una estrategia del uso del dato hay que saber de qué datos se dispone»](https://jlferrete.com/blog/antes-de-plantear-una-estrategia-del-uso-del-dato-hay-que-saber-de-que-datos-se-dispone/)
-- [Ventajas de optar por un almacén de datos en la nube](https://jlferrete.com/blog/ventajas-de-optar-por-un-almacen-de-datos-en-la-nube/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
