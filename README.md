@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [PySpark for Beginners: A Guide with Examples](https://jlferrete.com/blog/pyspark-for-beginners-a-guide-with-examples/)
 - [ChartGuide poster 4.0](https://jlferrete.com/blog/chartguide-poster-4-0/)
 - [Tipos de normalización de los datos y cuándo usar cada uno](https://jlferrete.com/blog/tipos-de-normalizacion-de-los-datos-y-cuando-usar-cada-uno/)
 - [Chat GPT abre el debate: ¿Dejarías el branding de tu empresa en manos de la IA?](https://jlferrete.com/blog/chat-gpt-abre-el-debate-dejarias-el-branding-de-tu-empresa-en-manos-de-la-ia/)
 - [La IA genera un carrito de compra ‘inteligente’ en base a la predicción de las necesidades del cliente](https://jlferrete.com/blog/la-ia-genera-un-carrito-de-compra-inteligente-en-base-a-la-prediccion-de-las-necesidades-del-cliente/)
-- [¿Qué es el Process Mining y por qué implementarlo en tu organización?](https://jlferrete.com/blog/que-es-el-process-mining-y-por-que-implementarlo-en-tu-organizacion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
