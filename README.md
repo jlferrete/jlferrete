@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Todo lo que debes saber para empezar a programar en Raspberry Pi](https://jlferrete.com/blog/todo-lo-que-debes-saber-para-empezar-a-programar-en-raspberry-pi/)
 - [¿Cómo obtengo un número de teléfono temporal en mi teléfono?](https://jlferrete.com/blog/como-obtengo-un-numero-de-telefono-temporal-en-mi-telefono/)
 - [Spring Boot Console y aplicaciones](https://jlferrete.com/blog/spring-boot-console-y-aplicaciones/)
 - [PySpark for Beginners: A Guide with Examples](https://jlferrete.com/blog/pyspark-for-beginners-a-guide-with-examples/)
 - [ChartGuide poster 4.0](https://jlferrete.com/blog/chartguide-poster-4-0/)
-- [Tipos de normalización de los datos y cuándo usar cada uno](https://jlferrete.com/blog/tipos-de-normalizacion-de-los-datos-y-cuando-usar-cada-uno/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
