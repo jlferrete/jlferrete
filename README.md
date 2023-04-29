@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo solucionar “No se ha podido descomprimir el paquete. El tema no tiene la hoja de estilo style.css” en WordPress?](https://jlferrete.com/blog/como-solucionar-no-se-ha-podido-descomprimir-el-paquete-el-tema-no-tiene-la-hoja-de-estilo-style-css-en-wordpress/)
 - [Unidirectional One-to-Many and Cascading Delete in JPA](https://jlferrete.com/blog/unidirectional-one-to-many-and-cascading-delete-in-jpa/)
 - [WooCommerce: Cómo ocultar el precio cero y mostrar el texto de «Gratis»](https://jlferrete.com/blog/woocommerce-como-ocultar-el-precio-cero-y-mostrar-el-texto-de-gratis/)
 - [Java Program to Calculate Pi](https://jlferrete.com/blog/java-program-to-calculate-pi/)
 - [Todo lo que debes saber para empezar a programar en Raspberry Pi](https://jlferrete.com/blog/todo-lo-que-debes-saber-para-empezar-a-programar-en-raspberry-pi/)
-- [¿Cómo obtengo un número de teléfono temporal en mi teléfono?](https://jlferrete.com/blog/como-obtengo-un-numero-de-telefono-temporal-en-mi-telefono/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
