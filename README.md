@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Data Modelling Basics. How to become a Data Architect](https://jlferrete.com/blog/data-modelling-basics-how-to-become-a-data-architect/)
 - [Intro to ETL Processes. The ETL (Extract, Transform, Load)](https://jlferrete.com/blog/intro-to-etl-processes-the-etl-extract-transform-load/)
 - [Guía Kodi para principiantes con los addons que no pueden faltar en tu primera instalación](https://jlferrete.com/blog/guia-kodi-para-principiantes-con-los-addons-que-no-pueden-faltar-en-tu-primera-instalacion/)
 - [PySpark SQL: A Comprehensive Guide to Analyzing Big Data (with codes)](https://jlferrete.com/blog/pyspark-sql-a-comprehensive-guide-to-analyzing-big-data-with-codeshttps-medium-com-priyamjain3377-pys-park-sql-a-comprehensive-guide-to-analyzing-big-data-with-codes-b9c9e90cf638/)
 - [Servidor NAS Nube en Casa con Raspberry Pi tutorial paso a paso con Open Media Vault](https://jlferrete.com/blog/servidor-nas-nube-en-casa-con-raspberry-pi-tutorial-paso-a-paso-con-open-media-vault/)
-- [Qué es el archivo .htaccess y dónde puedo encontrarlo](https://jlferrete.com/blog/que-es-el-archivo-htaccess-y-donde-puedo-encontrarlo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
