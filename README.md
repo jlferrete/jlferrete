@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [9 Docker Commands For Data Scientists and Engineers](https://jlferrete.com/blog/9-docker-commands-for-data-scientists-and-engineers/)
 - [Python Mock Library](https://jlferrete.com/blog/python-mock-library/)
 - [Python + Excel – Generating Highly Customized Reports](https://jlferrete.com/blog/python-excel-generating-highly-customized-reports/)
 - [PySpark DataFrame API: Read and Write Data from Databases](https://jlferrete.com/blog/pyspark-dataframe-api-read-and-write-data-from-databases/)
 - [Data Modelling Basics. How to become a Data Architect](https://jlferrete.com/blog/data-modelling-basics-how-to-become-a-data-architect/)
-- [Intro to ETL Processes. The ETL (Extract, Transform, Load)](https://jlferrete.com/blog/intro-to-etl-processes-the-etl-extract-transform-load/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
