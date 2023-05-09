@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mastering SQL: Using Data to Resolve Complex Questions](https://jlferrete.com/blog/mastering-sql-using-data-to-resolve-complex-questions/)
+- [UPDATE con JSP + JPA Destroy CRUD en Java WEB | Curso Java EE #9 | Paso a Paso 2023](https://jlferrete.com/blog/update-con-jsp-jpa-destroy-crud-en-java-web-curso-java-ee-9-paso-a-paso-2023/)
 - [Curso de Metricool](https://jlferrete.com/blog/curso-de-metricool/)
 - [La historia de la comunidad española de WordPress](https://jlferrete.com/blog/la-historia-de-la-comunidad-espanola-de-wordpress/)
 - [ELT: Extract Load Transform in Modern Data Integration](https://jlferrete.com/blog/elt-extract-load-transform-in-modern-data-integration/)
-- [9 Docker Commands For Data Scientists and Engineers](https://jlferrete.com/blog/9-docker-commands-for-data-scientists-and-engineers/)
-- [Python Mock Library](https://jlferrete.com/blog/python-mock-library/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
