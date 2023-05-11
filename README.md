@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Por qué las empresas eligen una seguridad de datos basada en la nube?](https://jlferrete.com/blog/por-que-las-empresas-eligen-una-seguridad-de-datos-basada-en-la-nube/)
 - [Curso de Narrator](https://jlferrete.com/blog/curso-de-narrator/)
 - [Mastering SQL: Using Data to Resolve Complex Questions](https://jlferrete.com/blog/mastering-sql-using-data-to-resolve-complex-questions/)
 - [UPDATE con JSP + JPA Destroy CRUD en Java WEB | Curso Java EE #9 | Paso a Paso 2023](https://jlferrete.com/blog/update-con-jsp-jpa-destroy-crud-en-java-web-curso-java-ee-9-paso-a-paso-2023/)
 - [Curso de Metricool](https://jlferrete.com/blog/curso-de-metricool/)
-- [La historia de la comunidad española de WordPress](https://jlferrete.com/blog/la-historia-de-la-comunidad-espanola-de-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
