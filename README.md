@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo borrar miles de acciones programadas rápidamente](https://jlferrete.com/blog/como-borrar-miles-de-acciones-programadas-rapidamente/)
 - [Buffer Overflows in Java](https://jlferrete.com/blog/buffer-overflows-in-java/)
 - [Cómo ser una empresa sostenible en la era de la Inteligencia Artificial](https://jlferrete.com/blog/como-ser-una-empresa-sostenible-en-la-era-de-la-inteligencia-artificial/)
 - [Considerations for creating Canvas App](https://jlferrete.com/blog/considerations-for-creating-canvas-app/)
 - [¿Por qué las empresas eligen una seguridad de datos basada en la nube?](https://jlferrete.com/blog/por-que-las-empresas-eligen-una-seguridad-de-datos-basada-en-la-nube/)
-- [Curso de Narrator](https://jlferrete.com/blog/curso-de-narrator/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
