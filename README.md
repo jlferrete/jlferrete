@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Best way to call API for data injection](https://jlferrete.com/blog/best-way-to-call-api-for-data-injection/)
 - [Código para resolver «wordles» en español](https://jlferrete.com/blog/codigo-para-resolver-wordles-en-espanol/)
 - [Check if a Specified Key Exists in a Given S3 Bucket Using Java](https://jlferrete.com/blog/check-if-a-specified-key-exists-in-a-given-s3-bucket-using-java/)
 - [Cómo borrar miles de acciones programadas rápidamente](https://jlferrete.com/blog/como-borrar-miles-de-acciones-programadas-rapidamente/)
 - [Buffer Overflows in Java](https://jlferrete.com/blog/buffer-overflows-in-java/)
-- [Cómo ser una empresa sostenible en la era de la Inteligencia Artificial](https://jlferrete.com/blog/como-ser-una-empresa-sostenible-en-la-era-de-la-inteligencia-artificial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
