@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de inteligencia artificial con WordPress](https://jlferrete.com/blog/curso-de-inteligencia-artificial-con-wordpress/)
 - [CREAR GIFS ANIMADOS DESDE LA LINEA DE COMANDOS](https://jlferrete.com/blog/crear-gifs-animados-desde-la-linea-de-comandos/)
 - [ACCEDIENDO A DATOS METEOROLOGICOS EN PYTHON, CON «meteostat»](https://jlferrete.com/blog/accediendo-a-datos-meteorologicos-en-python-con-meteostat/)
 - [WordPress 6.2.1 ha roto mi web → Soluciones](https://jlferrete.com/blog/wordpress-6-2-1-ha-roto-mi-web-%e2%86%92-soluciones/)
 - [Best way to call API for data injection](https://jlferrete.com/blog/best-way-to-call-api-for-data-injection/)
-- [Código para resolver «wordles» en español](https://jlferrete.com/blog/codigo-para-resolver-wordles-en-espanol/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
