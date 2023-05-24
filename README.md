@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Power Apps PDF Function: Create, View & Download PDFs](https://jlferrete.com/blog/power-apps-pdf-function-create-view-download-pdfs/)
 - [Security and Governance for Power Apps – Power Platform Community](https://jlferrete.com/blog/security-and-governance-for-power-apps-power-platform-community/)
 - [Implementing Tier Security using MS365 Security](https://jlferrete.com/blog/implementing-tier-security-using-ms365-security/)
 - [Application Lifecycle Management in Power Platform – Power Platform Community](https://jlferrete.com/blog/application-lifecycle-management-in-power-platform-power-platform-community/)
 - [Curso de inteligencia artificial con WordPress](https://jlferrete.com/blog/curso-de-inteligencia-artificial-con-wordpress/)
-- [CREAR GIFS ANIMADOS DESDE LA LINEA DE COMANDOS](https://jlferrete.com/blog/crear-gifs-animados-desde-la-linea-de-comandos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
