@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [The best way to map a projection query to a DTO (Data Transfer Object) with JPA and Hibernate](https://jlferrete.com/blog/the-best-way-to-map-a-projection-query-to-a-dto-data-transfer-object-with-jpa-and-hibernate/)
 - [New: Makers can now proactively request Power Apps premium licenses for their users](https://jlferrete.com/blog/new-makers-can-now-proactively-request-power-apps-premium-licenses-for-their-users/)
 - [Power Apps PDF Function: Create, View & Download PDFs](https://jlferrete.com/blog/power-apps-pdf-function-create-view-download-pdfs/)
 - [Security and Governance for Power Apps – Power Platform Community](https://jlferrete.com/blog/security-and-governance-for-power-apps-power-platform-community/)
 - [Implementing Tier Security using MS365 Security](https://jlferrete.com/blog/implementing-tier-security-using-ms365-security/)
-- [Application Lifecycle Management in Power Platform – Power Platform Community](https://jlferrete.com/blog/application-lifecycle-management-in-power-platform-power-platform-community/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
