@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Launch an HTTP Server in One Line of Python Code](https://jlferrete.com/blog/how-to-launch-an-http-server-in-one-line-of-python-code/)
 - [Controlando más de un reproductor de música al mismo tiempo](https://jlferrete.com/blog/controlando-mas-de-un-reproductor-de-musica-al-mismo-tiempo/)
 - [Biblioteca Transformers. Modelos Pre-entrenados para empezar](https://jlferrete.com/blog/biblioteca-transformers-modelos-pre-entrenados-para-empezar/)
 - [Power Automate Create SharePoint News Post Error](https://jlferrete.com/blog/power-automate-create-sharepoint-news-post-error/)
 - [Automatically Rename Files in Sharepoint from lookup column](https://jlferrete.com/blog/automatically-rename-files-in-sharepoint-from-lookup-column/)
-- [Calendar overlay in SharePoint doesn’t support different site collections. Any Fix?](https://jlferrete.com/blog/calendar-overlay-in-sharepoint-doesnt-support-different-site-collections-any-fix/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
