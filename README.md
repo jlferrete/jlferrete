@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Programando un bloque Gutenberg de WordPress en React desde cero](https://jlferrete.com/blog/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
+- [El sencillo truco para eliminar los anuncios en Gmail](https://jlferrete.com/blog/el-sencillo-truco-para-eliminar-los-anuncios-en-gmail/)
 - [Restricting Users to Create Sharepoint List Entries Only Through Power Apps](https://jlferrete.com/blog/restricting-users-to-create-sharepoint-list-entries-only-through-power-apps/)
 - [Cómo Mostrar Código en WordPress (y que Quede Bonito)](https://jlferrete.com/blog/como-mostrar-codigo-en-wordpress-y-que-quede-bonito/)
 - [Simple Power Apps Modal Dialog Using Containers](https://jlferrete.com/blog/simple-power-apps-modal-dialog-using-containers/)
-- [Power Apps: Customize A SharePoint List Form](https://jlferrete.com/blog/power-apps-customize-a-sharepoint-list-form/)
-- [Curso de reservas con WooCommerce](https://jlferrete.com/blog/curso-de-reservas-con-woocommerce/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
