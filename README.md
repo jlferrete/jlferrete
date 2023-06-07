@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Microsoft Cloud Skills Challenge | 30 Days to Learn It](https://jlferrete.com/blog/microsoft-cloud-skills-challenge-30-days-to-learn-it/)
+- [Detail Checklist to set up Power Platform Governance](https://jlferrete.com/blog/detail-checklist-to-set-up-power-platform-governance/)
 - [Programando un bloque Gutenberg de WordPress en React desde cero](https://jlferrete.com/blog/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
 - [El sencillo truco para eliminar los anuncios en Gmail](https://jlferrete.com/blog/el-sencillo-truco-para-eliminar-los-anuncios-en-gmail/)
 - [Restricting Users to Create Sharepoint List Entries Only Through Power Apps](https://jlferrete.com/blog/restricting-users-to-create-sharepoint-list-entries-only-through-power-apps/)
-- [Cómo Mostrar Código en WordPress (y que Quede Bonito)](https://jlferrete.com/blog/como-mostrar-codigo-en-wordpress-y-que-quede-bonito/)
-- [Simple Power Apps Modal Dialog Using Containers](https://jlferrete.com/blog/simple-power-apps-modal-dialog-using-containers/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
