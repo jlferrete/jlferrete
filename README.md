@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de generación de contenidos con inteligencia artificial](https://jlferrete.com/blog/curso-de-generacion-de-contenidos-con-inteligencia-artificial/)
 - [Adding a clickable item of a record in SharePoint](https://jlferrete.com/blog/adding-a-clickable-item-of-a-record-in-sharepoint/)
 - [Microsoft Cloud Skills Challenge | 30 Days to Learn It](https://jlferrete.com/blog/microsoft-cloud-skills-challenge-30-days-to-learn-it/)
 - [Detail Checklist to set up Power Platform Governance](https://jlferrete.com/blog/detail-checklist-to-set-up-power-platform-governance/)
 - [Programando un bloque Gutenberg de WordPress en React desde cero](https://jlferrete.com/blog/programando-un-bloque-gutenberg-de-wordpress-en-react-desde-cero/)
-- [El sencillo truco para eliminar los anuncios en Gmail](https://jlferrete.com/blog/el-sencillo-truco-para-eliminar-los-anuncios-en-gmail/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
