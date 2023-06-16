@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Spring Transaction Best Practices](https://jlferrete.com/blog/spring-transaction-best-practices/)
 - [ETL concepts in data warehouse. ETL (Stands for Extraction)](https://jlferrete.com/blog/etl-concepts-in-data-warehouse-etl-stands-for-extraction/)
 - [Curso de venta de webs](https://jlferrete.com/blog/curso-de-venta-de-webs/)
 - [Guía completa | Aloja WordPress en Microsoft Azure](https://jlferrete.com/blog/guia-completa-aloja-wordpress-en-microsoft-azure/)
 - [Amazon tiene uno de los mejores cursos gratis de machine learning en español: así puedes acceder para iniciarte en IA](https://jlferrete.com/blog/amazon-tiene-uno-de-los-mejores-cursos-gratis-de-machine-learning-en-espanol-asi-puedes-acceder-para-iniciarte-en-ia/)
-- [Guía de SEO para WordPress](https://jlferrete.com/blog/guia-de-seo-para-wordpress-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
