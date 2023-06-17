@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Spark RDD Operations. This post was written in collaboration](https://jlferrete.com/blog/spark-rdd-operations-this-post-was-written-in-collaboration-2/)
 - [Spark RDD Operations. This post was written in collaboration](https://jlferrete.com/blog/spark-rdd-operations-this-post-was-written-in-collaboration/)
 - [Spring Transaction Best Practices](https://jlferrete.com/blog/spring-transaction-best-practices/)
 - [ETL concepts in data warehouse. ETL (Stands for Extraction)](https://jlferrete.com/blog/etl-concepts-in-data-warehouse-etl-stands-for-extraction/)
 - [Curso de venta de webs](https://jlferrete.com/blog/curso-de-venta-de-webs/)
-- [Guía completa | Aloja WordPress en Microsoft Azure](https://jlferrete.com/blog/guia-completa-aloja-wordpress-en-microsoft-azure/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
