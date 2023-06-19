@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mostrar elementos según día y hora en WordPress](https://jlferrete.com/blog/mostrar-elementos-segun-dia-y-hora-en-wordpress/)
 - [Curso de Gravity Forms](https://jlferrete.com/blog/curso-de-gravity-forms/)
 - [ETL vs. ELT: A Comprehensive Comparison and Guide to Modern Data Integration Strategies](https://jlferrete.com/blog/etl-vs-elt-a-comprehensive-comparison-and-guide-to-modern-data-integration-strategies/)
 - [Spark RDD Operations. This post was written in collaboration](https://jlferrete.com/blog/spark-rdd-operations-this-post-was-written-in-collaboration-2/)
 - [Spark RDD Operations. This post was written in collaboration](https://jlferrete.com/blog/spark-rdd-operations-this-post-was-written-in-collaboration/)
-- [Spring Transaction Best Practices](https://jlferrete.com/blog/spring-transaction-best-practices/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
