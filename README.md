@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo solucionar el error “La carga falló No se pudo escribir el archivo en el disco” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-la-carga-fallo-no-se-pudo-escribir-el-archivo-en-el-disco-en-wordpress/)
 - [¿Cómo solucionar el error de MySQL 1064?](https://jlferrete.com/blog/como-solucionar-el-error-de-mysql-1064/)
 - [¿Cómo solucionar el error “MySQL Server Has Gone Away” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-mysql-server-has-gone-away-en-wordpress/)
 - [GraphQL Tutorial – How to Query The Rick and Morty API](https://jlferrete.com/blog/graphql-tutorial-how-to-query-the-rick-and-morty-api/)
 - [Build AI Apps with ChatGPT, Dall-E, and GPT-4](https://jlferrete.com/blog/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/)
-- [A hitchhiker’s guide to Data City — 4 steps to build a clean interface between your data warehouse and BI tool](https://jlferrete.com/blog/a-hitchhikers-guide-to-data-city-4-steps-to-build-a-clean-interface-between-your-data-warehouse-and-bi-tool/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
