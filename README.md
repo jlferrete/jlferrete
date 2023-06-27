@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [End-to-end Azure data engineering project — Part 1: Project Requirement, Solution Architecture and Environment Setup](https://jlferrete.com/blog/end-to-end-azure-data-engineering-project-part-1-project-requirement-solution-architecture-and-environment-setup/)
 - [¿Cómo solucionar el error de “Missed Schedule de WordPress”?](https://jlferrete.com/blog/como-solucionar-el-error-de-missed-schedule-de-wordpress/)
 - [Curso de reservas online con WordPress](https://jlferrete.com/blog/curso-de-reservas-online-con-wordpress/)
 - [¿Cómo solucionar el error “La carga falló No se pudo escribir el archivo en el disco” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-la-carga-fallo-no-se-pudo-escribir-el-archivo-en-el-disco-en-wordpress/)
 - [¿Cómo solucionar el error de MySQL 1064?](https://jlferrete.com/blog/como-solucionar-el-error-de-mysql-1064/)
-- [¿Cómo solucionar el error “MySQL Server Has Gone Away” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-mysql-server-has-gone-away-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
