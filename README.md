@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [How to format link column?](https://jlferrete.com/blog/how-to-format-link-column/)
-- [Count The Rows In A Power Apps Gallery With AllItemsCount](https://jlferrete.com/blog/count-the-rows-in-a-power-apps-gallery-with-allitemscount/)
-- [Java LocalDate y el manejo de Fecha – Arquitectura Java](https://jlferrete.com/blog/java-localdate-y-el-manejo-de-fecha-arquitectura-java/)
-- [End-to-end Azure data engineering project — Part 2: Using DataBricks to ingest and transform data](https://jlferrete.com/blog/end-to-end-azure-data-engineering-project-part-2-using-databricks-to-ingest-and-transform-data/)
-- [End-to-end Azure data engineering project — Part 1: Project Requirement, Solution Architecture and Environment Setup](https://jlferrete.com/blog/end-to-end-azure-data-engineering-project-part-1-project-requirement-solution-architecture-and-environment-setup/)
+- [A hitchhiker’s guide to Data City — 4 steps to build a clean interface between your data warehouse and BI tool](https://jlferrete.com/blog/a-hitchhikers-guide-to-data-city-4-steps-to-build-a-clean-interface-between-your-data-warehouse-and-bi-tool-2/)
+- [Build AI Apps with ChatGPT, Dall-E, and GPT-4](https://jlferrete.com/blog/build-ai-apps-with-chatgpt-dall-e-and-gpt-4-2/)
+- [GraphQL Tutorial – How to Query The Rick and Morty API](https://jlferrete.com/blog/graphql-tutorial-how-to-query-the-rick-and-morty-api-2/)
+- [¿Cómo solucionar el error “MySQL Server Has Gone Away” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-mysql-server-has-gone-away-en-wordpress-2/)
+- [¿Cómo solucionar el error de MySQL 1064?](https://jlferrete.com/blog/como-solucionar-el-error-de-mysql-1064-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
