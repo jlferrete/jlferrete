@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [USANDO «CHATGPT» DESDE PYTHON](https://jlferrete.com/blog/usando-chatgpt-desde-python/)
 - [Crea tu propio asistente de voz con la API de OpenAI](https://jlferrete.com/blog/crea-tu-propio-asistente-de-voz-con-la-api-de-openai/)
 - [A hitchhiker’s guide to Data City — 4 steps to build a clean interface between your data warehouse and BI tool](https://jlferrete.com/blog/a-hitchhikers-guide-to-data-city-4-steps-to-build-a-clean-interface-between-your-data-warehouse-and-bi-tool-2/)
 - [Build AI Apps with ChatGPT, Dall-E, and GPT-4](https://jlferrete.com/blog/build-ai-apps-with-chatgpt-dall-e-and-gpt-4-2/)
 - [GraphQL Tutorial – How to Query The Rick and Morty API](https://jlferrete.com/blog/graphql-tutorial-how-to-query-the-rick-and-morty-api-2/)
-- [¿Cómo solucionar el error “MySQL Server Has Gone Away” en WordPress?](https://jlferrete.com/blog/como-solucionar-el-error-mysql-server-has-gone-away-en-wordpress-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
