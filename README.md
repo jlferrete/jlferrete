@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo cambiar la frecuencia de WP-Cron sin desactivarlo](https://jlferrete.com/blog/como-cambiar-la-frecuencia-de-wp-cron-sin-desactivarlo/)
 - [Converting JSON to XML in Java](https://jlferrete.com/blog/converting-json-to-xml-in-java/)
 - [Set Default Value for Elements in List](https://jlferrete.com/blog/set-default-value-for-elements-in-list/)
 - [USANDO «CHATGPT» DESDE PYTHON](https://jlferrete.com/blog/usando-chatgpt-desde-python/)
 - [Crea tu propio asistente de voz con la API de OpenAI](https://jlferrete.com/blog/crea-tu-propio-asistente-de-voz-con-la-api-de-openai/)
-- [A hitchhiker’s guide to Data City — 4 steps to build a clean interface between your data warehouse and BI tool](https://jlferrete.com/blog/a-hitchhikers-guide-to-data-city-4-steps-to-build-a-clean-interface-between-your-data-warehouse-and-bi-tool-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
