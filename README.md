@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Read Zip Files Entries With Java](https://jlferrete.com/blog/how-to-read-zip-files-entries-with-java-2/)
+- [How to Read Zip Files Entries With Java](https://jlferrete.com/blog/how-to-read-zip-files-entries-with-java/)
 - [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-5/)
 - [Microsoft Azure: Configurar Contexto de Autenticación para Controlar las Sesiones en Aplicaciones desde Microsoft Defender for Cloud App](https://jlferrete.com/blog/microsoft-azure-configurar-contexto-de-autenticacion-para-controlar-las-sesiones-en-aplicaciones-desde-microsoft-defender-for-cloud-app/)
 - [Pintando arquitecturas: patrón de infraestructura segura en Azure Databrick](https://jlferrete.com/blog/pintando-arquitecturas-patron-de-infraestructura-segura-en-azure-databrick/)
-- [Curso de formularios de pago](https://jlferrete.com/blog/curso-de-formularios-de-pago/)
-- [Correct Use of flush() in JPA](https://jlferrete.com/blog/correct-use-of-flush-in-jpa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
