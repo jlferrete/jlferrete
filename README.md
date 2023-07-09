@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Microsoft Azure: Configurar Contexto de Autenticación para Controlar las Sesiones en Aplicaciones desde Microsoft Defender for Cloud App](https://jlferrete.com/blog/microsoft-azure-configurar-contexto-de-autenticacion-para-controlar-las-sesiones-en-aplicaciones-desde-microsoft-defender-for-cloud-app/)
 - [Pintando arquitecturas: patrón de infraestructura segura en Azure Databrick](https://jlferrete.com/blog/pintando-arquitecturas-patron-de-infraestructura-segura-en-azure-databrick/)
 - [Curso de formularios de pago](https://jlferrete.com/blog/curso-de-formularios-de-pago/)
 - [Correct Use of flush() in JPA](https://jlferrete.com/blog/correct-use-of-flush-in-jpa/)
 - [Cómo cambiar la frecuencia de WP-Cron sin desactivarlo](https://jlferrete.com/blog/como-cambiar-la-frecuencia-de-wp-cron-sin-desactivarlo/)
-- [Converting JSON to XML in Java](https://jlferrete.com/blog/converting-json-to-xml-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
