@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Microsoft define una hoja de ruta para la gobernanza de la Inteligencia Artificial](https://jlferrete.com/blog/microsoft-define-una-hoja-de-ruta-para-la-gobernanza-de-la-inteligencia-artificial/)
 - [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java-3/)
 - [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java-2/)
 - [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java/)
 - [How to Read Zip Files Entries With Java](https://jlferrete.com/blog/how-to-read-zip-files-entries-with-java-2/)
-- [Cómo Solucionar, “Parece que Tu Instalación de PHP no Cuenta con la Extensión de MySQL, Necesaria para Hacer Funcionar WordPress»](https://jlferrete.com/blog/como-solucionar-parece-que-tu-instalacion-de-php-no-cuenta-con-la-extension-de-mysql-necesaria-para-hacer-funcionar-wordpress-5/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
