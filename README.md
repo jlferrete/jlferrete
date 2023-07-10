@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Pretty Print JSON in Your Terminal with jq or Python](https://jlferrete.com/blog/pretty-print-json-in-your-terminal-with-jq-or-python/)
 - [Microsoft Defender for Cloud Apps: Autenticación con Certificado de Usuario](https://jlferrete.com/blog/microsoft-defender-for-cloud-apps-autenticacion-con-certificado-de-usuario/)
 - [25 Power Apps IF Function Examples](https://jlferrete.com/blog/25-power-apps-if-function-examples/)
 - [Microsoft define una hoja de ruta para la gobernanza de la Inteligencia Artificial](https://jlferrete.com/blog/microsoft-define-una-hoja-de-ruta-para-la-gobernanza-de-la-inteligencia-artificial/)
 - [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java-3/)
-- [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
