@@ -45,7 +45,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [Pretty Print JSON in Your Terminal with jq or Python](https://jlferrete.com/blog/pretty-print-json-in-your-terminal-with-jq-or-python/)
+- [How to Create a Serverless ChatGPT App in 10 Minutes](https://jlferrete.com/blog/how-to-create-a-serverless-chatgpt-app-in-10-minutes/)
 - [Microsoft Defender for Cloud Apps: Autenticación con Certificado de Usuario](https://jlferrete.com/blog/microsoft-defender-for-cloud-apps-autenticacion-con-certificado-de-usuario/)
 - [25 Power Apps IF Function Examples](https://jlferrete.com/blog/25-power-apps-if-function-examples/)
 - [Microsoft define una hoja de ruta para la gobernanza de la Inteligencia Artificial](https://jlferrete.com/blog/microsoft-define-una-hoja-de-ruta-para-la-gobernanza-de-la-inteligencia-artificial/)
