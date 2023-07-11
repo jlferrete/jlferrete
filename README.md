@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [5 Errores Comunes con Apache Flink y Cómo Evitarlos](https://jlferrete.com/blog/5-errores-comunes-con-apache-flink-y-como-evitarlos/)
 - [How to Create a Serverless ChatGPT App in 10 Minutes](https://jlferrete.com/blog/how-to-create-a-serverless-chatgpt-app-in-10-minutes/)
 - [Microsoft Defender for Cloud Apps: Autenticación con Certificado de Usuario](https://jlferrete.com/blog/microsoft-defender-for-cloud-apps-autenticacion-con-certificado-de-usuario/)
 - [25 Power Apps IF Function Examples](https://jlferrete.com/blog/25-power-apps-if-function-examples/)
 - [Microsoft define una hoja de ruta para la gobernanza de la Inteligencia Artificial](https://jlferrete.com/blog/microsoft-define-una-hoja-de-ruta-para-la-gobernanza-de-la-inteligencia-artificial/)
-- [Parallelize for Loop in Java](https://jlferrete.com/blog/parallelize-for-loop-in-java-3/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
