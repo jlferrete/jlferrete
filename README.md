@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Why and when you should use JPA](https://jlferrete.com/blog/why-and-when-you-should-use-jpa/)
 - [Microsoft Cloud Skills Challenge – Individuals Challenge](https://jlferrete.com/blog/microsoft-cloud-skills-challenge-individuals-challenge/)
 - [How: Power of Window Functions in Apache Spark](https://jlferrete.com/blog/how-power-of-window-functions-in-apache-spark/)
 - [5 Errores Comunes con Apache Flink y Cómo Evitarlos](https://jlferrete.com/blog/5-errores-comunes-con-apache-flink-y-como-evitarlos/)
 - [How to Create a Serverless ChatGPT App in 10 Minutes](https://jlferrete.com/blog/how-to-create-a-serverless-chatgpt-app-in-10-minutes/)
-- [Microsoft Defender for Cloud Apps: Autenticación con Certificado de Usuario](https://jlferrete.com/blog/microsoft-defender-for-cloud-apps-autenticacion-con-certificado-de-usuario/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
