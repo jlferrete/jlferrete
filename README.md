@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Vulnerabilidad crítica en AIOS, el popular plugin de seguridad de WordPress](https://jlferrete.com/blog/vulnerabilidad-critica-en-aios-el-popular-plugin-de-seguridad-de-wordpress/)
 - [Power Apps Dataverse Offline Mode For Canvas Apps](https://jlferrete.com/blog/power-apps-dataverse-offline-mode-for-canvas-apps/)
 - [Govern your business applications data with Microsoft Purview](https://jlferrete.com/blog/govern-your-business-applications-data-with-microsoft-purview/)
 - [Why and when you should use JPA](https://jlferrete.com/blog/why-and-when-you-should-use-jpa/)
 - [Microsoft Cloud Skills Challenge – Individuals Challenge](https://jlferrete.com/blog/microsoft-cloud-skills-challenge-individuals-challenge/)
-- [How: Power of Window Functions in Apache Spark](https://jlferrete.com/blog/how-power-of-window-functions-in-apache-spark/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
