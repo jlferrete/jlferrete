@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Gestión de inventarios en WooCommerce, ¿Cómo gestionarlo?](https://jlferrete.com/blog/gestion-de-inventarios-en-woocommerce-como-gestionarlo/)
 - [Cómo evitar peticiones HTTP externas en WordPress (telemetría) que espían tu web sin tu permiso](https://jlferrete.com/blog/como-evitar-peticiones-http-externas-en-wordpress-telemetria-que-espian-tu-web-sin-tu-permiso/)
 - [Vulnerabilidad crítica en AIOS, el popular plugin de seguridad de WordPress](https://jlferrete.com/blog/vulnerabilidad-critica-en-aios-el-popular-plugin-de-seguridad-de-wordpress/)
 - [Power Apps Dataverse Offline Mode For Canvas Apps](https://jlferrete.com/blog/power-apps-dataverse-offline-mode-for-canvas-apps/)
 - [Govern your business applications data with Microsoft Purview](https://jlferrete.com/blog/govern-your-business-applications-data-with-microsoft-purview/)
-- [Why and when you should use JPA](https://jlferrete.com/blog/why-and-when-you-should-use-jpa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
