@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Get Unique Values From an ArrayList in Java](https://jlferrete.com/blog/get-unique-values-from-an-arraylist-in-java/)
 - [Converting Object To Map in Java](https://jlferrete.com/blog/converting-object-to-map-in-java/)
 - [Java Serialization: readObject() vs. readResolve()](https://jlferrete.com/blog/java-serialization-readobject-vs-readresolve/)
 - [The best way to use one-to-one table relationships](https://jlferrete.com/blog/the-best-way-to-use-one-to-one-table-relationships/)
 - [Introduction to Spark and PySpark: Unlocking Big Data Processing Power](https://jlferrete.com/blog/introduction-to-spark-and-pyspark-unlocking-big-data-processing-power/)
-- [How many Jobs get created while reading](https://jlferrete.com/blog/how-many-jobs-get-created-while-reading/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
