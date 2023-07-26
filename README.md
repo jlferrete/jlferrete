@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Convert a List of Strings to a List of Integers](https://jlferrete.com/blog/convert-a-list-of-strings-to-a-list-of-integers/)
 - [Disable The Power Apps Permissions Pop-Up](https://jlferrete.com/blog/disable-the-power-apps-permissions-pop-up/)
 - [Get Unique Values From an ArrayList in Java](https://jlferrete.com/blog/get-unique-values-from-an-arraylist-in-java/)
 - [Converting Object To Map in Java](https://jlferrete.com/blog/converting-object-to-map-in-java/)
 - [Java Serialization: readObject() vs. readResolve()](https://jlferrete.com/blog/java-serialization-readobject-vs-readresolve/)
-- [The best way to use one-to-one table relationships](https://jlferrete.com/blog/the-best-way-to-use-one-to-one-table-relationships/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
