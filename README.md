@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to become a valuable data engineer · Start Data Engineering](https://jlferrete.com/blog/how-to-become-a-valuable-data-engineer-%c2%b7-start-data-engineering/)
 - [De Excel a Power BI en corto #excel #powerbi #shorts](https://jlferrete.com/blog/de-excel-a-power-bi-en-corto-excel-powerbi-shorts/)
 - [Modelos de clasificación con KNIME. Demo](https://jlferrete.com/blog/modelos-de-clasificacion-con-knime-demo/)
 - [¿Cómo desactivar Rest API en WordPress?](https://jlferrete.com/blog/como-desactivar-rest-api-en-wordpress/)
 - [Convert a List of Strings to a List of Integers](https://jlferrete.com/blog/convert-a-list-of-strings-to-a-list-of-integers/)
-- [Disable The Power Apps Permissions Pop-Up](https://jlferrete.com/blog/disable-the-power-apps-permissions-pop-up/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
