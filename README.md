@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Removing JSON Elements With Jackson](https://jlferrete.com/blog/removing-json-elements-with-jackson/)
 - [Cómo eliminar malware en WordPress](https://jlferrete.com/blog/como-eliminar-malware-en-wordpress/)
 - [Spring Data Query By Example](https://jlferrete.com/blog/spring-data-query-by-example/)
 - [Remove Whitespaces From a JSON in Java](https://jlferrete.com/blog/remove-whitespaces-from-a-json-in-java/)
 - [How to Evaluate the Quality of Python Packages](https://jlferrete.com/blog/how-to-evaluate-the-quality-of-python-packages/)
-- [Guía de inicio rápido: creación de una máquina virtual Windows en Azure Portal](https://jlferrete.com/blog/guia-de-inicio-rapido-creacion-de-una-maquina-virtual-windows-en-azure-portal/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
