@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Google Analytics 4: Tutorial desde cero para principiantes](https://jlferrete.com/blog/google-analytics-4-tutorial-desde-cero-para-principiantes/)
 - [How To Use The JSON Web Token (JWT) In Spring Boot And Spring Security Project](https://jlferrete.com/blog/how-to-use-the-json-web-token-jwt-in-spring-boot-and-spring-security-project/)
 - [Removing JSON Elements With Jackson](https://jlferrete.com/blog/removing-json-elements-with-jackson/)
 - [Cómo eliminar malware en WordPress](https://jlferrete.com/blog/como-eliminar-malware-en-wordpress/)
 - [Spring Data Query By Example](https://jlferrete.com/blog/spring-data-query-by-example/)
-- [Remove Whitespaces From a JSON in Java](https://jlferrete.com/blog/remove-whitespaces-from-a-json-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
