@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ataques de fuerza bruta en WordPress, ¿Qué son y cómo evitarlos?](https://jlferrete.com/blog/ataques-de-fuerza-bruta-en-wordpress-que-son-y-como-evitarlos/)
 - [Mejores plugins de marca blanca en WordPress](https://jlferrete.com/blog/mejores-plugins-de-marca-blanca-en-wordpress/)
 - [How to create a Form with a Multi-Select Checkbox … – Power Platform Community](https://jlferrete.com/blog/how-to-create-a-form-with-a-multi-select-checkbox-power-platform-community/)
 - [La espada es la verdad](https://jlferrete.com/blog/la-espada-es-la-verdad-2/)
 - [Guía definitiva sobre el Menú en WordPress](https://jlferrete.com/blog/guia-definitiva-sobre-el-menu-en-wordpress/)
-- [Qué es el equipo de WordPressTV y cómo colaborar con él](https://jlferrete.com/blog/que-es-el-equipo-de-wordpresstv-y-como-colaborar-con-el/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
