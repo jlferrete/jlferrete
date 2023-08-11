@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Las 25 mejores herramientas Open Source para crear visualizaciones con Mapas](https://jlferrete.com/blog/las-25-mejores-herramientas-open-source-para-crear-visualizaciones-con-mapas/)
 - [Power Apps Dynamic Forms – Generate Forms From Question List](https://jlferrete.com/blog/power-apps-dynamic-forms-generate-forms-from-question-list/)
 - [La implementación de Power Platform en SEAT, S.A. agiliza sus procesos internos](https://jlferrete.com/blog/la-implementacion-de-power-platform-en-seat-s-a-agiliza-sus-procesos-internos/)
 - [Ataques de fuerza bruta en WordPress, ¿Qué son y cómo evitarlos?](https://jlferrete.com/blog/ataques-de-fuerza-bruta-en-wordpress-que-son-y-como-evitarlos/)
 - [Mejores plugins de marca blanca en WordPress](https://jlferrete.com/blog/mejores-plugins-de-marca-blanca-en-wordpress/)
-- [How to create a Form with a Multi-Select Checkbox … – Power Platform Community](https://jlferrete.com/blog/how-to-create-a-form-with-a-multi-select-checkbox-power-platform-community/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
