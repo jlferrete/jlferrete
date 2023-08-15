@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Exponer APIs en AKS a través de Azure API Management](https://jlferrete.com/blog/exponer-apis-en-aks-a-traves-de-azure-api-management/)
 - [Generar datos de prueba con Faker.js en mi API con Node.js y Express](https://jlferrete.com/blog/generar-datos-de-prueba-con-faker-js-en-mi-api-con-node-js-y-express/)
 - [Buscar y reemplazar en la base de datos de WordPress: 4 métodos (mi favorito te sorprenderá)](https://jlferrete.com/blog/buscar-y-reemplazar-en-la-base-de-datos-de-wordpress-4-metodos-mi-favorito-te-sorprendera/)
 - [REST API y Agregados](https://jlferrete.com/blog/rest-api-y-agregados/)
 - [Las 25 mejores herramientas Open Source para crear visualizaciones con Mapas](https://jlferrete.com/blog/las-25-mejores-herramientas-open-source-para-crear-visualizaciones-con-mapas/)
-- [Power Apps Dynamic Forms – Generate Forms From Question List](https://jlferrete.com/blog/power-apps-dynamic-forms-generate-forms-from-question-list/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
