@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo mejorar el rendimiento de WordPress integrando CSS de temas y plugins](https://jlferrete.com/blog/como-mejorar-el-rendimiento-de-wordpress-integrando-css-de-temas-y-plugins/)
 - [Generar la definición de Open API de tu API de forma automática en Node.js](https://jlferrete.com/blog/generar-la-definicion-de-open-api-de-tu-api-de-forma-automatica-en-node-js/)
 - [Exponer APIs en AKS a través de Azure API Management](https://jlferrete.com/blog/exponer-apis-en-aks-a-traves-de-azure-api-management/)
 - [Generar datos de prueba con Faker.js en mi API con Node.js y Express](https://jlferrete.com/blog/generar-datos-de-prueba-con-faker-js-en-mi-api-con-node-js-y-express/)
 - [Buscar y reemplazar en la base de datos de WordPress: 4 métodos (mi favorito te sorprenderá)](https://jlferrete.com/blog/buscar-y-reemplazar-en-la-base-de-datos-de-wordpress-4-metodos-mi-favorito-te-sorprendera/)
-- [REST API y Agregados](https://jlferrete.com/blog/rest-api-y-agregados/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
