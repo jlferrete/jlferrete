@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Introduction to Selenide](https://jlferrete.com/blog/introduction-to-selenide/)
 - [Spring @Bean y su uso](https://jlferrete.com/blog/spring-bean-y-su-uso/)
 - [Use Scrapy for Web Scraping in Python](https://jlferrete.com/blog/use-scrapy-for-web-scraping-in-python/)
 - [Executing Python Scripts With a Shebang](https://jlferrete.com/blog/executing-python-scripts-with-a-shebang/)
 - [Cómo mejorar el rendimiento de WordPress integrando CSS de temas y plugins](https://jlferrete.com/blog/como-mejorar-el-rendimiento-de-wordpress-integrando-css-de-temas-y-plugins/)
-- [Generar la definición de Open API de tu API de forma automática en Node.js](https://jlferrete.com/blog/generar-la-definicion-de-open-api-de-tu-api-de-forma-automatica-en-node-js/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
