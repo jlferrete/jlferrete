@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo exportar e importar bloques en Gutenberg?](https://jlferrete.com/blog/como-exportar-e-importar-bloques-en-gutenberg/)
 - [Datos estructurados para preguntas frecuentes con Yoast SEO](https://jlferrete.com/blog/datos-estructurados-para-preguntas-frecuentes-con-yoast-seo/)
 - [Master API Testing with Postman](https://jlferrete.com/blog/master-api-testing-with-postman/)
 - [Cómo configurar Yoast SEO: tutorial paso a paso para sacar partido a este plugin de WordPress](https://jlferrete.com/blog/como-configurar-yoast-seo-tutorial-paso-a-paso-para-sacar-partido-a-este-plugin-de-wordpress/)
 - [How to Deep Copy an ArrayList in Java](https://jlferrete.com/blog/how-to-deep-copy-an-arraylist-in-java/)
-- [¿Cómo añadir el efecto Parallax en WordPress?](https://jlferrete.com/blog/como-anadir-el-efecto-parallax-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
