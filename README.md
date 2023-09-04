@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Destacar texto en WordPress](https://jlferrete.com/blog/destacar-texto-en-wordpress/)
 - [Maven Scope y sus opciones](https://jlferrete.com/blog/maven-scope-y-sus-opciones/)
 - [Protecting Secrets with Docker](https://jlferrete.com/blog/protecting-secrets-with-docker/)
 - [Stateless Object in Java](https://jlferrete.com/blog/stateless-object-in-java/)
 - [¿Qué es Backstage?](https://jlferrete.com/blog/que-es-backstage/)
-- [Law of Demeter in Java](https://jlferrete.com/blog/law-of-demeter-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
