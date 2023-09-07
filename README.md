@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo configurar WooCommerce, rápido y sencillo](https://jlferrete.com/blog/como-configurar-woocommerce-rapido-y-sencillo/)
 - [Django REST Framework Authentication with Auth.js](https://jlferrete.com/blog/django-rest-framework-authentication-with-auth-js/)
 - [Conflictos con plugins en WordPress, ¿cómo solucionarlos?](https://jlferrete.com/blog/conflictos-con-plugins-en-wordpress-como-solucionarlos/)
 - [Destacar texto en WordPress](https://jlferrete.com/blog/destacar-texto-en-wordpress/)
 - [Maven Scope y sus opciones](https://jlferrete.com/blog/maven-scope-y-sus-opciones/)
-- [Protecting Secrets with Docker](https://jlferrete.com/blog/protecting-secrets-with-docker/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
