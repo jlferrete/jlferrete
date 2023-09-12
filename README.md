@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Convert JSON Array to Java List](https://jlferrete.com/blog/convert-json-array-to-java-list/)
 - [Converting an int[] to HashSet in Java](https://jlferrete.com/blog/converting-an-int-to-hashset-in-java/)
 - [Mira todo lo que puedes hacer con tu viejo portátil antes de tirarlo](https://jlferrete.com/blog/mira-todo-lo-que-puedes-hacer-con-tu-viejo-portatil-antes-de-tirarlo/)
 - [Indexar un sitio web de WordPress de forma instantanea con este Plugin](https://jlferrete.com/blog/indexar-un-sitio-web-de-wordpress-de-forma-instantanea-con-este-plugin/)
 - [Así es como se pueden anticipar y mitigar con antelación las olas de calor gracias a la Inteligencia Artificial](https://jlferrete.com/blog/asi-es-como-se-pueden-anticipar-y-mitigar-con-antelacion-las-olas-de-calor-gracias-a-la-inteligencia-artificial/)
-- [Cómo configurar WooCommerce, rápido y sencillo](https://jlferrete.com/blog/como-configurar-woocommerce-rapido-y-sencillo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
