@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [The best way to use JPA bidirectional sync methods](https://jlferrete.com/blog/the-best-way-to-use-jpa-bidirectional-sync-methods/)
+- [Cómo montar un entorno de desarrollo GIT en WordPress](https://jlferrete.com/blog/como-montar-un-entorno-de-desarrollo-git-en-wordpress/)
 - [Get a Continuous Stream of Logs for Pods in Kubernetes](https://jlferrete.com/blog/get-a-continuous-stream-of-logs-for-pods-in-kubernetes/)
 - [Convert JSON Array to Java List](https://jlferrete.com/blog/convert-json-array-to-java-list/)
 - [Converting an int[] to HashSet in Java](https://jlferrete.com/blog/converting-an-int-to-hashset-in-java/)
-- [Mira todo lo que puedes hacer con tu viejo portátil antes de tirarlo](https://jlferrete.com/blog/mira-todo-lo-que-puedes-hacer-con-tu-viejo-portatil-antes-de-tirarlo/)
-- [Indexar un sitio web de WordPress de forma instantanea con este Plugin](https://jlferrete.com/blog/indexar-un-sitio-web-de-wordpress-de-forma-instantanea-con-este-plugin/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
