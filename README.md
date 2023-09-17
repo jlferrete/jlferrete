@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Pasar de URL temporal al dominio final en WordPress](https://jlferrete.com/blog/pasar-de-url-temporal-al-dominio-final-en-wordpress/)
 - [¿Cómo configurar la CDN de Cloudflare en WordPress?](https://jlferrete.com/blog/como-configurar-la-cdn-de-cloudflare-en-wordpress/)
 - [How to deploy a Flask application in Python with Gunicorn](https://jlferrete.com/blog/how-to-deploy-a-flask-application-in-python-with-gunicorn/)
 - [Mejores plugins de recetas para WordPress](https://jlferrete.com/blog/mejores-plugins-de-recetas-para-wordpress/)
 - [The best way to use JPA bidirectional sync methods](https://jlferrete.com/blog/the-best-way-to-use-jpa-bidirectional-sync-methods/)
-- [Cómo montar un entorno de desarrollo GIT en WordPress](https://jlferrete.com/blog/como-montar-un-entorno-de-desarrollo-git-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
