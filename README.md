@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Web Scraping with Python Urllib – Step-by-Step Guide](https://jlferrete.com/blog/web-scraping-with-python-urllib-step-by-step-guide/)
 - [Curso de marketing transmedia](https://jlferrete.com/blog/curso-de-marketing-transmedia/)
 - [Curso de creación de una academia por dripping](https://jlferrete.com/blog/curso-de-creacion-de-una-academia-por-dripping/)
 - [Pasar de URL temporal al dominio final en WordPress](https://jlferrete.com/blog/pasar-de-url-temporal-al-dominio-final-en-wordpress/)
 - [¿Cómo configurar la CDN de Cloudflare en WordPress?](https://jlferrete.com/blog/como-configurar-la-cdn-de-cloudflare-en-wordpress/)
-- [How to deploy a Flask application in Python with Gunicorn](https://jlferrete.com/blog/how-to-deploy-a-flask-application-in-python-with-gunicorn/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
