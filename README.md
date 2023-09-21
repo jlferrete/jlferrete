@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [How to Use Conditional Mapping With MapStruct](https://jlferrete.com/blog/how-to-use-conditional-mapping-with-mapstruct/)
-- [¿Cómo hacer una propuesta de servicios infalible? (+ Ejemplos)](https://jlferrete.com/blog/como-hacer-una-propuesta-de-servicios-infalible-ejemplos/)
-- [Web Scraping with Python Urllib – Step-by-Step Guide](https://jlferrete.com/blog/web-scraping-with-python-urllib-step-by-step-guide/)
-- [Curso de marketing transmedia](https://jlferrete.com/blog/curso-de-marketing-transmedia/)
-- [Curso de creación de una academia por dripping](https://jlferrete.com/blog/curso-de-creacion-de-una-academia-por-dripping/)
+- [NLTK: tus primeros pasos con Procesamiento del Lenguaje Natural](https://jlferrete.com/blog/nltk-tus-primeros-pasos-con-procesamiento-del-lenguaje-natural-2/)
+- [Modelos de clasificación con KNIME. Demo](https://jlferrete.com/blog/modelos-de-clasificacion-con-knime-demo-2/)
+- [Flow to delete a user account](https://jlferrete.com/blog/flow-to-delete-a-user-account-2/)
+- [Remove Whitespaces From a JSON in Java](https://jlferrete.com/blog/remove-whitespaces-from-a-json-in-java-2/)
+- [Cómo eliminar malware en WordPress](https://jlferrete.com/blog/como-eliminar-malware-en-wordpress-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
