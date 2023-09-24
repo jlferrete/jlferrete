@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Add robots.txt to a Django website](https://jlferrete.com/blog/add-robots-txt-to-a-django-website/)
 - [Curso de extensiones de IA](https://jlferrete.com/blog/curso-de-extensiones-de-ia/)
 - [Imprescindibles de un buen mantenimiento con WordPress](https://jlferrete.com/blog/imprescindibles-de-un-buen-mantenimiento-con-wordpress/)
 - [NLTK: tus primeros pasos con Procesamiento del Lenguaje Natural](https://jlferrete.com/blog/nltk-tus-primeros-pasos-con-procesamiento-del-lenguaje-natural-2/)
 - [Modelos de clasificación con KNIME. Demo](https://jlferrete.com/blog/modelos-de-clasificacion-con-knime-demo-2/)
-- [Flow to delete a user account](https://jlferrete.com/blog/flow-to-delete-a-user-account-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
