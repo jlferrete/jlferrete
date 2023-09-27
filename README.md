@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Red Flags a tener en cuenta si buscas cambio en IT](https://jlferrete.com/blog/red-flags-a-tener-en-cuenta-si-buscas-cambio-en-it/)
 - [Formas de silenciar una impresora 3D](https://jlferrete.com/blog/formas-de-silenciar-una-impresora-3d/)
 - [¿Que es un UUID?](https://jlferrete.com/blog/que-es-un-uuid/)
 - [Add robots.txt to a Django website](https://jlferrete.com/blog/add-robots-txt-to-a-django-website/)
 - [Curso de extensiones de IA](https://jlferrete.com/blog/curso-de-extensiones-de-ia/)
-- [Imprescindibles de un buen mantenimiento con WordPress](https://jlferrete.com/blog/imprescindibles-de-un-buen-mantenimiento-con-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
