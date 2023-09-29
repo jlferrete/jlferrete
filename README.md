@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Grados a Radianes en Javascript](https://jlferrete.com/blog/grados-a-radianes-en-javascript/)
+- [Curso de The SEO Framework](https://jlferrete.com/blog/curso-de-the-seo-framework/)
+- [La nueva Raspberry Pi 5 ya es oficial: 5 sistemas operativos para exprimirla al máximo](https://jlferrete.com/blog/la-nueva-raspberry-pi-5-ya-es-oficial-5-sistemas-operativos-para-exprimirla-al-maximo/)
 - [Rails Foundation Seeks Freelance UX Designer and Technical Writer](https://jlferrete.com/blog/rails-foundation-seeks-freelance-ux-designer-and-technical-writer/)
 - [Raspberry Pi 5!](https://jlferrete.com/blog/raspberry-pi-5/)
-- [¿Que es YAML?](https://jlferrete.com/blog/que-es-yaml/)
-- [Red Flags a tener en cuenta si buscas cambio en IT](https://jlferrete.com/blog/red-flags-a-tener-en-cuenta-si-buscas-cambio-en-it/)
-- [Formas de silenciar una impresora 3D](https://jlferrete.com/blog/formas-de-silenciar-una-impresora-3d/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
