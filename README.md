@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Java Interface Naming Conventions](https://jlferrete.com/blog/java-interface-naming-conventions/)
 - [Cómo crear y posicionar contenidos en Google con ChatGPT](https://jlferrete.com/blog/como-crear-y-posicionar-contenidos-en-google-con-chatgpt/)
 - [Web Scraping With Python Requests](https://jlferrete.com/blog/web-scraping-with-python-requests/)
 - [Así utiliza Chrome la IA para resumir páginas web](https://jlferrete.com/blog/asi-utiliza-chrome-la-ia-para-resumir-paginas-web/)
 - [Grados a Radianes en Javascript](https://jlferrete.com/blog/grados-a-radianes-en-javascript/)
-- [Curso de The SEO Framework](https://jlferrete.com/blog/curso-de-the-seo-framework/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
