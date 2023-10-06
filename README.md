@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Este hombre crea con éxito su propia compañía de Internet al no encontrar opciones de fibra atractivas en su municipio](https://jlferrete.com/blog/este-hombre-crea-con-exito-su-propia-compania-de-internet-al-no-encontrar-opciones-de-fibra-atractivas-en-su-municipio/)
 - [Cambios en WebStorage](https://jlferrete.com/blog/cambios-en-webstorage/)
 - [Java 21 incluye cambios para acelerar la programación](https://jlferrete.com/blog/java-21-incluye-cambios-para-acelerar-la-programacion/)
 - [Java Interface Naming Conventions](https://jlferrete.com/blog/java-interface-naming-conventions/)
 - [Cómo crear y posicionar contenidos en Google con ChatGPT](https://jlferrete.com/blog/como-crear-y-posicionar-contenidos-en-google-con-chatgpt/)
-- [Web Scraping With Python Requests](https://jlferrete.com/blog/web-scraping-with-python-requests/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
