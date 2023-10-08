@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El curso gratuito online de Google para certificarse en ciberseguridad](https://jlferrete.com/blog/el-curso-gratuito-online-de-google-para-certificarse-en-ciberseguridad/)
 - [Comandos de FreeDOS que deberías conocer para usar un PC con este sistema operativo](https://jlferrete.com/blog/comandos-de-freedos-que-deberias-conocer-para-usar-un-pc-con-este-sistema-operativo/)
 - [Qué es Markdown: la desconocida forma de escribir que te ahorrará cientos de horas](https://jlferrete.com/blog/que-es-markdown-la-desconocida-forma-de-escribir-que-te-ahorrara-cientos-de-horas/)
 - [Este hombre crea con éxito su propia compañía de Internet al no encontrar opciones de fibra atractivas en su municipio](https://jlferrete.com/blog/este-hombre-crea-con-exito-su-propia-compania-de-internet-al-no-encontrar-opciones-de-fibra-atractivas-en-su-municipio/)
 - [Cambios en WebStorage](https://jlferrete.com/blog/cambios-en-webstorage/)
-- [Java 21 incluye cambios para acelerar la programación](https://jlferrete.com/blog/java-21-incluye-cambios-para-acelerar-la-programacion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
