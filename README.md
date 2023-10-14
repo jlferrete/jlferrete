@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Los motores de búsqueda ya priorizan los algoritmos](https://jlferrete.com/blog/los-motores-de-busqueda-ya-priorizan-los-algoritmos/)
 - [Curso de colaboraciones](https://jlferrete.com/blog/curso-de-colaboraciones/)
 - [Linux Mint Debian Edition 6, el mejor sistema que puedes instalar para sustituir a Windows](https://jlferrete.com/blog/linux-mint-debian-edition-6-el-mejor-sistema-que-puedes-instalar-para-sustituir-a-windows/)
 - [6 señales claras de que necesitas formatear e instalar Windows de cero](https://jlferrete.com/blog/6-senales-claras-de-que-necesitas-formatear-e-instalar-windows-de-cero/)
 - [39 comandos básicos para dar tus primeros pasos en el Terminal de macOS](https://jlferrete.com/blog/39-comandos-basicos-para-dar-tus-primeros-pasos-en-el-terminal-de-macos/)
-- [¿Cuánta electricidad consume una impresora 3D?](https://jlferrete.com/blog/cuanta-electricidad-consume-una-impresora-3d/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
