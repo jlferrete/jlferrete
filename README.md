@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [La nueva IA que convierte imágenes en texto en Twitter](https://jlferrete.com/blog/la-nueva-ia-que-convierte-imagenes-en-texto-en-twitter/)
 - [¿Serán válidos los resultados de la IA si usa datos de Internet?](https://jlferrete.com/blog/seran-validos-los-resultados-de-la-ia-si-usa-datos-de-internet/)
 - [Inyecciones SQL: Protege tu web, identifica y prevén ataques eficientemente](https://jlferrete.com/blog/inyecciones-sql-protege-tu-web-identifica-y-preven-ataques-eficientemente/)
 - [¿Puede el Big Data mejorar el sabor de los tomates?](https://jlferrete.com/blog/puede-el-big-data-mejorar-el-sabor-de-los-tomates/)
 - [Los motores de búsqueda ya priorizan los algoritmos](https://jlferrete.com/blog/los-motores-de-busqueda-ya-priorizan-los-algoritmos/)
-- [Curso de colaboraciones](https://jlferrete.com/blog/curso-de-colaboraciones/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
