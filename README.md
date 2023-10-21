@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo importar de Google Docs a WordPress?](https://jlferrete.com/blog/como-importar-de-google-docs-a-wordpress/)
 - [Enlaces URL de mi web con ?doing_wp_cron añadido al final ¿he roto algo?](https://jlferrete.com/blog/enlaces-url-de-mi-web-con-doing_wp_cron-anadido-al-final-he-roto-algo/)
 - [Cómo aplicar un descuento al producto más barato del carrito en WooCommerce](https://jlferrete.com/blog/como-aplicar-un-descuento-al-producto-mas-barato-del-carrito-en-woocommerce/)
 - [Spring @Bean vs @Component](https://jlferrete.com/blog/spring-bean-vs-component/)
 - [La nueva IA que convierte imágenes en texto en Twitter](https://jlferrete.com/blog/la-nueva-ia-que-convierte-imagenes-en-texto-en-twitter/)
-- [¿Serán válidos los resultados de la IA si usa datos de Internet?](https://jlferrete.com/blog/seran-validos-los-resultados-de-la-ia-si-usa-datos-de-internet/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
