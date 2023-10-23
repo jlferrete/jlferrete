@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo solucionar el error “No es seguro” en Google Chrome?](https://jlferrete.com/blog/como-solucionar-el-error-no-es-seguro-en-google-chrome/)
 - [API Versioning in Micronaut](https://jlferrete.com/blog/api-versioning-in-micronaut/)
 - [Esta es la explicación de por qué tienes que esperar unos 30 segundos para volver a encender tu router WiFi si tienes problemas](https://jlferrete.com/blog/esta-es-la-explicacion-de-por-que-tienes-que-esperar-unos-30-segundos-para-volver-a-encender-tu-router-wifi-si-tienes-problemas/)
 - [¿Cómo importar de Google Docs a WordPress?](https://jlferrete.com/blog/como-importar-de-google-docs-a-wordpress/)
 - [Enlaces URL de mi web con ?doing_wp_cron añadido al final ¿he roto algo?](https://jlferrete.com/blog/enlaces-url-de-mi-web-con-doing_wp_cron-anadido-al-final-he-roto-algo/)
-- [Cómo aplicar un descuento al producto más barato del carrito en WooCommerce](https://jlferrete.com/blog/como-aplicar-un-descuento-al-producto-mas-barato-del-carrito-en-woocommerce/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
