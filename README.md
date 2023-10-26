@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Symfony vs. Laravel: comparación de frameworks](https://jlferrete.com/blog/symfony-vs-laravel-comparacion-de-frameworks/)
 - [Solucionar ERR_TOO_MANY_REDIRECTS en WordPress](https://jlferrete.com/blog/solucionar-err_too_many_redirects-en-wordpress/)
 - [Crear entradas con la REST API de WordPress desde un sitio web remoto](https://jlferrete.com/blog/crear-entradas-con-la-rest-api-de-wordpress-desde-un-sitio-web-remoto/)
 - [¿Cómo solucionar el error “No es seguro” en Google Chrome?](https://jlferrete.com/blog/como-solucionar-el-error-no-es-seguro-en-google-chrome/)
 - [API Versioning in Micronaut](https://jlferrete.com/blog/api-versioning-in-micronaut/)
-- [Esta es la explicación de por qué tienes que esperar unos 30 segundos para volver a encender tu router WiFi si tienes problemas](https://jlferrete.com/blog/esta-es-la-explicacion-de-por-que-tienes-que-esperar-unos-30-segundos-para-volver-a-encender-tu-router-wifi-si-tienes-problemas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
