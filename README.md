@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [ChatGPT para bloggers y creadores de contenidos](https://jlferrete.com/blog/chatgpt-para-bloggers-y-creadores-de-contenidos/)
 - [¿Qué es el Cloud Computing, para qué sirve y cómo funciona?](https://jlferrete.com/blog/que-es-el-cloud-computing-para-que-sirve-y-como-funciona/)
 - [Curso de WPO](https://jlferrete.com/blog/curso-de-wpo/)
 - [Algo de seguridad en WordPress, que a lo mejor no sabías](https://jlferrete.com/blog/algo-de-seguridad-en-wordpress-que-a-lo-mejor-no-sabias/)
 - [Symfony vs. Laravel: comparación de frameworks](https://jlferrete.com/blog/symfony-vs-laravel-comparacion-de-frameworks/)
-- [Solucionar ERR_TOO_MANY_REDIRECTS en WordPress](https://jlferrete.com/blog/solucionar-err_too_many_redirects-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
