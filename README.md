@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [A Comprehensive Guide to Web Scraping Using cURL](https://jlferrete.com/blog/a-comprehensive-guide-to-web-scraping-using-curl/)
+- [Precios escalonados en WooCommerce](https://jlferrete.com/blog/precios-escalonados-en-woocommerce/)
+- [¿Cómo añadir clasificaciones deportivas en WordPress?](https://jlferrete.com/blog/como-anadir-clasificaciones-deportivas-en-wordpress/)
 - [Guidde: Crear tutoriales automatizados sin esfuerzo](https://jlferrete.com/blog/guidde-crear-tutoriales-automatizados-sin-esfuerzo/)
 - [Podcast Linux](https://jlferrete.com/blog/podcast-linux/)
-- [A Comprehensive Guide for Understanding AI Web Scraping](https://jlferrete.com/blog/a-comprehensive-guide-for-understanding-ai-web-scraping/)
-- [LLMs en perspectiva](https://jlferrete.com/blog/llms-en-perspectiva/)
-- [Tipos de Análisis Predictivo: Clasificación y Regresión](https://jlferrete.com/blog/tipos-de-analisis-predictivo-clasificacion-y-regresion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
