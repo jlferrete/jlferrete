@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [6 Maneras de mantener tu Raspberry Pi 5 segura](https://jlferrete.com/blog/6-maneras-de-mantener-tu-raspberry-pi-5-segura/)
 - [Derecho laboral para dummies](https://jlferrete.com/blog/derecho-laboral-para-dummies/)
 - [Así puedes desarrollar webs WordPress offline y sin salir de tu PC con LocalWP](https://jlferrete.com/blog/asi-puedes-desarrollar-webs-wordpress-offline-y-sin-salir-de-tu-pc-con-localwp/)
 - [Iconos y Símbolos listos para Cortar-Pegar](https://jlferrete.com/blog/iconos-y-simbolos-listos-para-cortar-pegar/)
 - [Nube de etiquetas en WordPress](https://jlferrete.com/blog/nube-de-etiquetas-en-wordpress/)
-- [Inyección SQL en WordPress, guía completa](https://jlferrete.com/blog/inyeccion-sql-en-wordpress-guia-completa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
