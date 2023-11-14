@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El Arte de Dominar el Black Friday](https://jlferrete.com/blog/el-arte-de-dominar-el-black-friday/)
 - [How to Center Text Output in Java](https://jlferrete.com/blog/how-to-center-text-output-in-java/)
 - [6 Maneras de mantener tu Raspberry Pi 5 segura](https://jlferrete.com/blog/6-maneras-de-mantener-tu-raspberry-pi-5-segura/)
 - [Derecho laboral para dummies](https://jlferrete.com/blog/derecho-laboral-para-dummies/)
 - [Así puedes desarrollar webs WordPress offline y sin salir de tu PC con LocalWP](https://jlferrete.com/blog/asi-puedes-desarrollar-webs-wordpress-offline-y-sin-salir-de-tu-pc-con-localwp/)
-- [Iconos y Símbolos listos para Cortar-Pegar](https://jlferrete.com/blog/iconos-y-simbolos-listos-para-cortar-pegar/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
