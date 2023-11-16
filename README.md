@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué es el Data Streaming?](https://jlferrete.com/blog/que-es-el-data-streaming/)
 - [How to Mock Environment Variables in Unit Tests](https://jlferrete.com/blog/how-to-mock-environment-variables-in-unit-tests/)
 - [El Arte de Dominar el Black Friday](https://jlferrete.com/blog/el-arte-de-dominar-el-black-friday/)
 - [How to Center Text Output in Java](https://jlferrete.com/blog/how-to-center-text-output-in-java/)
 - [6 Maneras de mantener tu Raspberry Pi 5 segura](https://jlferrete.com/blog/6-maneras-de-mantener-tu-raspberry-pi-5-segura/)
-- [Derecho laboral para dummies](https://jlferrete.com/blog/derecho-laboral-para-dummies/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
