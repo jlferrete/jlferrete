@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Write and Read a File with a Java HashMap](https://jlferrete.com/blog/how-to-write-and-read-a-file-with-a-java-hashmap/)
+- [Ordenador portátil enchufado siempre o usar la batería: guía para hacer un mejor uso](https://jlferrete.com/blog/ordenador-portatil-enchufado-siempre-o-usar-la-bateria-guia-para-hacer-un-mejor-uso/)
 - [Quieres un NAS para montar un servidor Plex pero, ¿cuál es mejor opción?](https://jlferrete.com/blog/quieres-un-nas-para-montar-un-servidor-plex-pero-cual-es-mejor-opcion/)
 - [Si cambias de PC, ¿vale con ponerle el SSD del antiguo y tendrás todo igual?](https://jlferrete.com/blog/si-cambias-de-pc-vale-con-ponerle-el-ssd-del-antiguo-y-tendras-todo-igual/)
 - [Seguridad en bases de datos para WordPress](https://jlferrete.com/blog/seguridad-en-bases-de-datos-para-wordpress/)
-- [JPA @MappedSuperClass y su uso](https://jlferrete.com/blog/jpa-mappedsuperclass-y-su-uso/)
-- [¿Qué es el Data Streaming?](https://jlferrete.com/blog/que-es-el-data-streaming/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
