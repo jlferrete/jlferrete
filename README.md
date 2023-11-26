@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Noggle, para crear cursos online usando Notion](https://jlferrete.com/blog/noggle-para-crear-cursos-online-usando-notion/)
 - [Cómo permitir a los clientes que filtren sus pedidos por su estado](https://jlferrete.com/blog/como-permitir-a-los-clientes-que-filtren-sus-pedidos-por-su-estado/)
 - [¿Cuánta electricidad consume una impresora 3D?](https://jlferrete.com/blog/cuanta-electricidad-consume-una-impresora-3d-2/)
 - [¿Qué es Spring Framework?](https://jlferrete.com/blog/que-es-spring-framework/)
 - [Qué es la NAT, ventajas y desventajas, tipos y cuál se usa en cada caso](https://jlferrete.com/blog/que-es-la-nat-ventajas-y-desventajas-tipos-y-cual-se-usa-en-cada-caso/)
-- [How to Write and Read a File with a Java HashMap](https://jlferrete.com/blog/how-to-write-and-read-a-file-with-a-java-hashmap/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
