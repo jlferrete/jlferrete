@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Testing con Mockito, Podam y Data-Faker](https://jlferrete.com/blog/testing-con-mockito-podam-y-data-faker/)
 - [How to Build Trust](https://jlferrete.com/blog/how-to-build-trust/)
 - [¿Con qué frecuencia inventan datos los chatbots?](https://jlferrete.com/blog/con-que-frecuencia-inventan-datos-los-chatbots/)
 - [Nórdicos y asiáticos, los que más confían en la IA, según OCDE](https://jlferrete.com/blog/nordicos-y-asiaticos-los-que-mas-confian-en-la-ia-segun-ocde/)
 - [Superpower ChatGPT](https://jlferrete.com/blog/superpower-chatgpt/)
-- [Noggle, para crear cursos online usando Notion](https://jlferrete.com/blog/noggle-para-crear-cursos-online-usando-notion/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
