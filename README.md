@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo encontrar trabajo en Linkedin con ayuda de ChatGPT](https://jlferrete.com/blog/como-encontrar-trabajo-en-linkedin-con-ayuda-de-chatgpt/)
 - [Curso de full site editing en WordPress](https://jlferrete.com/blog/curso-de-full-site-editing-en-wordpress/)
 - [Curso de creación de una web automática](https://jlferrete.com/blog/curso-de-creacion-de-una-web-automatica/)
 - [¿Cómo eliminar el index.php de la URL en WordPress?](https://jlferrete.com/blog/como-eliminar-el-index-php-de-la-url-en-wordpress/)
 - [La API REST heredada se eliminará próximamente en WooCommerce ¿qué pasa?](https://jlferrete.com/blog/la-api-rest-heredada-se-eliminara-proximamente-en-woocommerce-que-pasa/)
-- [¿Cómo cambiar tipografía en WordPress?](https://jlferrete.com/blog/como-cambiar-tipografia-en-wordpress-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
