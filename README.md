@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [5 tendencias tecnológicas que marcarán el 2024 y no debes perderle de vista](https://jlferrete.com/blog/5-tendencias-tecnologicas-que-marcaran-el-2024-y-no-debes-perderle-de-vista/)
 - [Alternativas ChatGPT: 17 chatbots de inteligencia artificial con los que hablar, hacerles preguntas y pedirles lo que quieras](https://jlferrete.com/blog/alternativas-chatgpt-17-chatbots-de-inteligencia-artificial-con-los-que-hablar-hacerles-preguntas-y-pedirles-lo-que-quieras/)
 - [Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI](https://jlferrete.com/blog/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai/)
 - [Cómo hacen los vecinos para robar la contraseña de tu WiFi](https://jlferrete.com/blog/como-hacen-los-vecinos-para-robar-la-contrasena-de-tu-wifi/)
 - [Controversia en la demostración de Gemini, el vídeo fue editado](https://jlferrete.com/blog/controversia-en-la-demostracion-de-gemini-el-video-fue-editado/)
-- [Cómo encontrar trabajo en Linkedin con ayuda de ChatGPT](https://jlferrete.com/blog/como-encontrar-trabajo-en-linkedin-con-ayuda-de-chatgpt/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
