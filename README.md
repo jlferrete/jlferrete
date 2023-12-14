@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo añadir imágenes en el menú de WordPress?](https://jlferrete.com/blog/como-anadir-imagenes-en-el-menu-de-wordpress/)
 - [ChatGPT genera datos falsos para respaldar hipótesis científicas](https://jlferrete.com/blog/chatgpt-genera-datos-falsos-para-respaldar-hipotesis-cientificas/)
 - [¿Por qué solo tengo 100 Mbps en mi PC si pago por una fibra de más velocidad?](https://jlferrete.com/blog/por-que-solo-tengo-100-mbps-en-mi-pc-si-pago-por-una-fibra-de-mas-velocidad/)
 - [Si quieres actualizar tu portátil, estas son las piezas por las que debes empezar](https://jlferrete.com/blog/si-quieres-actualizar-tu-portatil-estas-son-las-piezas-por-las-que-debes-empezar/)
 - [5 tendencias tecnológicas que marcarán el 2024 y no debes perderle de vista](https://jlferrete.com/blog/5-tendencias-tecnologicas-que-marcaran-el-2024-y-no-debes-perderle-de-vista/)
-- [Alternativas ChatGPT: 17 chatbots de inteligencia artificial con los que hablar, hacerles preguntas y pedirles lo que quieras](https://jlferrete.com/blog/alternativas-chatgpt-17-chatbots-de-inteligencia-artificial-con-los-que-hablar-hacerles-preguntas-y-pedirles-lo-que-quieras/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
