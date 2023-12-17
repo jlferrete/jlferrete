@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo el mantenimiento puede mejorar el rendimiento de tu PC](https://jlferrete.com/blog/como-el-mantenimiento-puede-mejorar-el-rendimiento-de-tu-pc/)
 - [Contruye una landing page efectiva para atraer clientes](https://jlferrete.com/blog/contruye-una-landing-page-efectiva-para-atraer-clientes/)
 - [5 ventajas que aporta la observabilidad de datos a la empresa](https://jlferrete.com/blog/5-ventajas-que-aporta-la-observabilidad-de-datos-a-la-empresa/)
 - [¿Cómo añadir imágenes en el menú de WordPress?](https://jlferrete.com/blog/como-anadir-imagenes-en-el-menu-de-wordpress/)
 - [ChatGPT genera datos falsos para respaldar hipótesis científicas](https://jlferrete.com/blog/chatgpt-genera-datos-falsos-para-respaldar-hipotesis-cientificas/)
-- [¿Por qué solo tengo 100 Mbps en mi PC si pago por una fibra de más velocidad?](https://jlferrete.com/blog/por-que-solo-tengo-100-mbps-en-mi-pc-si-pago-por-una-fibra-de-mas-velocidad/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
