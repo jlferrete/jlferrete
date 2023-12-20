@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Expertos en IA debaten sobre su impacto en la humanidad](https://jlferrete.com/blog/expertos-en-ia-debaten-sobre-su-impacto-en-la-humanidad/)
 - [Por qué deberías apostar tu carrera profesional hacia la IA](https://jlferrete.com/blog/por-que-deberias-apostar-tu-carrera-profesional-hacia-la-ia/)
 - [How to Scrape Amazon Product Offers and Sellers](https://jlferrete.com/blog/how-to-scrape-amazon-product-offers-and-sellers/)
 - [Cómo el mantenimiento puede mejorar el rendimiento de tu PC](https://jlferrete.com/blog/como-el-mantenimiento-puede-mejorar-el-rendimiento-de-tu-pc/)
 - [Contruye una landing page efectiva para atraer clientes](https://jlferrete.com/blog/contruye-una-landing-page-efectiva-para-atraer-clientes/)
-- [5 ventajas que aporta la observabilidad de datos a la empresa](https://jlferrete.com/blog/5-ventajas-que-aporta-la-observabilidad-de-datos-a-la-empresa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
