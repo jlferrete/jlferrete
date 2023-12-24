@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Help Find and Remove Hard Coded Passwords and Secrets in a Project](https://jlferrete.com/blog/help-find-and-remove-hard-coded-passwords-and-secrets-in-a-project/)
 - [Implementación de un firewall en .htaccess para mejorar la seguridad de WordPress](https://jlferrete.com/blog/implementacion-de-un-firewall-en-htaccess-para-mejorar-la-seguridad-de-wordpress/)
 - [Cómo ocultar un texto, pero que sea accesible y compatible con el SEO](https://jlferrete.com/blog/como-ocultar-un-texto-pero-que-sea-accesible-y-compatible-con-el-seo/)
 - [¿Estrenas nuevo Mac? Llevo 17 años utilizándolos y esto es lo que siempre configuro nada más sacarlos de la caja](https://jlferrete.com/blog/estrenas-nuevo-mac-llevo-17-anos-utilizandolos-y-esto-es-lo-que-siempre-configuro-nada-mas-sacarlos-de-la-caja/)
 - [Cómo la IA está redefiniendo el Email Marketing](https://jlferrete.com/blog/como-la-ia-esta-redefiniendo-el-email-marketing/)
-- [Expertos en IA debaten sobre su impacto en la humanidad](https://jlferrete.com/blog/expertos-en-ia-debaten-sobre-su-impacto-en-la-humanidad/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
