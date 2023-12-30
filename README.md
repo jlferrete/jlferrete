@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Inteligencia Artificial Generativa: usos prácticos en sectores clave](https://jlferrete.com/blog/inteligencia-artificial-generativa-usos-practicos-en-sectores-clave/)
 - [Java Sealed Classes y JDK 17](https://jlferrete.com/blog/java-sealed-classes-y-jdk-17/)
 - [Los mejores prompts de ChatGPT para que domines la IA](https://jlferrete.com/blog/los-mejores-prompts-de-chatgpt-para-que-domines-la-ia/)
 - [Cómo exportar WordPress a HTML](https://jlferrete.com/blog/como-exportar-wordpress-a-html/)
 - [Optimizar la carga de Javascript en WordPress con Async y Defer](https://jlferrete.com/blog/optimizar-la-carga-de-javascript-en-wordpress-con-async-y-defer/)
-- [Comparativa de WordPress: del PHP 5.6 al PHP 8.2](https://jlferrete.com/blog/comparativa-de-wordpress-del-php-5-6-al-php-8-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
