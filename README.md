@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo indexar una página WordPress en Google](https://jlferrete.com/blog/como-indexar-una-pagina-wordpress-en-google/)
 - [Cómo configurar la domiciliación bancaria en WooCommerce](https://jlferrete.com/blog/como-configurar-la-domiciliacion-bancaria-en-woocommerce/)
 - [Creando imágenes con IA usando el ordenador de casa, sin Internet ni mensualidades](https://jlferrete.com/blog/creando-imagenes-con-ia-usando-el-ordenador-de-casa-sin-internet-ni-mensualidades/)
 - [Desmitificando el Data Governance: Qué, cuándo, dónde y por qué](https://jlferrete.com/blog/desmitificando-el-data-governance-que-cuando-donde-y-por-que/)
 - [Inteligencia Artificial Generativa: usos prácticos en sectores clave](https://jlferrete.com/blog/inteligencia-artificial-generativa-usos-practicos-en-sectores-clave/)
-- [Java Sealed Classes y JDK 17](https://jlferrete.com/blog/java-sealed-classes-y-jdk-17/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
