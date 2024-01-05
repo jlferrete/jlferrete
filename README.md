@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Estas son las profesiones con más riesgo (y con menos) de ser sustituidas por una IA según el gobierno británico](https://jlferrete.com/blog/estas-son-las-profesiones-con-mas-riesgo-y-con-menos-de-ser-sustituidas-por-una-ia-segun-el-gobierno-britanico/)
 - [Los Chromebooks son una pérdida de dinero, asegura Lenovo](https://jlferrete.com/blog/los-chromebooks-son-una-perdida-de-dinero-asegura-lenovo/)
 - [Cómo indexar una página WordPress en Google](https://jlferrete.com/blog/como-indexar-una-pagina-wordpress-en-google/)
 - [Cómo configurar la domiciliación bancaria en WooCommerce](https://jlferrete.com/blog/como-configurar-la-domiciliacion-bancaria-en-woocommerce/)
 - [Creando imágenes con IA usando el ordenador de casa, sin Internet ni mensualidades](https://jlferrete.com/blog/creando-imagenes-con-ia-usando-el-ordenador-de-casa-sin-internet-ni-mensualidades/)
-- [Desmitificando el Data Governance: Qué, cuándo, dónde y por qué](https://jlferrete.com/blog/desmitificando-el-data-governance-que-cuando-donde-y-por-que/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
