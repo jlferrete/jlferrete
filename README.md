@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Un informático en el lado del mal: Como hackear un LLM haciendo Prompt Injection Automático con LLMs](https://jlferrete.com/blog/un-informatico-en-el-lado-del-mal-como-hackear-un-llm-haciendo-prompt-injection-automatico-con-llms/)
 - [Cómo borrar tu huella digital en Internet con estos 8 pasos](https://jlferrete.com/blog/como-borrar-tu-huella-digital-en-internet-con-estos-8-pasos/)
 - [Aprende qué es y para qué sirve la virtualización de hardware](https://jlferrete.com/blog/aprende-que-es-y-para-que-sirve-la-virtualizacion-de-hardware/)
 - [Talkbase, una herramienta de análisis de tu comunidad de usuarios](https://jlferrete.com/blog/talkbase-una-herramienta-de-analisis-de-tu-comunidad-de-usuarios/)
 - [Los gobiernos espían los móviles Android e iOS usando las notificaciones](https://jlferrete.com/blog/los-gobiernos-espian-los-moviles-android-e-ios-usando-las-notificaciones/)
-- [Estas son las profesiones con más riesgo (y con menos) de ser sustituidas por una IA según el gobierno británico](https://jlferrete.com/blog/estas-son-las-profesiones-con-mas-riesgo-y-con-menos-de-ser-sustituidas-por-una-ia-segun-el-gobierno-britanico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
