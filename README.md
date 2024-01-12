@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Seamos honestos: ¿vale la pena tener un portátil en vez de un sobremesa?](https://jlferrete.com/blog/seamos-honestos-vale-la-pena-tener-un-portatil-en-vez-de-un-sobremesa/)
 - [Este es mi truco para recordar todo lo que copio en el Portapapeles en Windows sin instalar nada](https://jlferrete.com/blog/este-es-mi-truco-para-recordar-todo-lo-que-copio-en-el-portapapeles-en-windows-sin-instalar-nada/)
 - [Un informático en el lado del mal: Como hackear un LLM haciendo Prompt Injection Automático con LLMs](https://jlferrete.com/blog/un-informatico-en-el-lado-del-mal-como-hackear-un-llm-haciendo-prompt-injection-automatico-con-llms/)
 - [Cómo borrar tu huella digital en Internet con estos 8 pasos](https://jlferrete.com/blog/como-borrar-tu-huella-digital-en-internet-con-estos-8-pasos/)
 - [Aprende qué es y para qué sirve la virtualización de hardware](https://jlferrete.com/blog/aprende-que-es-y-para-que-sirve-la-virtualizacion-de-hardware/)
-- [Talkbase, una herramienta de análisis de tu comunidad de usuarios](https://jlferrete.com/blog/talkbase-una-herramienta-de-analisis-de-tu-comunidad-de-usuarios/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
