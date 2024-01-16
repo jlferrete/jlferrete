@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué es un proxy y qué una VPN: diferencias y cuál elegir](https://jlferrete.com/blog/que-es-un-proxy-y-que-una-vpn-diferencias-y-cual-elegir/)
+- [¿Están a salvo mis conversaciones con ChatGPT?: estos son los datos que almacena](https://jlferrete.com/blog/estan-a-salvo-mis-conversaciones-con-chatgpt-estos-son-los-datos-que-almacena/)
 - [Cómo recuperar la contraseña de Facebook paso a paso](https://jlferrete.com/blog/como-recuperar-la-contrasena-de-facebook-paso-a-paso/)
 - [Memoria RAM: diferencias entre todas las generaciones DDR](https://jlferrete.com/blog/memoria-ram-diferencias-entre-todas-las-generaciones-ddr/)
 - [Resulta que la gran sorpresa del CES 2024 no ha sido la IA: ha sido Wi-Fi 7](https://jlferrete.com/blog/resulta-que-la-gran-sorpresa-del-ces-2024-no-ha-sido-la-ia-ha-sido-wi-fi-7/)
-- [Dejar tus auriculares como nuevos solo te costará 4 euros con este producto](https://jlferrete.com/blog/dejar-tus-auriculares-como-nuevos-solo-te-costara-4-euros-con-este-producto/)
-- [Seamos honestos: ¿vale la pena tener un portátil en vez de un sobremesa?](https://jlferrete.com/blog/seamos-honestos-vale-la-pena-tener-un-portatil-en-vez-de-un-sobremesa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
