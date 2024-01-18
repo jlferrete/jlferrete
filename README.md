@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué tipos de cookies hay y qué pasa si se desactivan](https://jlferrete.com/blog/que-tipos-de-cookies-hay-y-que-pasa-si-se-desactivan/)
 - [Cómo cambiar la letra de Instagram de la bio y el perfil](https://jlferrete.com/blog/como-cambiar-la-letra-de-instagram-de-la-bio-y-el-perfil/)
 - [Qué es un proxy y qué una VPN: diferencias y cuál elegir](https://jlferrete.com/blog/que-es-un-proxy-y-que-una-vpn-diferencias-y-cual-elegir/)
 - [¿Están a salvo mis conversaciones con ChatGPT?: estos son los datos que almacena](https://jlferrete.com/blog/estan-a-salvo-mis-conversaciones-con-chatgpt-estos-son-los-datos-que-almacena/)
 - [Cómo recuperar la contraseña de Facebook paso a paso](https://jlferrete.com/blog/como-recuperar-la-contrasena-de-facebook-paso-a-paso/)
-- [Memoria RAM: diferencias entre todas las generaciones DDR](https://jlferrete.com/blog/memoria-ram-diferencias-entre-todas-las-generaciones-ddr/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
