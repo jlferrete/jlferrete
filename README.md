@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Productos hardware no recomendables: qué compras evitar](https://jlferrete.com/blog/productos-hardware-no-recomendables-que-compras-evitar/)
 - [Qué formato debe tener un disco duro para funcionar en macOS y Windows](https://jlferrete.com/blog/que-formato-debe-tener-un-disco-duro-para-funcionar-en-macos-y-windows/)
 - [Qué tipos de cookies hay y qué pasa si se desactivan](https://jlferrete.com/blog/que-tipos-de-cookies-hay-y-que-pasa-si-se-desactivan/)
 - [Cómo cambiar la letra de Instagram de la bio y el perfil](https://jlferrete.com/blog/como-cambiar-la-letra-de-instagram-de-la-bio-y-el-perfil/)
 - [Qué es un proxy y qué una VPN: diferencias y cuál elegir](https://jlferrete.com/blog/que-es-un-proxy-y-que-una-vpn-diferencias-y-cual-elegir/)
-- [¿Están a salvo mis conversaciones con ChatGPT?: estos son los datos que almacena](https://jlferrete.com/blog/estan-a-salvo-mis-conversaciones-con-chatgpt-estos-son-los-datos-que-almacena/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
