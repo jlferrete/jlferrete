@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Django Stripe Tutorial](https://jlferrete.com/blog/django-stripe-tutorial/)
 - [Cómo crear un Laboratorio de Hacking en 2024](https://jlferrete.com/blog/como-crear-un-laboratorio-de-hacking-en-2024/)
 - [Productos hardware no recomendables: qué compras evitar](https://jlferrete.com/blog/productos-hardware-no-recomendables-que-compras-evitar/)
 - [Qué formato debe tener un disco duro para funcionar en macOS y Windows](https://jlferrete.com/blog/que-formato-debe-tener-un-disco-duro-para-funcionar-en-macos-y-windows/)
 - [Qué tipos de cookies hay y qué pasa si se desactivan](https://jlferrete.com/blog/que-tipos-de-cookies-hay-y-que-pasa-si-se-desactivan/)
-- [Cómo cambiar la letra de Instagram de la bio y el perfil](https://jlferrete.com/blog/como-cambiar-la-letra-de-instagram-de-la-bio-y-el-perfil/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
