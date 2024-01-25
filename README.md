@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Si pasas de Windows a Linux necesitarás estos programas](https://jlferrete.com/blog/si-pasas-de-windows-a-linux-necesitaras-estos-programas/)
 - [Baterías nucleares: la tecnología que puede conseguir que no tengas que volver a cargar tu móvil nunca más](https://jlferrete.com/blog/baterias-nucleares-la-tecnologia-que-puede-conseguir-que-no-tengas-que-volver-a-cargar-tu-movil-nunca-mas/)
 - [¿De verdad vale la pena comprar un mini PC?](https://jlferrete.com/blog/de-verdad-vale-la-pena-comprar-un-mini-pc/)
 - [Django Stripe Tutorial](https://jlferrete.com/blog/django-stripe-tutorial/)
 - [Cómo crear un Laboratorio de Hacking en 2024](https://jlferrete.com/blog/como-crear-un-laboratorio-de-hacking-en-2024/)
-- [Productos hardware no recomendables: qué compras evitar](https://jlferrete.com/blog/productos-hardware-no-recomendables-que-compras-evitar/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
