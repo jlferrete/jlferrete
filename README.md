@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo desactivar la aceleración por hardware en Chrome?](https://jlferrete.com/blog/como-desactivar-la-aceleracion-por-hardware-en-chrome/)
 - [Truco para evitar que la linterna del iPhone se encienda por accidente](https://jlferrete.com/blog/truco-para-evitar-que-la-linterna-del-iphone-se-encienda-por-accidente/)
 - [Si pasas de Windows a Linux necesitarás estos programas](https://jlferrete.com/blog/si-pasas-de-windows-a-linux-necesitaras-estos-programas/)
 - [Baterías nucleares: la tecnología que puede conseguir que no tengas que volver a cargar tu móvil nunca más](https://jlferrete.com/blog/baterias-nucleares-la-tecnologia-que-puede-conseguir-que-no-tengas-que-volver-a-cargar-tu-movil-nunca-mas/)
 - [¿De verdad vale la pena comprar un mini PC?](https://jlferrete.com/blog/de-verdad-vale-la-pena-comprar-un-mini-pc/)
-- [Django Stripe Tutorial](https://jlferrete.com/blog/django-stripe-tutorial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
