@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Este truco permite seguir subiendo fotos y vídeos a Google Fotos sin pagar por el almacenamiento](https://jlferrete.com/blog/este-truco-permite-seguir-subiendo-fotos-y-videos-a-google-fotos-sin-pagar-por-el-almacenamiento/)
 - [¿Merece la pena comprar un MacBook Pro, o sirve con un Air?](https://jlferrete.com/blog/merece-la-pena-comprar-un-macbook-pro-o-sirve-con-un-air/)
 - [Cómo ocultar tu IP o conectarte desde otro país](https://jlferrete.com/blog/como-ocultar-tu-ip-o-conectarte-desde-otro-pais/)
 - [¿Puedo usar Bizum si soy autónomo?](https://jlferrete.com/blog/puedo-usar-bizum-si-soy-autonomo/)
 - [¿Cómo desactivar la aceleración por hardware en Chrome?](https://jlferrete.com/blog/como-desactivar-la-aceleracion-por-hardware-en-chrome/)
-- [Truco para evitar que la linterna del iPhone se encienda por accidente](https://jlferrete.com/blog/truco-para-evitar-que-la-linterna-del-iphone-se-encienda-por-accidente/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
