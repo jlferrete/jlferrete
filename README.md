@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Las 10 mejores distribuciones Linux de 2024 para cada tipo de usuario](https://jlferrete.com/blog/las-10-mejores-distribuciones-linux-de-2024-para-cada-tipo-de-usuario/)
 - [La pantalla táctil del móvil no funciona: cómo solucionar el problema](https://jlferrete.com/blog/la-pantalla-tactil-del-movil-no-funciona-como-solucionar-el-problema/)
 - [La sencilla acción para hacer que suene la radio con la alarma en el reloj de Google](https://jlferrete.com/blog/la-sencilla-accion-para-hacer-que-suene-la-radio-con-la-alarma-en-el-reloj-de-google/)
 - [Esta calculadora judicial te dice la indemnización que te deberían pagar si eres despedido](https://jlferrete.com/blog/esta-calculadora-judicial-te-dice-la-indemnizacion-que-te-deberian-pagar-si-eres-despedido/)
 - [Este truco permite seguir subiendo fotos y vídeos a Google Fotos sin pagar por el almacenamiento](https://jlferrete.com/blog/este-truco-permite-seguir-subiendo-fotos-y-videos-a-google-fotos-sin-pagar-por-el-almacenamiento/)
-- [¿Merece la pena comprar un MacBook Pro, o sirve con un Air?](https://jlferrete.com/blog/merece-la-pena-comprar-un-macbook-pro-o-sirve-con-un-air/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
