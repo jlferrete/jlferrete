@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Los mejores emuladores de Android para PC y Mac: esto es lo que puedes hacer con ellos](https://jlferrete.com/blog/los-mejores-emuladores-de-android-para-pc-y-mac-esto-es-lo-que-puedes-hacer-con-ellos/)
 - [Hackeó el sistema de seguridad de Parque Jurásico hace 31 años y hoy sabemos qué había en el código fuente](https://jlferrete.com/blog/hackeo-el-sistema-de-seguridad-de-parque-jurasico-hace-31-anos-y-hoy-sabemos-que-habia-en-el-codigo-fuente/)
 - [El truco definitivo para descubrir y borrar toneladas de gigas escondidos en tu Mac si usas Google Chrome](https://jlferrete.com/blog/el-truco-definitivo-para-descubrir-y-borrar-toneladas-de-gigas-escondidos-en-tu-mac-si-usas-google-chrome/)
 - [¿Qué es elasticsearch?](https://jlferrete.com/blog/que-es-elasticsearch/)
 - [Estos ajustes de pantalla en el Mac te harán ver mucho mejor el contenido](https://jlferrete.com/blog/estos-ajustes-de-pantalla-en-el-mac-te-haran-ver-mucho-mejor-el-contenido/)
-- [Linux Lite o cómo devolver a la vida cualquier PC, por muy viejo que sea](https://jlferrete.com/blog/linux-lite-o-como-devolver-a-la-vida-cualquier-pc-por-muy-viejo-que-sea/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
