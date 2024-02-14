@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de Moodle](https://jlferrete.com/blog/curso-de-moodle/)
 - [Curso de masterclass](https://jlferrete.com/blog/curso-de-masterclass/)
 - [La inteligencia artificial transformando el gobierno de datos](https://jlferrete.com/blog/la-inteligencia-artificial-transformando-el-gobierno-de-datos/)
 - [Los mejores emuladores de Android para PC y Mac: esto es lo que puedes hacer con ellos](https://jlferrete.com/blog/los-mejores-emuladores-de-android-para-pc-y-mac-esto-es-lo-que-puedes-hacer-con-ellos/)
 - [Hackeó el sistema de seguridad de Parque Jurásico hace 31 años y hoy sabemos qué había en el código fuente](https://jlferrete.com/blog/hackeo-el-sistema-de-seguridad-de-parque-jurasico-hace-31-anos-y-hoy-sabemos-que-habia-en-el-codigo-fuente/)
-- [El truco definitivo para descubrir y borrar toneladas de gigas escondidos en tu Mac si usas Google Chrome](https://jlferrete.com/blog/el-truco-definitivo-para-descubrir-y-borrar-toneladas-de-gigas-escondidos-en-tu-mac-si-usas-google-chrome/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
