@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Las distribuciones Linux más ligeras que puedes instalar en tu ordenador](https://jlferrete.com/blog/las-distribuciones-linux-mas-ligeras-que-puedes-instalar-en-tu-ordenador/)
 - [Cómo montar un servidor local casero: tipos y usos](https://jlferrete.com/blog/como-montar-un-servidor-local-casero-tipos-y-usos/)
 - [Curso de Moodle](https://jlferrete.com/blog/curso-de-moodle/)
 - [Curso de masterclass](https://jlferrete.com/blog/curso-de-masterclass/)
 - [La inteligencia artificial transformando el gobierno de datos](https://jlferrete.com/blog/la-inteligencia-artificial-transformando-el-gobierno-de-datos/)
-- [Los mejores emuladores de Android para PC y Mac: esto es lo que puedes hacer con ellos](https://jlferrete.com/blog/los-mejores-emuladores-de-android-para-pc-y-mac-esto-es-lo-que-puedes-hacer-con-ellos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
