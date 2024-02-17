@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Sora, guía a fondo: qué es, cómo funciona y lo mejor que puedes hacer con el ‘ChatGPT’ generador de vídeos de OpenAI](https://jlferrete.com/blog/sora-guia-a-fondo-que-es-como-funciona-y-lo-mejor-que-puedes-hacer-con-el-chatgpt-generador-de-videos-de-openai/)
 - [5 trucos para optimizar tu Mac para que funcione como el primer día](https://jlferrete.com/blog/5-trucos-para-optimizar-tu-mac-para-que-funcione-como-el-primer-dia/)
 - [Las distribuciones Linux más ligeras que puedes instalar en tu ordenador](https://jlferrete.com/blog/las-distribuciones-linux-mas-ligeras-que-puedes-instalar-en-tu-ordenador/)
 - [Cómo montar un servidor local casero: tipos y usos](https://jlferrete.com/blog/como-montar-un-servidor-local-casero-tipos-y-usos/)
 - [Curso de Moodle](https://jlferrete.com/blog/curso-de-moodle/)
-- [Curso de masterclass](https://jlferrete.com/blog/curso-de-masterclass/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
