@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Con estos ajustes en Google Chrome reducirás el consumo de RAM un 40%: mejorará el rendimiento y la autonomía de tu portátil](https://jlferrete.com/blog/con-estos-ajustes-en-google-chrome-reduciras-el-consumo-de-ram-un-40-mejorara-el-rendimiento-y-la-autonomia-de-tu-portatil/)
 - [Cómo solucionar el arranque infinito de Windows 11 sin perder datos](https://jlferrete.com/blog/como-solucionar-el-arranque-infinito-de-windows-11-sin-perder-datos/)
 - [SystemRescue 11: nueva versión del sistema de rescate](https://jlferrete.com/blog/systemrescue-11-nueva-version-del-sistema-de-rescate/)
 - [Código abierto: un motor económico del sector tecnológico](https://jlferrete.com/blog/codigo-abierto-un-motor-economico-del-sector-tecnologico/)
 - [Se acaba de producir un hito en computación cuántica. Se ha adelantado un año y sus protagonistas no son los cúbits de siempre](https://jlferrete.com/blog/se-acaba-de-producir-un-hito-en-computacion-cuantica-se-ha-adelantado-un-ano-y-sus-protagonistas-no-son-los-cubits-de-siempre/)
-- [Sora, guía a fondo: qué es, cómo funciona y lo mejor que puedes hacer con el ‘ChatGPT’ generador de vídeos de OpenAI](https://jlferrete.com/blog/sora-guia-a-fondo-que-es-como-funciona-y-lo-mejor-que-puedes-hacer-con-el-chatgpt-generador-de-videos-de-openai/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
