@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo descargar y empezar a utilizar la nueva aplicación Notion Calendar en tu iPhone y Mac?](https://jlferrete.com/blog/como-descargar-y-empezar-a-utilizar-la-nueva-aplicacion-notion-calendar-en-tu-iphone-y-mac/)
 - [Con estos ajustes en Google Chrome reducirás el consumo de RAM un 40%: mejorará el rendimiento y la autonomía de tu portátil](https://jlferrete.com/blog/con-estos-ajustes-en-google-chrome-reduciras-el-consumo-de-ram-un-40-mejorara-el-rendimiento-y-la-autonomia-de-tu-portatil/)
 - [Cómo solucionar el arranque infinito de Windows 11 sin perder datos](https://jlferrete.com/blog/como-solucionar-el-arranque-infinito-de-windows-11-sin-perder-datos/)
 - [SystemRescue 11: nueva versión del sistema de rescate](https://jlferrete.com/blog/systemrescue-11-nueva-version-del-sistema-de-rescate/)
 - [Código abierto: un motor económico del sector tecnológico](https://jlferrete.com/blog/codigo-abierto-un-motor-economico-del-sector-tecnologico/)
-- [Se acaba de producir un hito en computación cuántica. Se ha adelantado un año y sus protagonistas no son los cúbits de siempre](https://jlferrete.com/blog/se-acaba-de-producir-un-hito-en-computacion-cuantica-se-ha-adelantado-un-ano-y-sus-protagonistas-no-son-los-cubits-de-siempre/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
