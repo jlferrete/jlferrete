@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [La Inteligencia Artificial en la mejora de la experiencia del cliente](https://jlferrete.com/blog/la-inteligencia-artificial-en-la-mejora-de-la-experiencia-del-cliente/)
 - [Un super Blu-Ray de 125.000 GB con el tamaño de un DVD convencional. La ciencia acaba de inventar el futuro de los discos ópticos](https://jlferrete.com/blog/un-super-blu-ray-de-125-000-gb-con-el-tamano-de-un-dvd-convencional-la-ciencia-acaba-de-inventar-el-futuro-de-los-discos-opticos/)
 - [How to connect to Azure Database for MySQL – Flexible Server in a private network configuration](https://jlferrete.com/blog/how-to-connect-to-azure-database-for-mysql-flexible-server-in-a-private-network-configuration/)
 - [ChatGPT lleva horas dando respuestas que son un completo galimatías. Hasta escribe en Spanglish](https://jlferrete.com/blog/chatgpt-lleva-horas-dando-respuestas-que-son-un-completo-galimatias-hasta-escribe-en-spanglish/)
 - [¿Cómo descargar y empezar a utilizar la nueva aplicación Notion Calendar en tu iPhone y Mac?](https://jlferrete.com/blog/como-descargar-y-empezar-a-utilizar-la-nueva-aplicacion-notion-calendar-en-tu-iphone-y-mac/)
-- [Con estos ajustes en Google Chrome reducirás el consumo de RAM un 40%: mejorará el rendimiento y la autonomía de tu portátil](https://jlferrete.com/blog/con-estos-ajustes-en-google-chrome-reduciras-el-consumo-de-ram-un-40-mejorara-el-rendimiento-y-la-autonomia-de-tu-portatil/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
