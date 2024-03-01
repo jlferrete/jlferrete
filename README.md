@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo ser un profesional demandado en tiempos de IA?](https://jlferrete.com/blog/como-ser-un-profesional-demandado-en-tiempos-de-ia/)
 - [Cómo cambiar el atributo lang en páginas concretas de una web](https://jlferrete.com/blog/como-cambiar-el-atributo-lang-en-paginas-concretas-de-una-web/)
 - [Convert String Date to XMLGregorianCalendar in Java](https://jlferrete.com/blog/convert-string-date-to-xmlgregoriancalendar-in-java/)
 - [Normalize a URL in Java](https://jlferrete.com/blog/normalize-a-url-in-java/)
 - [Generating Unique Positive Long Using SecureRandom in Java](https://jlferrete.com/blog/generating-unique-positive-long-using-securerandom-in-java/)
-- [Read and Write Files in Java Using Separate Threads](https://jlferrete.com/blog/read-and-write-files-in-java-using-separate-threads/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
