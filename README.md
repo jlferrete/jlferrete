@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué es Google Search Console y para qué sirve?](https://jlferrete.com/blog/que-es-google-search-console-y-para-que-sirve/)
 - [Insertar Elementos XML con Python](https://jlferrete.com/blog/insertar-elementos-xml-con-python/)
 - [¿Cómo ser un profesional demandado en tiempos de IA?](https://jlferrete.com/blog/como-ser-un-profesional-demandado-en-tiempos-de-ia/)
 - [Cómo cambiar el atributo lang en páginas concretas de una web](https://jlferrete.com/blog/como-cambiar-el-atributo-lang-en-paginas-concretas-de-una-web/)
 - [Convert String Date to XMLGregorianCalendar in Java](https://jlferrete.com/blog/convert-string-date-to-xmlgregoriancalendar-in-java/)
-- [Normalize a URL in Java](https://jlferrete.com/blog/normalize-a-url-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
