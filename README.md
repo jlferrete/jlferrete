@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo tener un negocio de servicios rentable en 2024](https://jlferrete.com/blog/como-tener-un-negocio-de-servicios-rentable-en-2024/)
 - [Scraping Dynamic Web Pages with Python](https://jlferrete.com/blog/scraping-dynamic-web-pages-with-python/)
 - [FinGPT, el open source Large Language Model (LLMs) para el ámbito financiero](https://jlferrete.com/blog/fingpt-el-open-source-large-language-model-llms-para-el-ambito-financiero/)
 - [Fedora Atomic Desktop, nueva familia para los escritorios «atómicos»](https://jlferrete.com/blog/fedora-atomic-desktop-nueva-familia-para-los-escritorios-atomicos/)
 - [Qué es un tripwire y cómo puede aumentar tus ventas](https://jlferrete.com/blog/que-es-un-tripwire-y-como-puede-aumentar-tus-ventas/)
-- [¿Qué es Google Search Console y para qué sirve?](https://jlferrete.com/blog/que-es-google-search-console-y-para-que-sirve/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
