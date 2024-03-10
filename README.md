@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mask an Email Address and Phone Number in Java](https://jlferrete.com/blog/mask-an-email-address-and-phone-number-in-java/)
 - [Logging With AOP in Spring](https://jlferrete.com/blog/logging-with-aop-in-spring/)
 - [Cómo tener un negocio de servicios rentable en 2024](https://jlferrete.com/blog/como-tener-un-negocio-de-servicios-rentable-en-2024/)
 - [Scraping Dynamic Web Pages with Python](https://jlferrete.com/blog/scraping-dynamic-web-pages-with-python/)
 - [FinGPT, el open source Large Language Model (LLMs) para el ámbito financiero](https://jlferrete.com/blog/fingpt-el-open-source-large-language-model-llms-para-el-ambito-financiero/)
-- [Fedora Atomic Desktop, nueva familia para los escritorios «atómicos»](https://jlferrete.com/blog/fedora-atomic-desktop-nueva-familia-para-los-escritorios-atomicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
