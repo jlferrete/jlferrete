@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Plantillas en Cadenas Python](https://jlferrete.com/blog/plantillas-en-cadenas-python/)
 - [¿Cómo crear automatizaciones con Mailpoet?](https://jlferrete.com/blog/como-crear-automatizaciones-con-mailpoet/)
 - [Mask an Email Address and Phone Number in Java](https://jlferrete.com/blog/mask-an-email-address-and-phone-number-in-java/)
 - [Logging With AOP in Spring](https://jlferrete.com/blog/logging-with-aop-in-spring/)
 - [Cómo tener un negocio de servicios rentable en 2024](https://jlferrete.com/blog/como-tener-un-negocio-de-servicios-rentable-en-2024/)
-- [Scraping Dynamic Web Pages with Python](https://jlferrete.com/blog/scraping-dynamic-web-pages-with-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
