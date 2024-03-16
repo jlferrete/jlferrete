@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [VLC es genial, pero si conoces estos siete trucos es todavía mejor](https://jlferrete.com/blog/vlc-es-genial-pero-si-conoces-estos-siete-trucos-es-todavia-mejor/)
 - [Ajustes de línea con CSS](https://jlferrete.com/blog/ajustes-de-linea-con-css/)
 - [Qué significan los puertos del router: guía completa para diferenciarlos](https://jlferrete.com/blog/que-significan-los-puertos-del-router-guia-completa-para-diferenciarlos/)
 - [5 proyectos de Código Abierto que no conocías y debes conocer](https://jlferrete.com/blog/5-proyectos-de-codigo-abierto-que-no-conocias-y-debes-conocer/)
 - [Plantillas en Cadenas Python](https://jlferrete.com/blog/plantillas-en-cadenas-python/)
-- [¿Cómo crear automatizaciones con Mailpoet?](https://jlferrete.com/blog/como-crear-automatizaciones-con-mailpoet/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
