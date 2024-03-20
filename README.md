@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Primera toma de contacto con las gafas de Apple: las Vision Pro se dan de bruces con la realidad](https://jlferrete.com/blog/primera-toma-de-contacto-con-las-gafas-de-apple-las-vision-pro-se-dan-de-bruces-con-la-realidad/)
 - [Cómo puedo escuchar mis correos electrónicos con el modo lectura en mi móvil](https://jlferrete.com/blog/como-puedo-escuchar-mis-correos-electronicos-con-el-modo-lectura-en-mi-movil/)
 - [Cómo solucionar los mails atascados en la bandeja de salida en Gmail](https://jlferrete.com/blog/como-solucionar-los-mails-atascados-en-la-bandeja-de-salida-en-gmail/)
 - [VLC es genial, pero si conoces estos siete trucos es todavía mejor](https://jlferrete.com/blog/vlc-es-genial-pero-si-conoces-estos-siete-trucos-es-todavia-mejor/)
 - [Ajustes de línea con CSS](https://jlferrete.com/blog/ajustes-de-linea-con-css/)
-- [Qué significan los puertos del router: guía completa para diferenciarlos](https://jlferrete.com/blog/que-significan-los-puertos-del-router-guia-completa-para-diferenciarlos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
