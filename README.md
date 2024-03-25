@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo mantener la privacidad durante las vacaciones: 10 consejos clave](https://jlferrete.com/blog/como-mantener-la-privacidad-durante-las-vacaciones-10-consejos-clave/)
 - [¿Por qué las placas de circuitos impresos son de color verde?](https://jlferrete.com/blog/por-que-las-placas-de-circuitos-impresos-son-de-color-verde/)
 - [Del caos a la calma: así gestiono mi correo electrónico usando la técnica del «inbox zero»](https://jlferrete.com/blog/del-caos-a-la-calma-asi-gestiono-mi-correo-electronico-usando-la-tecnica-del-inbox-zero/)
 - [Cómo crear y compartir listas en Google Maps](https://jlferrete.com/blog/como-crear-y-compartir-listas-en-google-maps/)
 - [15 increíbles trucos de Excel para hacer en segundos las tareas más repetitivas](https://jlferrete.com/blog/15-increibles-trucos-de-excel-para-hacer-en-segundos-las-tareas-mas-repetitivas/)
-- [192.168.1.1: todo lo que debes saber de la dirección IP más importante de tu router WiFi](https://jlferrete.com/blog/192-168-1-1-todo-lo-que-debes-saber-de-la-direccion-ip-mas-importante-de-tu-router-wifi/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
