@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El smartbuilding, clave en la lucha contra el cambio climático](https://jlferrete.com/blog/el-smartbuilding-clave-en-la-lucha-contra-el-cambio-climatico-2/)
 - [Del caos a la calma: así gestiono mi correo electrónico usando la técnica del «inbox zero»](https://jlferrete.com/blog/del-caos-a-la-calma-asi-gestiono-mi-correo-electronico-usando-la-tecnica-del-inbox-zero-2/)
 - [El smartbuilding, clave en la lucha contra el cambio climático](https://jlferrete.com/blog/el-smartbuilding-clave-en-la-lucha-contra-el-cambio-climatico/)
 - [Ubuntu vs. Fedora: ¿Cuál es mejor dis͏tro L͏inux͏ de 2024?](https://jlferrete.com/blog/ubuntu-vs-fedora-cual-es-mejor-dis%cd%8ftro-l%cd%8finux%cd%8f-de-2024/)
 - [Qué es Data Mesh?](https://jlferrete.com/blog/que-es-data-mesh/)
-- [Cómo mantener la privacidad durante las vacaciones: 10 consejos clave](https://jlferrete.com/blog/como-mantener-la-privacidad-durante-las-vacaciones-10-consejos-clave/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
