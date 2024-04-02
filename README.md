@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Check if String is Base64 Encoded](https://jlferrete.com/blog/check-if-string-is-base64-encoded/)
 - [Install OpenJDK on Windows](https://jlferrete.com/blog/install-openjdk-on-windows/)
 - [15 plantillas para Notion que te cambiarán la vida](https://jlferrete.com/blog/15-plantillas-para-notion-que-te-cambiaran-la-vida/)
 - [El smartbuilding, clave en la lucha contra el cambio climático](https://jlferrete.com/blog/el-smartbuilding-clave-en-la-lucha-contra-el-cambio-climatico-2/)
 - [Del caos a la calma: así gestiono mi correo electrónico usando la técnica del «inbox zero»](https://jlferrete.com/blog/del-caos-a-la-calma-asi-gestiono-mi-correo-electronico-usando-la-tecnica-del-inbox-zero-2/)
-- [El smartbuilding, clave en la lucha contra el cambio climático](https://jlferrete.com/blog/el-smartbuilding-clave-en-la-lucha-contra-el-cambio-climatico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
