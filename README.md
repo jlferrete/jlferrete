@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Distribuciones Linux: cuáles son el mejor punto de partida](https://jlferrete.com/blog/distribuciones-linux-cuales-son-el-mejor-punto-de-partida/)
 - [Cómo hacer que el WiFi de casa se apague de forma automática en las horas que elijas](https://jlferrete.com/blog/como-hacer-que-el-wifi-de-casa-se-apague-de-forma-automatica-en-las-horas-que-elijas/)
 - [Morris II, así es el gusano que se autoreplica en ChatGPT y Gemini](https://jlferrete.com/blog/morris-ii-asi-es-el-gusano-que-se-autoreplica-en-chatgpt-y-gemini/)
 - [openmediavault, distribución que deja tu NAS listo para usar](https://jlferrete.com/blog/openmediavault-distribucion-que-deja-tu-nas-listo-para-usar/)
 - [Cómo instalar y configurar una VPN en GNU/Linux](https://jlferrete.com/blog/como-instalar-y-configurar-una-vpn-en-gnu-linux/)
-- [Check if String is Base64 Encoded](https://jlferrete.com/blog/check-if-string-is-base64-encoded/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
