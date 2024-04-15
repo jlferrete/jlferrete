@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Dockerfile avanzado: multietapa, repositorio y trucos](https://jlferrete.com/blog/dockerfile-avanzado-multietapa-repositorio-y-trucos/)
 - [Imágenes Docker](https://jlferrete.com/blog/imagenes-docker/)
 - [Docker compose en un proyecto](https://jlferrete.com/blog/docker-compose-en-un-proyecto/)
 - [Docker Compose](https://jlferrete.com/blog/docker-compose/)
 - [Docker básico: Docker Desktop y objetos Docker](https://jlferrete.com/blog/docker-basico-docker-desktop-y-objetos-docker/)
-- [Dockerfile: Directivas y Dockerizar proyectos](https://jlferrete.com/blog/dockerfile-directivas-y-dockerizar-proyectos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
