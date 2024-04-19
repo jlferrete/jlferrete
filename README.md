@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Estrategias efectivas contra el spam en comentarios: La técnica honeypot en WordPress](https://jlferrete.com/blog/estrategias-efectivas-contra-el-spam-en-comentarios-la-tecnica-honeypot-en-wordpress/)
 - [Guía Completa para Desarrolladores: Cómo Convertir tu Sitio Web en una Aplicación Web Progresiva (PWA)](https://jlferrete.com/blog/guia-completa-para-desarrolladores-como-convertir-tu-sitio-web-en-una-aplicacion-web-progresiva-pwa/)
 - [Así configuré mi propio router sustituyendo por completo al de mi operadora](https://jlferrete.com/blog/asi-configure-mi-propio-router-sustituyendo-por-completo-al-de-mi-operadora/)
 - [Protección avanzada de tu WordPress: Cómo blindar /wp-admin sin bloquear funciones necesarias](https://jlferrete.com/blog/proteccion-avanzada-de-tu-wordpress-como-blindar-wp-admin-sin-bloquear-funciones-necesarias/)
 - [Dockerfile avanzado: multietapa, repositorio y trucos](https://jlferrete.com/blog/dockerfile-avanzado-multietapa-repositorio-y-trucos/)
-- [Imágenes Docker](https://jlferrete.com/blog/imagenes-docker/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
