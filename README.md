@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿En qué tengo que fijarme para comprar el router que necesito?](https://jlferrete.com/blog/en-que-tengo-que-fijarme-para-comprar-el-router-que-necesito/)
 - [Cómo instalar una VPN en tu tele con Android TV y por qué es recomendable hacerlo desde hoy mismo](https://jlferrete.com/blog/como-instalar-una-vpn-en-tu-tele-con-android-tv-y-por-que-es-recomendable-hacerlo-desde-hoy-mismo/)
 - [Cómo «esconder» un router en casa de la forma más decorativa, para que no parezca un router](https://jlferrete.com/blog/como-esconder-un-router-en-casa-de-la-forma-mas-decorativa-para-que-no-parezca-un-router/)
 - [Estrategias efectivas contra el spam en comentarios: La técnica honeypot en WordPress](https://jlferrete.com/blog/estrategias-efectivas-contra-el-spam-en-comentarios-la-tecnica-honeypot-en-wordpress/)
 - [Guía Completa para Desarrolladores: Cómo Convertir tu Sitio Web en una Aplicación Web Progresiva (PWA)](https://jlferrete.com/blog/guia-completa-para-desarrolladores-como-convertir-tu-sitio-web-en-una-aplicacion-web-progresiva-pwa/)
-- [Así configuré mi propio router sustituyendo por completo al de mi operadora](https://jlferrete.com/blog/asi-configure-mi-propio-router-sustituyendo-por-completo-al-de-mi-operadora/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
