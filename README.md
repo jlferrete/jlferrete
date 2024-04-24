@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Tiene sentido crear particiones en un SSD hoy en día?](https://jlferrete.com/blog/tiene-sentido-crear-particiones-en-un-ssd-hoy-en-dia/)
 - [Tras formatear el PC e instalar Windows, no te olvides de estas cosas](https://jlferrete.com/blog/tras-formatear-el-pc-e-instalar-windows-no-te-olvides-de-estas-cosas/)
 - [¿En qué tengo que fijarme para comprar el router que necesito?](https://jlferrete.com/blog/en-que-tengo-que-fijarme-para-comprar-el-router-que-necesito/)
 - [Cómo instalar una VPN en tu tele con Android TV y por qué es recomendable hacerlo desde hoy mismo](https://jlferrete.com/blog/como-instalar-una-vpn-en-tu-tele-con-android-tv-y-por-que-es-recomendable-hacerlo-desde-hoy-mismo/)
 - [Cómo «esconder» un router en casa de la forma más decorativa, para que no parezca un router](https://jlferrete.com/blog/como-esconder-un-router-en-casa-de-la-forma-mas-decorativa-para-que-no-parezca-un-router/)
-- [Estrategias efectivas contra el spam en comentarios: La técnica honeypot en WordPress](https://jlferrete.com/blog/estrategias-efectivas-contra-el-spam-en-comentarios-la-tecnica-honeypot-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
