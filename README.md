@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Error de WordPress al instalar plugins o temas: Archivo incompatible ¿qué pasa? ¿cómo lo arreglo?](https://jlferrete.com/blog/error-de-wordpress-al-instalar-plugins-o-temas-archivo-incompatible-que-pasa-como-lo-arreglo/)
 - [La guía definitiva para hacer que tu WiFi funcione bien en cualquier parte de la casa](https://jlferrete.com/blog/la-guia-definitiva-para-hacer-que-tu-wifi-funcione-bien-en-cualquier-parte-de-la-casa/)
 - [Todo lo que debes saber sobre campos personalizados en WordPress](https://jlferrete.com/blog/todo-lo-que-debes-saber-sobre-campos-personalizados-en-wordpress/)
 - [Normalizing the EOL Character in Java](https://jlferrete.com/blog/normalizing-the-eol-character-in-java/)
 - [¿Tiene sentido crear particiones en un SSD hoy en día?](https://jlferrete.com/blog/tiene-sentido-crear-particiones-en-un-ssd-hoy-en-dia/)
-- [Tras formatear el PC e instalar Windows, no te olvides de estas cosas](https://jlferrete.com/blog/tras-formatear-el-pc-e-instalar-windows-no-te-olvides-de-estas-cosas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
