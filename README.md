@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Maximiza la funcionalidad de tu web: Cómo integrar fácilmente chatbots en WordPress](https://jlferrete.com/blog/maximiza-la-funcionalidad-de-tu-web-como-integrar-facilmente-chatbots-en-wordpress/)
 - [HTTP, ¿Qué es y cómo funciona?](https://jlferrete.com/blog/http-que-es-y-como-funciona/)
 - [Crea formularios de contacto eficaces en WordPress utilizando estos plugins gratuitos](https://jlferrete.com/blog/crea-formularios-de-contacto-eficaces-en-wordpress-utilizando-estos-plugins-gratuitos/)
 - [41 comandos básicos para el terminal de Linux, con los que dar tus primeros pasos con su consola](https://jlferrete.com/blog/41-comandos-basicos-para-el-terminal-de-linux-con-los-que-dar-tus-primeros-pasos-con-su-consola/)
 - [Error de WordPress al instalar plugins o temas: Archivo incompatible ¿qué pasa? ¿cómo lo arreglo?](https://jlferrete.com/blog/error-de-wordpress-al-instalar-plugins-o-temas-archivo-incompatible-que-pasa-como-lo-arreglo/)
-- [La guía definitiva para hacer que tu WiFi funcione bien en cualquier parte de la casa](https://jlferrete.com/blog/la-guia-definitiva-para-hacer-que-tu-wifi-funcione-bien-en-cualquier-parte-de-la-casa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
