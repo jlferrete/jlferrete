@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Truco de Excel: Resaltar una Fila Completa con un Solo Clic](https://jlferrete.com/blog/truco-de-excel-resaltar-una-fila-completa-con-un-solo-clic/)
+- [Así es el perfil del hacker ético](https://jlferrete.com/blog/asi-es-el-perfil-del-hacker-etico/)
 - [Descubre qué es Microsoft Fabric](https://jlferrete.com/blog/descubre-que-es-microsoft-fabric/)
 - [5 FORMATOS Condicionales PERSONALIZADOS para RESALTAR FILAS en Excel que Debes Conocer](https://jlferrete.com/blog/5-formatos-condicionales-personalizados-para-resaltar-filas-en-excel-que-debes-conocer/)
 - [Maximiza la funcionalidad de tu web: Cómo integrar fácilmente chatbots en WordPress](https://jlferrete.com/blog/maximiza-la-funcionalidad-de-tu-web-como-integrar-facilmente-chatbots-en-wordpress/)
-- [HTTP, ¿Qué es y cómo funciona?](https://jlferrete.com/blog/http-que-es-y-como-funciona/)
-- [Crea formularios de contacto eficaces en WordPress utilizando estos plugins gratuitos](https://jlferrete.com/blog/crea-formularios-de-contacto-eficaces-en-wordpress-utilizando-estos-plugins-gratuitos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
