@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué deben hacer las empresas para cumplir con la nueva Ley de Atención al Cliente?](https://jlferrete.com/blog/que-deben-hacer-las-empresas-para-cumplir-con-la-nueva-ley-de-atencion-al-cliente/)
 - [Cómo encontrar un proyecto en plataformas para freelance](https://jlferrete.com/blog/como-encontrar-un-proyecto-en-plataformas-para-freelance/)
 - [Tu vecino te está robando el Wi-Fi: 4 programas para pillarlo y bloquearlo](https://jlferrete.com/blog/tu-vecino-te-esta-robando-el-wi-fi-4-programas-para-pillarlo-y-bloquearlo/)
 - [UTILIZANDO ELEMENTOS DE IMAGEN CON PYTHON Y TKINTER](https://jlferrete.com/blog/utilizando-elementos-de-imagen-con-python-y-tkinter/)
 - [Truco de Excel: Resaltar una Fila Completa con un Solo Clic](https://jlferrete.com/blog/truco-de-excel-resaltar-una-fila-completa-con-un-solo-clic/)
-- [Así es el perfil del hacker ético](https://jlferrete.com/blog/asi-es-el-perfil-del-hacker-etico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
