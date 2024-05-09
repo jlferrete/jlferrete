@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Accesibilidad web en primera persona](https://jlferrete.com/blog/accesibilidad-web-en-primera-persona/)
 - [Cómo saber si un tema WordPress contiene código malicioso](https://jlferrete.com/blog/como-saber-si-un-tema-wordpress-contiene-codigo-malicioso/)
 - [Crear plugin cuando functions.php se hace demasiado grande](https://jlferrete.com/blog/crear-plugin-cuando-functions-php-se-hace-demasiado-grande/)
 - [¿Qué deben hacer las empresas para cumplir con la nueva Ley de Atención al Cliente?](https://jlferrete.com/blog/que-deben-hacer-las-empresas-para-cumplir-con-la-nueva-ley-de-atencion-al-cliente/)
 - [Cómo encontrar un proyecto en plataformas para freelance](https://jlferrete.com/blog/como-encontrar-un-proyecto-en-plataformas-para-freelance/)
-- [Tu vecino te está robando el Wi-Fi: 4 programas para pillarlo y bloquearlo](https://jlferrete.com/blog/tu-vecino-te-esta-robando-el-wi-fi-4-programas-para-pillarlo-y-bloquearlo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
