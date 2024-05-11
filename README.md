@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué es un banner de cookies y por qué lo necesitas](https://jlferrete.com/blog/que-es-un-banner-de-cookies-y-por-que-lo-necesitas/)
 - [Claves para un Sitio Web Profesional: Elementos Esenciales para el Éxito en WordPress](https://jlferrete.com/blog/claves-para-un-sitio-web-profesional-elementos-esenciales-para-el-exito-en-wordpress/)
 - [Accesibilidad web en primera persona](https://jlferrete.com/blog/accesibilidad-web-en-primera-persona/)
 - [Cómo saber si un tema WordPress contiene código malicioso](https://jlferrete.com/blog/como-saber-si-un-tema-wordpress-contiene-codigo-malicioso/)
 - [Crear plugin cuando functions.php se hace demasiado grande](https://jlferrete.com/blog/crear-plugin-cuando-functions-php-se-hace-demasiado-grande/)
-- [¿Qué deben hacer las empresas para cumplir con la nueva Ley de Atención al Cliente?](https://jlferrete.com/blog/que-deben-hacer-las-empresas-para-cumplir-con-la-nueva-ley-de-atencion-al-cliente/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
