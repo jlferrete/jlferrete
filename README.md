@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Docker Fundamentals for Data Engineers](https://jlferrete.com/blog/docker-fundamentals-for-data-engineers/)
 - [Curso gratuito Agile Analytics](https://jlferrete.com/blog/curso-gratuito-agile-analytics/)
 - [How to test PySpark code with pytest](https://jlferrete.com/blog/how-to-test-pyspark-code-with-pytest/)
 - [¿Está mi WordPress vivo? ¿Cómo puedo monitorizarlo?](https://jlferrete.com/blog/esta-mi-wordpress-vivo-como-puedo-monitorizarlo/)
 - [Requisitos legales que debe cumplir tu sitio web](https://jlferrete.com/blog/requisitos-legales-que-debe-cumplir-tu-sitio-web/)
-- [Qué es el RGPD y por qué debes cumplir con este reglamento](https://jlferrete.com/blog/que-es-el-rgpd-y-por-que-debes-cumplir-con-este-reglamento/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
