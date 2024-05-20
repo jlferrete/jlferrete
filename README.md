@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [He probado Ubuntu 24.04 LTS, ¿el mejor Linux hasta la fecha?](https://jlferrete.com/blog/he-probado-ubuntu-24-04-lts-el-mejor-linux-hasta-la-fecha/)
 - [Excel vs. Google Sheets: ¿Cuál es Mejor para Consolidar Datos de varios archivos?](https://jlferrete.com/blog/excel-vs-google-sheets-cual-es-mejor-para-consolidar-datos-de-varios-archivos/)
 - [Nuevo Libro Arquitectura Java Solida y Patrones Gratuito](https://jlferrete.com/blog/nuevo-libro-arquitectura-java-solida-y-patrones-gratuito/)
 - [Docker Fundamentals for Data Engineers](https://jlferrete.com/blog/docker-fundamentals-for-data-engineers/)
 - [Curso gratuito Agile Analytics](https://jlferrete.com/blog/curso-gratuito-agile-analytics/)
-- [How to test PySpark code with pytest](https://jlferrete.com/blog/how-to-test-pyspark-code-with-pytest/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
