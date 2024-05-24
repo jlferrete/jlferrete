@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Todo sobre la nueva biblioteca de fuentes de WordPress](https://jlferrete.com/blog/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
 - [Por qué WordPress es la plataforma ideal para crear tu blog personal: Inicia tu viaje en el mundo digital sin complicaciones](https://jlferrete.com/blog/por-que-wordpress-es-la-plataforma-ideal-para-crear-tu-blog-personal-inicia-tu-viaje-en-el-mundo-digital-sin-complicaciones/)
 - [Guía para principiantes: Inserta y personaliza mapas interactivos en tu sitio WordPress](https://jlferrete.com/blog/guia-para-principiantes-inserta-y-personaliza-mapas-interactivos-en-tu-sitio-wordpress/)
 - [Desmontamos el gran mito sobre HTTPS: que una web tenga ‘candado’ no la convierte en segura](https://jlferrete.com/blog/desmontamos-el-gran-mito-sobre-https-que-una-web-tenga-candado-no-la-convierte-en-segura/)
 - [He probado Ubuntu 24.04 LTS, ¿el mejor Linux hasta la fecha?](https://jlferrete.com/blog/he-probado-ubuntu-24-04-lts-el-mejor-linux-hasta-la-fecha/)
-- [Excel vs. Google Sheets: ¿Cuál es Mejor para Consolidar Datos de varios archivos?](https://jlferrete.com/blog/excel-vs-google-sheets-cual-es-mejor-para-consolidar-datos-de-varios-archivos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
