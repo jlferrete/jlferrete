@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
 - [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://jlferrete.com/blog/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
 - [¿Blindas tu cuenta bancaria pero dejas tu web en pelotas? ¡Error fatal!](https://jlferrete.com/blog/blindas-tu-cuenta-bancaria-pero-dejas-tu-web-en-pelotas-error-fatal/)
 - [Introducción a WordPress Analytics](https://jlferrete.com/blog/introduccion-a-wordpress-analytics/)
 - [Todo sobre la nueva biblioteca de fuentes de WordPress](https://jlferrete.com/blog/todo-sobre-la-nueva-biblioteca-de-fuentes-de-wordpress/)
-- [Por qué WordPress es la plataforma ideal para crear tu blog personal: Inicia tu viaje en el mundo digital sin complicaciones](https://jlferrete.com/blog/por-que-wordpress-es-la-plataforma-ideal-para-crear-tu-blog-personal-inicia-tu-viaje-en-el-mundo-digital-sin-complicaciones/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
