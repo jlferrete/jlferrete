@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Inteligencia Artificial: Como pedirle que escriba Historias de Usuario](https://jlferrete.com/blog/inteligencia-artificial-como-pedirle-que-escriba-historias-de-usuario/)
 - [La «Ñ»: El secreto para proteger tus contraseñas](https://jlferrete.com/blog/la-n-el-secreto-para-proteger-tus-contrasenas/)
 - [REST API para novatos, magia a tu alcance](https://jlferrete.com/blog/rest-api-para-novatos-magia-a-tu-alcance/)
 - [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://jlferrete.com/blog/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web-2/)
 - [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma/)
-- [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://jlferrete.com/blog/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
