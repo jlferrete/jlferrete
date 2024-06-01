@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo compartir documentos confidenciales de forma segura en Internet](https://jlferrete.com/blog/como-compartir-documentos-confidenciales-de-forma-segura-en-internet/)
 - [A Step-by-Step Guide to Web Scraping With Google Sheets](https://jlferrete.com/blog/a-step-by-step-guide-to-web-scraping-with-google-sheets/)
 - [Inteligencia Artificial: Como pedirle que escriba Historias de Usuario](https://jlferrete.com/blog/inteligencia-artificial-como-pedirle-que-escriba-historias-de-usuario/)
 - [La «Ñ»: El secreto para proteger tus contraseñas](https://jlferrete.com/blog/la-n-el-secreto-para-proteger-tus-contrasenas/)
 - [REST API para novatos, magia a tu alcance](https://jlferrete.com/blog/rest-api-para-novatos-magia-a-tu-alcance/)
-- [Navegando la Soledad: Estrategias para Freelancers del Desarrollo Web](https://jlferrete.com/blog/navegando-la-soledad-estrategias-para-freelancers-del-desarrollo-web-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
