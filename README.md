@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Optimización del .htaccess en WordPress: Forzando el uso de ‘www’ y ‘https’](https://jlferrete.com/blog/optimizacion-del-htaccess-en-wordpress-forzando-el-uso-de-www-y-https/)
 - [Si quieres montar un PC gaming nuevo, o dudas entre varias tarjetas gráficas o procesadores, necesitas esta herramienta. Así es PCPartPicker](https://jlferrete.com/blog/si-quieres-montar-un-pc-gaming-nuevo-o-dudas-entre-varias-tarjetas-graficas-o-procesadores-necesitas-esta-herramienta-asi-es-pcpartpicker/)
 - [Cómo crear una entrada en WordPress](https://jlferrete.com/blog/como-crear-una-entrada-en-wordpress/)
 - [Retrieval-Augmented Generation (RAG) Patterns and Best Practices](https://jlferrete.com/blog/retrieval-augmented-generation-rag-patterns-and-best-practices/)
 - [Cómo compartir documentos confidenciales de forma segura en Internet](https://jlferrete.com/blog/como-compartir-documentos-confidenciales-de-forma-segura-en-internet/)
-- [A Step-by-Step Guide to Web Scraping With Google Sheets](https://jlferrete.com/blog/a-step-by-step-guide-to-web-scraping-with-google-sheets/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
