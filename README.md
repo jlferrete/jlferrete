@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo crear un Windows para llevar con Windows To Go](https://jlferrete.com/blog/como-crear-un-windows-para-llevar-con-windows-to-go/)
 - [Una web más dinámica con la API de interactividad de WordPress](https://jlferrete.com/blog/una-web-mas-dinamica-con-la-api-de-interactividad-de-wordpress/)
 - [¿Cómo solucionar el error de servidor DNS no responde?](https://jlferrete.com/blog/como-solucionar-el-error-de-servidor-dns-no-responde/)
 - [Optimización del .htaccess en WordPress: Forzando el uso de ‘www’ y ‘https’](https://jlferrete.com/blog/optimizacion-del-htaccess-en-wordpress-forzando-el-uso-de-www-y-https/)
 - [Si quieres montar un PC gaming nuevo, o dudas entre varias tarjetas gráficas o procesadores, necesitas esta herramienta. Así es PCPartPicker](https://jlferrete.com/blog/si-quieres-montar-un-pc-gaming-nuevo-o-dudas-entre-varias-tarjetas-graficas-o-procesadores-necesitas-esta-herramienta-asi-es-pcpartpicker/)
-- [Cómo crear una entrada en WordPress](https://jlferrete.com/blog/como-crear-una-entrada-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
