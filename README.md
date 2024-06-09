@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Collecting into Map using Collectors.toMap() vs Collectors.groupingBy()](https://jlferrete.com/blog/collecting-into-map-using-collectors-tomap-vs-collectors-groupingby/)
+- [¿Qué es un anchor text o texto ancla y para qué sirve?](https://jlferrete.com/blog/que-es-un-anchor-text-o-texto-ancla-y-para-que-sirve/)
 - [Java RuntimeException y su utilidad](https://jlferrete.com/blog/java-runtimeexception-y-su-utilidad/)
 - [Cómo crear un Windows para llevar con Windows To Go](https://jlferrete.com/blog/como-crear-un-windows-para-llevar-con-windows-to-go/)
 - [Una web más dinámica con la API de interactividad de WordPress](https://jlferrete.com/blog/una-web-mas-dinamica-con-la-api-de-interactividad-de-wordpress/)
-- [¿Cómo solucionar el error de servidor DNS no responde?](https://jlferrete.com/blog/como-solucionar-el-error-de-servidor-dns-no-responde/)
-- [Optimización del .htaccess en WordPress: Forzando el uso de ‘www’ y ‘https’](https://jlferrete.com/blog/optimizacion-del-htaccess-en-wordpress-forzando-el-uso-de-www-y-https/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
