@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Convert Between java.sql.Timestamp and ZonedDateTime in Java](https://jlferrete.com/blog/how-to-convert-between-java-sql-timestamp-and-zoneddatetime-in-java/)
 - [¿Se puede aprovechar un viejo portátil como pantalla secundaria?](https://jlferrete.com/blog/se-puede-aprovechar-un-viejo-portatil-como-pantalla-secundaria/)
 - [Collecting into Map using Collectors.toMap() vs Collectors.groupingBy()](https://jlferrete.com/blog/collecting-into-map-using-collectors-tomap-vs-collectors-groupingby/)
 - [¿Qué es un anchor text o texto ancla y para qué sirve?](https://jlferrete.com/blog/que-es-un-anchor-text-o-texto-ancla-y-para-que-sirve/)
 - [Java RuntimeException y su utilidad](https://jlferrete.com/blog/java-runtimeexception-y-su-utilidad/)
-- [Cómo crear un Windows para llevar con Windows To Go](https://jlferrete.com/blog/como-crear-un-windows-para-llevar-con-windows-to-go/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
