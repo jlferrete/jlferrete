@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Introducing Regular Expressions (Regex) support in Azure SQL Database](https://jlferrete.com/blog/introducing-regular-expressions-regex-support-in-azure-sql-database/)
 - [Curso de embudos de ventas](https://jlferrete.com/blog/curso-de-embudos-de-ventas/)
 - [Casting Maps to Complex Objects](https://jlferrete.com/blog/casting-maps-to-complex-objects/)
 - [How to Convert Between java.sql.Timestamp and ZonedDateTime in Java](https://jlferrete.com/blog/how-to-convert-between-java-sql-timestamp-and-zoneddatetime-in-java/)
 - [¿Se puede aprovechar un viejo portátil como pantalla secundaria?](https://jlferrete.com/blog/se-puede-aprovechar-un-viejo-portatil-como-pantalla-secundaria/)
-- [Collecting into Map using Collectors.toMap() vs Collectors.groupingBy()](https://jlferrete.com/blog/collecting-into-map-using-collectors-tomap-vs-collectors-groupingby/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
