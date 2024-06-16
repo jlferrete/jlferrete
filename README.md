@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [EFECTUANDO CONVERSIONES DE MONEDA UTILIZANDO ‘forex-python’](https://jlferrete.com/blog/efectuando-conversiones-de-moneda-utilizando-forex-python/)
 - [Building Reusable Components in Django](https://jlferrete.com/blog/building-reusable-components-in-django/)
 - [Introducing Regular Expressions (Regex) support in Azure SQL Database](https://jlferrete.com/blog/introducing-regular-expressions-regex-support-in-azure-sql-database/)
 - [Curso de embudos de ventas](https://jlferrete.com/blog/curso-de-embudos-de-ventas/)
 - [Casting Maps to Complex Objects](https://jlferrete.com/blog/casting-maps-to-complex-objects/)
-- [How to Convert Between java.sql.Timestamp and ZonedDateTime in Java](https://jlferrete.com/blog/how-to-convert-between-java-sql-timestamp-and-zoneddatetime-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
