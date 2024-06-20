@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo convertir una Raspberry Pi en un servidor web](https://jlferrete.com/blog/como-convertir-una-raspberry-pi-en-un-servidor-web/)
 - [Why RAG won’t solve generative AI’s hallucination problem](https://jlferrete.com/blog/why-rag-wont-solve-generative-ais-hallucination-problem/)
 - [Cómo limpiar el gestor de dispositivos de Google para que no aparezcan móviles y tablets antiguas](https://jlferrete.com/blog/como-limpiar-el-gestor-de-dispositivos-de-google-para-que-no-aparezcan-moviles-y-tablets-antiguas/)
 - [Los mejores servicios y aplicaciones para buscar trabajo en España o cualquier parte del mundo](https://jlferrete.com/blog/los-mejores-servicios-y-aplicaciones-para-buscar-trabajo-en-espana-o-cualquier-parte-del-mundo/)
 - [EFECTUANDO CONVERSIONES DE MONEDA UTILIZANDO ‘forex-python’](https://jlferrete.com/blog/efectuando-conversiones-de-moneda-utilizando-forex-python/)
-- [Building Reusable Components in Django](https://jlferrete.com/blog/building-reusable-components-in-django/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
