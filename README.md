@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect](https://jlferrete.com/blog/ya-puedes-controlar-tu-raspberry-pi-en-remoto-desde-el-pc-con-raspberry-pi-connect/)
 - [Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos](https://jlferrete.com/blog/arduino-vs-raspberry-pi-principales-diferencias-y-cual-es-la-mejor-opcion-para-tus-proyectos/)
 - [Cómo convertir una Raspberry Pi en un servidor web](https://jlferrete.com/blog/como-convertir-una-raspberry-pi-en-un-servidor-web/)
 - [Why RAG won’t solve generative AI’s hallucination problem](https://jlferrete.com/blog/why-rag-wont-solve-generative-ais-hallucination-problem/)
 - [Cómo limpiar el gestor de dispositivos de Google para que no aparezcan móviles y tablets antiguas](https://jlferrete.com/blog/como-limpiar-el-gestor-de-dispositivos-de-google-para-que-no-aparezcan-moviles-y-tablets-antiguas/)
-- [Los mejores servicios y aplicaciones para buscar trabajo en España o cualquier parte del mundo](https://jlferrete.com/blog/los-mejores-servicios-y-aplicaciones-para-buscar-trabajo-en-espana-o-cualquier-parte-del-mundo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
