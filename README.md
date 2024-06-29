@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Make Multiple REST Calls in CompletableFuture](https://jlferrete.com/blog/how-to-make-multiple-rest-calls-in-completablefuture/)
 - [The Difference Between doAnswer() and thenReturn() in Mockito](https://jlferrete.com/blog/the-difference-between-doanswer-and-thenreturn-in-mockito/)
 - [Extract Text From a HTML Tag with Regex](https://jlferrete.com/blog/extract-text-from-a-html-tag-with-regex/)
 - [Fault Tolerance in Java Using Failsafe](https://jlferrete.com/blog/fault-tolerance-in-java-using-failsafe/)
 - [Bloqueando el spam no referido con .htaccess](https://jlferrete.com/blog/bloqueando-el-spam-no-referido-con-htaccess/)
-- [Cómo solucionar errores comunes de WordPress sin necesidad de ser un experto técnico](https://jlferrete.com/blog/como-solucionar-errores-comunes-de-wordpress-sin-necesidad-de-ser-un-experto-tecnico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
