@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Django Technical Interview Questions](https://jlferrete.com/blog/django-technical-interview-questions/)
 - [OpenAI API Client in Java](https://jlferrete.com/blog/openai-api-client-in-java/)
 - [¿Cómo agregar un sistema de reservas en mi sitio WordPress sin conocimientos técnicos previos?](https://jlferrete.com/blog/como-agregar-un-sistema-de-reservas-en-mi-sitio-wordpress-sin-conocimientos-tecnicos-previos/)
 - [Extracting Text Between Parentheses in Java](https://jlferrete.com/blog/extracting-text-between-parentheses-in-java/)
 - [How to reduce your Snowflake cost](https://jlferrete.com/blog/how-to-reduce-your-snowflake-cost/)
-- [How to Make Multiple REST Calls in CompletableFuture](https://jlferrete.com/blog/how-to-make-multiple-rest-calls-in-completablefuture/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
