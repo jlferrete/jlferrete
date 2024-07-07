@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Eliminar el fondo blanco de una imagen con CSS](https://jlferrete.com/blog/eliminar-el-fondo-blanco-de-una-imagen-con-css/)
 - [Una sinfonía en C#: Configurar Docker + HTTPS + nginx](https://jlferrete.com/blog/una-sinfonia-en-c-configurar-docker-https-nginx/)
 - [Crear una clase en PHP](https://jlferrete.com/blog/crear-una-clase-en-php/)
 - [Django Technical Interview Questions](https://jlferrete.com/blog/django-technical-interview-questions/)
 - [OpenAI API Client in Java](https://jlferrete.com/blog/openai-api-client-in-java/)
-- [¿Cómo agregar un sistema de reservas en mi sitio WordPress sin conocimientos técnicos previos?](https://jlferrete.com/blog/como-agregar-un-sistema-de-reservas-en-mi-sitio-wordpress-sin-conocimientos-tecnicos-previos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
