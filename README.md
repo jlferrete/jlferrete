@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Web Scraping Vs. API: Choosing the Right Method](https://jlferrete.com/blog/web-scraping-vs-api-choosing-the-right-method/)
 - [Domina el juego: Guía para armar tu propia PC gamer](https://jlferrete.com/blog/domina-el-juego-guia-para-armar-tu-propia-pc-gamer/)
 - [Eliminar el fondo blanco de una imagen con CSS](https://jlferrete.com/blog/eliminar-el-fondo-blanco-de-una-imagen-con-css/)
 - [Una sinfonía en C#: Configurar Docker + HTTPS + nginx](https://jlferrete.com/blog/una-sinfonia-en-c-configurar-docker-https-nginx/)
 - [Crear una clase en PHP](https://jlferrete.com/blog/crear-una-clase-en-php/)
-- [Django Technical Interview Questions](https://jlferrete.com/blog/django-technical-interview-questions/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
