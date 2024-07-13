@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El problema del link roto se va agravando](https://jlferrete.com/blog/el-problema-del-link-roto-se-va-agravando/)
 - [Cómo saltarse el Captcha Cognitivo de HBO max con OpenAI GPT4-Vision](https://jlferrete.com/blog/como-saltarse-el-captcha-cognitivo-de-hbo-max-con-openai-gpt4-vision/)
 - [Best Languages for Web Scraping](https://jlferrete.com/blog/best-languages-for-web-scraping/)
 - [Web Scraping Medium Using Python](https://jlferrete.com/blog/web-scraping-medium-using-python/)
 - [Web Scraping Vs. API: Choosing the Right Method](https://jlferrete.com/blog/web-scraping-vs-api-choosing-the-right-method/)
-- [Domina el juego: Guía para armar tu propia PC gamer](https://jlferrete.com/blog/domina-el-juego-guia-para-armar-tu-propia-pc-gamer/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
