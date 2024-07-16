@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Add an Aggregation to an Elasticsearch Query](https://jlferrete.com/blog/add-an-aggregation-to-an-elasticsearch-query/)
 - [How to Convert XML to PDF](https://jlferrete.com/blog/how-to-convert-xml-to-pdf/)
 - [Merge Multiple PDF Files Into a Single PDF Using Java](https://jlferrete.com/blog/merge-multiple-pdf-files-into-a-single-pdf-using-java/)
 - [El problema del link roto se va agravando](https://jlferrete.com/blog/el-problema-del-link-roto-se-va-agravando/)
 - [Cómo saltarse el Captcha Cognitivo de HBO max con OpenAI GPT4-Vision](https://jlferrete.com/blog/como-saltarse-el-captcha-cognitivo-de-hbo-max-con-openai-gpt4-vision/)
-- [Best Languages for Web Scraping](https://jlferrete.com/blog/best-languages-for-web-scraping/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
