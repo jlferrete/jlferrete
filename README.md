@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo configurar un ordenador nuevo PASO a PASO](https://jlferrete.com/blog/como-configurar-un-ordenador-nuevo-paso-a-paso/)
 - [Logging SQL Queries to the Console in Mybatis](https://jlferrete.com/blog/logging-sql-queries-to-the-console-in-mybatis/)
 - [Apache Commons Tutorial](https://jlferrete.com/blog/apache-commons-tutorial/)
 - [Add an Aggregation to an Elasticsearch Query](https://jlferrete.com/blog/add-an-aggregation-to-an-elasticsearch-query/)
 - [How to Convert XML to PDF](https://jlferrete.com/blog/how-to-convert-xml-to-pdf/)
-- [Merge Multiple PDF Files Into a Single PDF Using Java](https://jlferrete.com/blog/merge-multiple-pdf-files-into-a-single-pdf-using-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
