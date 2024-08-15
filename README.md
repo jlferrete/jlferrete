@@ -45,13 +45,13 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Build a Price Tracker with Python](https://jlferrete.com/blog/how-to-build-a-price-tracker-with-python/)
+- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-2/)
 - [Cómo preparar Google Maps para tus vacaciones de verano
 
 https://www. xataka.com/basics/como-prepara r-google-maps-para-tus-vacaciones-verano](https://jlferrete.com/blog/como-preparar-google-maps-para-tus-vacaciones-de-veranohttps-www-xataka-com-basics-como-prepara-r-google-maps-para-tus-vacaciones-verano/)
 - [TestContainers With MongoDB in Java](https://jlferrete.com/blog/testcontainers-with-mongodb-in-java/)
 - [Curso intermedio de LearnDash](https://jlferrete.com/blog/curso-intermedio-de-learndash/)
-- [Building SaaS with Python and Django](https://jlferrete.com/blog/building-saas-with-python-and-django/)
-- [Cómo configurar un ordenador nuevo PASO a PASO](https://jlferrete.com/blog/como-configurar-un-ordenador-nuevo-paso-a-paso/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
