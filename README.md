@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to get the selected radio button on click using jQuery? Example Tutorial](https://jlferrete.com/blog/how-to-get-the-selected-radio-button-on-click-using-jquery-example-tutorial/)
 - [Cómo borrar una rama local y remota en Git](https://jlferrete.com/blog/como-borrar-una-rama-local-y-remota-en-git/)
 - [List All Files on the Remote Server in Java](https://jlferrete.com/blog/list-all-files-on-the-remote-server-in-java/)
 - [Function Calling in Java and Spring AI Using the Mistral AI API](https://jlferrete.com/blog/function-calling-in-java-and-spring-ai-using-the-mistral-ai-api/)
 - [Sending Emails in Spring Boot Using SendGrid](https://jlferrete.com/blog/sending-emails-in-spring-boot-using-sendgrid/)
-- [Evaluating H2 as a Production Database](https://jlferrete.com/blog/evaluating-h2-as-a-production-database/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
