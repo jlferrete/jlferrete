@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo integrar formularios de contacto personalizados en WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-integrar-formularios-de-contacto-personalizados-en-wordpress-sin-conocimientos-tecnicos/)
 - [Parse JSON with Manifold](https://jlferrete.com/blog/parse-json-with-manifold/)
 - [How to get the selected radio button on click using jQuery? Example Tutorial](https://jlferrete.com/blog/how-to-get-the-selected-radio-button-on-click-using-jquery-example-tutorial/)
 - [Cómo borrar una rama local y remota en Git](https://jlferrete.com/blog/como-borrar-una-rama-local-y-remota-en-git/)
 - [List All Files on the Remote Server in Java](https://jlferrete.com/blog/list-all-files-on-the-remote-server-in-java/)
-- [Function Calling in Java and Spring AI Using the Mistral AI API](https://jlferrete.com/blog/function-calling-in-java-and-spring-ai-using-the-mistral-ai-api/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
