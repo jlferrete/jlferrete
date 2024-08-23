@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Why the Order of Maven Dependencies Is Important](https://jlferrete.com/blog/why-the-order-of-maven-dependencies-is-important/)
 - [Multiple Criteria in Spring Data Mongo DB Query](https://jlferrete.com/blog/multiple-criteria-in-spring-data-mongo-db-query/)
 - [Estrategias para la gestión de proyectos web](https://jlferrete.com/blog/estrategias-para-la-gestion-de-proyectos-web/)
 - [¿Cómo integrar formularios de contacto personalizados en WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-integrar-formularios-de-contacto-personalizados-en-wordpress-sin-conocimientos-tecnicos/)
 - [Parse JSON with Manifold](https://jlferrete.com/blog/parse-json-with-manifold/)
-- [How to get the selected radio button on click using jQuery? Example Tutorial](https://jlferrete.com/blog/how-to-get-the-selected-radio-button-on-click-using-jquery-example-tutorial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
