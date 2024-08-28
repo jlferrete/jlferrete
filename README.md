@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Qué significan las luces del router: todos los colores y parpadeos](https://jlferrete.com/blog/que-significan-las-luces-del-router-todos-los-colores-y-parpadeos/)
 - [Este hacker ha creado una herramienta ideal para estudiarte las leyes para una oposición](https://jlferrete.com/blog/este-hacker-ha-creado-una-herramienta-ideal-para-estudiarte-las-leyes-para-una-oposicion/)
 - [¿Puede existir la conciencia en una simulación informática?](https://jlferrete.com/blog/puede-existir-la-conciencia-en-una-simulacion-informatica/)
 - [Cómo convertir un archivo WAV en MP3 directamente desde tu móvil Android](https://jlferrete.com/blog/como-convertir-un-archivo-wav-en-mp3-directamente-desde-tu-movil-android/)
 - [Get Date and Time From a Datetime String in Java](https://jlferrete.com/blog/get-date-and-time-from-a-datetime-string-in-java/)
-- [Why the Order of Maven Dependencies Is Important](https://jlferrete.com/blog/why-the-order-of-maven-dependencies-is-important/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
