@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Python Libraries for Data Extraction– A Comprehensive List](https://jlferrete.com/blog/python-libraries-for-data-extraction-a-comprehensive-list/)
 - [Estrategia de ventas cruzadas para vender más con WooCommerce](https://jlferrete.com/blog/estrategia-de-ventas-cruzadas-para-vender-mas-con-woocommerce/)
 - [@ExtensionMethod Annotation in Lombok](https://jlferrete.com/blog/extensionmethod-annotation-in-lombok/)
 - [Sort an Array of Strings According to String Lengths](https://jlferrete.com/blog/sort-an-array-of-strings-according-to-string-lengths/)
 - [¿Qué es un modelo de datos en inteligencia artificial y para qué sirve?](https://jlferrete.com/blog/que-es-un-modelo-de-datos-en-inteligencia-artificial-y-para-que-sirve/)
-- [Cómo calibrar los sensores de un móvil Android paso a paso](https://jlferrete.com/blog/como-calibrar-los-sensores-de-un-movil-android-paso-a-paso/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
