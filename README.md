@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Install WordPress on Laragon](https://jlferrete.com/blog/how-to-install-wordpress-on-laragon/)
 - [¿Qué es SQL y para qué sirve?](https://jlferrete.com/blog/que-es-sql-y-para-que-sirve/)
 - [Python Libraries for Data Extraction– A Comprehensive List](https://jlferrete.com/blog/python-libraries-for-data-extraction-a-comprehensive-list/)
 - [Estrategia de ventas cruzadas para vender más con WooCommerce](https://jlferrete.com/blog/estrategia-de-ventas-cruzadas-para-vender-mas-con-woocommerce/)
 - [@ExtensionMethod Annotation in Lombok](https://jlferrete.com/blog/extensionmethod-annotation-in-lombok/)
-- [Sort an Array of Strings According to String Lengths](https://jlferrete.com/blog/sort-an-array-of-strings-according-to-string-lengths/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
