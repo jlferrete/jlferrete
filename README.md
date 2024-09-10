@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Build Robust Continuous Integration With Docker and Friends](https://jlferrete.com/blog/build-robust-continuous-integration-with-docker-and-friends/)
 - [Top 50 Hibernate and JPA Interview Questions Answers for 3 to 5 Years Experienced Java developers](https://jlferrete.com/blog/top-50-hibernate-and-jpa-interview-questions-answers-for-3-to-5-years-experienced-java-developers/)
 - [5 Major Web Crawling Challenges With Their Solutions](https://jlferrete.com/blog/5-major-web-crawling-challenges-with-their-solutions/)
 - [Renombrar una rama en git](https://jlferrete.com/blog/renombrar-una-rama-en-git/)
 - [How To Bypass CAPTCHAs While Web Scraping](https://jlferrete.com/blog/how-to-bypass-captchas-while-web-scraping/)
-- [¿Qué es un Registro DNS y qué tipos hay?](https://jlferrete.com/blog/que-es-un-registro-dns-y-que-tipos-hay/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
