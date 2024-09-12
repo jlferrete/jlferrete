@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué el error 302 Found y cómo solucionarlo?](https://jlferrete.com/blog/que-el-error-302-found-y-como-solucionarlo/)
 - [¿Cómo incrustar videos de YouTube en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-incrustar-videos-de-youtube-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Build Robust Continuous Integration With Docker and Friends](https://jlferrete.com/blog/build-robust-continuous-integration-with-docker-and-friends/)
 - [Top 50 Hibernate and JPA Interview Questions Answers for 3 to 5 Years Experienced Java developers](https://jlferrete.com/blog/top-50-hibernate-and-jpa-interview-questions-answers-for-3-to-5-years-experienced-java-developers/)
 - [5 Major Web Crawling Challenges With Their Solutions](https://jlferrete.com/blog/5-major-web-crawling-challenges-with-their-solutions/)
-- [Renombrar una rama en git](https://jlferrete.com/blog/renombrar-una-rama-en-git/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
