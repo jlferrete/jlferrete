@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Web Scraping vs Screen Scraping](https://jlferrete.com/blog/web-scraping-vs-screen-scraping/)
 - [Spring Tips: HTMX](https://jlferrete.com/blog/spring-tips-htmx/)
 - [¿Qué es FinOps?](https://jlferrete.com/blog/que-es-finops/)
 - [¿Qué es el error 304 y cómo solucionarlo?](https://jlferrete.com/blog/que-es-el-error-304-y-como-solucionarlo/)
 - [¿Cómo capturar leads en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-capturar-leads-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [¿Qué el error 302 Found y cómo solucionarlo?](https://jlferrete.com/blog/que-el-error-302-found-y-como-solucionarlo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
