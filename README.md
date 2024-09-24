@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo añadir un sistema de calificaciones y reseñas en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-anadir-un-sistema-de-calificaciones-y-resenas-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Qué es una distro inmutable de Linux y por qué tienen tantas ventajas](https://jlferrete.com/blog/que-es-una-distro-inmutable-de-linux-y-por-que-tienen-tantas-ventajas/)
 - [Dynamic Client Registration in Spring Authorization Server](https://jlferrete.com/blog/dynamic-client-registration-in-spring-authorization-server/)
 - [A Guide to Fallback Beans in Spring Framework](https://jlferrete.com/blog/a-guide-to-fallback-beans-in-spring-framework/)
 - [Generate Random IP Addresses for Web Scraping Using Python](https://jlferrete.com/blog/generate-random-ip-addresses-for-web-scraping-using-python/)
-- [Automated End-to-End Testing With Playwright](https://jlferrete.com/blog/automated-end-to-end-testing-with-playwright/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
