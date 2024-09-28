@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [10 Top Python Data Manipulation Libraries Used in Python](https://jlferrete.com/blog/10-top-python-data-manipulation-libraries-used-in-python/)
 - [Why Scrape Airbnb Data](https://jlferrete.com/blog/why-scrape-airbnb-data/)
 - [Crear Audiolibro con voz natural a partir de cualquier archivo pdf, instantáneo y gratuito](https://jlferrete.com/blog/crear-audiolibro-con-voz-natural-a-partir-de-cualquier-archivo-pdf-instantaneo-y-gratuito/)
 - [Integrate OpenAPI With Spring Cloud Gateway](https://jlferrete.com/blog/integrate-openapi-with-spring-cloud-gateway/)
 - [¿Cómo añadir un sistema de calificaciones y reseñas en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-anadir-un-sistema-de-calificaciones-y-resenas-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Qué es una distro inmutable de Linux y por qué tienen tantas ventajas](https://jlferrete.com/blog/que-es-una-distro-inmutable-de-linux-y-por-que-tienen-tantas-ventajas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
