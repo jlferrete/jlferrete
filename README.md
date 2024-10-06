@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo hacer un plan de negocio rentable y diversificado?](https://jlferrete.com/blog/como-hacer-un-plan-de-negocio-rentable-y-diversificado/)
 - [Cómo pagar y utilizar una VPN de forma anónima](https://jlferrete.com/blog/como-pagar-y-utilizar-una-vpn-de-forma-anonima/)
 - [Generando Curvas de Bézier en Python](https://jlferrete.com/blog/generando-curvas-de-bezier-en-python/)
 - [He configurado mi red WiFi para impedir el acceso a desconocidos. Así puedes hacerlo](https://jlferrete.com/blog/he-configurado-mi-red-wifi-para-impedir-el-acceso-a-desconocidos-asi-puedes-hacerlo/)
 - [Accessing Emails From Gmail Using IMAP](https://jlferrete.com/blog/accessing-emails-from-gmail-using-imap/)
-- [Azure Functions in Java](https://jlferrete.com/blog/azure-functions-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
