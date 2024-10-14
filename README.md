@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Configurar Zapier para que Stripe te avise pagos fallidos por 3DS](https://jlferrete.com/blog/configurar-zapier-para-que-stripe-te-avise-pagos-fallidos-por-3ds/)
 - [Cómo crear una backdoor, puerta trasera o acceso secreto a WordPress](https://jlferrete.com/blog/como-crear-una-backdoor-puerta-trasera-o-acceso-secreto-a-wordpress/)
 - [How to design a Messaging App like Twitter on System Design Interview?](https://jlferrete.com/blog/how-to-design-a-messaging-app-like-twitter-on-system-design-interview/)
 - [Choosing the Right Solution: Web Scraping Tool vs. Service](https://jlferrete.com/blog/choosing-the-right-solution-web-scraping-tool-vs-service/)
 - [Subir archivos y JSON en el mismo POST con Micronaut](https://jlferrete.com/blog/subir-archivos-y-json-en-el-mismo-post-con-micronaut/)
-- [¿Cómo Automatizar Tareas Repetitivas con Power Query?](https://jlferrete.com/blog/como-automatizar-tareas-repetitivas-con-power-query/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
