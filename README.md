@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Visibilidad del sitio de WooCommerce y modo próximamente ¿para qué sirve? ¿se puede desactivar?](https://jlferrete.com/blog/visibilidad-del-sitio-de-woocommerce-y-modo-proximamente-para-que-sirve-se-puede-desactivar/)
 - [Spring Initializr personalizado para crear rápidamente aplicaciones corporativas](https://jlferrete.com/blog/spring-initializr-personalizado-para-crear-rapidamente-aplicaciones-corporativas/)
 - [How to Check if a Number Is a Palindrome in Java](https://jlferrete.com/blog/how-to-check-if-a-number-is-a-palindrome-in-java/)
 - [Intro to MongoDB Atlas](https://jlferrete.com/blog/intro-to-mongodb-atlas/)
 - [¿Qué plugin permite integrar encuestas interactivas en WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/que-plugin-permite-integrar-encuestas-interactivas-en-wordpress-sin-conocimientos-tecnicos/)
-- [Cómo aprovechar el campo nativo GTIN, UPC, EAN, ISBN de WooCommerce (actualizado cada vez que hagan algo)](https://jlferrete.com/blog/como-aprovechar-el-campo-nativo-gtin-upc-ean-isbn-de-woocommerce-actualizado-cada-vez-que-hagan-algo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
