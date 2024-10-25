@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Chain of Thought Prompting (CoT)](https://jlferrete.com/blog/chain-of-thought-prompting-cot/)
 - [Prompt Caching Explained](https://jlferrete.com/blog/prompt-caching-explained/)
 - [What is fine-tuning?](https://jlferrete.com/blog/what-is-fine-tuning/)
 - [Visibilidad del sitio de WooCommerce y modo próximamente ¿para qué sirve? ¿se puede desactivar?](https://jlferrete.com/blog/visibilidad-del-sitio-de-woocommerce-y-modo-proximamente-para-que-sirve-se-puede-desactivar/)
 - [Spring Initializr personalizado para crear rápidamente aplicaciones corporativas](https://jlferrete.com/blog/spring-initializr-personalizado-para-crear-rapidamente-aplicaciones-corporativas/)
-- [How to Check if a Number Is a Palindrome in Java](https://jlferrete.com/blog/how-to-check-if-a-number-is-a-palindrome-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
