@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to build a data project with step-by-step instructions](https://jlferrete.com/blog/how-to-build-a-data-project-with-step-by-step-instructions/)
 - [How to Learn Web Scraping with Python](https://jlferrete.com/blog/how-to-learn-web-scraping-with-python/)
 - [Spring Boot Docker configuración desde cero](https://jlferrete.com/blog/spring-boot-docker-configuracion-desde-cero/)
 - [6 Top HTTP Clients in Python for Web Scraping](https://jlferrete.com/blog/6-top-http-clients-in-python-for-web-scraping/)
 - [Web Scraping Netflix: How to do it?](https://jlferrete.com/blog/web-scraping-netflix-how-to-do-it/)
-- [Come to the light-dark() Side](https://jlferrete.com/blog/come-to-the-light-dark-side/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
