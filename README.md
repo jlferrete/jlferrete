@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-4/)
+- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-3/)
 - [Cómo bloquear bots, scrapers y crawlers de IA](https://jlferrete.com/blog/como-bloquear-bots-scrapers-y-crawlers-de-ia/)
 - [¿Cómo reparar la base de datos de WordPress?](https://jlferrete.com/blog/como-reparar-la-base-de-datos-de-wordpress/)
 - [How to Dockerize WordPress](https://jlferrete.com/blog/how-to-dockerize-wordpress/)
-- [Interacción con el Fediverso desde un blog de WordPress](https://jlferrete.com/blog/interaccion-con-el-fediverso-desde-un-blog-de-wordpress/)
-- [¿Cómo crear un boletín de correo electrónico en WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-crear-un-boletin-de-correo-electronico-en-wordpress-sin-conocimientos-tecnicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
