@@ -10,7 +10,10 @@ const ICONS_SIZE = '24px'
 
     ; (async () => {
         const markdownTemplate = await fs.readFile('./README.md.tpl', { encoding: 'utf-8' })
-        const items = await parser.parseURL('https://jlferrete.com/feed/');
+        //Final URL
+        //const items = await parser.parseURL('https://jlferrete.com/feed/');
+        //Temporal URL
+        const items = await parser.parseURL('https://home-5015477680.webspace-host.com/wordpress/feed/');
         // put the latest article
         //const [{ title, link }] = items.items
         const latestArticlesMarkdown = items.items.slice(0, NUM_OF_ARTICLES_TO_SHOW)
