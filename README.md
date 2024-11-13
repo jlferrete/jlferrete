@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Tree of Thoughts Prompting (ToT)](https://home-5015477680.webspace-host.com/wordpress/blog/tree-of-thoughts-prompting-tot/)
 - [¿Cómo puedo implementar un sistema de automatización de marketing en mi sitio WordPress sin conocimientos técnicos?](https://home-5015477680.webspace-host.com/wordpress/blog/como-puedo-implementar-un-sistema-de-automatizacion-de-marketing-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Cómo crear una estrategia de marketing de contenidos paso a paso](https://home-5015477680.webspace-host.com/wordpress/blog/como-crear-una-estrategia-de-marketing-de-contenidos-paso-a-paso/)
 - [Los Mejores Formatos de Imagen y la Importancia de la Optimización para WordPress](https://home-5015477680.webspace-host.com/wordpress/blog/los-mejores-formatos-de-imagen-y-la-importancia-de-la-optimizacion-para-wordpress/)
 - [Introduction to Lanterna](https://home-5015477680.webspace-host.com/wordpress/blog/introduction-to-lanterna/)
-- [Curso de cómo renovar una web](https://home-5015477680.webspace-host.com/wordpress/blog/curso-de-como-renovar-una-web/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
