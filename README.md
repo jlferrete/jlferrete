@@ -31,7 +31,7 @@ Please do not hesitate to contact me if you require any futher information at th
 <p align="left">
   <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="24px" height="24px"/>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24px" height="24px"/>
+  <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
@@ -45,11 +45,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [Las grandes de la IA están compitiendo por un pastel tan jugoso como peligroso: el de la industria militar](https://jlferrete.com/blog/las-grandes-de-la-ia-estan-compitiendo-por-un-pastel-tan-jugoso-como-peligroso-el-de-la-industria-militar/)
-- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-7/)
-- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-6/)
-- [Accesibilidad Web: Asegurando la Inclusión digital en la Web](https://jlferrete.com/blog/accesibilidad-web-asegurando-la-inclusion-digital-en-la-web/)
-- [El mantenimiento: claves para tener tu WordPress en forma](https://jlferrete.com/blog/el-mantenimiento-claves-para-tener-tu-wordpress-en-forma-5/)
+- [Cómo crear una estrategia de marketing de contenidos paso a paso](https://home-5015477680.webspace-host.com/wordpress/blog/como-crear-una-estrategia-de-marketing-de-contenidos-paso-a-paso/)
+- [Los Mejores Formatos de Imagen y la Importancia de la Optimización para WordPress](https://home-5015477680.webspace-host.com/wordpress/blog/los-mejores-formatos-de-imagen-y-la-importancia-de-la-optimizacion-para-wordpress/)
+- [Introduction to Lanterna](https://home-5015477680.webspace-host.com/wordpress/blog/introduction-to-lanterna/)
+- [Curso de cómo renovar una web](https://home-5015477680.webspace-host.com/wordpress/blog/curso-de-como-renovar-una-web/)
+- [How to Scrape Google Trends– A Complete Guide](https://home-5015477680.webspace-host.com/wordpress/blog/how-to-scrape-google-trends-a-complete-guide/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
