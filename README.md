@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Docker Concepts: What is a Registry?](https://home-5015477680.webspace-host.com/wordpress/blog/docker-concepts-what-is-a-registry/)
 - [Introduction to Apache Hadoop](https://home-5015477680.webspace-host.com/wordpress/blog/introduction-to-apache-hadoop/)
 - [What Is a Data Pipeline?](https://home-5015477680.webspace-host.com/wordpress/blog/what-is-a-data-pipeline/)
 - [How to Add a UTF-8 BOM in Java](https://home-5015477680.webspace-host.com/wordpress/blog/how-to-add-a-utf-8-bom-in-java/)
 - [8 Retrieval Augmented Generation (RAG) Architectures You Should Know in 2024](https://home-5015477680.webspace-host.com/wordpress/blog/8-retrieval-augmented-generation-rag-architectures-you-should-know-in-2024/)
-- [Simple Parsing Techniques for HTML, XML, and JSON](https://home-5015477680.webspace-host.com/wordpress/blog/simple-parsing-techniques-for-html-xml-and-json/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
