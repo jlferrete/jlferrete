@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [ChatClient Fluent API in Spring AI](https://home-5015477680.webspace-host.com/wordpress/blog/chatclient-fluent-api-in-spring-ai/)
-- [Docker Concepts: What is a Registry?](https://home-5015477680.webspace-host.com/wordpress/blog/docker-concepts-what-is-a-registry/)
-- [Introduction to Apache Hadoop](https://home-5015477680.webspace-host.com/wordpress/blog/introduction-to-apache-hadoop/)
-- [What Is a Data Pipeline?](https://home-5015477680.webspace-host.com/wordpress/blog/what-is-a-data-pipeline/)
-- [How to Add a UTF-8 BOM in Java](https://home-5015477680.webspace-host.com/wordpress/blog/how-to-add-a-utf-8-bom-in-java/)
+- [Introduction to LWJGL](https://jlferrete.com/blog/introduction-to-lwjgl/)
+- [How to Append a Newline to a StringBuilder](https://jlferrete.com/blog/how-to-append-a-newline-to-a-stringbuilder/)
+- [Introduction to Lanterna](https://jlferrete.com/blog/introduction-to-lanterna/)
+- [Curso de cÃ³mo renovar una web](https://jlferrete.com/blog/curso-de-como-renovar-una-web/)
+- [How to Scrape Google Trendsâ€“ A Complete Guide](https://jlferrete.com/blog/how-to-scrape-google-trends-a-complete-guide/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
