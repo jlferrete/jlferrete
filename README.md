@@ -17,9 +17,6 @@ Please do not hesitate to contact me if you require any futher information at th
   <a href="https://www.linkedin.com/in/jlferrete/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28px" />
   </a>
-  <a href="https://twitter.com/jlferrete" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="28px" />
-  </a>
   <a href="https://jlferrete.github.io/" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="28px" />
   </a>
@@ -45,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [Learn How to Optimize Usage with New Docker Hub Dashboards](https://home-5015477680.webspace-host.com/wordpress/blog/learn-how-to-optimize-usage-with-new-docker-hub-dashboards/)
-- [Tree of Thoughts Prompting (ToT)](https://home-5015477680.webspace-host.com/wordpress/blog/tree-of-thoughts-prompting-tot/)
-- [¿Cómo puedo implementar un sistema de automatización de marketing en mi sitio WordPress sin conocimientos técnicos?](https://home-5015477680.webspace-host.com/wordpress/blog/como-puedo-implementar-un-sistema-de-automatizacion-de-marketing-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Cómo crear una estrategia de marketing de contenidos paso a paso](https://home-5015477680.webspace-host.com/wordpress/blog/como-crear-una-estrategia-de-marketing-de-contenidos-paso-a-paso/)
-- [Los Mejores Formatos de Imagen y la Importancia de la Optimización para WordPress](https://home-5015477680.webspace-host.com/wordpress/blog/los-mejores-formatos-de-imagen-y-la-importancia-de-la-optimizacion-para-wordpress/)
+- [ChatClient Fluent API in Spring AI](https://home-5015477680.webspace-host.com/wordpress/blog/chatclient-fluent-api-in-spring-ai/)
+- [Docker Concepts: What is a Registry?](https://home-5015477680.webspace-host.com/wordpress/blog/docker-concepts-what-is-a-registry/)
+- [Introduction to Apache Hadoop](https://home-5015477680.webspace-host.com/wordpress/blog/introduction-to-apache-hadoop/)
+- [What Is a Data Pipeline?](https://home-5015477680.webspace-host.com/wordpress/blog/what-is-a-data-pipeline/)
+- [How to Add a UTF-8 BOM in Java](https://home-5015477680.webspace-host.com/wordpress/blog/how-to-add-a-utf-8-bom-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
