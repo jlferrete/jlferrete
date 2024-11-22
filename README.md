@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Perform Real-Time Data Scraping Using Python](https://jlferrete.com/blog/how-to-perform-real-time-data-scraping-using-python/)
 - [Claves para entrenar a tu chatbot y atender a las diferentes generaciones](https://jlferrete.com/blog/claves-para-entrenar-a-tu-chatbot-y-atender-a-las-diferentes-generaciones/)
 - [Cómo borrar los tweets de X (Twitter)](https://jlferrete.com/blog/como-borrar-los-tweets-de-x-twitter/)
 - [¿Cómo convertir mi sitio WordPress en una plataforma de membresías sin conocimientos técnicos?](https://jlferrete.com/blog/como-convertir-mi-sitio-wordpress-en-una-plataforma-de-membresias-sin-conocimientos-tecnicos/)
 - [Cloud y ciberseguridad: ¿Saben las empresas gestionar la nube?](https://jlferrete.com/blog/cloud-y-ciberseguridad-saben-las-empresas-gestionar-la-nube/)
-- [Introduction to LWJGL](https://jlferrete.com/blog/introduction-to-lwjgl/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
