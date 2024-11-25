@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Azure Data Lake Storage (ADLS Gen2)](https://jlferrete.com/blog/azure-data-lake-storage-adls-gen2/)
 - [How to decide on a data project for your portfolio](https://jlferrete.com/blog/how-to-decide-on-a-data-project-for-your-portfolio/)
 - [Microsoft Launches Azure AI Inference SDK for .NET](https://jlferrete.com/blog/microsoft-launches-azure-ai-inference-sdk-for-net/)
 - [Las mejores fuentes HTML para tu web](https://jlferrete.com/blog/las-mejores-fuentes-html-para-tu-web/)
 - [¿Cómo personalizar mi sitio de ecommerce en WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-personalizar-mi-sitio-de-ecommerce-en-wordpress-sin-conocimientos-tecnicos/)
-- [How to Perform Real-Time Data Scraping Using Python](https://jlferrete.com/blog/how-to-perform-real-time-data-scraping-using-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
