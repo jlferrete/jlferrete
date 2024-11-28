@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Battling Anti-Scraping Measures? These Ethical Techniques Can Help You!](https://jlferrete.com/blog/battling-anti-scraping-measures-these-ethical-techniques-can-help-you/)
 - [Generando Superficies de Bézier en Python](https://jlferrete.com/blog/generando-superficies-de-bezier-en-python/)
 - [Cómo detectar y eliminar malware con MSRT, la herramienta escondida de Windows 10 y 11](https://jlferrete.com/blog/como-detectar-y-eliminar-malware-con-msrt-la-herramienta-escondida-de-windows-10-y-11/)
 - [Azure Data Lake Storage (ADLS Gen2)](https://jlferrete.com/blog/azure-data-lake-storage-adls-gen2/)
 - [How to decide on a data project for your portfolio](https://jlferrete.com/blog/how-to-decide-on-a-data-project-for-your-portfolio/)
-- [Microsoft Launches Azure AI Inference SDK for .NET](https://jlferrete.com/blog/microsoft-launches-azure-ai-inference-sdk-for-net/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
