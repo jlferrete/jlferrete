@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo añadir automáticamente el título, descripción, leyenda y texto ALT a las imágenes](https://jlferrete.com/blog/como-anadir-automaticamente-el-titulo-descripcion-leyenda-y-texto-alt-a-las-imagenes/)
+- [Alan Turing y la Trayectoria de la Inteligencia Artificial: Un Viaje desde la Edad Media hasta la Era de ChatGPT](https://jlferrete.com/blog/alan-turing-y-la-trayectoria-de-la-inteligencia-artificial-un-viaje-desde-la-edad-media-hasta-la-era-de-chatgpt/)
 - [Curso de cómo renovar una web](https://jlferrete.com/blog/curso-de-como-renovar-una-web-2/)
 - [¿Qué plugin de WordPress me ayuda a gestionar una academia en línea sin conocimientos técnicos?](https://jlferrete.com/blog/que-plugin-de-wordpress-me-ayuda-a-gestionar-una-academia-en-linea-sin-conocimientos-tecnicos/)
 - [Battling Anti-Scraping Measures? These Ethical Techniques Can Help You!](https://jlferrete.com/blog/battling-anti-scraping-measures-these-ethical-techniques-can-help-you/)
-- [Generando Superficies de Bézier en Python](https://jlferrete.com/blog/generando-superficies-de-bezier-en-python/)
-- [Cómo detectar y eliminar malware con MSRT, la herramienta escondida de Windows 10 y 11](https://jlferrete.com/blog/como-detectar-y-eliminar-malware-con-msrt-la-herramienta-escondida-de-windows-10-y-11/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
