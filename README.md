@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Improve Your DevOps Automation](https://jlferrete.com/blog/how-to-improve-your-devops-automation/)
 - [Trucos Bluesky: 21 funciones y consejos para exprimir al máximo la red social](https://jlferrete.com/blog/trucos-bluesky-21-funciones-y-consejos-para-exprimir-al-maximo-la-red-social/)
 - [La guía definitiva de SEO para ChatGPT: consejos y sugerencias](https://jlferrete.com/blog/la-guia-definitiva-de-seo-para-chatgpt-consejos-y-sugerencias/)
 - [Cómo añadir automáticamente el título, descripción, leyenda y texto ALT a las imágenes](https://jlferrete.com/blog/como-anadir-automaticamente-el-titulo-descripcion-leyenda-y-texto-alt-a-las-imagenes/)
 - [Alan Turing y la Trayectoria de la Inteligencia Artificial: Un Viaje desde la Edad Media hasta la Era de ChatGPT](https://jlferrete.com/blog/alan-turing-y-la-trayectoria-de-la-inteligencia-artificial-un-viaje-desde-la-edad-media-hasta-la-era-de-chatgpt/)
-- [Curso de cómo renovar una web](https://jlferrete.com/blog/curso-de-como-renovar-una-web-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
