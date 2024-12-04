@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo yo hago un análisis de tráfico orgánico sin ser SEO en menos de 60 minutos (básico)](https://jlferrete.com/blog/como-yo-hago-un-analisis-de-trafico-organico-sin-ser-seo-en-menos-de-60-minutos-basico/)
 - [Does Web Scraping Large Datasets Trouble You? Try These Helpful Practices!](https://jlferrete.com/blog/does-web-scraping-large-datasets-trouble-you-try-these-helpful-practices/)
 - [How to Improve Your DevOps Automation](https://jlferrete.com/blog/how-to-improve-your-devops-automation/)
 - [Trucos Bluesky: 21 funciones y consejos para exprimir al máximo la red social](https://jlferrete.com/blog/trucos-bluesky-21-funciones-y-consejos-para-exprimir-al-maximo-la-red-social/)
 - [La guía definitiva de SEO para ChatGPT: consejos y sugerencias](https://jlferrete.com/blog/la-guia-definitiva-de-seo-para-chatgpt-consejos-y-sugerencias/)
-- [Cómo añadir automáticamente el título, descripción, leyenda y texto ALT a las imágenes](https://jlferrete.com/blog/como-anadir-automaticamente-el-titulo-descripcion-leyenda-y-texto-alt-a-las-imagenes/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
