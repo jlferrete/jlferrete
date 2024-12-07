@@ -42,11 +42,15 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comienzo a generar material didáctico. El formato será el siguiente:
+
+Tendremos una semana de plazo para recibir respuestas. Transcurrido el plazo, publicaré un post explicando de forma razonada la solución.
+
+Cualquier comentario, sugerencia o crítica constructiva ¡son siempre bienvenidas!](https://jlferrete.com/blog/comienzo-a-generar-material-didactico-el-formato-sera-el-siguientetendremos-una-semana-de-plazo-para-recibir-respuestas-transcurrido-el-plazo-publicare-un-post-explicando-de-forma-razonada-la-so/)
 - [WordPress in Paranoid Mode! New version available](https://jlferrete.com/blog/wordpress-in-paranoid-mode-new-version-available/)
 - [OpenAI rompe con otra de sus ideas fundacionales: su tecnología llegará finalmente al campo de batalla](https://jlferrete.com/blog/openai-rompe-con-otra-de-sus-ideas-fundacionales-su-tecnologia-llegara-finalmente-al-campo-de-batalla/)
 - [Curso de Fiverr](https://jlferrete.com/blog/curso-de-fiverr/)
 - [Mocking de APIs para JavaScript con MSW: Guía Completa](https://jlferrete.com/blog/mocking-de-apis-para-javascript-con-msw-guia-completa/)
-- [Cómo mostrar el banner de cookies de GDPR Cookie Compliance desde de un enlace](https://jlferrete.com/blog/como-mostrar-el-banner-de-cookies-de-gdpr-cookie-compliance-desde-de-un-enlace/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
