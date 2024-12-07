@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [WordPress in Paranoid Mode! New version available](https://jlferrete.com/blog/wordpress-in-paranoid-mode-new-version-available/)
 - [OpenAI rompe con otra de sus ideas fundacionales: su tecnología llegará finalmente al campo de batalla](https://jlferrete.com/blog/openai-rompe-con-otra-de-sus-ideas-fundacionales-su-tecnologia-llegara-finalmente-al-campo-de-batalla/)
 - [Curso de Fiverr](https://jlferrete.com/blog/curso-de-fiverr/)
 - [Mocking de APIs para JavaScript con MSW: Guía Completa](https://jlferrete.com/blog/mocking-de-apis-para-javascript-con-msw-guia-completa/)
 - [Cómo mostrar el banner de cookies de GDPR Cookie Compliance desde de un enlace](https://jlferrete.com/blog/como-mostrar-el-banner-de-cookies-de-gdpr-cookie-compliance-desde-de-un-enlace/)
-- [Cómo yo hago un análisis de tráfico orgánico sin ser SEO en menos de 60 minutos (básico)](https://jlferrete.com/blog/como-yo-hago-un-analisis-de-trafico-organico-sin-ser-seo-en-menos-de-60-minutos-basico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
