@@ -42,6 +42,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo protegerse de ciberataques al conectarse a una red WiFi pública](https://jlferrete.com/blog/como-protegerse-de-ciberataques-al-conectarse-a-una-red-wifi-publica/)
 - [How to Convert OpenAPI 2.0 to OpenAPI 3.0 in Java](https://jlferrete.com/blog/how-to-convert-openapi-2-0-to-openapi-3-0-in-java/)
 - [WordPress in Paranoid Mode! New version available](https://jlferrete.com/blog/wordpress-in-paranoid-mode-new-version-available-2/)
 - [¿Cómo se logra el multithreading en Python?
@@ -58,7 +59,6 @@ Usando concurrent.futures](https://jlferrete.com/blog/como-se-logra-el-multithr
 Tendremos una semana de plazo para recibir respuestas. Transcurrido el plazo, publicaré un post explicando de forma razonada la solución.
 
 Cualquier comentario, sugerencia o crítica constructiva ¡son siempre bienvenidas!](https://jlferrete.com/blog/comienzo-a-generar-material-didactico-el-formato-sera-el-siguientetendremos-una-semana-de-plazo-para-recibir-respuestas-transcurrido-el-plazo-publicare-un-post-explicando-de-forma-razonada-la-so/)
-- [WordPress in Paranoid Mode! New version available](https://jlferrete.com/blog/wordpress-in-paranoid-mode-new-version-available/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
