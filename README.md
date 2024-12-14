@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Create AI Strategy in Enterprises](https://jlferrete.com/blog/how-to-create-ai-strategy-in-enterprises/)
 - [LLM Monitoring](https://jlferrete.com/blog/llm-monitoring/)
 - [The Problem with RAG Terminology](https://jlferrete.com/blog/the-problem-with-rag-terminology/)
 - [¿Cómo crear el efecto de vidrio (glass) en WordPress?](https://jlferrete.com/blog/como-crear-el-efecto-de-vidrio-glass-en-wordpress/)
 - [Battling Anti-Scraping Measures? These Ethical Techniques Can Help You!](https://jlferrete.com/blog/battling-anti-scraping-measures-these-ethical-techniques-can-help-you-2/)
-- [¿Qué plugin de WordPress me ayuda a gestionar una academia en línea sin conocimientos técnicos?](https://jlferrete.com/blog/que-plugin-de-wordpress-me-ayuda-a-gestionar-una-academia-en-linea-sin-conocimientos-tecnicos-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
