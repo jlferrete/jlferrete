@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Generación de Contraseñas Seguras en Python con ‘secrets’](https://jlferrete.com/blog/generacion-de-contrasenas-seguras-en-python-con-secrets/)
 - [El detrás de escena en el desarrollo de aplicaciones móviles](https://jlferrete.com/blog/el-detras-de-escena-en-el-desarrollo-de-aplicaciones-moviles/)
 - [Como generar documentación automática con Swagger en Micronaut con Kotlin y Maven](https://jlferrete.com/blog/como-generar-documentacion-automatica-con-swagger-en-micronaut-con-kotlin-y-maven/)
 - [How to Create AI Strategy in Enterprises](https://jlferrete.com/blog/how-to-create-ai-strategy-in-enterprises/)
 - [LLM Monitoring](https://jlferrete.com/blog/llm-monitoring/)
-- [The Problem with RAG Terminology](https://jlferrete.com/blog/the-problem-with-rag-terminology/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
