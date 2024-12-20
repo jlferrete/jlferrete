@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Setup Básico de Firebase para desplegar aplicaciones a través de Azure DevOps](https://jlferrete.com/blog/setup-basico-de-firebase-para-desplegar-aplicaciones-a-traves-de-azure-devops/)
 - [Minimización de Funciones con SciPy en Python](https://jlferrete.com/blog/minimizacion-de-funciones-con-scipy-en-python/)
 - [Uso de OpenCV para Extraer Datos de Video](https://jlferrete.com/blog/uso-de-opencv-para-extraer-datos-de-video/)
 - [Generación de Contraseñas Seguras en Python con ‘secrets’](https://jlferrete.com/blog/generacion-de-contrasenas-seguras-en-python-con-secrets/)
 - [El detrás de escena en el desarrollo de aplicaciones móviles](https://jlferrete.com/blog/el-detras-de-escena-en-el-desarrollo-de-aplicaciones-moviles/)
-- [Como generar documentación automática con Swagger en Micronaut con Kotlin y Maven](https://jlferrete.com/blog/como-generar-documentacion-automatica-con-swagger-en-micronaut-con-kotlin-y-maven/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
