@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [4 examples to convert Date to LocalDate in Java 8?](https://jlferrete.com/blog/4-examples-to-convert-date-to-localdate-in-java-8/)
 - [Introduction to Apache Iceberg](https://jlferrete.com/blog/introduction-to-apache-iceberg/)
 - [Lecciones de integración de IA en analítica móvil para SaaS](https://jlferrete.com/blog/lecciones-de-integracion-de-ia-en-analitica-movil-para-saas/)
 - [El rastreo de ubicación de los teléfonos está fuera de control: así puedes protegerte](https://jlferrete.com/blog/el-rastreo-de-ubicacion-de-los-telefonos-esta-fuera-de-control-asi-puedes-protegerte/)
 - [Setup Básico de Firebase para desplegar aplicaciones a través de Azure DevOps](https://jlferrete.com/blog/setup-basico-de-firebase-para-desplegar-aplicaciones-a-traves-de-azure-devops/)
-- [Minimización de Funciones con SciPy en Python](https://jlferrete.com/blog/minimizacion-de-funciones-con-scipy-en-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
