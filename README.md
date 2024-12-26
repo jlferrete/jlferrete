@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Montando un servidor web con WordPress en una Raspberry Pi](https://jlferrete.com/blog/montando-un-servidor-web-con-wordpress-en-una-raspberry-pi/)
 - [¿Cómo puedo implementar un sistema de encuestas remuneradas en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-puedo-implementar-un-sistema-de-encuestas-remuneradas-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Intellij Idea – How to Build Project Automatically](https://jlferrete.com/blog/intellij-idea-how-to-build-project-automatically/)
 - [4 examples to convert Date to LocalDate in Java 8?](https://jlferrete.com/blog/4-examples-to-convert-date-to-localdate-in-java-8/)
 - [Introduction to Apache Iceberg](https://jlferrete.com/blog/introduction-to-apache-iceberg/)
-- [Lecciones de integración de IA en analítica móvil para SaaS](https://jlferrete.com/blog/lecciones-de-integracion-de-ia-en-analitica-movil-para-saas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
