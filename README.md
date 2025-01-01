@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Web Scraping Vs. Data Mining: Discussing the Differences](https://jlferrete.com/blog/web-scraping-vs-data-mining-discussing-the-differences/)
 - [AI Image Generation With OpenAI DALL·E 3 in Java](https://jlferrete.com/blog/ai-image-generation-with-openai-dall%c2%b7e-3-in-java/)
 - [JTA Transaction Type](https://jlferrete.com/blog/jta-transaction-type/)
 - [Es necesaria una actualización de la base de datos … pero actualizo y no funciona, no puedo administrar WordPress](https://jlferrete.com/blog/es-necesaria-una-actualizacion-de-la-base-de-datos-pero-actualizo-y-no-funciona-no-puedo-administrar-wordpress/)
 - [Extract IP Address From a String in Java](https://jlferrete.com/blog/extract-ip-address-from-a-string-in-java/)
-- [¿Es Hora de Adoptar el Headless WordPress? Ventajas, Desventajas y Casos de Uso](https://jlferrete.com/blog/es-hora-de-adoptar-el-headless-wordpress-ventajas-desventajas-y-casos-de-uso/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
