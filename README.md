@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [xmlrpc.php en WordPress: Qué es y si deberías desactivarlo](https://jlferrete.com/blog/xmlrpc-php-en-wordpress-que-es-y-si-deberias-desactivarlo/)
+- [Qué es UTF-8 y para qué sirve](https://jlferrete.com/blog/que-es-utf-8-y-para-que-sirve/)
 - [Cómo hacer SEO en WordPress: Guía Completa](https://jlferrete.com/blog/como-hacer-seo-en-wordpress-guia-completa/)
 - [Web Scraping Vs. Data Mining: Discussing the Differences](https://jlferrete.com/blog/web-scraping-vs-data-mining-discussing-the-differences/)
 - [AI Image Generation With OpenAI DALL·E 3 in Java](https://jlferrete.com/blog/ai-image-generation-with-openai-dall%c2%b7e-3-in-java/)
-- [JTA Transaction Type](https://jlferrete.com/blog/jta-transaction-type/)
-- [Es necesaria una actualización de la base de datos … pero actualizo y no funciona, no puedo administrar WordPress](https://jlferrete.com/blog/es-necesaria-una-actualizacion-de-la-base-de-datos-pero-actualizo-y-no-funciona-no-puedo-administrar-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
