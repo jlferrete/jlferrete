@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo arreglar el error PCLZIP_ERR_MISSING_FILE al instalar o actualizar en WordPress](https://jlferrete.com/blog/como-arreglar-el-error-pclzip_err_missing_file-al-instalar-o-actualizar-en-wordpress/)
+- [¿Cómo puedo integrar un sistema de foros en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-puedo-integrar-un-sistema-de-foros-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Cómo la IA generativa está impactando en el sector seguros](https://jlferrete.com/blog/como-la-ia-generativa-esta-impactando-en-el-sector-seguros/)
 - [Inteligencia Artificial y Análisis Predictivo en Marketing](https://jlferrete.com/blog/inteligencia-artificial-y-analisis-predictivo-en-marketing/)
 - [xmlrpc.php en WordPress: Qué es y si deberías desactivarlo](https://jlferrete.com/blog/xmlrpc-php-en-wordpress-que-es-y-si-deberias-desactivarlo/)
-- [Qué es UTF-8 y para qué sirve](https://jlferrete.com/blog/que-es-utf-8-y-para-que-sirve/)
-- [Cómo hacer SEO en WordPress: Guía Completa](https://jlferrete.com/blog/como-hacer-seo-en-wordpress-guia-completa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
