@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Abrir Gmail y Google Calendar con una cuenta específica, y cómo anclarlos en la barra de tareas de Windows](https://jlferrete.com/blog/abrir-gmail-y-google-calendar-con-una-cuenta-especifica-y-como-anclarlos-en-la-barra-de-tareas-de-windows/)
 - [Cómo instalar WordPress con Docker: 7 pasos sencillos](https://jlferrete.com/blog/como-instalar-wordpress-con-docker-7-pasos-sencillos/)
 - [¿Qué sistema operativo instalar en tu Raspberry Pi?](https://jlferrete.com/blog/que-sistema-operativo-instalar-en-tu-raspberry-pi/)
 - [JavaScript puede ayudarte a desarrollar aplicaciones de IA, y aquí tienes ejemplos. No todo es Python](https://jlferrete.com/blog/javascript-puede-ayudarte-a-desarrollar-aplicaciones-de-ia-y-aqui-tienes-ejemplos-no-todo-es-python/)
 - [Cómo arreglar el error PCLZIP_ERR_MISSING_FILE al instalar o actualizar en WordPress](https://jlferrete.com/blog/como-arreglar-el-error-pclzip_err_missing_file-al-instalar-o-actualizar-en-wordpress/)
-- [¿Cómo puedo integrar un sistema de foros en mi sitio WordPress sin conocimientos técnicos?](https://jlferrete.com/blog/como-puedo-integrar-un-sistema-de-foros-en-mi-sitio-wordpress-sin-conocimientos-tecnicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
