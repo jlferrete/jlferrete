@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guide to Objects.requireNonNull() in Java](https://jlferrete.com/blog/guide-to-objects-requirenonnull-in-java/)
 - [Mocking a Method in the Same Test Class Using Mockito Spy](https://jlferrete.com/blog/mocking-a-method-in-the-same-test-class-using-mockito-spy/)
 - [Y cuando ya creías que no podía ser peor](https://jlferrete.com/blog/y-cuando-ya-creias-que-no-podia-ser-peor/)
 - [Cómo Mejorar la Seguridad de tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-mejorar-la-seguridad-de-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Curso de intros virales](https://jlferrete.com/blog/curso-de-intros-virales/)
-- [Abrir Gmail y Google Calendar con una cuenta específica, y cómo anclarlos en la barra de tareas de Windows](https://jlferrete.com/blog/abrir-gmail-y-google-calendar-con-una-cuenta-especifica-y-como-anclarlos-en-la-barra-de-tareas-de-windows/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
