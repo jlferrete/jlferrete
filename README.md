@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Grave Vulnerabilidad en el Plugin W3 Total Cache Amenaza a más de un Millón de Sitios en WordPress](https://jlferrete.com/blog/grave-vulnerabilidad-en-el-plugin-w3-total-cache-amenaza-a-mas-de-un-millon-de-sitios-en-wordpress/)
 - [How to Create Multi-Step Forms With Vanilla JavaScript and CSS](https://jlferrete.com/blog/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/)
 - [Curso de creación de negocios con IA](https://jlferrete.com/blog/curso-de-creacion-de-negocios-con-ia/)
 - [Qué es el bluesnarfing: la nueva ciberestafa que te roba los datos a través de tus dispositivos Bluetooth](https://jlferrete.com/blog/que-es-el-bluesnarfing-la-nueva-ciberestafa-que-te-roba-los-datos-a-traves-de-tus-dispositivos-bluetooth/)
 - [Cómo Integrar Google Analytics en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-google-analytics-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Guide to Objects.requireNonNull() in Java](https://jlferrete.com/blog/guide-to-objects-requirenonnull-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
