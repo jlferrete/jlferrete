@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Introduction to SootUp](https://jlferrete.com/blog/introduction-to-sootup/)
 - [Cómo las plataformas de IA usan tus datos: riesgos para tu privacidad que debes conocer](https://jlferrete.com/blog/como-las-plataformas-de-ia-usan-tus-datos-riesgos-para-tu-privacidad-que-debes-conocer/)
 - [Copilot Studio o cómo crear copilotos personalizados Low Code e IA Generativa](https://jlferrete.com/blog/copilot-studio-o-como-crear-copilotos-personalizados-low-code-e-ia-generativa/)
 - [Array de objetos en PHP](https://jlferrete.com/blog/array-de-objetos-en-php/)
 - [Grave Vulnerabilidad en el Plugin W3 Total Cache Amenaza a más de un Millón de Sitios en WordPress](https://jlferrete.com/blog/grave-vulnerabilidad-en-el-plugin-w3-total-cache-amenaza-a-mas-de-un-millon-de-sitios-en-wordpress/)
-- [How to Create Multi-Step Forms With Vanilla JavaScript and CSS](https://jlferrete.com/blog/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
