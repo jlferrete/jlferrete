@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Frontend y backend, ¿Qué son y cómo se diferencian?](https://jlferrete.com/blog/frontend-y-backend-que-son-y-como-se-diferencian/)
 - [¿Cómo crear un menú desplegable en HTML?](https://jlferrete.com/blog/como-crear-un-menu-desplegable-en-html/)
 - [A Guide to Nomad Cloud Platform](https://jlferrete.com/blog/a-guide-to-nomad-cloud-platform/)
 - [Introduction to SootUp](https://jlferrete.com/blog/introduction-to-sootup/)
 - [Cómo las plataformas de IA usan tus datos: riesgos para tu privacidad que debes conocer](https://jlferrete.com/blog/como-las-plataformas-de-ia-usan-tus-datos-riesgos-para-tu-privacidad-que-debes-conocer/)
-- [Copilot Studio o cómo crear copilotos personalizados Low Code e IA Generativa](https://jlferrete.com/blog/copilot-studio-o-como-crear-copilotos-personalizados-low-code-e-ia-generativa/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
