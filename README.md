@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Structured Logging in Spring Boot](https://jlferrete.com/blog/structured-logging-in-spring-boot/)
 - [Las mejores aplicaciones de captura de pantalla y grabación en 2025](https://jlferrete.com/blog/las-mejores-aplicaciones-de-captura-de-pantalla-y-grabacion-en-2025/)
 - [Plugins de recetas: el ingrediente secreto del éxito de tu blog de cocina](https://jlferrete.com/blog/plugins-de-recetas-el-ingrediente-secreto-del-exito-de-tu-blog-de-cocina/)
 - [¿Qué es el Captcha y para qué sirve?](https://jlferrete.com/blog/que-es-el-captcha-y-para-que-sirve/)
 - [¿Qué es el Domain Hijacking y cómo evitarlo?](https://jlferrete.com/blog/que-es-el-domain-hijacking-y-como-evitarlo/)
-- [Cómo Integrar un Sistema de Reseñas en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-resenas-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
