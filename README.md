@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [FastAPI vs OpenAPI](https://jlferrete.com/blog/fastapi-vs-openapi/)
 - [Using LangChain4j With Micronaut](https://jlferrete.com/blog/using-langchain4j-with-micronaut/)
 - [Using Anthropic’s Claude Models With Spring AI](https://jlferrete.com/blog/using-anthropics-claude-models-with-spring-ai/)
 - [Structured Logging in Spring Boot](https://jlferrete.com/blog/structured-logging-in-spring-boot/)
 - [Las mejores aplicaciones de captura de pantalla y grabación en 2025](https://jlferrete.com/blog/las-mejores-aplicaciones-de-captura-de-pantalla-y-grabacion-en-2025/)
-- [Plugins de recetas: el ingrediente secreto del éxito de tu blog de cocina](https://jlferrete.com/blog/plugins-de-recetas-el-ingrediente-secreto-del-exito-de-tu-blog-de-cocina/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
