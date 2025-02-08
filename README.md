@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Optimización de Memoria en .NET: Fundamentos para un Código Eficiente (Parte 1)](https://jlferrete.com/blog/optimizacion-de-memoria-en-net-fundamentos-para-un-codigo-eficiente-parte-1/)
 - [Deepseek y la supremacía del código abierto](https://jlferrete.com/blog/deepseek-y-la-supremacia-del-codigo-abierto/)
 - [Crear una carpeta en Python](https://jlferrete.com/blog/crear-una-carpeta-en-python/)
 - [Borrar una carpeta en Python](https://jlferrete.com/blog/borrar-una-carpeta-en-python/)
 - [Google ha actualizado sus principios para la IA, y ha desaparecido la mención a no desarrollar armas con esta tecnología](https://jlferrete.com/blog/google-ha-actualizado-sus-principios-para-la-ia-y-ha-desaparecido-la-mencion-a-no-desarrollar-armas-con-esta-tecnologia/)
-- [ALIA: los enlaces](https://jlferrete.com/blog/alia-los-enlaces/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
