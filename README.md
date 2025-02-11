@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de prompting avanzado](https://jlferrete.com/blog/curso-de-prompting-avanzado/)
 - [Mejores prácticas de seguridad al ajustar modelos en Amazon Bedrock](https://jlferrete.com/blog/mejores-practicas-de-seguridad-al-ajustar-modelos-en-amazon-bedrock/)
 - [Cómo Integrar un Sistema de Multilenguaje en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-multilenguaje-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Optimización de Memoria en .NET: Fundamentos para un Código Eficiente (Parte 1)](https://jlferrete.com/blog/optimizacion-de-memoria-en-net-fundamentos-para-un-codigo-eficiente-parte-1/)
 - [Deepseek y la supremacía del código abierto](https://jlferrete.com/blog/deepseek-y-la-supremacia-del-codigo-abierto/)
-- [Crear una carpeta en Python](https://jlferrete.com/blog/crear-una-carpeta-en-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
