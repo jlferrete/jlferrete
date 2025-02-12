@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹 𝘀𝗼𝗯𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗲 𝗜𝗔: 𝗤𝘂𝗲 𝗲𝘀 𝗲𝗹 𝘀𝗲𝘀𝗴𝗼? 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗺𝗼𝘀 𝗽𝗮𝗿𝗮 𝗰𝗼𝗺𝗯𝗮𝘁𝗶𝗿𝗹𝗼](https://jlferrete.com/blog/%f0%9d%97%a7%f0%9d%98%82%f0%9d%98%81%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%ae%f0%9d%97%b9-%f0%9d%98%80%f0%9d%97%bc%f0%9d%97%af%f0%9d%97%bf%f0%9d%97%b2-%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%b0/)
 - [Curso de prompting avanzado](https://jlferrete.com/blog/curso-de-prompting-avanzado/)
 - [Mejores prácticas de seguridad al ajustar modelos en Amazon Bedrock](https://jlferrete.com/blog/mejores-practicas-de-seguridad-al-ajustar-modelos-en-amazon-bedrock/)
 - [Cómo Integrar un Sistema de Multilenguaje en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-multilenguaje-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Optimización de Memoria en .NET: Fundamentos para un Código Eficiente (Parte 1)](https://jlferrete.com/blog/optimizacion-de-memoria-en-net-fundamentos-para-un-codigo-eficiente-parte-1/)
-- [Deepseek y la supremacía del código abierto](https://jlferrete.com/blog/deepseek-y-la-supremacia-del-codigo-abierto/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
