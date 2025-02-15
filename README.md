@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Easily Scrape Multimedia Content](https://jlferrete.com/blog/how-to-easily-scrape-multimedia-content/)
 - [Comprobar que existe un fichero en Python](https://jlferrete.com/blog/comprobar-que-existe-un-fichero-en-python/)
 - [Europa da marcha atrás y retirará la directiva de desarrollo responsable de la IA](https://jlferrete.com/blog/europa-da-marcha-atras-y-retirara-la-directiva-de-desarrollo-responsable-de-la-ia/)
 - [How To Extract Data From Web Page Using Power Automate](https://jlferrete.com/blog/how-to-extract-data-from-web-page-using-power-automate/)
 - [𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹 𝘀𝗼𝗯𝗿𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗲 𝗜𝗔: 𝗤𝘂𝗲 𝗲𝘀 𝗲𝗹 𝘀𝗲𝘀𝗴𝗼? 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘆 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗺𝗼𝘀 𝗽𝗮𝗿𝗮 𝗰𝗼𝗺𝗯𝗮𝘁𝗶𝗿𝗹𝗼](https://jlferrete.com/blog/%f0%9d%97%a7%f0%9d%98%82%f0%9d%98%81%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%b6%f0%9d%97%ae%f0%9d%97%b9-%f0%9d%98%80%f0%9d%97%bc%f0%9d%97%af%f0%9d%97%bf%f0%9d%97%b2-%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%b0/)
-- [Curso de prompting avanzado](https://jlferrete.com/blog/curso-de-prompting-avanzado/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
