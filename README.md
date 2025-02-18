@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Qué es la huella digital en Internet y cómo protegerla?](https://jlferrete.com/blog/que-es-la-huella-digital-en-internet-y-como-protegerla/)
 - [Curso de creación de apps con Copilot](https://jlferrete.com/blog/curso-de-creacion-de-apps-con-copilot/)
 - [¿Es posible cambiar tu dirección de correo en Hotmail y Outlook? Guía práctica para gestionar tu cuenta](https://jlferrete.com/blog/es-posible-cambiar-tu-direccion-de-correo-en-hotmail-y-outlook-guia-practica-para-gestionar-tu-cuenta/)
 - [How to Easily Scrape Multimedia Content](https://jlferrete.com/blog/how-to-easily-scrape-multimedia-content/)
 - [Comprobar que existe un fichero en Python](https://jlferrete.com/blog/comprobar-que-existe-un-fichero-en-python/)
-- [Europa da marcha atrás y retirará la directiva de desarrollo responsable de la IA](https://jlferrete.com/blog/europa-da-marcha-atras-y-retirara-la-directiva-de-desarrollo-responsable-de-la-ia/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
