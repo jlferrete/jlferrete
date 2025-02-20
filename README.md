@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Convert Camel Case to Snake Case in Java](https://jlferrete.com/blog/convert-camel-case-to-snake-case-in-java/)
 - [Introduction to JLine 3](https://jlferrete.com/blog/introduction-to-jline-3/)
 - [¿Qué es la huella digital en Internet y cómo protegerla?](https://jlferrete.com/blog/que-es-la-huella-digital-en-internet-y-como-protegerla/)
 - [Curso de creación de apps con Copilot](https://jlferrete.com/blog/curso-de-creacion-de-apps-con-copilot/)
 - [¿Es posible cambiar tu dirección de correo en Hotmail y Outlook? Guía práctica para gestionar tu cuenta](https://jlferrete.com/blog/es-posible-cambiar-tu-direccion-de-correo-en-hotmail-y-outlook-guia-practica-para-gestionar-tu-cuenta/)
-- [How to Easily Scrape Multimedia Content](https://jlferrete.com/blog/how-to-easily-scrape-multimedia-content/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
