@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Use GraphQL in Django with Elasticsearch](https://jlferrete.com/blog/how-to-use-graphql-in-django-with-elasticsearch/)
 - [Cómo Crear y Optimizar un Blog en WordPress para Principiantes sin Conocimientos Técnicos](https://jlferrete.com/blog/como-crear-y-optimizar-un-blog-en-wordpress-para-principiantes-sin-conocimientos-tecnicos/)
 - [Validate List of Values in Spring](https://jlferrete.com/blog/validate-list-of-values-in-spring/)
 - [Convert Camel Case to Snake Case in Java](https://jlferrete.com/blog/convert-camel-case-to-snake-case-in-java/)
 - [Introduction to JLine 3](https://jlferrete.com/blog/introduction-to-jline-3/)
-- [¿Qué es la huella digital en Internet y cómo protegerla?](https://jlferrete.com/blog/que-es-la-huella-digital-en-internet-y-como-protegerla/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
