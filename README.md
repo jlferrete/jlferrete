@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Select Date From Datepicker in Selenium](https://jlferrete.com/blog/how-to-select-date-from-datepicker-in-selenium/)
 - [Ofertas de Trabajo Falsas Dirigidas a Programadores con Infostealers](https://jlferrete.com/blog/ofertas-de-trabajo-falsas-dirigidas-a-programadores-con-infostealers/)
 - [How to Use GraphQL in Django with Elasticsearch](https://jlferrete.com/blog/how-to-use-graphql-in-django-with-elasticsearch/)
 - [Cómo Crear y Optimizar un Blog en WordPress para Principiantes sin Conocimientos Técnicos](https://jlferrete.com/blog/como-crear-y-optimizar-un-blog-en-wordpress-para-principiantes-sin-conocimientos-tecnicos/)
 - [Validate List of Values in Spring](https://jlferrete.com/blog/validate-list-of-values-in-spring/)
-- [Convert Camel Case to Snake Case in Java](https://jlferrete.com/blog/convert-camel-case-to-snake-case-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
