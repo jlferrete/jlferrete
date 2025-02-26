@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guía DeepSeek: 36 funciones y cosas que puedes hacer gratis con esta inteligencia artificial](https://jlferrete.com/blog/guia-deepseek-36-funciones-y-cosas-que-puedes-hacer-gratis-con-esta-inteligencia-artificial/)
 - [Cómo Integrar un Sistema de Publicidad en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-publicidad-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Grok fue creado para no tener filtros. Ahora tiene prohibido hablar sobre la desinformación de Elon Musk o Donald Trump](https://jlferrete.com/blog/grok-fue-creado-para-no-tener-filtros-ahora-tiene-prohibido-hablar-sobre-la-desinformacion-de-elon-musk-o-donald-trump/)
 - [How to Select Date From Datepicker in Selenium](https://jlferrete.com/blog/how-to-select-date-from-datepicker-in-selenium/)
 - [Ofertas de Trabajo Falsas Dirigidas a Programadores con Infostealers](https://jlferrete.com/blog/ofertas-de-trabajo-falsas-dirigidas-a-programadores-con-infostealers/)
-- [How to Use GraphQL in Django with Elasticsearch](https://jlferrete.com/blog/how-to-use-graphql-in-django-with-elasticsearch/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
