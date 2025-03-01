@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo Integrar un Sistema de Gamification en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-gamification-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [How to Log All Requests and Responses and Exceptions in a Single Place](https://jlferrete.com/blog/how-to-log-all-requests-and-responses-and-exceptions-in-a-single-place/)
 - [Los 11 mejores trucos de Google Sheets: de novato a experto](https://jlferrete.com/blog/los-11-mejores-trucos-de-google-sheets-de-novato-a-experto/)
 - [Guía DeepSeek: 36 funciones y cosas que puedes hacer gratis con esta inteligencia artificial](https://jlferrete.com/blog/guia-deepseek-36-funciones-y-cosas-que-puedes-hacer-gratis-con-esta-inteligencia-artificial/)
 - [Cómo Integrar un Sistema de Publicidad en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-publicidad-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Grok fue creado para no tener filtros. Ahora tiene prohibido hablar sobre la desinformación de Elon Musk o Donald Trump](https://jlferrete.com/blog/grok-fue-creado-para-no-tener-filtros-ahora-tiene-prohibido-hablar-sobre-la-desinformacion-de-elon-musk-o-donald-trump/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
