@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Uso de Propiedades Personalizadas de CSS con theme.json en WordPress](https://jlferrete.com/blog/uso-de-propiedades-personalizadas-de-css-con-theme-json-en-wordpress/)
 - [Licencias de código abierto: Todo lo que necesitas saber para entender su impacto y diferencias](https://jlferrete.com/blog/licencias-de-codigo-abierto-todo-lo-que-necesitas-saber-para-entender-su-impacto-y-diferencias/)
 - [Cómo desactivar plugins selectivamente, por página, entrada o tipo de contenido](https://jlferrete.com/blog/como-desactivar-plugins-selectivamente-por-pagina-entrada-o-tipo-de-contenido/)
 - [Cómo crear un chatbot de voz de atención al cliente con ElevenLabs, Make.com y Twilio](https://jlferrete.com/blog/como-crear-un-chatbot-de-voz-de-atencion-al-cliente-con-elevenlabs-make-com-y-twilio/)
 - [Cómo Integrar un Sistema de Gamification en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-gamification-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [How to Log All Requests and Responses and Exceptions in a Single Place](https://jlferrete.com/blog/how-to-log-all-requests-and-responses-and-exceptions-in-a-single-place/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
