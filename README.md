@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cambiar atributos de imágenes en WordPress](https://jlferrete.com/blog/cambiar-atributos-de-imagenes-en-wordpress/)
+- [Mensajes emergentes con popover en HTML5](https://jlferrete.com/blog/mensajes-emergentes-con-popover-en-html5/)
 - [ControllerAdvice en Spring Boot: Manejo Global de Errores](https://jlferrete.com/blog/controlleradvice-en-spring-boot-manejo-global-de-errores/)
 - [Compiling CSS With Vite and Lightning CSS](https://jlferrete.com/blog/compiling-css-with-vite-and-lightning-css/)
 - [Uso de Propiedades Personalizadas de CSS con theme.json en WordPress](https://jlferrete.com/blog/uso-de-propiedades-personalizadas-de-css-con-theme-json-en-wordpress/)
-- [Licencias de código abierto: Todo lo que necesitas saber para entender su impacto y diferencias](https://jlferrete.com/blog/licencias-de-codigo-abierto-todo-lo-que-necesitas-saber-para-entender-su-impacto-y-diferencias/)
-- [Cómo desactivar plugins selectivamente, por página, entrada o tipo de contenido](https://jlferrete.com/blog/como-desactivar-plugins-selectivamente-por-pagina-entrada-o-tipo-de-contenido/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
