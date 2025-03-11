@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Linux: La alternativa eterna frente al ocaso de Windows 10](https://jlferrete.com/blog/linux-la-alternativa-eterna-frente-al-ocaso-de-windows-10/)
 - [Guía para elegir el mejor servicio DNS público](https://jlferrete.com/blog/guia-para-elegir-el-mejor-servicio-dns-publico/)
 - [Guía Práctica Para Conversar Efectivamente Con AIs Como ChatGPT](https://jlferrete.com/blog/guia-practica-para-conversar-efectivamente-con-ais-como-chatgpt/)
 - [Cambiar atributos de imágenes en WordPress](https://jlferrete.com/blog/cambiar-atributos-de-imagenes-en-wordpress/)
 - [Mensajes emergentes con popover en HTML5](https://jlferrete.com/blog/mensajes-emergentes-con-popover-en-html5/)
-- [ControllerAdvice en Spring Boot: Manejo Global de Errores](https://jlferrete.com/blog/controlleradvice-en-spring-boot-manejo-global-de-errores/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
