@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo Integrar un Sistema de Email Marketing en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-email-marketing-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [El peligro del robo de datos: qué hacen los ciberdelincuentes y cómo protegerse](https://jlferrete.com/blog/el-peligro-del-robo-de-datos-que-hacen-los-ciberdelincuentes-y-como-protegerse/)
 - [Linux: La alternativa eterna frente al ocaso de Windows 10](https://jlferrete.com/blog/linux-la-alternativa-eterna-frente-al-ocaso-de-windows-10/)
 - [Guía para elegir el mejor servicio DNS público](https://jlferrete.com/blog/guia-para-elegir-el-mejor-servicio-dns-publico/)
 - [Guía Práctica Para Conversar Efectivamente Con AIs Como ChatGPT](https://jlferrete.com/blog/guia-practica-para-conversar-efectivamente-con-ais-como-chatgpt/)
-- [Cambiar atributos de imágenes en WordPress](https://jlferrete.com/blog/cambiar-atributos-de-imagenes-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
