@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Mi cuenta de Gmail tiene 20 años, un nombre ridículo y apenas la uso, así que me he creado un alias](https://jlferrete.com/blog/mi-cuenta-de-gmail-tiene-20-anos-un-nombre-ridiculo-y-apenas-la-uso-asi-que-me-he-creado-un-alias/)
 - [Cambiar imagen de fondo del grub](https://jlferrete.com/blog/cambiar-imagen-de-fondo-del-grub/)
 - [Cómo borrar likes antiguos de Instagram: todas las formas](https://jlferrete.com/blog/como-borrar-likes-antiguos-de-instagram-todas-las-formas/)
 - [Cómo acelerar WordPress y reducir la carga del servidor con CloudPanel Varnish Cache](https://jlferrete.com/blog/como-acelerar-wordpress-y-reducir-la-carga-del-servidor-con-cloudpanel-varnish-cache/)
 - [Cómo Integrar un Sistema de Email Marketing en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-email-marketing-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [El peligro del robo de datos: qué hacen los ciberdelincuentes y cómo protegerse](https://jlferrete.com/blog/el-peligro-del-robo-de-datos-que-hacen-los-ciberdelincuentes-y-como-protegerse/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
