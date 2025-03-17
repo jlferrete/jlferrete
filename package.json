@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jlferrete/jlferrete#readme",
   "dependencies": {
     "instagram-web-api": "2.2.0",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "rss-parser": "3.8.0"
   }
 }
