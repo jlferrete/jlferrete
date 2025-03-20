@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Convertir conversaciones en flujos de trabajo](https://jlferrete.com/blog/convertir-conversaciones-en-flujos-de-trabajo/)
 - [Java ExecutorService: Manejo fácil de hilos en Java](https://jlferrete.com/blog/java-executorservice-manejo-facil-de-hilos-en-java/)
 - [Curso de proyectos con Odoo](https://jlferrete.com/blog/curso-de-proyectos-con-odoo/)
 - [Mi cuenta de Gmail tiene 20 años, un nombre ridículo y apenas la uso, así que me he creado un alias](https://jlferrete.com/blog/mi-cuenta-de-gmail-tiene-20-anos-un-nombre-ridiculo-y-apenas-la-uso-asi-que-me-he-creado-un-alias/)
 - [Cambiar imagen de fondo del grub](https://jlferrete.com/blog/cambiar-imagen-de-fondo-del-grub/)
-- [Cómo borrar likes antiguos de Instagram: todas las formas](https://jlferrete.com/blog/como-borrar-likes-antiguos-de-instagram-todas-las-formas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
