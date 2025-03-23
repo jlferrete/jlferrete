@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Matriz de la rentabilidad del tiempo](https://jlferrete.com/blog/matriz-de-la-rentabilidad-del-tiempo/)
 - [Docker inspect](https://jlferrete.com/blog/docker-inspect/)
 - [Cómo usar Semrush con ChatGPT para un poco de magia SEO](https://jlferrete.com/blog/como-usar-semrush-con-chatgpt-para-un-poco-de-magia-seo/)
 - [Convertir conversaciones en flujos de trabajo](https://jlferrete.com/blog/convertir-conversaciones-en-flujos-de-trabajo/)
 - [Java ExecutorService: Manejo fácil de hilos en Java](https://jlferrete.com/blog/java-executorservice-manejo-facil-de-hilos-en-java/)
-- [Curso de proyectos con Odoo](https://jlferrete.com/blog/curso-de-proyectos-con-odoo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
