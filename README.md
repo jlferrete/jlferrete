@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Implementing Semantic Search Using Spring AI and PGVector](https://jlferrete.com/blog/implementing-semantic-search-using-spring-ai-and-pgvector/)
 - [Building an AI Chatbot Using DeepSeek Models With Spring AI](https://jlferrete.com/blog/building-an-ai-chatbot-using-deepseek-models-with-spring-ai/)
 - [Using Google Translate API in a Java Application](https://jlferrete.com/blog/using-google-translate-api-in-a-java-application/)
 - [Introduction to JanusGraph](https://jlferrete.com/blog/introduction-to-janusgraph/)
 - [Evaluación de Respuestas RAG con Amazon Bedrock, LlamaIndex y RAGAS](https://jlferrete.com/blog/evaluacion-de-respuestas-rag-con-amazon-bedrock-llamaindex-y-ragas/)
-- [Distribución de Poisson: Teoría e Implementación en Python](https://jlferrete.com/blog/distribucion-de-poisson-teoria-e-implementacion-en-python/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
