@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Send and Receive Serialized Object in Socket Channel](https://jlferrete.com/blog/send-and-receive-serialized-object-in-socket-channel/)
 - [Cómo vaciar la caché DNS: Guía paso a paso optimizada para SEO](https://jlferrete.com/blog/como-vaciar-la-cache-dns-guia-paso-a-paso-optimizada-para-seo/)
 - [Implementing Semantic Search Using Spring AI and PGVector](https://jlferrete.com/blog/implementing-semantic-search-using-spring-ai-and-pgvector/)
 - [Building an AI Chatbot Using DeepSeek Models With Spring AI](https://jlferrete.com/blog/building-an-ai-chatbot-using-deepseek-models-with-spring-ai/)
 - [Using Google Translate API in a Java Application](https://jlferrete.com/blog/using-google-translate-api-in-a-java-application/)
-- [Introduction to JanusGraph](https://jlferrete.com/blog/introduction-to-janusgraph/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
