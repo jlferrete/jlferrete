@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: “Cuando se den cuenta, será demasiado tarde”](https://jlferrete.com/blog/preguntamos-a-la-ia-por-su-plan-para-esclavizar-al-ser-humano-y-la-respuesta-es-aterradora-cuando-se-den-cuenta-sera-demasiado-tarde/)
 - [Hayao Miyazaki: “El mundo va en mala dirección, pero no puedo decirle a un bebé que no venga a esta vida”](https://jlferrete.com/blog/hayao-miyazaki-el-mundo-va-en-mala-direccion-pero-no-puedo-decirle-a-un-bebe-que-no-venga-a-esta-vida/)
 - [Programar con IA no es coser y cantar: este ingeniero obtenía muy malos resultados hasta que hizo estos cambios](https://jlferrete.com/blog/programar-con-ia-no-es-coser-y-cantar-este-ingeniero-obtenia-muy-malos-resultados-hasta-que-hizo-estos-cambios/)
 - [Scraping Google’s Dynamic Search Results Using Python](https://jlferrete.com/blog/scraping-googles-dynamic-search-results-using-python/)
 - [Claimify: la herramienta que ayuda a verificar lo que dicen los modelos de lenguaje](https://jlferrete.com/blog/claimify-la-herramienta-que-ayuda-a-verificar-lo-que-dicen-los-modelos-de-lenguaje/)
-- [Send and Receive Serialized Object in Socket Channel](https://jlferrete.com/blog/send-and-receive-serialized-object-in-socket-channel/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
