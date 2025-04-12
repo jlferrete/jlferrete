@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Nuestra basura, su tesoro: la Guardia Civil alerta de cómo los hackers aprovechan tus residuos para atacarte](https://jlferrete.com/blog/nuestra-basura-su-tesoro-la-guardia-civil-alerta-de-como-los-hackers-aprovechan-tus-residuos-para-atacarte/)
 - [Integración de Zapier MCP en tu asistente de IA](https://jlferrete.com/blog/integracion-de-zapier-mcp-en-tu-asistente-de-ia/)
 - [Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas](https://jlferrete.com/blog/utilizar-el-generador-de-imagenes-con-ia-de-chatgpt-podria-costarte-muy-caro-en-el-futuro-avisado-quedas/)
 - [Meta AI llega a WhatsApp con un círculo azul: estas son sus ventajas e inconvenientes](https://jlferrete.com/blog/meta-ai-llega-a-whatsapp-con-un-circulo-azul-estas-son-sus-ventajas-e-inconvenientes/)
 - [Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: “Cuando se den cuenta, será demasiado tarde”](https://jlferrete.com/blog/preguntamos-a-la-ia-por-su-plan-para-esclavizar-al-ser-humano-y-la-respuesta-es-aterradora-cuando-se-den-cuenta-sera-demasiado-tarde/)
-- [Hayao Miyazaki: “El mundo va en mala dirección, pero no puedo decirle a un bebé que no venga a esta vida”](https://jlferrete.com/blog/hayao-miyazaki-el-mundo-va-en-mala-direccion-pero-no-puedo-decirle-a-un-bebe-que-no-venga-a-esta-vida/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
