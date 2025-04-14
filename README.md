@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Meta AI de WhatsApp es un peligro y tienes que configurarla de forma urgente (no se puede desactivar de momento)](https://jlferrete.com/blog/meta-ai-de-whatsapp-es-un-peligro-y-tienes-que-configurarla-de-forma-urgente-no-se-puede-desactivar-de-momento/)
 - [¿Qué es el branding? Así se construye una marca memorable](https://jlferrete.com/blog/que-es-el-branding-asi-se-construye-una-marca-memorable/)
 - [Connect Java Spring Boot to Db2 Database](https://jlferrete.com/blog/connect-java-spring-boot-to-db2-database/)
 - [Securing Spring AI MCP servers with OAuth2](https://jlferrete.com/blog/securing-spring-ai-mcp-servers-with-oauth2/)
 - [Nuestra basura, su tesoro: la Guardia Civil alerta de cómo los hackers aprovechan tus residuos para atacarte](https://jlferrete.com/blog/nuestra-basura-su-tesoro-la-guardia-civil-alerta-de-como-los-hackers-aprovechan-tus-residuos-para-atacarte/)
-- [Integración de Zapier MCP en tu asistente de IA](https://jlferrete.com/blog/integracion-de-zapier-mcp-en-tu-asistente-de-ia/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
