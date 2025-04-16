@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comparación natural de cadenas en .NET 10](https://jlferrete.com/blog/comparacion-natural-de-cadenas-en-net-10/)
 - [Cómo eliminar traducciones de WordPress que ya no necesitas](https://jlferrete.com/blog/como-eliminar-traducciones-de-wordpress-que-ya-no-necesitas/)
 - [Meta AI de WhatsApp es un peligro y tienes que configurarla de forma urgente (no se puede desactivar de momento)](https://jlferrete.com/blog/meta-ai-de-whatsapp-es-un-peligro-y-tienes-que-configurarla-de-forma-urgente-no-se-puede-desactivar-de-momento/)
 - [¿Qué es el branding? Así se construye una marca memorable](https://jlferrete.com/blog/que-es-el-branding-asi-se-construye-una-marca-memorable/)
 - [Connect Java Spring Boot to Db2 Database](https://jlferrete.com/blog/connect-java-spring-boot-to-db2-database/)
-- [Securing Spring AI MCP servers with OAuth2](https://jlferrete.com/blog/securing-spring-ai-mcp-servers-with-oauth2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
