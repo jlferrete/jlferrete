@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Contraseñas seguras: tu mejor defensa digital empieza con 17 caracteres y un buen gestor](https://jlferrete.com/blog/contrasenas-seguras-tu-mejor-defensa-digital-empieza-con-17-caracteres-y-un-buen-gestor/)
 - [Construye Sistemas Agentes con CrewAI y Amazon Bedrock](https://jlferrete.com/blog/construye-sistemas-agentes-con-crewai-y-amazon-bedrock/)
 - [Cifrado Extremo a Extremo (E2EE): Análisis Técnico Profundo](https://jlferrete.com/blog/cifrado-extremo-a-extremo-e2ee-analisis-tecnico-profundo/)
 - [Comparación natural de cadenas en .NET 10](https://jlferrete.com/blog/comparacion-natural-de-cadenas-en-net-10/)
 - [Cómo eliminar traducciones de WordPress que ya no necesitas](https://jlferrete.com/blog/como-eliminar-traducciones-de-wordpress-que-ya-no-necesitas/)
-- [Meta AI de WhatsApp es un peligro y tienes que configurarla de forma urgente (no se puede desactivar de momento)](https://jlferrete.com/blog/meta-ai-de-whatsapp-es-un-peligro-y-tienes-que-configurarla-de-forma-urgente-no-se-puede-desactivar-de-momento/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
