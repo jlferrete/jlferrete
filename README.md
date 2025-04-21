@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [La IA es una gran caja negra que nos impedía saber cómo “pensaba” por dentro. Hasta ahora](https://jlferrete.com/blog/la-ia-es-una-gran-caja-negra-que-nos-impedia-saber-como-pensaba-por-dentro-hasta-ahora/)
 - [Cómo Integrar un Sistema de Gestión de Eventos en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-gestion-de-eventos-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Contraseñas seguras: tu mejor defensa digital empieza con 17 caracteres y un buen gestor](https://jlferrete.com/blog/contrasenas-seguras-tu-mejor-defensa-digital-empieza-con-17-caracteres-y-un-buen-gestor/)
 - [Construye Sistemas Agentes con CrewAI y Amazon Bedrock](https://jlferrete.com/blog/construye-sistemas-agentes-con-crewai-y-amazon-bedrock/)
 - [Cifrado Extremo a Extremo (E2EE): Análisis Técnico Profundo](https://jlferrete.com/blog/cifrado-extremo-a-extremo-e2ee-analisis-tecnico-profundo/)
-- [Comparación natural de cadenas en .NET 10](https://jlferrete.com/blog/comparacion-natural-de-cadenas-en-net-10/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
