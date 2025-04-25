@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Vídeo en bucle](https://jlferrete.com/blog/video-en-bucle/)
 - [Cómo desactivar plugins selectivamente, por página, entrada o tipo de contenido](https://jlferrete.com/blog/como-desactivar-plugins-selectivamente-por-pagina-entrada-o-tipo-de-contenido-2/)
 - [Curso de tawk.to](https://jlferrete.com/blog/curso-de-tawk-to/)
 - [Curso de ElevenLabs](https://jlferrete.com/blog/curso-de-elevenlabs/)
 - [Curso de Adalo](https://jlferrete.com/blog/curso-de-adalo/)
-- [Los agentes de IA están cambiando nuestra relación con los datos](https://jlferrete.com/blog/los-agentes-de-ia-estan-cambiando-nuestra-relacion-con-los-datos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
