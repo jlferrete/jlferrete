@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de tawk.to](https://jlferrete.com/blog/curso-de-tawk-to/)
 - [Curso de ElevenLabs](https://jlferrete.com/blog/curso-de-elevenlabs/)
 - [Curso de Adalo](https://jlferrete.com/blog/curso-de-adalo/)
 - [Los agentes de IA están cambiando nuestra relación con los datos](https://jlferrete.com/blog/los-agentes-de-ia-estan-cambiando-nuestra-relacion-con-los-datos/)
 - [La IA es una gran caja negra que nos impedía saber cómo “pensaba” por dentro. Hasta ahora](https://jlferrete.com/blog/la-ia-es-una-gran-caja-negra-que-nos-impedia-saber-como-pensaba-por-dentro-hasta-ahora/)
-- [Cómo Integrar un Sistema de Gestión de Eventos en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-gestion-de-eventos-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
