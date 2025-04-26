@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Windows se come el espacio de tu disco duro: Estos son los archivos ocultos de varios gigas que no sirven para nada](https://jlferrete.com/blog/windows-se-come-el-espacio-de-tu-disco-duro-estos-son-los-archivos-ocultos-de-varios-gigas-que-no-sirven-para-nada/)
+- [Mistral AI Launches API for LLM-Based OCR of Multimodal Documents](https://jlferrete.com/blog/mistral-ai-launches-api-for-llm-based-ocr-of-multimodal-documents/)
 - [Cómo los Estafadores Abusan de Google Forms para Difundir Estafas](https://jlferrete.com/blog/como-los-estafadores-abusan-de-google-forms-para-difundir-estafas/)
 - [How to build and deliver an MCP server for production](https://jlferrete.com/blog/how-to-build-and-deliver-an-mcp-server-for-production/)
 - [Vídeo en bucle](https://jlferrete.com/blog/video-en-bucle/)
-- [Cómo desactivar plugins selectivamente, por página, entrada o tipo de contenido](https://jlferrete.com/blog/como-desactivar-plugins-selectivamente-por-pagina-entrada-o-tipo-de-contenido-2/)
-- [Curso de tawk.to](https://jlferrete.com/blog/curso-de-tawk-to/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
