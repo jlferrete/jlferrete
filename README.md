@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Programación Concurrente en Python: Utilizando el módulo ‘Threading’ para Gestionar Hilos](https://jlferrete.com/blog/programacion-concurrente-en-python-utilizando-el-modulo-threading-para-gestionar-hilos/)
 - [Del pensamiento binario al compromiso real: implicar a las familias en la competencia digital](https://jlferrete.com/blog/del-pensamiento-binario-al-compromiso-real-implicar-a-las-familias-en-la-competencia-digital/)
 - [Curso de automatización de WhatsApp](https://jlferrete.com/blog/curso-de-automatizacion-de-whatsapp-2/)
 - [Curso de automatización de WhatsApp](https://jlferrete.com/blog/curso-de-automatizacion-de-whatsapp/)
 - [Creación de un chatbot de inteligencia artificial con reconocimiento de voz y LLM](https://jlferrete.com/blog/creacion-de-un-chatbot-de-inteligencia-artificial-con-reconocimiento-de-voz-y-llm/)
-- [Windows se come el espacio de tu disco duro: Estos son los archivos ocultos de varios gigas que no sirven para nada](https://jlferrete.com/blog/windows-se-come-el-espacio-de-tu-disco-duro-estos-son-los-archivos-ocultos-de-varios-gigas-que-no-sirven-para-nada/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
