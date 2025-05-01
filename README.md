@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra](https://jlferrete.com/blog/el-impacto-de-las-imagenes-de-chatgpt-estilo-estudio-ghibli-es-tan-grande-que-esta-afectando-negativamente-a-la-tierra/)
 - [Osborne Computer Corporation o “Cómo destrozar tu empresa por anunciar tu siguiente producto antes de tiempo”](https://jlferrete.com/blog/osborne-computer-corporation-o-como-destrozar-tu-empresa-por-anunciar-tu-siguiente-producto-antes-de-tiempo/)
 - [Programación Concurrente en Python: Utilizando el módulo ‘Threading’ para Gestionar Hilos](https://jlferrete.com/blog/programacion-concurrente-en-python-utilizando-el-modulo-threading-para-gestionar-hilos/)
 - [Del pensamiento binario al compromiso real: implicar a las familias en la competencia digital](https://jlferrete.com/blog/del-pensamiento-binario-al-compromiso-real-implicar-a-las-familias-en-la-competencia-digital/)
 - [Curso de automatización de WhatsApp](https://jlferrete.com/blog/curso-de-automatizacion-de-whatsapp-2/)
-- [Curso de automatización de WhatsApp](https://jlferrete.com/blog/curso-de-automatizacion-de-whatsapp/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
