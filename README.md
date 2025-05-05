@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Converting a cURL Request to an HTTP Request in Java](https://jlferrete.com/blog/converting-a-curl-request-to-an-http-request-in-java/)
 - [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://jlferrete.com/blog/run-llms-locally-with-docker-a-quickstart-guide-to-model-runner/)
 - [AGI: el monstruo en el armario (y la lección que no queremos aprender)](https://jlferrete.com/blog/agi-el-monstruo-en-el-armario-y-la-leccion-que-no-queremos-aprender/)
 - [Cómo crear un Agentic AI para manejar un sistema informático con DeepReasoning: Level 101](https://jlferrete.com/blog/como-crear-un-agentic-ai-para-manejar-un-sistema-informatico-con-deepreasoning-level-101/)
 - [El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra](https://jlferrete.com/blog/el-impacto-de-las-imagenes-de-chatgpt-estilo-estudio-ghibli-es-tan-grande-que-esta-afectando-negativamente-a-la-tierra/)
-- [Osborne Computer Corporation o “Cómo destrozar tu empresa por anunciar tu siguiente producto antes de tiempo”](https://jlferrete.com/blog/osborne-computer-corporation-o-como-destrozar-tu-empresa-por-anunciar-tu-siguiente-producto-antes-de-tiempo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
