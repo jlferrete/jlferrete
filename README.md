@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Comprobaciones de Razonamiento Automatizado en Amazon Bedrock para Minimizar Alucinaciones de IA Generativa](https://jlferrete.com/blog/comprobaciones-de-razonamiento-automatizado-en-amazon-bedrock-para-minimizar-alucinaciones-de-ia-generativa/)
 - [Curso de EasyRestrict](https://jlferrete.com/blog/curso-de-easyrestrict/)
 - [Converting a cURL Request to an HTTP Request in Java](https://jlferrete.com/blog/converting-a-curl-request-to-an-http-request-in-java/)
 - [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://jlferrete.com/blog/run-llms-locally-with-docker-a-quickstart-guide-to-model-runner/)
 - [AGI: el monstruo en el armario (y la lección que no queremos aprender)](https://jlferrete.com/blog/agi-el-monstruo-en-el-armario-y-la-leccion-que-no-queremos-aprender/)
-- [Cómo crear un Agentic AI para manejar un sistema informático con DeepReasoning: Level 101](https://jlferrete.com/blog/como-crear-un-agentic-ai-para-manejar-un-sistema-informatico-con-deepreasoning-level-101/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
