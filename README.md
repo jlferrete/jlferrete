@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ya tenemos un estudio riguroso del impacto de los aranceles de EEUU en la tecnología que compramos](https://jlferrete.com/blog/ya-tenemos-un-estudio-riguroso-del-impacto-de-los-aranceles-de-eeuu-en-la-tecnologia-que-compramos/)
 - [Prompt Engineering Techniques with Spring AI](https://jlferrete.com/blog/prompt-engineering-techniques-with-spring-ai/)
 - [Curso de Markdown](https://jlferrete.com/blog/curso-de-markdown/)
 - [Comprobaciones de Razonamiento Automatizado en Amazon Bedrock para Minimizar Alucinaciones de IA Generativa](https://jlferrete.com/blog/comprobaciones-de-razonamiento-automatizado-en-amazon-bedrock-para-minimizar-alucinaciones-de-ia-generativa/)
 - [Curso de EasyRestrict](https://jlferrete.com/blog/curso-de-easyrestrict/)
-- [Converting a cURL Request to an HTTP Request in Java](https://jlferrete.com/blog/converting-a-curl-request-to-an-http-request-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
