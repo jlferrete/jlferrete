@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo usar y configurar ChatGPT para cuidar al máximo tu privacidad con la inteligencia artificial](https://jlferrete.com/blog/como-usar-y-configurar-chatgpt-para-cuidar-al-maximo-tu-privacidad-con-la-inteligencia-artificial/)
 - [Qué son los Infostealers y Cómo Protegerme](https://jlferrete.com/blog/que-son-los-infostealers-y-como-protegerme/)
 - [El Manifiesto Infantil por el Futuro de la IA](https://jlferrete.com/blog/el-manifiesto-infantil-por-el-futuro-de-la-ia/)
 - [Cómo Optimizar la Velocidad de tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-optimizar-la-velocidad-de-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Ya tenemos un estudio riguroso del impacto de los aranceles de EEUU en la tecnología que compramos](https://jlferrete.com/blog/ya-tenemos-un-estudio-riguroso-del-impacto-de-los-aranceles-de-eeuu-en-la-tecnologia-que-compramos/)
-- [Prompt Engineering Techniques with Spring AI](https://jlferrete.com/blog/prompt-engineering-techniques-with-spring-ai/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
