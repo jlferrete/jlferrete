@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Las alucinaciones siguen siendo el talón de Aquiles de la IA: los últimos modelos de OpenAI inventan más de la cuenta](https://jlferrete.com/blog/las-alucinaciones-siguen-siendo-el-talon-de-aquiles-de-la-ia-los-ultimos-modelos-de-openai-inventan-mas-de-la-cuenta/)
 - [Qué es más importante si quieres pasar de Windows a Linux: ¿distro o entorno de escritorio?](https://jlferrete.com/blog/que-es-mas-importante-si-quieres-pasar-de-windows-a-linux-distro-o-entorno-de-escritorio/)
 - [Cómo usar y configurar ChatGPT para cuidar al máximo tu privacidad con la inteligencia artificial](https://jlferrete.com/blog/como-usar-y-configurar-chatgpt-para-cuidar-al-maximo-tu-privacidad-con-la-inteligencia-artificial/)
 - [Qué son los Infostealers y Cómo Protegerme](https://jlferrete.com/blog/que-son-los-infostealers-y-como-protegerme/)
 - [El Manifiesto Infantil por el Futuro de la IA](https://jlferrete.com/blog/el-manifiesto-infantil-por-el-futuro-de-la-ia/)
-- [Cómo Optimizar la Velocidad de tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-optimizar-la-velocidad-de-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
