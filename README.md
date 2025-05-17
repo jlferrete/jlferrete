@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [All About Scraping Real-Time Data from WebSockets](https://jlferrete.com/blog/all-about-scraping-real-time-data-from-websockets/)
 - [Shadow AI: cuando tus empleados van por delante (y tú no te enteras)](https://jlferrete.com/blog/shadow-ai-cuando-tus-empleados-van-por-delante-y-tu-no-te-enteras/)
 - [Privacidad en entredicho: ¿Sirve de algo bloquear las capturas en apps como Teams?](https://jlferrete.com/blog/privacidad-en-entredicho-sirve-de-algo-bloquear-las-capturas-en-apps-como-teams-2/)
 - [Java Virtual Threads: ¿Qué son y por qué son importantes?](https://jlferrete.com/blog/java-virtual-threads-que-son-y-por-que-son-importantes-2/)
 - [De los datos a los metadatos: los retos del nuevo activo esencial para las organizaciones](https://jlferrete.com/blog/de-los-datos-a-los-metadatos-los-retos-del-nuevo-activo-esencial-para-las-organizaciones/)
-- [Curso de Recraft](https://jlferrete.com/blog/curso-de-recraft/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
