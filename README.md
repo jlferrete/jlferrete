@@ -42,7 +42,7 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
-- [Google presenta AlphaEvolve: la inteligencia artificial que automatiza descubrimientos científicos y revoluciona la programación](https://jlferrete.com/blog/google-presenta-alphaevolve-la-inteligencia-artificial-que-automatiza-descubrimientos-cientificos-y-revoluciona-la-programacion/)
+- [Java Virtual Threads: ¿Qué son y por qué son importantes?](https://jlferrete.com/blog/java-virtual-threads-que-son-y-por-que-son-importantes-2/)
 - [De los datos a los metadatos: los retos del nuevo activo esencial para las organizaciones](https://jlferrete.com/blog/de-los-datos-a-los-metadatos-los-retos-del-nuevo-activo-esencial-para-las-organizaciones/)
 - [Curso de Recraft](https://jlferrete.com/blog/curso-de-recraft/)
 - [Las alucinaciones siguen siendo el talón de Aquiles de la IA: los últimos modelos de OpenAI inventan más de la cuenta](https://jlferrete.com/blog/las-alucinaciones-siguen-siendo-el-talon-de-aquiles-de-la-ia-los-ultimos-modelos-de-openai-inventan-mas-de-la-cuenta/)
