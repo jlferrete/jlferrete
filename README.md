@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Google presenta AlphaEvolve: la inteligencia artificial que automatiza descubrimientos científicos y revoluciona la programación](https://jlferrete.com/blog/google-presenta-alphaevolve-la-inteligencia-artificial-que-automatiza-descubrimientos-cientificos-y-revoluciona-la-programacion/)
 - [De los datos a los metadatos: los retos del nuevo activo esencial para las organizaciones](https://jlferrete.com/blog/de-los-datos-a-los-metadatos-los-retos-del-nuevo-activo-esencial-para-las-organizaciones/)
 - [Curso de Recraft](https://jlferrete.com/blog/curso-de-recraft/)
 - [Las alucinaciones siguen siendo el talón de Aquiles de la IA: los últimos modelos de OpenAI inventan más de la cuenta](https://jlferrete.com/blog/las-alucinaciones-siguen-siendo-el-talon-de-aquiles-de-la-ia-los-ultimos-modelos-de-openai-inventan-mas-de-la-cuenta/)
 - [Qué es más importante si quieres pasar de Windows a Linux: ¿distro o entorno de escritorio?](https://jlferrete.com/blog/que-es-mas-importante-si-quieres-pasar-de-windows-a-linux-distro-o-entorno-de-escritorio/)
-- [Cómo usar y configurar ChatGPT para cuidar al máximo tu privacidad con la inteligencia artificial](https://jlferrete.com/blog/como-usar-y-configurar-chatgpt-para-cuidar-al-maximo-tu-privacidad-con-la-inteligencia-artificial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
