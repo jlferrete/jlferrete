@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Preparando tu arquitectura para el futuro: Evaluación estratégica con enfoque de negocio](https://jlferrete.com/blog/preparando-tu-arquitectura-para-el-futuro-evaluacion-estrategica-con-enfoque-de-negocio/)
 - [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://jlferrete.com/blog/introducing-docker-mcp-catalog-and-toolkit-the-simple-and-secure-way-to-power-ai-agents-with-mcp-2/)
 - [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://jlferrete.com/blog/introducing-docker-mcp-catalog-and-toolkit-the-simple-and-secure-way-to-power-ai-agents-with-mcp/)
 - [La televisión ha muerto: LG y el último clavo en el ataúd de la privacidad](https://jlferrete.com/blog/la-television-ha-muerto-lg-y-el-ultimo-clavo-en-el-ataud-de-la-privacidad/)
 - [All About Scraping Real-Time Data from WebSockets](https://jlferrete.com/blog/all-about-scraping-real-time-data-from-websockets/)
-- [Shadow AI: cuando tus empleados van por delante (y tú no te enteras)](https://jlferrete.com/blog/shadow-ai-cuando-tus-empleados-van-por-delante-y-tu-no-te-enteras/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
