@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [](https://jlferrete.com/blog/6981/)
 - [Experto en ciberseguridad advierte: “Las VPN se están quedando obsoletas, hay que pasar al modo confianza cero”](https://jlferrete.com/blog/experto-en-ciberseguridad-advierte-las-vpn-se-estan-quedando-obsoletas-hay-que-pasar-al-modo-confianza-cero/)
 - [Cómo Integrar un Sistema de Gestión de Comercio Electrónico en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-integrar-un-sistema-de-gestion-de-comercio-electronico-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Guía de SEO para inteligencias artificiales generativas, LLMs y RAG : GEO, LLMO, AIO](https://jlferrete.com/blog/guia-de-seo-para-inteligencias-artificiales-generativas-llms-y-rag-geo-llmo-aio/)
 - [Preparando tu arquitectura para el futuro: Evaluación estratégica con enfoque de negocio](https://jlferrete.com/blog/preparando-tu-arquitectura-para-el-futuro-evaluacion-estrategica-con-enfoque-de-negocio/)
-- [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://jlferrete.com/blog/introducing-docker-mcp-catalog-and-toolkit-the-simple-and-secure-way-to-power-ai-agents-with-mcp-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
