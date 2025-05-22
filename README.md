@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo proteger tu sitio web contra el clickjacking: medidas clave para evitar ataques invisibles](https://jlferrete.com/blog/como-proteger-tu-sitio-web-contra-el-clickjacking-medidas-clave-para-evitar-ataques-invisibles-2/)
+- [La cruda realidad sobre los agentes de IA y la precisión](https://jlferrete.com/blog/la-cruda-realidad-sobre-los-agentes-de-ia-y-la-precision-4/)
+- [La cruda realidad sobre los agentes de IA y la precisión](https://jlferrete.com/blog/la-cruda-realidad-sobre-los-agentes-de-ia-y-la-precision-3/)
+- [Cómo proteger tu sitio web contra el clickjacking: medidas clave para evitar ataques invisibles](https://jlferrete.com/blog/como-proteger-tu-sitio-web-contra-el-clickjacking-medidas-clave-para-evitar-ataques-invisibles/)
 - [La cruda realidad sobre los agentes de IA y la precisión](https://jlferrete.com/blog/la-cruda-realidad-sobre-los-agentes-de-ia-y-la-precision-2/)
-- [La cruda realidad sobre los agentes de IA y la precisión](https://jlferrete.com/blog/la-cruda-realidad-sobre-los-agentes-de-ia-y-la-precision/)
-- [Si utilizas Linux debes instalar esta herramienta ahora mismo: mejor que las PowerToys de Windows](https://jlferrete.com/blog/si-utilizas-linux-debes-instalar-esta-herramienta-ahora-mismo-mejor-que-las-powertoys-de-windows/)
-- [Adiós a ChatGPT y Gemini: la alternativa europea en IA para que dejes de usar apps americanas y chinas](https://jlferrete.com/blog/adios-a-chatgpt-y-gemini-la-alternativa-europea-en-ia-para-que-dejes-de-usar-apps-americanas-y-chinas/)
-- [A Linux le va mejor que nunca en escritorio. En otras áreas ya ni siquiera tiene competencia](https://jlferrete.com/blog/a-linux-le-va-mejor-que-nunca-en-escritorio-en-otras-areas-ya-ni-siquiera-tiene-competencia/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
