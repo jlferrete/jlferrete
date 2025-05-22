@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [A Linux le va mejor que nunca en escritorio. En otras áreas ya ni siquiera tiene competencia](https://jlferrete.com/blog/a-linux-le-va-mejor-que-nunca-en-escritorio-en-otras-areas-ya-ni-siquiera-tiene-competencia/)
 - [El Impacto del Software de Código Abierto en el Crecimiento Económico](https://jlferrete.com/blog/el-impacto-del-software-de-codigo-abierto-en-el-crecimiento-economico/)
 - [Del ocultamiento a la reivindicación: la nueva narrativa de las tecnológicas chinas](https://jlferrete.com/blog/del-ocultamiento-a-la-reivindicacion-la-nueva-narrativa-de-las-tecnologicas-chinas-2/)
 - [Del ocultamiento a la reivindicación: la nueva narrativa de las tecnológicas chinas](https://jlferrete.com/blog/del-ocultamiento-a-la-reivindicacion-la-nueva-narrativa-de-las-tecnologicas-chinas/)
 - [Conversión entre sistemas numéricos con Python](https://jlferrete.com/blog/conversion-entre-sistemas-numericos-con-python-7/)
-- [Conversión entre sistemas numéricos con Python](https://jlferrete.com/blog/conversion-entre-sistemas-numericos-con-python-6/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
