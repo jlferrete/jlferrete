@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El nuevo analfabetismo no tiene que ver con saber leer o escribir: es usar la IA como oráculo en lugar de como herramienta](https://jlferrete.com/blog/el-nuevo-analfabetismo-no-tiene-que-ver-con-saber-leer-o-escribir-es-usar-la-ia-como-oraculo-en-lugar-de-como-herramienta/)
 - [Google DeepMind Veo3: Un modelo que genera vídeo sincronizado con audio a una calidad espectacular](https://jlferrete.com/blog/google-deepmind-veo3-un-modelo-que-genera-video-sincronizado-con-audio-a-una-calidad-espectacular/)
 - [Google lanza Video Overviews: NotebookLM ahora convierte tus documentos en vídeos explicativos](https://jlferrete.com/blog/google-lanza-video-overviews-notebooklm-ahora-convierte-tus-documentos-en-videos-explicativos/)
 - [Cómo automatizar un sitio multilingüe en WordPress con inteligencia artificial, WPML y Polylang](https://jlferrete.com/blog/como-automatizar-un-sitio-multilingue-en-wordpress-con-inteligencia-artificial-wpml-y-polylang/)
 - [Cómo proteger tu sitio web contra el clickjacking: medidas clave para evitar ataques invisibles](https://jlferrete.com/blog/como-proteger-tu-sitio-web-contra-el-clickjacking-medidas-clave-para-evitar-ataques-invisibles-2/)
-- [La cruda realidad sobre los agentes de IA y la precisión](https://jlferrete.com/blog/la-cruda-realidad-sobre-los-agentes-de-ia-y-la-precision-4/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
