@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de NotebookLM – Boluda.com](https://jlferrete.com/blog/curso-de-notebooklm-boluda-com-2/)
+- [Curso de NotebookLM – Boluda.com](https://jlferrete.com/blog/curso-de-notebooklm-boluda-com/)
+- [Este sistema gratuito ya sustituye a Windows en cientos de miles de ordenadores antiguos: se instala por USB y vuela](https://jlferrete.com/blog/este-sistema-gratuito-ya-sustituye-a-windows-en-cientos-de-miles-de-ordenadores-antiguos-se-instala-por-usb-y-vuela/)
 - [Windows tiene problemas: Linux tiene ya portátiles gaming que son baratos y potentes](https://jlferrete.com/blog/windows-tiene-problemas-linux-tiene-ya-portatiles-gaming-que-son-baratos-y-potentes/)
 - [El nuevo analfabetismo no tiene que ver con saber leer o escribir: es usar la IA como oráculo en lugar de como herramienta](https://jlferrete.com/blog/el-nuevo-analfabetismo-no-tiene-que-ver-con-saber-leer-o-escribir-es-usar-la-ia-como-oraculo-en-lugar-de-como-herramienta/)
-- [Google DeepMind Veo3: Un modelo que genera vídeo sincronizado con audio a una calidad espectacular](https://jlferrete.com/blog/google-deepmind-veo3-un-modelo-que-genera-video-sincronizado-con-audio-a-una-calidad-espectacular/)
-- [Google lanza Video Overviews: NotebookLM ahora convierte tus documentos en vídeos explicativos](https://jlferrete.com/blog/google-lanza-video-overviews-notebooklm-ahora-convierte-tus-documentos-en-videos-explicativos/)
-- [Cómo automatizar un sitio multilingüe en WordPress con inteligencia artificial, WPML y Polylang](https://jlferrete.com/blog/como-automatizar-un-sitio-multilingue-en-wordpress-con-inteligencia-artificial-wpml-y-polylang/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
