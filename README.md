@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo proteger el archivo functions.php y otros archivos PHP críticos en WordPress](https://jlferrete.com/blog/como-proteger-el-archivo-functions-php-y-otros-archivos-php-criticos-en-wordpress/)
 - [OpenAI acaba de demostrar que la IA ya no obedece por completo: o3 sabotea su propio apagado para seguir funcionando](https://jlferrete.com/blog/openai-acaba-de-demostrar-que-la-ia-ya-no-obedece-por-completo-o3-sabotea-su-propio-apagado-para-seguir-funcionando/)
 - [Así puedes dejar de pagar por Google Fotos: el truco para tener almacenamiento ilimitado gratis desde tu cuenta principal](https://jlferrete.com/blog/asi-puedes-dejar-de-pagar-por-google-fotos-el-truco-para-tener-almacenamiento-ilimitado-gratis-desde-tu-cuenta-principal/)
 - [El 27 de mayo Meta empieza a usar tus datos personales para entrenar su IA: así puedes evitarlo](https://jlferrete.com/blog/el-27-de-mayo-meta-empieza-a-usar-tus-datos-personales-para-entrenar-su-ia-asi-puedes-evitarlo/)
 - [Las ventanas emergentes de Windows son un incordio, hasta que desactivé estos ajustes para que no volviesen a salir](https://jlferrete.com/blog/las-ventanas-emergentes-de-windows-son-un-incordio-hasta-que-desactive-estos-ajustes-para-que-no-volviesen-a-salir/)
-- [Curso de NotebookLM – Boluda.com](https://jlferrete.com/blog/curso-de-notebooklm-boluda-com-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
