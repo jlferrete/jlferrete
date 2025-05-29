@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Converting a String to a SOAPMessage](https://jlferrete.com/blog/converting-a-string-to-a-soapmessage/)
 - [Obtén tu contenido favorito más rápido: Cómo funciona el caché por similitud](https://jlferrete.com/blog/obten-tu-contenido-favorito-mas-rapido-como-funciona-el-cache-por-similitud/)
 - [How to Extract Data from APIs for Data Pipelines using Python](https://jlferrete.com/blog/how-to-extract-data-from-apis-for-data-pipelines-using-python/)
 - [Cómo Mejorar la Seguridad de tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-mejorar-la-seguridad-de-tu-sitio-wordpress-sin-conocimientos-tecnicos-2/)
 - [Cómo proteger el archivo functions.php y otros archivos PHP críticos en WordPress](https://jlferrete.com/blog/como-proteger-el-archivo-functions-php-y-otros-archivos-php-criticos-en-wordpress/)
-- [OpenAI acaba de demostrar que la IA ya no obedece por completo: o3 sabotea su propio apagado para seguir funcionando](https://jlferrete.com/blog/openai-acaba-de-demostrar-que-la-ia-ya-no-obedece-por-completo-o3-sabotea-su-propio-apagado-para-seguir-funcionando/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
