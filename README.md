@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Geoffrey Hinton, padre de la IA, agradece tener 77 años para no vivir el futuro de la IA: “La situación es más aterradora que antes”](https://jlferrete.com/blog/geoffrey-hinton-padre-de-la-ia-agradece-tener-77-anos-para-no-vivir-el-futuro-de-la-ia-la-situacion-es-mas-aterradora-que-antes/)
 - [¿Qué es el Intelligent Document Processing?](https://jlferrete.com/blog/que-es-el-intelligent-document-processing/)
 - [Converting a String to a SOAPMessage](https://jlferrete.com/blog/converting-a-string-to-a-soapmessage/)
 - [Obtén tu contenido favorito más rápido: Cómo funciona el caché por similitud](https://jlferrete.com/blog/obten-tu-contenido-favorito-mas-rapido-como-funciona-el-cache-por-similitud/)
 - [How to Extract Data from APIs for Data Pipelines using Python](https://jlferrete.com/blog/how-to-extract-data-from-apis-for-data-pipelines-using-python/)
-- [Cómo Mejorar la Seguridad de tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-mejorar-la-seguridad-de-tu-sitio-wordpress-sin-conocimientos-tecnicos-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
