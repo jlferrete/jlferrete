@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Usar un iPad como pantalla secundaria en Windows? Y funciona mejor que muchos monitores](https://jlferrete.com/blog/usar-un-ipad-como-pantalla-secundaria-en-windows-y-funciona-mejor-que-muchos-monitores/)
 - [Java Template String y como Usarlos](https://jlferrete.com/blog/java-template-string-y-como-usarlos/)
 - [Your Enterprise AI needs Guardrails](https://jlferrete.com/blog/your-enterprise-ai-needs-guardrails/)
 - [Model Context Protocol (MCP): Qué es y cómo usarlo paso a paso con ejemplos en Python](https://jlferrete.com/blog/model-context-protocol-mcp-que-es-y-como-usarlo-paso-a-paso-con-ejemplos-en-python/)
 - [Secure Dependencies with Docker!](https://jlferrete.com/blog/secure-dependencies-with-docker/)
-- [Despliegue de Proyectos de Amazon SageMaker con Terraform Cloud](https://jlferrete.com/blog/despliegue-de-proyectos-de-amazon-sagemaker-con-terraform-cloud/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
