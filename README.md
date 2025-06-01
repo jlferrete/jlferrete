@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Model Context Protocol (MCP): Qué es y cómo usarlo paso a paso con ejemplos en Python](https://jlferrete.com/blog/model-context-protocol-mcp-que-es-y-como-usarlo-paso-a-paso-con-ejemplos-en-python/)
+- [Secure Dependencies with Docker!](https://jlferrete.com/blog/secure-dependencies-with-docker/)
 - [Despliegue de Proyectos de Amazon SageMaker con Terraform Cloud](https://jlferrete.com/blog/despliegue-de-proyectos-de-amazon-sagemaker-con-terraform-cloud/)
 - [Gemini ahora resumirá automáticamente los correos electrónicos largos](https://jlferrete.com/blog/gemini-ahora-resumira-automaticamente-los-correos-electronicos-largos-3/)
 - [Gemini ahora resumirá automáticamente los correos electrónicos largos](https://jlferrete.com/blog/gemini-ahora-resumira-automaticamente-los-correos-electronicos-largos-2/)
-- [Gemini ahora resumirá automáticamente los correos electrónicos largos](https://jlferrete.com/blog/gemini-ahora-resumira-automaticamente-los-correos-electronicos-largos/)
-- [Geoffrey Hinton, padre de la IA, agradece tener 77 años para no vivir el futuro de la IA: “La situación es más aterradora que antes”](https://jlferrete.com/blog/geoffrey-hinton-padre-de-la-ia-agradece-tener-77-anos-para-no-vivir-el-futuro-de-la-ia-la-situacion-es-mas-aterradora-que-antes/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
