@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Scrape Real-Time Data Streams from Server-Sent Events](https://jlferrete.com/blog/how-to-scrape-real-time-data-streams-from-server-sent-events/)
 - [Una startup milmillonaria, quebrada tras saberse que su ‘IA’ eran 700 ingenieros tecleando desde la India. Sabemos de tecnología pero, ¿dónde queda la ética?](https://jlferrete.com/blog/una-startup-milmillonaria-quebrada-tras-saberse-que-su-ia-eran-700-ingenieros-tecleando-desde-la-india-sabemos-de-tecnologia-pero-donde-queda-la-etica/)
 - [Desbloquear Acceso a Seguridad Optimizer](https://jlferrete.com/blog/desbloquear-acceso-a-seguridad-optimizer/)
 - [Simulaciones en Python: Simulación de una Epidemia con el Modelo SIR](https://jlferrete.com/blog/simulaciones-en-python-simulacion-de-una-epidemia-con-el-modelo-sir/)
 - [Conversión entre sistemas numéricos con Python](https://jlferrete.com/blog/conversion-entre-sistemas-numericos-con-python-8/)
-- [Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity](https://jlferrete.com/blog/fully-local-manus-ai-no-apis-no-200-monthly-bills-enjoy-an-autonomous-agent-that-thinks-browses-the-web-and-code-for-the-sole-cost-of-electricity/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
