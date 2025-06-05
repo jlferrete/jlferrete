@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El Impacto del Software de Código Abierto en el Crecimiento Económico](https://jlferrete.com/blog/el-impacto-del-software-de-codigo-abierto-en-el-crecimiento-economico-2/)
 - [¿Adiós a las llamadas spam? Este sábado entra en vigor una norma que podría ser clave para acabar con ellas](https://jlferrete.com/blog/adios-a-las-llamadas-spam-este-sabado-entra-en-vigor-una-norma-que-podria-ser-clave-para-acabar-con-ellas/)
 - [How to Scrape Real-Time Data Streams from Server-Sent Events](https://jlferrete.com/blog/how-to-scrape-real-time-data-streams-from-server-sent-events/)
 - [Una startup milmillonaria, quebrada tras saberse que su ‘IA’ eran 700 ingenieros tecleando desde la India. Sabemos de tecnología pero, ¿dónde queda la ética?](https://jlferrete.com/blog/una-startup-milmillonaria-quebrada-tras-saberse-que-su-ia-eran-700-ingenieros-tecleando-desde-la-india-sabemos-de-tecnologia-pero-donde-queda-la-etica/)
 - [Desbloquear Acceso a Seguridad Optimizer](https://jlferrete.com/blog/desbloquear-acceso-a-seguridad-optimizer/)
-- [Simulaciones en Python: Simulación de una Epidemia con el Modelo SIR](https://jlferrete.com/blog/simulaciones-en-python-simulacion-de-una-epidemia-con-el-modelo-sir/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
