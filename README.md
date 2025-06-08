@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Con ChatGPT nos estamos dando cuenta de algo preocupante: no sabemos si tu historial es tuyo, de OpenAI o del Gobierno](https://jlferrete.com/blog/con-chatgpt-nos-estamos-dando-cuenta-de-algo-preocupante-no-sabemos-si-tu-historial-es-tuyo-de-openai-o-del-gobierno/)
+- [Automatización del Procesamiento Complejo de Documentos: Cómo Onity Group Desarrolló una Solución Inteligente Usando Amazon Bedrock](https://jlferrete.com/blog/automatizacion-del-procesamiento-complejo-de-documentos-como-onity-group-desarrollo-una-solucion-inteligente-usando-amazon-bedrock/)
 - [Construcción de un Pipeline de Preprocesamiento de Datos Consciente del Dominio: Un Enfoque de Colaboración Multis agente](https://jlferrete.com/blog/construccion-de-un-pipeline-de-preprocesamiento-de-datos-consciente-del-dominio-un-enfoque-de-colaboracion-multis-agente/)
 - [HTTPBot: la botnet quirúrgica que pone en jaque a la industria del gaming con ataques DDoS de precisión](https://jlferrete.com/blog/httpbot-la-botnet-quirurgica-que-pone-en-jaque-a-la-industria-del-gaming-con-ataques-ddos-de-precision/)
 - [El Impacto del Software de Código Abierto en el Crecimiento Económico](https://jlferrete.com/blog/el-impacto-del-software-de-codigo-abierto-en-el-crecimiento-economico-2/)
-- [¿Adiós a las llamadas spam? Este sábado entra en vigor una norma que podría ser clave para acabar con ellas](https://jlferrete.com/blog/adios-a-las-llamadas-spam-este-sabado-entra-en-vigor-una-norma-que-podria-ser-clave-para-acabar-con-ellas/)
-- [How to Scrape Real-Time Data Streams from Server-Sent Events](https://jlferrete.com/blog/how-to-scrape-real-time-data-streams-from-server-sent-events/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
