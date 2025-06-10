@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Guía completa sobre shortcodes en WordPress: cómo añadir funcionalidades avanzadas sin complicarse con el código](https://jlferrete.com/blog/guia-completa-sobre-shortcodes-en-wordpress-como-anadir-funcionalidades-avanzadas-sin-complicarse-con-el-codigo/)
 - [CynGo: el Duolingo de la ciberseguridad que convierte el aprendizaje digital en una experiencia divertida y práctica](https://jlferrete.com/blog/cyngo-el-duolingo-de-la-ciberseguridad-que-convierte-el-aprendizaje-digital-en-una-experiencia-divertida-y-practica/)
 - [Con ChatGPT nos estamos dando cuenta de algo preocupante: no sabemos si tu historial es tuyo, de OpenAI o del Gobierno](https://jlferrete.com/blog/con-chatgpt-nos-estamos-dando-cuenta-de-algo-preocupante-no-sabemos-si-tu-historial-es-tuyo-de-openai-o-del-gobierno/)
 - [Automatización del Procesamiento Complejo de Documentos: Cómo Onity Group Desarrolló una Solución Inteligente Usando Amazon Bedrock](https://jlferrete.com/blog/automatizacion-del-procesamiento-complejo-de-documentos-como-onity-group-desarrollo-una-solucion-inteligente-usando-amazon-bedrock/)
 - [Construcción de un Pipeline de Preprocesamiento de Datos Consciente del Dominio: Un Enfoque de Colaboración Multis agente](https://jlferrete.com/blog/construccion-de-un-pipeline-de-preprocesamiento-de-datos-consciente-del-dominio-un-enfoque-de-colaboracion-multis-agente/)
-- [HTTPBot: la botnet quirúrgica que pone en jaque a la industria del gaming con ataques DDoS de precisión](https://jlferrete.com/blog/httpbot-la-botnet-quirurgica-que-pone-en-jaque-a-la-industria-del-gaming-con-ataques-ddos-de-precision/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
