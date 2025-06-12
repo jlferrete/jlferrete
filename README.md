@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo estoy aprendiendo a manejarme en TikTok desde cero](https://jlferrete.com/blog/como-estoy-aprendiendo-a-manejarme-en-tiktok-desde-cero-2/)
+- [Cómo estoy aprendiendo a manejarme en TikTok desde cero](https://jlferrete.com/blog/como-estoy-aprendiendo-a-manejarme-en-tiktok-desde-cero/)
 - [Ransomware: ¿Por qué es la cúspide del cibercrimen global?](https://jlferrete.com/blog/ransomware-por-que-es-la-cuspide-del-cibercrimen-global/)
 - [Cómo combatir el spam en tu sitio web sin recurrir a CAPTCHA: claves y mejores soluciones en 2025](https://jlferrete.com/blog/como-combatir-el-spam-en-tu-sitio-web-sin-recurrir-a-captcha-claves-y-mejores-soluciones-en-2025/)
 - [Cómo Crear una Estrategia de Contenidos Efectiva para tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-crear-una-estrategia-de-contenidos-efectiva-para-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Siete IAs han jugado 36 horas seguidas a Diplomacy: qué no esperábamos que cada desarrollara personalidad humana](https://jlferrete.com/blog/siete-ias-han-jugado-36-horas-seguidas-a-diplomacy-que-no-esperabamos-que-cada-desarrollara-personalidad-humana/)
-- [Hemos descubierto algo preocupante en los modelos de IA: si el problema es demasiado difícil, se rinden enseguida](https://jlferrete.com/blog/hemos-descubierto-algo-preocupante-en-los-modelos-de-ia-si-el-problema-es-demasiado-dificil-se-rinden-enseguida/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
