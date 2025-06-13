@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo evitar que los correos del hosting lleguen a la bandeja de spam (y que por fin te lean)](https://jlferrete.com/blog/como-evitar-que-los-correos-del-hosting-lleguen-a-la-bandeja-de-spam-y-que-por-fin-te-lean/)
 - [Una revolución silenciosa: esta empresa comprime la IA hasta un 95 % y la lleva a móviles y Raspberry Pi](https://jlferrete.com/blog/una-revolucion-silenciosa-esta-empresa-comprime-la-ia-hasta-un-95-y-la-lleva-a-moviles-y-raspberry-pi/)
 - [Cómo estoy aprendiendo a manejarme en TikTok desde cero](https://jlferrete.com/blog/como-estoy-aprendiendo-a-manejarme-en-tiktok-desde-cero-2/)
 - [Cómo estoy aprendiendo a manejarme en TikTok desde cero](https://jlferrete.com/blog/como-estoy-aprendiendo-a-manejarme-en-tiktok-desde-cero/)
 - [Ransomware: ¿Por qué es la cúspide del cibercrimen global?](https://jlferrete.com/blog/ransomware-por-que-es-la-cuspide-del-cibercrimen-global/)
-- [Cómo combatir el spam en tu sitio web sin recurrir a CAPTCHA: claves y mejores soluciones en 2025](https://jlferrete.com/blog/como-combatir-el-spam-en-tu-sitio-web-sin-recurrir-a-captcha-claves-y-mejores-soluciones-en-2025/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
