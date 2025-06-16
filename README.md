@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [No construyas una web… crea un movimiento: cómo usar WordPress para lanzar comunidades con propósito](https://jlferrete.com/blog/no-construyas-una-web-crea-un-movimiento-como-usar-wordpress-para-lanzar-comunidades-con-proposito/)
 - [Conectando tu WordPress a un CRM](https://jlferrete.com/blog/conectando-tu-wordpress-a-un-crm/)
 - [Seguridad en la nube: claves, amenazas y 5 estrategias efectivas para proteger los datos de tu empresa](https://jlferrete.com/blog/seguridad-en-la-nube-claves-amenazas-y-5-estrategias-efectivas-para-proteger-los-datos-de-tu-empresa/)
 - [Cómo evitar que los correos del hosting lleguen a la bandeja de spam (y que por fin te lean)](https://jlferrete.com/blog/como-evitar-que-los-correos-del-hosting-lleguen-a-la-bandeja-de-spam-y-que-por-fin-te-lean/)
 - [Una revolución silenciosa: esta empresa comprime la IA hasta un 95 % y la lleva a móviles y Raspberry Pi](https://jlferrete.com/blog/una-revolucion-silenciosa-esta-empresa-comprime-la-ia-hasta-un-95-y-la-lleva-a-moviles-y-raspberry-pi/)
-- [Cómo estoy aprendiendo a manejarme en TikTok desde cero](https://jlferrete.com/blog/como-estoy-aprendiendo-a-manejarme-en-tiktok-desde-cero-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
