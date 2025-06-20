@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Marketing y WordPress: plugins imprescindibles para mejorar tu estrategia](https://jlferrete.com/blog/marketing-y-wordpress-plugins-imprescindibles-para-mejorar-tu-estrategia/)
 - [Secretos y desafíos en la seguridad de WordPress que como usuario jamas imaginé](https://jlferrete.com/blog/secretos-y-desafios-en-la-seguridad-de-wordpress-que-como-usuario-jamas-imagine/)
 - [Y ahora… ¿dónde encuentro clientes?](https://jlferrete.com/blog/y-ahora-donde-encuentro-clientes/)
 - [Cómo hacer que tu web escuche antes de hablar](https://jlferrete.com/blog/como-hacer-que-tu-web-escuche-antes-de-hablar/)
 - [Build dynamic memory for AI agents in just](https://jlferrete.com/blog/build-dynamic-memory-for-ai-agents-in-just/)
-- [No construyas una web… crea un movimiento: cómo usar WordPress para lanzar comunidades con propósito](https://jlferrete.com/blog/no-construyas-una-web-crea-un-movimiento-como-usar-wordpress-para-lanzar-comunidades-con-proposito/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
