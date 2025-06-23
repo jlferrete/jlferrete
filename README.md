@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Google Meet ahora traduce en tiempo real: cómo funciona y qué podemos esperar](https://jlferrete.com/blog/google-meet-ahora-traduce-en-tiempo-real-como-funciona-y-que-podemos-esperar/)
 - [Una empresa de energía solar ha demandado a Google por la IA de su buscador: se inventó que eran unos estafadores](https://jlferrete.com/blog/una-empresa-de-energia-solar-ha-demandado-a-google-por-la-ia-de-su-buscador-se-invento-que-eran-unos-estafadores/)
 - [Si quieres aprender inteligencia artificial desde casa, estos 13 cursos son a los que yo me apuntaría](https://jlferrete.com/blog/si-quieres-aprender-inteligencia-artificial-desde-casa-estos-13-cursos-son-a-los-que-yo-me-apuntaria/)
 - [Google lanza SynthID Detector: la herramienta para detectar contenido generado por inteligencia artificial](https://jlferrete.com/blog/google-lanza-synthid-detector-la-herramienta-para-detectar-contenido-generado-por-inteligencia-artificial/)
 - [Marketing y WordPress: plugins imprescindibles para mejorar tu estrategia](https://jlferrete.com/blog/marketing-y-wordpress-plugins-imprescindibles-para-mejorar-tu-estrategia/)
-- [Secretos y desafíos en la seguridad de WordPress que como usuario jamas imaginé](https://jlferrete.com/blog/secretos-y-desafios-en-la-seguridad-de-wordpress-que-como-usuario-jamas-imagine/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
