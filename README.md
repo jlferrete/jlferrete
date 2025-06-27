@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo contar una buena historia de marca que provoque sed a tus clientes](https://jlferrete.com/blog/como-contar-una-buena-historia-de-marca-que-provoque-sed-a-tus-clientes/)
 - [Contenidos, autoridad y negocio. Cómo generar negocio para tu empresa compartiendo lo que sabes](https://jlferrete.com/blog/contenidos-autoridad-y-negocio-como-generar-negocio-para-tu-empresa-compartiendo-lo-que-sabes/)
 - [Auditar sitios WordPress es igual que catar un vino](https://jlferrete.com/blog/auditar-sitios-wordpress-es-igual-que-catar-un-vino/)
 - [Alguien estaba tan cansado de la lentitud de Windows 11 frente a Windows 10 que rastreó su código y encontró un detalle que lo explicaba](https://jlferrete.com/blog/alguien-estaba-tan-cansado-de-la-lentitud-de-windows-11-frente-a-windows-10-que-rastreo-su-codigo-y-encontro-un-detalle-que-lo-explicaba/)
 - [Google Meet ahora traduce en tiempo real: cómo funciona y qué podemos esperar](https://jlferrete.com/blog/google-meet-ahora-traduce-en-tiempo-real-como-funciona-y-que-podemos-esperar/)
-- [Una empresa de energía solar ha demandado a Google por la IA de su buscador: se inventó que eran unos estafadores](https://jlferrete.com/blog/una-empresa-de-energia-solar-ha-demandado-a-google-por-la-ia-de-su-buscador-se-invento-que-eran-unos-estafadores/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
