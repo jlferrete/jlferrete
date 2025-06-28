@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Hackeando la curva de aprendizaje de WordPress](https://jlferrete.com/blog/hackeando-la-curva-de-aprendizaje-de-wordpress/)
 - [Si tu router WiFi tiene puerto USB, tienes un tesoro: todo lo que puedes hacer si conectas un disco duro](https://jlferrete.com/blog/si-tu-router-wifi-tiene-puerto-usb-tienes-un-tesoro-todo-lo-que-puedes-hacer-si-conectas-un-disco-duro/)
 - [Cómo contar una buena historia de marca que provoque sed a tus clientes](https://jlferrete.com/blog/como-contar-una-buena-historia-de-marca-que-provoque-sed-a-tus-clientes/)
 - [Contenidos, autoridad y negocio. Cómo generar negocio para tu empresa compartiendo lo que sabes](https://jlferrete.com/blog/contenidos-autoridad-y-negocio-como-generar-negocio-para-tu-empresa-compartiendo-lo-que-sabes/)
 - [Auditar sitios WordPress es igual que catar un vino](https://jlferrete.com/blog/auditar-sitios-wordpress-es-igual-que-catar-un-vino/)
-- [Alguien estaba tan cansado de la lentitud de Windows 11 frente a Windows 10 que rastreó su código y encontró un detalle que lo explicaba](https://jlferrete.com/blog/alguien-estaba-tan-cansado-de-la-lentitud-de-windows-11-frente-a-windows-10-que-rastreo-su-codigo-y-encontro-un-detalle-que-lo-explicaba/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
