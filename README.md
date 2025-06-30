@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo aumentar la interacción en tu sitio con juegos que creas en segundos](https://jlferrete.com/blog/como-aumentar-la-interaccion-en-tu-sitio-con-juegos-que-creas-en-segundos/)
 - [Entrega webs sin flecos: cómo añadir el toque legal (correcto) que marca la diferencia](https://jlferrete.com/blog/entrega-webs-sin-flecos-como-anadir-el-toque-legal-correcto-que-marca-la-diferencia/)
 - [Hackeando la curva de aprendizaje de WordPress](https://jlferrete.com/blog/hackeando-la-curva-de-aprendizaje-de-wordpress/)
 - [Si tu router WiFi tiene puerto USB, tienes un tesoro: todo lo que puedes hacer si conectas un disco duro](https://jlferrete.com/blog/si-tu-router-wifi-tiene-puerto-usb-tienes-un-tesoro-todo-lo-que-puedes-hacer-si-conectas-un-disco-duro/)
 - [Cómo contar una buena historia de marca que provoque sed a tus clientes](https://jlferrete.com/blog/como-contar-una-buena-historia-de-marca-que-provoque-sed-a-tus-clientes/)
-- [Contenidos, autoridad y negocio. Cómo generar negocio para tu empresa compartiendo lo que sabes](https://jlferrete.com/blog/contenidos-autoridad-y-negocio-como-generar-negocio-para-tu-empresa-compartiendo-lo-que-sabes/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
