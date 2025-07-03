@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [SEO técnico en WordPress: auditoría, plugins y prácticas imprescindibles](https://jlferrete.com/blog/seo-tecnico-en-wordpress-auditoria-plugins-y-practicas-imprescindibles/)
+- [El método CiteMET: cómo influir en ChatGPT y Perplexity para ganar tráfico y citaciones – WordPress Directo](https://jlferrete.com/blog/el-metodo-citemet-como-influir-en-chatgpt-y-perplexity-para-ganar-trafico-y-citaciones-wordpress-directo/)
 - [Cómo Crear un Sitio Web Profesional con WordPress sin Necesidad de Código](https://jlferrete.com/blog/como-crear-un-sitio-web-profesional-con-wordpress-sin-necesidad-de-codigo/)
 - [La IA como ChatGPT es posible gracias al uso indiscriminado del contenido online. Cloudflare acaba de decir que se acabó](https://jlferrete.com/blog/la-ia-como-chatgpt-es-posible-gracias-al-uso-indiscriminado-del-contenido-online-cloudflare-acaba-de-decir-que-se-acabo/)
 - [Extraer texto a partir de una imagen en Windows 11 acaba de convertirse en algo extremadamente más sencillo: así puedes hacerlo](https://jlferrete.com/blog/extraer-texto-a-partir-de-una-imagen-en-windows-11-acaba-de-convertirse-en-algo-extremadamente-mas-sencillo-asi-puedes-hacerlo/)
-- [Sanitize HTML Code to Prevent XSS Attacks](https://jlferrete.com/blog/sanitize-html-code-to-prevent-xss-attacks/)
-- [Cómo aumentar la interacción en tu sitio con juegos que creas en segundos](https://jlferrete.com/blog/como-aumentar-la-interaccion-en-tu-sitio-con-juegos-que-creas-en-segundos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
