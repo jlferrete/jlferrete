@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [ColabAI. Agente de Colab para Python, Ciencia de datos y aprendizaje automático.](https://jlferrete.com/blog/colabai-agente-de-colab-para-python-ciencia-de-datos-y-aprendizaje-automatico/)
 - [Un ingeniero de Microsoft ha creado su propio Linux a imagen y semejanza de Windows 11. Además, es compatible con muchos más PCs](https://jlferrete.com/blog/un-ingeniero-de-microsoft-ha-creado-su-propio-linux-a-imagen-y-semejanza-de-windows-11-ademas-es-compatible-con-muchos-mas-pcs/)
 - [SEO técnico en WordPress: auditoría, plugins y prácticas imprescindibles](https://jlferrete.com/blog/seo-tecnico-en-wordpress-auditoria-plugins-y-practicas-imprescindibles/)
 - [El método CiteMET: cómo influir en ChatGPT y Perplexity para ganar tráfico y citaciones – WordPress Directo](https://jlferrete.com/blog/el-metodo-citemet-como-influir-en-chatgpt-y-perplexity-para-ganar-trafico-y-citaciones-wordpress-directo/)
 - [Cómo Crear un Sitio Web Profesional con WordPress sin Necesidad de Código](https://jlferrete.com/blog/como-crear-un-sitio-web-profesional-con-wordpress-sin-necesidad-de-codigo/)
-- [La IA como ChatGPT es posible gracias al uso indiscriminado del contenido online. Cloudflare acaba de decir que se acabó](https://jlferrete.com/blog/la-ia-como-chatgpt-es-posible-gracias-al-uso-indiscriminado-del-contenido-online-cloudflare-acaba-de-decir-que-se-acabo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
