@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo sería el archivo functions.php PERFECTO?](https://jlferrete.com/blog/como-seria-el-archivo-functions-php-perfecto/)
 - [A Guide to OpenAI Text-to-Speech (TTS) in Spring AI](https://jlferrete.com/blog/a-guide-to-openai-text-to-speech-tts-in-spring-ai/)
 - [¿Qué son los Webhooks y cómo están revolucionando la comunicación entre aplicaciones?](https://jlferrete.com/blog/que-son-los-webhooks-y-como-estan-revolucionando-la-comunicacion-entre-aplicaciones/)
 - [Seguridad en el trabajo: cómo un escritorio limpio y un uso responsable de los dispositivos protegen tu empresa](https://jlferrete.com/blog/seguridad-en-el-trabajo-como-un-escritorio-limpio-y-un-uso-responsable-de-los-dispositivos-protegen-tu-empresa/)
 - [Un informático en el lado del mal: Insane Vibe Coding with Harsh Prompting](https://jlferrete.com/blog/un-informatico-en-el-lado-del-mal-insane-vibe-coding-with-harsh-prompting/)
-- [ColabAI. Agente de Colab para Python, Ciencia de datos y aprendizaje automático.](https://jlferrete.com/blog/colabai-agente-de-colab-para-python-ciencia-de-datos-y-aprendizaje-automatico/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
