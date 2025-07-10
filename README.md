@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso intermedio de Notion](https://jlferrete.com/blog/curso-intermedio-de-notion/)
 - [Se retira la mano derecha de Tim Cook tras 27 años en Apple. Lo hace en plena crisis de IA de la compañía](https://jlferrete.com/blog/se-retira-la-mano-derecha-de-tim-cook-tras-27-anos-en-apple-lo-hace-en-plena-crisis-de-ia-de-la-compania/)
 - [datalayer/jupyter-mcp-server: 🪐 ✨ Model Context Protocol (MCP) Server for Jupyter.](https://jlferrete.com/blog/datalayer-jupyter-mcp-server-%f0%9f%aa%90-%e2%9c%a8-model-context-protocol-mcp-server-for-jupyter/)
 - [¿Cómo sería el archivo functions.php PERFECTO?](https://jlferrete.com/blog/como-seria-el-archivo-functions-php-perfecto/)
 - [A Guide to OpenAI Text-to-Speech (TTS) in Spring AI](https://jlferrete.com/blog/a-guide-to-openai-text-to-speech-tts-in-spring-ai/)
-- [¿Qué son los Webhooks y cómo están revolucionando la comunicación entre aplicaciones?](https://jlferrete.com/blog/que-son-los-webhooks-y-como-estan-revolucionando-la-comunicacion-entre-aplicaciones/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
