@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Japón establece un nuevo récord de velocidad de Internet con 1,02 petabits: suficiente para descargar todo Netflix en un segundo](https://jlferrete.com/blog/japon-establece-un-nuevo-record-de-velocidad-de-internet-con-102-petabits-suficiente-para-descargar-todo-netflix-en-un-segundo/)
 - [Cómo Aumentar el Tráfico Orgánico en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-aumentar-el-trafico-organico-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
 - [Cómo utilizar el Video Thumbnail Generator para generar miniaturas para WordPressTV](https://jlferrete.com/blog/como-utilizar-el-video-thumbnail-generator-para-generar-miniaturas-para-wordpresstv/)
 - [Ley Europea de Accesibilidad: qué es y cómo te afecta](https://jlferrete.com/blog/ley-europea-de-accesibilidad-que-es-y-como-te-afecta/)
 - [Curso intermedio de Notion](https://jlferrete.com/blog/curso-intermedio-de-notion/)
-- [Se retira la mano derecha de Tim Cook tras 27 años en Apple. Lo hace en plena crisis de IA de la compañía](https://jlferrete.com/blog/se-retira-la-mano-derecha-de-tim-cook-tras-27-anos-en-apple-lo-hace-en-plena-crisis-de-ia-de-la-compania/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
