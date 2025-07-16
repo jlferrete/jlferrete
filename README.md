@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo bloquear Scrapy y otros bots de scraping en OpenLiteSpeed, Apache y Nginx (aceptando Googlebot real)](https://jlferrete.com/blog/como-bloquear-scrapy-y-otros-bots-de-scraping-en-openlitespeed-apache-y-nginx-aceptando-googlebot-real/)
 - [5 factores clave para crear tu propio NAS y hacerlo correctamente](https://jlferrete.com/blog/5-factores-clave-para-crear-tu-propio-nas-y-hacerlo-correctamente/)
 - [Ojalá alguien me hubiese dicho, antes de mudar de Windows a Mac, todo lo que tenía que hacer para no perder ni un archivo](https://jlferrete.com/blog/ojala-alguien-me-hubiese-dicho-antes-de-mudar-de-windows-a-mac-todo-lo-que-tenia-que-hacer-para-no-perder-ni-un-archivo/)
 - [Japón establece un nuevo récord de velocidad de Internet con 1,02 petabits: suficiente para descargar todo Netflix en un segundo](https://jlferrete.com/blog/japon-establece-un-nuevo-record-de-velocidad-de-internet-con-102-petabits-suficiente-para-descargar-todo-netflix-en-un-segundo/)
 - [Cómo Aumentar el Tráfico Orgánico en tu Sitio WordPress sin Conocimientos Técnicos](https://jlferrete.com/blog/como-aumentar-el-trafico-organico-en-tu-sitio-wordpress-sin-conocimientos-tecnicos/)
-- [Cómo utilizar el Video Thumbnail Generator para generar miniaturas para WordPressTV](https://jlferrete.com/blog/como-utilizar-el-video-thumbnail-generator-para-generar-miniaturas-para-wordpresstv/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
