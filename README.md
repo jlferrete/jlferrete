@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo Crear un Sitio de Membresía en WordPress – DreamHost](https://jlferrete.com/blog/como-crear-un-sitio-de-membresia-en-wordpress-dreamhost-2/)
 - [Cómo Crear un Sitio de Membresía en WordPress – DreamHost](https://jlferrete.com/blog/como-crear-un-sitio-de-membresia-en-wordpress-dreamhost/)
 - [Para qué sirve conectar un disco duro externo al puerto USB del router: no lo hubieras imaginado](https://jlferrete.com/blog/para-que-sirve-conectar-un-disco-duro-externo-al-puerto-usb-del-router-no-lo-hubieras-imaginado/)
 - [Cómo bloquear Scrapy y otros bots de scraping en OpenLiteSpeed, Apache y Nginx (aceptando Googlebot real)](https://jlferrete.com/blog/como-bloquear-scrapy-y-otros-bots-de-scraping-en-openlitespeed-apache-y-nginx-aceptando-googlebot-real/)
 - [5 factores clave para crear tu propio NAS y hacerlo correctamente](https://jlferrete.com/blog/5-factores-clave-para-crear-tu-propio-nas-y-hacerlo-correctamente/)
-- [Ojalá alguien me hubiese dicho, antes de mudar de Windows a Mac, todo lo que tenía que hacer para no perder ni un archivo](https://jlferrete.com/blog/ojala-alguien-me-hubiese-dicho-antes-de-mudar-de-windows-a-mac-todo-lo-que-tenia-que-hacer-para-no-perder-ni-un-archivo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
