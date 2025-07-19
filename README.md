@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Cómo clonar página web WordPress fácilmente paso a paso ?](https://jlferrete.com/blog/como-clonar-pagina-web-wordpress-facilmente-paso-a-paso/)
 - [Cómo Crear un Sitio de Membresía en WordPress – DreamHost](https://jlferrete.com/blog/como-crear-un-sitio-de-membresia-en-wordpress-dreamhost-2/)
 - [Cómo Crear un Sitio de Membresía en WordPress – DreamHost](https://jlferrete.com/blog/como-crear-un-sitio-de-membresia-en-wordpress-dreamhost/)
 - [Para qué sirve conectar un disco duro externo al puerto USB del router: no lo hubieras imaginado](https://jlferrete.com/blog/para-que-sirve-conectar-un-disco-duro-externo-al-puerto-usb-del-router-no-lo-hubieras-imaginado/)
 - [Cómo bloquear Scrapy y otros bots de scraping en OpenLiteSpeed, Apache y Nginx (aceptando Googlebot real)](https://jlferrete.com/blog/como-bloquear-scrapy-y-otros-bots-de-scraping-en-openlitespeed-apache-y-nginx-aceptando-googlebot-real/)
-- [5 factores clave para crear tu propio NAS y hacerlo correctamente](https://jlferrete.com/blog/5-factores-clave-para-crear-tu-propio-nas-y-hacerlo-correctamente/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
