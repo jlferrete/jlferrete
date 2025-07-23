@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Web Scraping in a CI/CD Pipeline: How to Automate Continuous Data Extraction Efficiently](https://jlferrete.com/blog/web-scraping-in-a-ci-cd-pipeline-how-to-automate-continuous-data-extraction-efficiently/)
 - [Snowflake Warehouses: Guía rápida para entenderlos](https://jlferrete.com/blog/snowflake-warehouses-guia-rapida-para-entenderlos/)
 - [Cómo empezar a usar agentes de IA: guía para principiantes](https://jlferrete.com/blog/como-empezar-a-usar-agentes-de-ia-guia-para-principiantes/)
 - [Qué es RSAT, cómo se instala en Windows 11 y para qué sirve](https://jlferrete.com/blog/que-es-rsat-como-se-instala-en-windows-11-y-para-que-sirve/)
 - [5 factores clave para crear tu propio NAS y hacerlo correctamente](https://jlferrete.com/blog/5-factores-clave-para-crear-tu-propio-nas-y-hacerlo-correctamente-2/)
-- [¿Cómo clonar página web WordPress fácilmente paso a paso ?](https://jlferrete.com/blog/como-clonar-pagina-web-wordpress-facilmente-paso-a-paso/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
