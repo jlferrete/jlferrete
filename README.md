@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Después de usar Comet una semana, siento que a Chrome se le ha puesto cara de Internet Explorer](https://jlferrete.com/blog/despues-de-usar-comet-una-semana-siento-que-a-chrome-se-le-ha-puesto-cara-de-internet-explorer/)
 - [¿Cómo comprar un dominio?](https://jlferrete.com/blog/como-comprar-un-dominio/)
 - [SEO técnico en WordPress: auditoría, plugins y prácticas imprescindibles](https://jlferrete.com/blog/seo-tecnico-en-wordpress-auditoria-plugins-y-practicas-imprescindibles-2/)
 - [Cómo puedes aprovechar una Raspberry Pi este verano](https://jlferrete.com/blog/como-puedes-aprovechar-una-raspberry-pi-este-verano/)
 - [Cómo es posible que una IA chantajee a su supervisor humano | Tecnología | EL PAÍS](https://jlferrete.com/blog/como-es-posible-que-una-ia-chantajee-a-su-supervisor-humano-tecnologia-el-pais/)
-- [Web Scraping in a CI/CD Pipeline: How to Automate Continuous Data Extraction Efficiently](https://jlferrete.com/blog/web-scraping-in-a-ci-cd-pipeline-how-to-automate-continuous-data-extraction-efficiently/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
