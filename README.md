@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Le dieron las riendas de un negocio a una inteligencia artificial: le faltó tiempo para arruinarlo](https://jlferrete.com/blog/le-dieron-las-riendas-de-un-negocio-a-una-inteligencia-artificial-le-falto-tiempo-para-arruinarlo/)
 - [Cómo minimizar todo el HTML, CSS y JavaScript de la web sin plugins](https://jlferrete.com/blog/como-minimizar-todo-el-html-css-y-javascript-de-la-web-sin-plugins/)
 - [Después de usar Comet una semana, siento que a Chrome se le ha puesto cara de Internet Explorer](https://jlferrete.com/blog/despues-de-usar-comet-una-semana-siento-que-a-chrome-se-le-ha-puesto-cara-de-internet-explorer/)
 - [¿Cómo comprar un dominio?](https://jlferrete.com/blog/como-comprar-un-dominio/)
 - [SEO técnico en WordPress: auditoría, plugins y prácticas imprescindibles](https://jlferrete.com/blog/seo-tecnico-en-wordpress-auditoria-plugins-y-practicas-imprescindibles-2/)
-- [Cómo puedes aprovechar una Raspberry Pi este verano](https://jlferrete.com/blog/como-puedes-aprovechar-una-raspberry-pi-este-verano/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
