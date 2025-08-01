@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Using Sequences in the H2 Database](https://jlferrete.com/blog/using-sequences-in-the-h2-database/)
 - [Implementing the Core Services of Spring Authorization Server with Redis](https://jlferrete.com/blog/implementing-the-core-services-of-spring-authorization-server-with-redis/)
 - [Optimización del Rendimiento y la Calidad de Salida de los Modelos de Lenguaje Grande](https://jlferrete.com/blog/optimizacion-del-rendimiento-y-la-calidad-de-salida-de-los-modelos-de-lenguaje-grande/)
 - [¿Más peligrosa que la bomba nuclear? Mira Murati, la mujer que creó ChatGPT, se ha puesto el reto de salvarnos de la IA: “Será la última y más importante tecnología que construyamos”](https://jlferrete.com/blog/mas-peligrosa-que-la-bomba-nuclear-mira-murati-la-mujer-que-creo-chatgpt-se-ha-puesto-el-reto-de-salvarnos-de-la-ia-sera-la-ultima-y-mas-importante-tecnologia-que-construyamos/)
 - [URL Hallucination: Las “Hallucinations” de los buscadores de GenAI que te pueden llevar a sitios de Phishing](https://jlferrete.com/blog/url-hallucination-las-hallucinations-de-los-buscadores-de-genai-que-te-pueden-llevar-a-sitios-de-phishing/)
-- [Guía de protección de funciones críticas (wp-config, functions.php) frente a ataques](https://jlferrete.com/blog/guia-de-proteccion-de-funciones-criticas-wp-config-functions-php-frente-a-ataques/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
