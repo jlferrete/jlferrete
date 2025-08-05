@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [OpenAI acaba de patear el tablero de la IA. Su nuevo modelo es gratuito y se puede descargar para usarlo desde el portátil](https://jlferrete.com/blog/openai-acaba-de-patear-el-tablero-de-la-ia-su-nuevo-modelo-es-gratuito-y-se-puede-descargar-para-usarlo-desde-el-portatil/)
 - [GenAI vs. Agentic AI: What Developers Need to Know](https://jlferrete.com/blog/genai-vs-agentic-ai-what-developers-need-to-know/)
 - [Clase magistral de Prompt Engineering de Google: Desbloquea el poder de la IA con prompts inteligentes – Planeta Chatbot](https://jlferrete.com/blog/clase-magistral-de-prompt-engineering-de-google-desbloquea-el-poder-de-la-ia-con-prompts-inteligentes-planeta-chatbot/)
 - [MCP Security Issues Threatening AI Infrastructure](https://jlferrete.com/blog/mcp-security-issues-threatening-ai-infrastructure/)
 - [Los programadores ya no pueden vivir sin la IA. Pero saben que no se pueden fiar al 100% de ella](https://jlferrete.com/blog/los-programadores-ya-no-pueden-vivir-sin-la-ia-pero-saben-que-no-se-pueden-fiar-al-100-de-ella/)
-- [¿Por qué se rompen los enlaces de la web y todos dan error 404 tras actualizar plugins o WooCommerce?](https://jlferrete.com/blog/por-que-se-rompen-los-enlaces-de-la-web-y-todos-dan-error-404-tras-actualizar-plugins-o-woocommerce/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
