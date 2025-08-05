@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Clase magistral de Prompt Engineering de Google: Desbloquea el poder de la IA con prompts inteligentes – Planeta Chatbot](https://jlferrete.com/blog/clase-magistral-de-prompt-engineering-de-google-desbloquea-el-poder-de-la-ia-con-prompts-inteligentes-planeta-chatbot/)
 - [MCP Security Issues Threatening AI Infrastructure](https://jlferrete.com/blog/mcp-security-issues-threatening-ai-infrastructure/)
 - [Los programadores ya no pueden vivir sin la IA. Pero saben que no se pueden fiar al 100% de ella](https://jlferrete.com/blog/los-programadores-ya-no-pueden-vivir-sin-la-ia-pero-saben-que-no-se-pueden-fiar-al-100-de-ella/)
 - [¿Por qué se rompen los enlaces de la web y todos dan error 404 tras actualizar plugins o WooCommerce?](https://jlferrete.com/blog/por-que-se-rompen-los-enlaces-de-la-web-y-todos-dan-error-404-tras-actualizar-plugins-o-woocommerce/)
 - [China pone el mundo patas arriba: su empresa que rivaliza con Amazon acaba de comprar MediaMarkt](https://jlferrete.com/blog/china-pone-el-mundo-patas-arriba-su-empresa-que-rivaliza-con-amazon-acaba-de-comprar-mediamarkt/)
-- [Tim Cook ha admitido que Apple está “muy abierta” a adquisiciones en IA. Estas son nuestras candidatas](https://jlferrete.com/blog/tim-cook-ha-admitido-que-apple-esta-muy-abierta-a-adquisiciones-en-ia-estas-son-nuestras-candidatas-3/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
