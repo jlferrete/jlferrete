@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [GPT-5 es perfecto para un perfil muy concreto: quien paga por ChatGPT sin saber usarlo a fondo](https://jlferrete.com/blog/gpt-5-es-perfecto-para-un-perfil-muy-concreto-quien-paga-por-chatgpt-sin-saber-usarlo-a-fondo/)
 - [MITRE ATLAS: El framework para auditar la seguridad de un sistema de Inteligencia Artificial](https://jlferrete.com/blog/mitre-atlas-el-framework-para-auditar-la-seguridad-de-un-sistema-de-inteligencia-artificial/)
 - [Ahora sí: Crear aplicaciones avanzadas con Gemini, Firebase Studio y un solo prompt de texto.](https://jlferrete.com/blog/ahora-si-crear-aplicaciones-avanzadas-con-gemini-firebase-studio-y-un-solo-prompt-de-texto/)
 - [OpenAI acaba de patear el tablero de la IA. Su nuevo modelo es gratuito y se puede descargar para usarlo desde el portátil](https://jlferrete.com/blog/openai-acaba-de-patear-el-tablero-de-la-ia-su-nuevo-modelo-es-gratuito-y-se-puede-descargar-para-usarlo-desde-el-portatil/)
 - [GenAI vs. Agentic AI: What Developers Need to Know](https://jlferrete.com/blog/genai-vs-agentic-ai-what-developers-need-to-know/)
-- [Clase magistral de Prompt Engineering de Google: Desbloquea el poder de la IA con prompts inteligentes – Planeta Chatbot](https://jlferrete.com/blog/clase-magistral-de-prompt-engineering-de-google-desbloquea-el-poder-de-la-ia-con-prompts-inteligentes-planeta-chatbot/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
