@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo migrar a Joomla 5 paso a paso desde Joomla 3 o 4](https://jlferrete.com/blog/como-migrar-a-joomla-5-paso-a-paso-desde-joomla-3-o-4/)
 - [Cómo desinstalar WordPress por completo](https://jlferrete.com/blog/como-desinstalar-wordpress-por-completo/)
 - [Cómo Transformar tu Sitio WordPress en un Hub de Interacción sin Conocimientos Técnicos](https://jlferrete.com/blog/como-transformar-tu-sitio-wordpress-en-un-hub-de-interaccion-sin-conocimientos-tecnicos/)
 - [GPT-5 es perfecto para un perfil muy concreto: quien paga por ChatGPT sin saber usarlo a fondo](https://jlferrete.com/blog/gpt-5-es-perfecto-para-un-perfil-muy-concreto-quien-paga-por-chatgpt-sin-saber-usarlo-a-fondo/)
 - [MITRE ATLAS: El framework para auditar la seguridad de un sistema de Inteligencia Artificial](https://jlferrete.com/blog/mitre-atlas-el-framework-para-auditar-la-seguridad-de-un-sistema-de-inteligencia-artificial/)
-- [Ahora sí: Crear aplicaciones avanzadas con Gemini, Firebase Studio y un solo prompt de texto.](https://jlferrete.com/blog/ahora-si-crear-aplicaciones-avanzadas-con-gemini-firebase-studio-y-un-solo-prompt-de-texto/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
