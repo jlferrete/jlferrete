@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [MCP Horror Stories: The Supply Chain Attack | Docker](https://jlferrete.com/blog/mcp-horror-stories-the-supply-chain-attack-docker/)
+- [Guardrails para agentes de IA – Planeta Chatbot](https://jlferrete.com/blog/guardrails-para-agentes-de-ia-planeta-chatbot/)
 - [¿Qué es la latencia web y por qué es importante?](https://jlferrete.com/blog/que-es-la-latencia-web-y-por-que-es-importante/)
 - [Los 10 errores más comunes al integrar IA en WordPress (y cómo evitarlos)](https://jlferrete.com/blog/los-10-errores-mas-comunes-al-integrar-ia-en-wordpress-y-como-evitarlos/)
 - [Instagram Reel](https://jlferrete.com/blog/instagram-reel/)
-- [Salud Potenciada por IA: Una Charla con Archie Mayani [Video]](https://jlferrete.com/blog/salud-potenciada-por-ia-una-charla-con-archie-mayani-video/)
-- [Microsoft se ha asegurado su futuro con una estrategia IA muy sencilla: copiar lo que hizo Amazon con la web](https://jlferrete.com/blog/microsoft-se-ha-asegurado-su-futuro-con-una-estrategia-ia-muy-sencilla-copiar-lo-que-hizo-amazon-con-la-web/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
