@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Prepare for CSS-Specific Interview Questions](https://jlferrete.com/blog/how-to-prepare-for-css-specific-interview-questions/)
 - [MCP Horror Stories: The Supply Chain Attack | Docker](https://jlferrete.com/blog/mcp-horror-stories-the-supply-chain-attack-docker/)
 - [Guardrails para agentes de IA – Planeta Chatbot](https://jlferrete.com/blog/guardrails-para-agentes-de-ia-planeta-chatbot/)
 - [¿Qué es la latencia web y por qué es importante?](https://jlferrete.com/blog/que-es-la-latencia-web-y-por-que-es-importante/)
 - [Los 10 errores más comunes al integrar IA en WordPress (y cómo evitarlos)](https://jlferrete.com/blog/los-10-errores-mas-comunes-al-integrar-ia-en-wordpress-y-como-evitarlos/)
-- [Instagram Reel](https://jlferrete.com/blog/instagram-reel/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
