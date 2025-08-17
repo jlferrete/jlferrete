@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El Papel Fundamental de la Observabilidad en la IA](https://jlferrete.com/blog/el-papel-fundamental-de-la-observabilidad-en-la-ia/)
 - [Laravel MCP Server v1.4.0: Auto-Generate API Tools from Swagger Specs](https://jlferrete.com/blog/laravel-mcp-server-v1-4-0-auto-generate-api-tools-from-swagger-specs/)
 - [campfirein/cipher: Cipher is an opensource memory layer specifically designed for coding agents](https://jlferrete.com/blog/campfirein-cipher-cipher-is-an-opensource-memory-layer-specifically-designed-for-coding-agents/)
 - [How to Prepare for CSS-Specific Interview Questions](https://jlferrete.com/blog/how-to-prepare-for-css-specific-interview-questions/)
 - [MCP Horror Stories: The Supply Chain Attack | Docker](https://jlferrete.com/blog/mcp-horror-stories-the-supply-chain-attack-docker/)
-- [Guardrails para agentes de IA – Planeta Chatbot](https://jlferrete.com/blog/guardrails-para-agentes-de-ia-planeta-chatbot/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
