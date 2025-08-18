@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Curso de Hotjar – Boluda.com](https://jlferrete.com/blog/curso-de-hotjar-boluda-com/)
 - [Automatiza tareas con herramientas no-code y agentes de IA generativa: tutorial con Zapier y Google Sheets](https://jlferrete.com/blog/automatiza-tareas-con-herramientas-no-code-y-agentes-de-ia-generativa-tutorial-con-zapier-y-google-sheets/)
 - [El Papel Fundamental de la Observabilidad en la IA](https://jlferrete.com/blog/el-papel-fundamental-de-la-observabilidad-en-la-ia/)
 - [Laravel MCP Server v1.4.0: Auto-Generate API Tools from Swagger Specs](https://jlferrete.com/blog/laravel-mcp-server-v1-4-0-auto-generate-api-tools-from-swagger-specs/)
 - [campfirein/cipher: Cipher is an opensource memory layer specifically designed for coding agents](https://jlferrete.com/blog/campfirein-cipher-cipher-is-an-opensource-memory-layer-specifically-designed-for-coding-agents/)
-- [How to Prepare for CSS-Specific Interview Questions](https://jlferrete.com/blog/how-to-prepare-for-css-specific-interview-questions/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
