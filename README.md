@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ceder tus fotos a la IA: los peligros invisibles y desconocidos](https://jlferrete.com/blog/ceder-tus-fotos-a-la-ia-los-peligros-invisibles-y-desconocidos/)
 - [Transformando la detección de fraude en seguros con Data & Analytics](https://jlferrete.com/blog/transformando-la-deteccion-de-fraude-en-seguros-con-data-analytics/)
 - [Curso de GeneratePress](https://jlferrete.com/blog/curso-de-generatepress/)
 - [Curso de YouTube automatizado con IA](https://jlferrete.com/blog/curso-de-youtube-automatizado-con-ia/)
 - [Curso de Hotjar – Boluda.com](https://jlferrete.com/blog/curso-de-hotjar-boluda-com/)
-- [Automatiza tareas con herramientas no-code y agentes de IA generativa: tutorial con Zapier y Google Sheets](https://jlferrete.com/blog/automatiza-tareas-con-herramientas-no-code-y-agentes-de-ia-generativa-tutorial-con-zapier-y-google-sheets/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
