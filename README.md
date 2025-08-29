@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Java Decompiler un concepto importante](https://jlferrete.com/blog/java-decompiler-un-concepto-importante/)
+- [Gemini CLI para GitHub Actions y el Futuro del Desarrollo.](https://jlferrete.com/blog/gemini-cli-para-github-actions-y-el-futuro-del-desarrollo/)
+- [Making a Masonry Layout That Works Today | CSS-Tricks](https://jlferrete.com/blog/making-a-masonry-layout-that-works-today-css-tricks/)
 - [Ceder tus fotos a la IA: los peligros invisibles y desconocidos](https://jlferrete.com/blog/ceder-tus-fotos-a-la-ia-los-peligros-invisibles-y-desconocidos/)
 - [Transformando la detección de fraude en seguros con Data & Analytics](https://jlferrete.com/blog/transformando-la-deteccion-de-fraude-en-seguros-con-data-analytics/)
-- [Curso de GeneratePress](https://jlferrete.com/blog/curso-de-generatepress/)
-- [Curso de YouTube automatizado con IA](https://jlferrete.com/blog/curso-de-youtube-automatizado-con-ia/)
-- [Curso de Hotjar – Boluda.com](https://jlferrete.com/blog/curso-de-hotjar-boluda-com/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
