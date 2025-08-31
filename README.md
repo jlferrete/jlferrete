@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Me he hecho un mapa de cobertura WiFi de mi casa en cinco minutos y me he dado cuenta de por qué no llegaba bien Internet al salón](https://jlferrete.com/blog/me-he-hecho-un-mapa-de-cobertura-wifi-de-mi-casa-en-cinco-minutos-y-me-he-dado-cuenta-de-por-que-no-llegaba-bien-internet-al-salon/)
 - [Automatización de Flujos de Trabajo Empresariales Integrando Salesforce Agentforce con Amazon Bedrock Agents](https://jlferrete.com/blog/automatizacion-de-flujos-de-trabajo-empresariales-integrando-salesforce-agentforce-con-amazon-bedrock-agents/)
 - [Bypassing Anti-Scraping Measures: How to Avoid Honeypot Traps](https://jlferrete.com/blog/bypassing-anti-scraping-measures-how-to-avoid-honeypot-traps/)
 - [Java Decompiler un concepto importante](https://jlferrete.com/blog/java-decompiler-un-concepto-importante/)
 - [Gemini CLI para GitHub Actions y el Futuro del Desarrollo.](https://jlferrete.com/blog/gemini-cli-para-github-actions-y-el-futuro-del-desarrollo/)
-- [Making a Masonry Layout That Works Today | CSS-Tricks](https://jlferrete.com/blog/making-a-masonry-layout-that-works-today-css-tricks/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
