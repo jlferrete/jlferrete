@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo crear con IA personajes que hablan (Guía paso a paso)](https://jlferrete.com/blog/como-crear-con-ia-personajes-que-hablan-guia-paso-a-paso/)
 - [Function Pointers Equivalent in Java](https://jlferrete.com/blog/function-pointers-equivalent-in-java/)
 - [Cómo crear un generador de blogs de búsqueda en la web profunda basado en IA con mcp-use: una guía completa – Planeta Chatbot](https://jlferrete.com/blog/como-crear-un-generador-de-blogs-de-busqueda-en-la-web-profunda-basado-en-ia-con-mcp-use-una-guia-completa-planeta-chatbot/)
 - [Skyflow introduce una capa de seguridad inteligente para proteger datos en integraciones de IA con MCP](https://jlferrete.com/blog/skyflow-introduce-una-capa-de-seguridad-inteligente-para-proteger-datos-en-integraciones-de-ia-con-mcp/)
 - [¿Te Está Espiando Tu Teléfono?](https://jlferrete.com/blog/te-esta-espiando-tu-telefono/)
-- [Me he hecho un mapa de cobertura WiFi de mi casa en cinco minutos y me he dado cuenta de por qué no llegaba bien Internet al salón](https://jlferrete.com/blog/me-he-hecho-un-mapa-de-cobertura-wifi-de-mi-casa-en-cinco-minutos-y-me-he-dado-cuenta-de-por-que-no-llegaba-bien-internet-al-salon/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
