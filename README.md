@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo bloquear los bots de spam en WordPress con Fail2Ban](https://jlferrete.com/blog/como-bloquear-los-bots-de-spam-en-wordpress-con-fail2ban/)
 - [Cómo crear con IA personajes que hablan (Guía paso a paso)](https://jlferrete.com/blog/como-crear-con-ia-personajes-que-hablan-guia-paso-a-paso/)
 - [Function Pointers Equivalent in Java](https://jlferrete.com/blog/function-pointers-equivalent-in-java/)
 - [Cómo crear un generador de blogs de búsqueda en la web profunda basado en IA con mcp-use: una guía completa – Planeta Chatbot](https://jlferrete.com/blog/como-crear-un-generador-de-blogs-de-busqueda-en-la-web-profunda-basado-en-ia-con-mcp-use-una-guia-completa-planeta-chatbot/)
 - [Skyflow introduce una capa de seguridad inteligente para proteger datos en integraciones de IA con MCP](https://jlferrete.com/blog/skyflow-introduce-una-capa-de-seguridad-inteligente-para-proteger-datos-en-integraciones-de-ia-con-mcp/)
-- [¿Te Está Espiando Tu Teléfono?](https://jlferrete.com/blog/te-esta-espiando-tu-telefono/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
