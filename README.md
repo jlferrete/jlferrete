@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [What You Need to Know About CSS Color Interpolation](https://jlferrete.com/blog/what-you-need-to-know-about-css-color-interpolation/)
 - [Curso de GenerateBlocks](https://jlferrete.com/blog/curso-de-generateblocks/)
 - [Cómo Impulsar tu Sitio WordPress con Estrategias de Contenido Innovadoras sin Ser un Experto](https://jlferrete.com/blog/como-impulsar-tu-sitio-wordpress-con-estrategias-de-contenido-innovadoras-sin-ser-un-experto/)
 - [Cómo bloquear los bots de spam en WordPress con Fail2Ban](https://jlferrete.com/blog/como-bloquear-los-bots-de-spam-en-wordpress-con-fail2ban/)
 - [Cómo crear con IA personajes que hablan (Guía paso a paso)](https://jlferrete.com/blog/como-crear-con-ia-personajes-que-hablan-guia-paso-a-paso/)
-- [Function Pointers Equivalent in Java](https://jlferrete.com/blog/function-pointers-equivalent-in-java/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
