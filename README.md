@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [España refuerza su apuesta por los datos abiertos: la nueva plataforma datos.gob.es promete más accesibilidad, usabilidad y valor añadido](https://jlferrete.com/blog/espana-refuerza-su-apuesta-por-los-datos-abiertos-la-nueva-plataforma-datos-gob-es-promete-mas-accesibilidad-usabilidad-y-valor-anadido/)
 - [Execute mTLS Calls Using Java](https://jlferrete.com/blog/execute-mtls-calls-using-java/)
 - [Composition in CSS](https://jlferrete.com/blog/composition-in-css/)
 - [What You Need to Know About CSS Color Interpolation](https://jlferrete.com/blog/what-you-need-to-know-about-css-color-interpolation/)
 - [Curso de GenerateBlocks](https://jlferrete.com/blog/curso-de-generateblocks/)
-- [Cómo Impulsar tu Sitio WordPress con Estrategias de Contenido Innovadoras sin Ser un Experto](https://jlferrete.com/blog/como-impulsar-tu-sitio-wordpress-con-estrategias-de-contenido-innovadoras-sin-ser-un-experto/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
