@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [How to Get JSON Response With Selenium](https://jlferrete.com/blog/how-to-get-json-response-with-selenium/)
 - [Run Code Before All Tests in All Classes in JUnit 5](https://jlferrete.com/blog/run-code-before-all-tests-in-all-classes-in-junit-5/)
 - [Construcción y Escalado de la Adopción de Agentes de IA en la Educación con Strands Agents, Amazon Bedrock AgentCore y LibreChat](https://jlferrete.com/blog/construccion-y-escalado-de-la-adopcion-de-agentes-de-ia-en-la-educacion-con-strands-agents-amazon-bedrock-agentcore-y-librechat/)
 - [Introduction to jVector](https://jlferrete.com/blog/introduction-to-jvector/)
 - [Streaming Multipart Data Sequentially in Spring](https://jlferrete.com/blog/streaming-multipart-data-sequentially-in-spring/)
-- [España refuerza su apuesta por los datos abiertos: la nueva plataforma datos.gob.es promete más accesibilidad, usabilidad y valor añadido](https://jlferrete.com/blog/espana-refuerza-su-apuesta-por-los-datos-abiertos-la-nueva-plataforma-datos-gob-es-promete-mas-accesibilidad-usabilidad-y-valor-anadido/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
