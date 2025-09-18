@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [MCP Security: A Developer’s Guide](https://jlferrete.com/blog/mcp-security-a-developers-guide-3/)
 - [MCP Security: A Developer’s Guide](https://jlferrete.com/blog/mcp-security-a-developers-guide-2/)
 - [MCP Security: A Developer’s Guide](https://jlferrete.com/blog/mcp-security-a-developers-guide/)
 - [Cómo Optimizar tu Blog WordPress para Atraer Más Visitantes sin Ser un Experto](https://jlferrete.com/blog/como-optimizar-tu-blog-wordpress-para-atraer-mas-visitantes-sin-ser-un-experto-2/)
 - [Cómo Optimizar tu Blog WordPress para Atraer Más Visitantes sin Ser un Experto](https://jlferrete.com/blog/como-optimizar-tu-blog-wordpress-para-atraer-mas-visitantes-sin-ser-un-experto/)
-- [Guía práctica de unidades CSS y ejemplos sencillos de cómo utilizarlas en WordPress](https://jlferrete.com/blog/guia-practica-de-unidades-css-y-ejemplos-sencillos-de-como-utilizarlas-en-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
