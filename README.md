@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Representados pero no representativos – Carlos J. Gil Bellosta](https://jlferrete.com/blog/representados-pero-no-representativos-carlos-j-gil-bellosta/)
 - [Tagging Patterns for Micrometer Metrics](https://jlferrete.com/blog/tagging-patterns-for-micrometer-metrics/)
 - [2909. Whimsical](https://jlferrete.com/blog/2909-whimsical/)
 - [WebAssembly 3.0: El Runtime Universal](https://jlferrete.com/blog/webassembly-3-0-el-runtime-universal/)
 - [Autolinks Manager para WordPress: cómo automatizar enlaces internos, afiliados y glosarios sin romper tu HTML](https://jlferrete.com/blog/autolinks-manager-para-wordpress-como-automatizar-enlaces-internos-afiliados-y-glosarios-sin-romper-tu-html-2/)
-- [Autolinks Manager para WordPress: cómo automatizar enlaces internos, afiliados y glosarios sin romper tu HTML](https://jlferrete.com/blog/autolinks-manager-para-wordpress-como-automatizar-enlaces-internos-afiliados-y-glosarios-sin-romper-tu-html/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
