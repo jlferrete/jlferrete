@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Migrar de Mumbler – Boluda.com](https://jlferrete.com/blog/migrar-de-mumbler-boluda-com/)
+- [Migrar de Mumbler](https://jlferrete.com/blog/migrar-de-mumbler/)
 - [Lo de Starlink en los aviones es una barbaridad: así fue nuestra prueba real](https://jlferrete.com/blog/lo-de-starlink-en-los-aviones-es-una-barbaridad-asi-fue-nuestra-prueba-real/)
 - [Estas estafas se han vuelto tan complejas que son casi imposibles de detectar, y van a por los empleados de las empresas](https://jlferrete.com/blog/estas-estafas-se-han-vuelto-tan-complejas-que-son-casi-imposibles-de-detectar-y-van-a-por-los-empleados-de-las-empresas/)
 - [He descubierto los bloqueadores USB y ya no puedo parar: qué uso les doy y cómo diferencio los baratos que sí valen la pena](https://jlferrete.com/blog/he-descubierto-los-bloqueadores-usb-y-ya-no-puedo-parar-que-uso-les-doy-y-como-diferencio-los-baratos-que-si-valen-la-pena/)
-- [Representados pero no representativos – Carlos J. Gil Bellosta](https://jlferrete.com/blog/representados-pero-no-representativos-carlos-j-gil-bellosta/)
-- [Tagging Patterns for Micrometer Metrics](https://jlferrete.com/blog/tagging-patterns-for-micrometer-metrics/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
