@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Revisiting Medallion Architecture](https://jlferrete.com/blog/revisiting-medallion-architecture/)
 - [Curso de n8n](https://jlferrete.com/blog/curso-de-n8n/)
 - [Migrar de Mumbler – Boluda.com](https://jlferrete.com/blog/migrar-de-mumbler-boluda-com/)
 - [Migrar de Mumbler](https://jlferrete.com/blog/migrar-de-mumbler/)
 - [Lo de Starlink en los aviones es una barbaridad: así fue nuestra prueba real](https://jlferrete.com/blog/lo-de-starlink-en-los-aviones-es-una-barbaridad-asi-fue-nuestra-prueba-real/)
-- [Estas estafas se han vuelto tan complejas que son casi imposibles de detectar, y van a por los empleados de las empresas](https://jlferrete.com/blog/estas-estafas-se-han-vuelto-tan-complejas-que-son-casi-imposibles-de-detectar-y-van-a-por-los-empleados-de-las-empresas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
