@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Por qué elegí un VPS en lugar de un hosting compartido (y por qué podría ser la mejor inversión para ti también)](https://jlferrete.com/blog/por-que-elegi-un-vps-en-lugar-de-un-hosting-compartido-y-por-que-podria-ser-la-mejor-inversion-para-ti-tambien/)
 - [MCP (Model Context Protocol) aplicado a WordPress y ¡por qué debes ponerte las pilas YA MISMO con ello!](https://jlferrete.com/blog/mcp-model-context-protocol-aplicado-a-wordpress-y-por-que-debes-ponerte-las-pilas-ya-mismo-con-ello/)
 - [What’re Your Top 4 CSS Properties?](https://jlferrete.com/blog/whatre-your-top-4-css-properties/)
 - [Compiling Multiple CSS Files into One](https://jlferrete.com/blog/compiling-multiple-css-files-into-one/)
 - [Qué es la normalización de bases de datos y cómo aplicarla](https://jlferrete.com/blog/que-es-la-normalizacion-de-bases-de-datos-y-como-aplicarla-2/)
-- [Qué es la normalización de bases de datos y cómo aplicarla](https://jlferrete.com/blog/que-es-la-normalizacion-de-bases-de-datos-y-como-aplicarla/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
