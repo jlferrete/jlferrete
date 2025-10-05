@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo las PYMEs Pueden Combatir el Ransomware](https://jlferrete.com/blog/como-las-pymes-pueden-combatir-el-ransomware/)
 - [Cómo Potenciar tu Sitio WordPress con Estrategias de Contenido Dinámico sin Ser un Experto](https://jlferrete.com/blog/como-potenciar-tu-sitio-wordpress-con-estrategias-de-contenido-dinamico-sin-ser-un-experto/)
 - [Abstract Method With Variable List of Arguments in Java](https://jlferrete.com/blog/abstract-method-with-variable-list-of-arguments-in-java/)
 - [Gradle JUnit Generate HTML Report](https://jlferrete.com/blog/gradle-junit-generate-html-report/)
 - [Build Stateful Custom Bean Validation with Spring Boot](https://jlferrete.com/blog/build-stateful-custom-bean-validation-with-spring-boot/)
-- [Por qué elegí un VPS en lugar de un hosting compartido (y por qué podría ser la mejor inversión para ti también)](https://jlferrete.com/blog/por-que-elegi-un-vps-en-lugar-de-un-hosting-compartido-y-por-que-podria-ser-la-mejor-inversion-para-ti-tambien/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
