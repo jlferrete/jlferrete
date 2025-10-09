@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [OpenAI lanza un ‘kit de herramientas’ para crear tus propios agentes de IA – Infobae](https://jlferrete.com/blog/openai-lanza-un-kit-de-herramientas-para-crear-tus-propios-agentes-de-ia-infobae/)
 - [Diseño de un módulo de gestión de solicitudes y quejas con un sistema de chat dual – Planeta Chatbot](https://jlferrete.com/blog/diseno-de-un-modulo-de-gestion-de-solicitudes-y-quejas-con-un-sistema-de-chat-dual-planeta-chatbot/)
 - [Check if Two Integers Have the Same Sign](https://jlferrete.com/blog/check-if-two-integers-have-the-same-sign/)
 - [Cómo recuperar una copia de seguridad de OneDrive en tu ordenador](https://jlferrete.com/blog/como-recuperar-una-copia-de-seguridad-de-onedrive-en-tu-ordenador/)
 - [Cómo las PYMEs Pueden Combatir el Ransomware](https://jlferrete.com/blog/como-las-pymes-pueden-combatir-el-ransomware/)
-- [Cómo Potenciar tu Sitio WordPress con Estrategias de Contenido Dinámico sin Ser un Experto](https://jlferrete.com/blog/como-potenciar-tu-sitio-wordpress-con-estrategias-de-contenido-dinamico-sin-ser-un-experto/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
