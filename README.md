@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo forzar que Gemini cree imágenes de proporciones y tamaños que tú quieras en vez de hacerlas siempre cuadradas](https://jlferrete.com/blog/como-forzar-que-gemini-cree-imagenes-de-proporciones-y-tamanos-que-tu-quieras-en-vez-de-hacerlas-siempre-cuadradas/)
 - [Una de las apps más descargadas para iPhone paga por grabar llamadas para entrenar modelos de IA. Es un desastre de seguridad](https://jlferrete.com/blog/una-de-las-apps-mas-descargadas-para-iphone-paga-por-grabar-llamadas-para-entrenar-modelos-de-ia-es-un-desastre-de-seguridad/)
 - [El peligro de usar chatbots de IA para todo es real: el MIT ha descubierto la “deuda cognitiva”](https://jlferrete.com/blog/el-peligro-de-usar-chatbots-de-ia-para-todo-es-real-el-mit-ha-descubierto-la-deuda-cognitiva/)
 - [OpenAI lanza un ‘kit de herramientas’ para crear tus propios agentes de IA – Infobae](https://jlferrete.com/blog/openai-lanza-un-kit-de-herramientas-para-crear-tus-propios-agentes-de-ia-infobae/)
 - [Diseño de un módulo de gestión de solicitudes y quejas con un sistema de chat dual – Planeta Chatbot](https://jlferrete.com/blog/diseno-de-un-modulo-de-gestion-de-solicitudes-y-quejas-con-un-sistema-de-chat-dual-planeta-chatbot/)
-- [Check if Two Integers Have the Same Sign](https://jlferrete.com/blog/check-if-two-integers-have-the-same-sign/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
