@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [CF Football Bypass: el plugin que protege a los sitios españoles de los bloqueos masivos de IP durante el fútbol](https://jlferrete.com/blog/cf-football-bypass-el-plugin-que-protege-a-los-sitios-espanoles-de-los-bloqueos-masivos-de-ip-durante-el-futbol/)
 - [Streaming Response in Spring AI ChatClient](https://jlferrete.com/blog/streaming-response-in-spring-ai-chatclient/)
 - [How to Disable IPV6 in Java?](https://jlferrete.com/blog/how-to-disable-ipv6-in-java/)
 - [Creación de Asistentes de Ingeniería de Confiabilidad con Múltiples Agentes en Amazon Bedrock AgentCore](https://jlferrete.com/blog/creacion-de-asistentes-de-ingenieria-de-confiabilidad-con-multiples-agentes-en-amazon-bedrock-agentcore/)
 - [Cómo forzar que Gemini cree imágenes de proporciones y tamaños que tú quieras en vez de hacerlas siempre cuadradas](https://jlferrete.com/blog/como-forzar-que-gemini-cree-imagenes-de-proporciones-y-tamanos-que-tu-quieras-en-vez-de-hacerlas-siempre-cuadradas/)
-- [Una de las apps más descargadas para iPhone paga por grabar llamadas para entrenar modelos de IA. Es un desastre de seguridad](https://jlferrete.com/blog/una-de-las-apps-mas-descargadas-para-iphone-paga-por-grabar-llamadas-para-entrenar-modelos-de-ia-es-un-desastre-de-seguridad/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
