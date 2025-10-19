@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [20 de octubre: Día Internacional Contra el Scraping de IA](https://jlferrete.com/blog/20-de-octubre-dia-internacional-contra-el-scraping-de-ia/)
 - [La clase Objects en Java y cómo simplifica nuestro código](https://jlferrete.com/blog/la-clase-objects-en-java-y-como-simplifica-nuestro-codigo/)
 - [Curso de Flowise](https://jlferrete.com/blog/curso-de-flowise/)
 - [Different Ways to Get Servlet Context](https://jlferrete.com/blog/different-ways-to-get-servlet-context/)
 - [LinkedIn activará por defecto el uso de tus datos para IA: claves de riesgo, cumplimiento y defensa para equipos de seguridad](https://jlferrete.com/blog/linkedin-activara-por-defecto-el-uso-de-tus-datos-para-ia-claves-de-riesgo-cumplimiento-y-defensa-para-equipos-de-seguridad/)
-- [Cómo Transformar tu Sitio WordPress en un Centro de Engagement con Estrategias de Contenido sin Ser un Experto](https://jlferrete.com/blog/como-transformar-tu-sitio-wordpress-en-un-centro-de-engagement-con-estrategias-de-contenido-sin-ser-un-experto/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
