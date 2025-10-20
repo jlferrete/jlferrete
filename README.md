@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [fastMCP: Crear servidores MCP y depurar herramientas de IA en Python.](https://jlferrete.com/blog/fastmcp-crear-servidores-mcp-y-depurar-herramientas-de-ia-en-python/)
 - [20 de octubre: Día Internacional Contra el Scraping de IA](https://jlferrete.com/blog/20-de-octubre-dia-internacional-contra-el-scraping-de-ia/)
 - [La clase Objects en Java y cómo simplifica nuestro código](https://jlferrete.com/blog/la-clase-objects-en-java-y-como-simplifica-nuestro-codigo/)
 - [Curso de Flowise](https://jlferrete.com/blog/curso-de-flowise/)
 - [Different Ways to Get Servlet Context](https://jlferrete.com/blog/different-ways-to-get-servlet-context/)
-- [LinkedIn activará por defecto el uso de tus datos para IA: claves de riesgo, cumplimiento y defensa para equipos de seguridad](https://jlferrete.com/blog/linkedin-activara-por-defecto-el-uso-de-tus-datos-para-ia-claves-de-riesgo-cumplimiento-y-defensa-para-equipos-de-seguridad/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
