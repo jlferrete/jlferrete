@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Creando un Asesor de Inversiones Inmobiliarias Inteligente: La Experiencia de PropHero con Amazon Bedrock – Redes Sociales](https://jlferrete.com/blog/creando-un-asesor-de-inversiones-inmobiliarias-inteligente-la-experiencia-de-prophero-con-amazon-bedrock-redes-sociales/)
 - [fastMCP: Crear servidores MCP y depurar herramientas de IA en Python.](https://jlferrete.com/blog/fastmcp-crear-servidores-mcp-y-depurar-herramientas-de-ia-en-python/)
 - [20 de octubre: Día Internacional Contra el Scraping de IA](https://jlferrete.com/blog/20-de-octubre-dia-internacional-contra-el-scraping-de-ia/)
 - [La clase Objects en Java y cómo simplifica nuestro código](https://jlferrete.com/blog/la-clase-objects-en-java-y-como-simplifica-nuestro-codigo/)
 - [Curso de Flowise](https://jlferrete.com/blog/curso-de-flowise/)
-- [Different Ways to Get Servlet Context](https://jlferrete.com/blog/different-ways-to-get-servlet-context/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
