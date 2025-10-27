@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [JFR Event to Detect Invocations of Deprecated Methods in Java](https://jlferrete.com/blog/jfr-event-to-detect-invocations-of-deprecated-methods-in-java/)
 - [Configuring Multiple LLMs in Spring AI](https://jlferrete.com/blog/configuring-multiple-llms-in-spring-ai/)
 - [¿Qué ocurriría si un ciberataque golpea en mitad de una emergencia como la DANA o los incendios? – OpenSecurity](https://jlferrete.com/blog/que-ocurriria-si-un-ciberataque-golpea-en-mitad-de-una-emergencia-como-la-dana-o-los-incendios-opensecurity/)
 - [5 hábitos digitales para esquivar el smishing este otoño – OpenSecurity](https://jlferrete.com/blog/5-habitos-digitales-para-esquivar-el-smishing-este-otono-opensecurity/)
 - [12 Risks of Outsourcing Web Scraping You Must Know](https://jlferrete.com/blog/12-risks-of-outsourcing-web-scraping-you-must-know/)
-- [La IA que usamos se construye sobre algo más que algoritmos: el trauma de miles de trabajadores mal pagados en países en desarrollo](https://jlferrete.com/blog/la-ia-que-usamos-se-construye-sobre-algo-mas-que-algoritmos-el-trauma-de-miles-de-trabajadores-mal-pagados-en-paises-en-desarrollo/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
