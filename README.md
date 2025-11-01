@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Ya podemos recuperar un prompt a partir de la respuesta de una IA. Es una noticia poco alentadora](https://jlferrete.com/blog/ya-podemos-recuperar-un-prompt-a-partir-de-la-respuesta-de-una-ia-es-una-noticia-poco-alentadora/)
 - [How to add MCP Servers to OpenAI’s Codex with Docker MCP Toolkit](https://jlferrete.com/blog/how-to-add-mcp-servers-to-openais-codex-with-docker-mcp-toolkit/)
 - [Preventing Jackson From Fetching Lazy Entity Fields](https://jlferrete.com/blog/preventing-jackson-from-fetching-lazy-entity-fields/)
 - [Java Split String Performance](https://jlferrete.com/blog/java-split-string-performance/)
 - [JFR Event to Detect Invocations of Deprecated Methods in Java](https://jlferrete.com/blog/jfr-event-to-detect-invocations-of-deprecated-methods-in-java/)
-- [Configuring Multiple LLMs in Spring AI](https://jlferrete.com/blog/configuring-multiple-llms-in-spring-ai/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
