@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Más Allá de las Vibras: Cómo Elegir el LLM Adecuado para Cada Tarea](https://jlferrete.com/blog/mas-alla-de-las-vibras-como-elegir-el-llm-adecuado-para-cada-tarea-2/)
 - [Más Allá de las Vibras: Cómo Elegir el LLM Adecuado para Cada Tarea](https://jlferrete.com/blog/mas-alla-de-las-vibras-como-elegir-el-llm-adecuado-para-cada-tarea/)
 - [Ya podemos recuperar un prompt a partir de la respuesta de una IA. Es una noticia poco alentadora](https://jlferrete.com/blog/ya-podemos-recuperar-un-prompt-a-partir-de-la-respuesta-de-una-ia-es-una-noticia-poco-alentadora/)
 - [How to add MCP Servers to OpenAI’s Codex with Docker MCP Toolkit](https://jlferrete.com/blog/how-to-add-mcp-servers-to-openais-codex-with-docker-mcp-toolkit/)
 - [Preventing Jackson From Fetching Lazy Entity Fields](https://jlferrete.com/blog/preventing-jackson-from-fetching-lazy-entity-fields/)
-- [Java Split String Performance](https://jlferrete.com/blog/java-split-string-performance/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
