@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo saber qué operador de internet llega a tu casa con esta web del Gobierno de España](https://jlferrete.com/blog/como-saber-que-operador-de-internet-llega-a-tu-casa-con-esta-web-del-gobierno-de-espana/)
 - [Algoritmos en Python: Recorriendo Grafos mediante Búsqueda en Profundidad](https://jlferrete.com/blog/algoritmos-en-python-recorriendo-grafos-mediante-busqueda-en-profundidad/)
 - [Overriding a Method in an Instantiated Java Object](https://jlferrete.com/blog/overriding-a-method-in-an-instantiated-java-object/)
 - [Más Allá de las Vibras: Cómo Elegir el LLM Adecuado para Cada Tarea](https://jlferrete.com/blog/mas-alla-de-las-vibras-como-elegir-el-llm-adecuado-para-cada-tarea-2/)
 - [Más Allá de las Vibras: Cómo Elegir el LLM Adecuado para Cada Tarea](https://jlferrete.com/blog/mas-alla-de-las-vibras-como-elegir-el-llm-adecuado-para-cada-tarea/)
-- [Ya podemos recuperar un prompt a partir de la respuesta de una IA. Es una noticia poco alentadora](https://jlferrete.com/blog/ya-podemos-recuperar-un-prompt-a-partir-de-la-respuesta-de-una-ia-es-una-noticia-poco-alentadora/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
