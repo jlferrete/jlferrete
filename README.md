@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo repartir propinas en un restaurante con reglas claras y resultados justos – Codigo Geek](https://jlferrete.com/blog/como-repartir-propinas-en-un-restaurante-con-reglas-claras-y-resultados-justos-codigo-geek/)
 - [Gemini CLI y el fin del viejo paradigma del conocimiento](https://jlferrete.com/blog/gemini-cli-y-el-fin-del-viejo-paradigma-del-conocimiento/)
 - [Stop Shadow IT: Shared Responsibility for DevSecOps | Docker](https://jlferrete.com/blog/stop-shadow-it-shared-responsibility-for-devsecops-docker/)
 - [Curso de activos para inversores](https://jlferrete.com/blog/curso-de-activos-para-inversores/)
 - [Cómo saber qué operador de internet llega a tu casa con esta web del Gobierno de España](https://jlferrete.com/blog/como-saber-que-operador-de-internet-llega-a-tu-casa-con-esta-web-del-gobierno-de-espana/)
-- [Algoritmos en Python: Recorriendo Grafos mediante Búsqueda en Profundidad](https://jlferrete.com/blog/algoritmos-en-python-recorriendo-grafos-mediante-busqueda-en-profundidad/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
