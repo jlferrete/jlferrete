@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Avoid Bot Detection With Selenium in Spring Boot](https://jlferrete.com/blog/avoid-bot-detection-with-selenium-in-spring-boot/)
 - [Google Search Scraping Step-By-Step: A Code and No-Code Guide](https://jlferrete.com/blog/google-search-scraping-step-by-step-a-code-and-no-code-guide/)
 - [React Native 0.82 – A New Era](https://jlferrete.com/blog/react-native-0-82-a-new-era/)
 - [Gemini CLI como Maestro: Aprendiendo a Crear una Extensión de Chrome.](https://jlferrete.com/blog/gemini-cli-como-maestro-aprendiendo-a-crear-una-extension-de-chrome/)
 - [Complex Problem Solving (CPS): Herramientas y mentalidad práctica para resolver problemas](https://jlferrete.com/blog/complex-problem-solving-cps-herramientas-y-mentalidad-practica-para-resolver-problemas/)
-- [Git Notes y Metadatos](https://jlferrete.com/blog/git-notes-y-metadatos/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
