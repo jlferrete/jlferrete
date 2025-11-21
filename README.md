@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [El coste real de la inteligencia artificial: cómo los tokens están redefiniendo la economía digital.](https://jlferrete.com/blog/el-coste-real-de-la-inteligencia-artificial-como-los-tokens-estan-redefiniendo-la-economia-digital/)
 - [GEO: el nuevo caos del SEO y cómo las marcas pueden evitar perderse en el panorama de la inteligencia artificial](https://jlferrete.com/blog/geo-el-nuevo-caos-del-seo-y-como-las-marcas-pueden-evitar-perderse-en-el-panorama-de-la-inteligencia-artificial/)
 - [Avoid Bot Detection With Selenium in Spring Boot](https://jlferrete.com/blog/avoid-bot-detection-with-selenium-in-spring-boot-2/)
 - [Google Search Scraping Step-By-Step: A Code and No-Code Guide](https://jlferrete.com/blog/google-search-scraping-step-by-step-a-code-and-no-code-guide-2/)
 - [Curso de Firebase – Boluda.com](https://jlferrete.com/blog/curso-de-firebase-boluda-com/)
-- [Avoid Bot Detection With Selenium in Spring Boot](https://jlferrete.com/blog/avoid-bot-detection-with-selenium-in-spring-boot/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
