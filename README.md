@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Resolving JSONException: JSONObject text must begin with ‘{‘ in Java](https://jlferrete.com/blog/resolving-jsonexception-jsonobject-text-must-begin-with-in-java/)
 - [Cuando tu frigorífico empieza a intentar venderte cosas](https://jlferrete.com/blog/cuando-tu-frigorifico-empieza-a-intentar-venderte-cosas/)
 - [8 Clear Signs Your Business Needs a Web Scraping Service](https://jlferrete.com/blog/8-clear-signs-your-business-needs-a-web-scraping-service/)
 - [Explaining the Accessible Benefits of Using Semantic HTML Elements](https://jlferrete.com/blog/explaining-the-accessible-benefits-of-using-semantic-html-elements/)
 - [El coste real de la inteligencia artificial: cómo los tokens están redefiniendo la economía digital.](https://jlferrete.com/blog/el-coste-real-de-la-inteligencia-artificial-como-los-tokens-estan-redefiniendo-la-economia-digital/)
-- [GEO: el nuevo caos del SEO y cómo las marcas pueden evitar perderse en el panorama de la inteligencia artificial](https://jlferrete.com/blog/geo-el-nuevo-caos-del-seo-y-como-las-marcas-pueden-evitar-perderse-en-el-panorama-de-la-inteligencia-artificial/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
