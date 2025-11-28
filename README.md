@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo Catapultar tu Sitio WordPress con Contenido Visual Atractivo sin Ser un Diseñador](https://jlferrete.com/blog/como-catapultar-tu-sitio-wordpress-con-contenido-visual-atractivo-sin-ser-un-disenador/)
 - [¿Cómo planificar tu estrategia de marketing digital para el próximo año?](https://jlferrete.com/blog/como-planificar-tu-estrategia-de-marketing-digital-para-el-proximo-ano/)
 - [A Deep Dive into JVM Start-up](https://jlferrete.com/blog/a-deep-dive-into-jvm-start-up/)
 - [Resolving JSONException: JSONObject text must begin with ‘{‘ in Java](https://jlferrete.com/blog/resolving-jsonexception-jsonobject-text-must-begin-with-in-java/)
 - [Cuando tu frigorífico empieza a intentar venderte cosas](https://jlferrete.com/blog/cuando-tu-frigorifico-empieza-a-intentar-venderte-cosas/)
-- [8 Clear Signs Your Business Needs a Web Scraping Service](https://jlferrete.com/blog/8-clear-signs-your-business-needs-a-web-scraping-service/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
