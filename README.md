@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo presentar diseños web al cliente para conseguir un feedback útil y constructivo](https://jlferrete.com/blog/como-presentar-disenos-web-al-cliente-para-conseguir-un-feedback-util-y-constructivo/)
 - [Guide to Maven Toolchains](https://jlferrete.com/blog/guide-to-maven-toolchains/)
 - [Cinco Consejos para Hacerlo Correctamente – Redes Sociales](https://jlferrete.com/blog/cinco-consejos-para-hacerlo-correctamente-redes-sociales/)
 - [La Importancia Creciente de los Parches de Software](https://jlferrete.com/blog/la-importancia-creciente-de-los-parches-de-software/)
 - [You Want Microservices, But Do You Really Need Them?](https://jlferrete.com/blog/you-want-microservices-but-do-you-really-need-them/)
-- [Cómo Catapultar tu Sitio WordPress con Contenido Visual Atractivo sin Ser un Diseñador](https://jlferrete.com/blog/como-catapultar-tu-sitio-wordpress-con-contenido-visual-atractivo-sin-ser-un-disenador/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
