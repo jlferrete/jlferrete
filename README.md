@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Tool to Analyze Offline Java Heap Dumps](https://jlferrete.com/blog/tool-to-analyze-offline-java-heap-dumps/)
 - [SFTP With JSch](https://jlferrete.com/blog/sftp-with-jsch/)
 - [Computing the Padovan Sequnce in Java](https://jlferrete.com/blog/computing-the-padovan-sequnce-in-java-2/)
 - [Computing the Padovan Sequnce in Java](https://jlferrete.com/blog/computing-the-padovan-sequnce-in-java/)
 - [Cómo presentar diseños web al cliente para conseguir un feedback útil y constructivo](https://jlferrete.com/blog/como-presentar-disenos-web-al-cliente-para-conseguir-un-feedback-util-y-constructivo/)
-- [Guide to Maven Toolchains](https://jlferrete.com/blog/guide-to-maven-toolchains/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
