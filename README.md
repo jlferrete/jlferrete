@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Optimiza Tu Infraestructura MCP: Centraliza Servidores con AgentCore Gateway](https://jlferrete.com/blog/optimiza-tu-infraestructura-mcp-centraliza-servidores-con-agentcore-gateway/)
 - [Cómo los Chatbots Pueden Facilitar la Difusión de Estafas](https://jlferrete.com/blog/como-los-chatbots-pueden-facilitar-la-difusion-de-estafas/)
 - [Efficiently Check for a Sum of Two Squares in Java](https://jlferrete.com/blog/efficiently-check-for-a-sum-of-two-squares-in-java/)
 - [Tool to Analyze Offline Java Heap Dumps](https://jlferrete.com/blog/tool-to-analyze-offline-java-heap-dumps/)
 - [SFTP With JSch](https://jlferrete.com/blog/sftp-with-jsch/)
-- [Computing the Padovan Sequnce in Java](https://jlferrete.com/blog/computing-the-padovan-sequnce-in-java-2/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
