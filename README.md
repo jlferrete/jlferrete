@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Handling Exceptions in Kafka Streams](https://jlferrete.com/blog/handling-exceptions-in-kafka-streams/)
 - [Measuring ROI in Web Scraping Services: A Step-by-Step Approach](https://jlferrete.com/blog/measuring-roi-in-web-scraping-services-a-step-by-step-approach/)
 - [Guía gratuita de ingeniería de prompts para programadores](https://jlferrete.com/blog/guia-gratuita-de-ingenieria-de-prompts-para-programadores/)
 - [Cómo integrar software de recursos humanos y software de reclutamiento para atraer y retener talento](https://jlferrete.com/blog/como-integrar-software-de-recursos-humanos-y-software-de-reclutamiento-para-atraer-y-retener-talento/)
 - [Optimiza Tu Infraestructura MCP: Centraliza Servidores con AgentCore Gateway](https://jlferrete.com/blog/optimiza-tu-infraestructura-mcp-centraliza-servidores-con-agentcore-gateway/)
-- [Cómo los Chatbots Pueden Facilitar la Difusión de Estafas](https://jlferrete.com/blog/como-los-chatbots-pueden-facilitar-la-difusion-de-estafas/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
