@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [¿Pueden los Gestores de Contraseñas Ser Hackeados? Esto Es Lo Que Debes Saber](https://jlferrete.com/blog/pueden-los-gestores-de-contrasenas-ser-hackeados-esto-es-lo-que-debes-saber/)
 - [Google Colab llega a Visual Studio Code.](https://jlferrete.com/blog/google-colab-llega-a-visual-studio-code/)
 - [Mejores plugins de tablas de precios para WordPress](https://jlferrete.com/blog/mejores-plugins-de-tablas-de-precios-para-wordpress/)
 - [Handling Exceptions in Kafka Streams](https://jlferrete.com/blog/handling-exceptions-in-kafka-streams/)
 - [Measuring ROI in Web Scraping Services: A Step-by-Step Approach](https://jlferrete.com/blog/measuring-roi-in-web-scraping-services-a-step-by-step-approach/)
-- [Guía gratuita de ingeniería de prompts para programadores](https://jlferrete.com/blog/guia-gratuita-de-ingenieria-de-prompts-para-programadores/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
