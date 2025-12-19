@@ -42,11 +42,11 @@ Please do not hesitate to contact me if you require any futher information at th
 ![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
 
 -Latest articles: 
+- [Cómo montar tu propia CDN para WordPress usando Varnish o Nginx (y no depender solo de terceros)](https://jlferrete.com/blog/como-montar-tu-propia-cdn-para-wordpress-usando-varnish-o-nginx-y-no-depender-solo-de-terceros/)
 - [Cuando puedes clonarte a ti mismo: la ética y el absurdo del gemelo digital](https://jlferrete.com/blog/cuando-puedes-clonarte-a-ti-mismo-la-etica-y-el-absurdo-del-gemelo-digital/)
 - [How to Fix the gradlew: command not found Error in Linux](https://jlferrete.com/blog/how-to-fix-the-gradlew-command-not-found-error-in-linux/)
 - [¿Pueden los Gestores de Contraseñas Ser Hackeados? Esto Es Lo Que Debes Saber](https://jlferrete.com/blog/pueden-los-gestores-de-contrasenas-ser-hackeados-esto-es-lo-que-debes-saber/)
 - [Google Colab llega a Visual Studio Code.](https://jlferrete.com/blog/google-colab-llega-a-visual-studio-code/)
-- [Mejores plugins de tablas de precios para WordPress](https://jlferrete.com/blog/mejores-plugins-de-tablas-de-precios-para-wordpress/)
 
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="made" height="28px" />
