@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
   
   schedule:
-    # Ejecutar 1 vez al día a las 15:00 UTC (16:00/17:00 hora España según estación)
-    - cron: "0 15 * * *"
+    # Ejecutar 1 vez al día a las 15:00 UTC (15:00/16:00 hora España según estación)
+    - cron: "0 14 * * *"
     
 jobs:
   build:
