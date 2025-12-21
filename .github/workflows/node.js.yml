@@ -1,25 +1,32 @@
 name: Update README.md
-
 on:
   workflow_dispatch:
   
   schedule:
-    - cron: "0 */1 * * *"
-
+    # Ejecutar 1 vez al día a las 15:00 UTC (16:00/17:00 hora España según estación)
+    - cron: "0 15 * * *"
+    
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
     steps:
     - uses: actions/checkout@v4
+    
     - uses: actions/setup-node@v4
       with:
         node-version: '20.x'
-    - run: npm install
+        cache: 'npm'  # Cachea node_modules para instalación más rápida
+    
+    - run: npm ci  # Usa 'ci' en lugar de 'install' - es más rápido y determinista
+    
     - run: npm run update-readme
-    - run: |
+    
+    # Solo hacer commit si hay cambios
+    - name: Commit and push if changed
+      run: |
         git config user.name jlferrete
         git config user.email joseluisferrete@gmail.com
         git add README.md
-        git commit -m "[bot] Update README with latest info"
-        git push origin master
+        git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+        git push origin master || true
